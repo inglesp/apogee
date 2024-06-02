@@ -1,0 +1,34 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Predictions for the General Election: {{ name }}{% endblock %}
+
+{% block content %}
+<h1 class="my-3">{{ name }}</h1>
+
+<p>Last updated: 2 June 2024.</p>
+
+<p><a href="../..">Back to constituency list</a></p>
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th>Party</th>
+            <th class="text-center">Britain Predicts</th>
+            <th class="text-center">Electoral Calculus</th>
+            <th class="text-center">Economist</th>
+            <th class="text-center">FT</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for row in rows %}
+    <tr>
+        <td class="party-{{ row.party }}">{{ row.party }}</td>
+        <td class="text-center">{{ row.britainpredicts }}%</td>
+        <td class="text-center">{{ row.electoralcalculus }}%</td>
+        <td class="text-center">{{ row.economist }}%</td>
+        <td class="text-center">{{ row.ft }}%</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

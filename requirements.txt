@@ -22,8 +22,12 @@ idna==3.7
     # via
     #   anyio
     #   httpx
+jinja2==3.1.4
+    # via -r requirements.in
 lxml==5.2.2
     # via -r requirements.in
+markupsafe==2.1.5
+    # via jinja2
 playwright==1.44.0
     # via -r requirements.in
 pyee==11.1.0

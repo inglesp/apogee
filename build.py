@@ -28,10 +28,11 @@ def main():
         {
             "code": code,
             "name": code_to_name[code],
-            "disagreement": len(set(v.values())) > 1,
+            "disagreement": int(len(set(v.values())) > 1),
         }
         | v
         for code, v in predictions.items()
+        if code != "E14001170"  # Chorley, the speaker's constituency
     ]
     predictions.sort(key=lambda row: row["name"])
 
@@ -49,6 +50,7 @@ def main():
         | {source: v[source].get(party, 0) for source in sources}
         for code, v in details.items()
         for party in parties
+        if code != "E14001170"  # Chorley, the speaker's constituency
     ]
     details = [r for r in details if all(r[source] > 0 for source in sources)]
     details.sort(key=lambda row: (row["name"], row["party"]))

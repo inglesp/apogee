@@ -1,0 +1,77 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Predictions for the General Election{% endblock %}
+
+{% block extracss %}
+<style>
+table th:nth-child(n+3),
+table td:nth-child(n+3) {
+    width: 12%;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<h1 class="my-3">Aggregating Predictions for the General Election</h1>
+
+<p>This site aggregates constituency-level predictions for the 2024 Britigh general election.</p>
+
+<p>Data is taken from:<p>
+<ul>
+	<li><a href="https://sotn.newstatesman.com/2024/05/britainpredicts">Britain Predicts</a></li>
+	<li><a href="https://www.electoralcalculus.co.uk/dynamicmap.html">Electoral Calculus</a></li>
+	<li><a href="https://www.economist.com/interactive/uk-general-election/forecast">The Economist</a></li>
+	<li><a href="https://ig.ft.com/uk-general-election/2024/projection/">The FT</a></li>
+</ul>
+
+<p>Source code <a href="https://github.com/inglesp/apogee">on GitHub</a>.</p>
+
+<p>Thrown together by <a href="https://github.com/inglesp">Peter Inglesby</a>.  Drop me a line: <a href="mailto:peter.inglesby@gmail.com">peter.inglesby@gmail.com</a>!</p>
+
+<p>Last updated: 2 June 2024.</p>
+
+<hr />
+
+<div class="mt-3">
+    <button type="button" id="toggle" class="btn btn-primary">Toggle Boring</button>
+</div>
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Constituency</th>
+            <th class="text-center">Britain Predicts</th>
+            <th class="text-center">Electoral Calculus</th>
+            <th class="text-center">Economist</th>
+            <th class="text-center">FT</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in rows %}
+        <tr data-disagreement={{ row.disagreement }}>
+    	    <td>{{ row.code }}</td>
+	    <td><a href="constituencies/{{ row.code }}">{{ row.name }}</a></td>
+	    <td class="text-center party-{{ row.britainpredicts }}">{{ row.britainpredicts }}</td>
+	    <td class="text-center party-{{ row.electoralcalculus }}">{{ row.electoralcalculus }}</td>
+	    <td class="text-center party-{{ row.economist }}">{{ row.economist }}</td>
+	    <td class="text-center party-{{ row.ft }}">{{ row.ft }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+
+{% block extrajs %}
+<script>
+  document.getElementById('toggle').addEventListener('click', () => {
+    document.querySelectorAll('tr[data-disagreement="0"]').forEach(row => {
+      if (row.style.display === 'none') {
+        row.style.display = 'table-row';
+      } else {
+        row.style.display = 'none';
+      }
+    });
+  });
+</script>
+{% endblock %}
