@@ -1448,23 +1448,23 @@
     "party": "lab"
   },
   "W07000093": {
-    "name": "Carmarthen",
+    "name": "Ceredigion Preseli",
     "2019": {
-      "con": 39,
-      "pc": 30,
-      "lab": 25,
+      "pc": 31,
+      "con": 29,
+      "lab": 20,
+      "lib": 14,
       "ref": 4,
-      "lib": 2,
-      "grn": 0,
+      "grn": 1,
       "oth": 0
     },
     "2024": {
-      "con": 30,
-      "pc": 34,
+      "pc": 36,
+      "con": 22,
       "lab": 26,
+      "lib": 6,
       "ref": 7,
-      "lib": 1,
-      "grn": 1,
+      "grn": 3,
       "oth": 0
     },
     "party": "pc"
@@ -7774,6 +7774,28 @@
       "grn": 2
     },
     "party": "lab"
+  },
+  "W07000087": {
+    "name": "Carmarthen",
+    "2019": {
+      "con": 39,
+      "pc": 30,
+      "lab": 25,
+      "ref": 4,
+      "lib": 2,
+      "grn": 0,
+      "oth": 0
+    },
+    "2024": {
+      "con": 30,
+      "pc": 34,
+      "lab": 26,
+      "ref": 7,
+      "lib": 1,
+      "grn": 1,
+      "oth": 0
+    },
+    "party": "pc"
   },
   "E14001493": {
     "name": "Shropshire South",

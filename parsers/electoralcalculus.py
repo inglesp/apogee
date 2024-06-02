@@ -54,7 +54,7 @@ def parse(path):
 def get_constituency_code(name):
     special_cases = {
         "Hull East": "E14001313",  # Kingston upon Hull East
-        "Carmarthen": "W07000093",  # Ceredigion Preseli
+        "Carmarthen": "W07000087",  # Caerfyrddin
         "Ynys Mon (Anglesey)": "W07000112",  # Ynys Môn
     }
     if name in special_cases:
