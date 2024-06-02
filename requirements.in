@@ -1,0 +1,6 @@
+httpx
+lxml
+playwright
+
+# dev
+ruff
