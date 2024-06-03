@@ -20,8 +20,8 @@
 
     
 <style>
-table th:nth-child(n+3),
-table td:nth-child(n+3) {
+table#constituencies th:nth-child(n+3),
+table#constituencies td:nth-child(n+3) {
     width: 10%;
 }
 </style>
@@ -48,13 +48,165 @@ table td:nth-child(n+3) {
 
 <p>Thrown together by <a href="https://github.com/inglesp">Peter Inglesby</a>.  Drop me a line: <a href="mailto:peter.inglesby@gmail.com">peter.inglesby@gmail.com</a>!</p>
 
-<hr />
+<h2 class="mt-5">Summary</h2>
+
+<table id="summary" class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            
+            <th class="text-center">Britain Predicts</th>
+            
+            <th class="text-center">Electoral Calculus</th>
+            
+            <th class="text-center">Economist</th>
+            
+            <th class="text-center">FT</th>
+            
+            <th class="text-center">More in Common</th>
+            
+            <th class="text-center">YouGov</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        
+	<tr>
+            
+            <td class="text-center party-lab">lab</td>
+            
+            <td class="text-center party-lab">428</td>
+            
+            <td class="text-center party-lab">478</td>
+            
+            <td class="text-center party-lab">382</td>
+            
+            <td class="text-center party-lab">449</td>
+            
+            <td class="text-center party-lab">380</td>
+            
+            <td class="text-center party-lab">420</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-con">con</td>
+            
+            <td class="text-center party-con">124</td>
+            
+            <td class="text-center party-con">72</td>
+            
+            <td class="text-center party-con">204</td>
+            
+            <td class="text-center party-con">135</td>
+            
+            <td class="text-center party-con">187</td>
+            
+            <td class="text-center party-con">144</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-lib">lib</td>
+            
+            <td class="text-center party-lib">55</td>
+            
+            <td class="text-center party-lib">57</td>
+            
+            <td class="text-center party-lib">22</td>
+            
+            <td class="text-center party-lib">30</td>
+            
+            <td class="text-center party-lib">29</td>
+            
+            <td class="text-center party-lib">46</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-snp">snp</td>
+            
+            <td class="text-center party-snp">20</td>
+            
+            <td class="text-center party-snp">18</td>
+            
+            <td class="text-center party-snp">20</td>
+            
+            <td class="text-center party-snp">14</td>
+            
+            <td class="text-center party-snp">32</td>
+            
+            <td class="text-center party-snp">17</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-pc">pc</td>
+            
+            <td class="text-center party-pc">3</td>
+            
+            <td class="text-center party-pc">3</td>
+            
+            <td class="text-center party-pc">2</td>
+            
+            <td class="text-center party-pc">2</td>
+            
+            <td class="text-center party-pc">2</td>
+            
+            <td class="text-center party-pc">2</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-grn">grn</td>
+            
+            <td class="text-center party-grn">1</td>
+            
+            <td class="text-center party-grn">2</td>
+            
+            <td class="text-center party-grn">1</td>
+            
+            <td class="text-center party-grn">1</td>
+            
+            <td class="text-center party-grn">1</td>
+            
+            <td class="text-center party-grn">2</td>
+            
+	</tr>
+        
+	<tr>
+            
+            <td class="text-center party-oth">oth</td>
+            
+            <td class="text-center party-oth">0</td>
+            
+            <td class="text-center party-oth">1</td>
+            
+            <td class="text-center party-oth">0</td>
+            
+            <td class="text-center party-oth">0</td>
+            
+            <td class="text-center party-oth">0</td>
+            
+            <td class="text-center party-oth">0</td>
+            
+	</tr>
+        
+    </tbody>
+</table>
+
+<h2 class="mt-5">Constituencies</h2>
 
 <div class="mt-3">
     <button type="button" id="toggle" class="btn btn-primary">Toggle Boring</button>
 </div>
 
-<table class="table table-sm">
+<table id="constituencies" class="table table-sm">
     <thead>
         <tr>
             <th></th>

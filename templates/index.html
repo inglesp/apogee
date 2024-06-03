@@ -4,8 +4,8 @@
 
 {% block extracss %}
 <style>
-table th:nth-child(n+3),
-table td:nth-child(n+3) {
+table#constituencies th:nth-child(n+3),
+table#constituencies td:nth-child(n+3) {
     width: 10%;
 }
 </style>
@@ -30,13 +30,35 @@ table td:nth-child(n+3) {
 
 <p>Thrown together by <a href="https://github.com/inglesp">Peter Inglesby</a>.  Drop me a line: <a href="mailto:peter.inglesby@gmail.com">peter.inglesby@gmail.com</a>!</p>
 
-<hr />
+<h2 class="mt-5">Summary</h2>
+
+<table id="summary" class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            {% for source in sources %}
+            <th class="text-center">{{ source }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in summary %}
+	<tr>
+            {% for item in row %}
+            <td class="text-center party-{{ row.0 }}">{{ item }}</td>
+            {% endfor %}
+	</tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2 class="mt-5">Constituencies</h2>
 
 <div class="mt-3">
     <button type="button" id="toggle" class="btn btn-primary">Toggle Boring</button>
 </div>
 
-<table class="table table-sm">
+<table id="constituencies" class="table table-sm">
     <thead>
         <tr>
             <th></th>
