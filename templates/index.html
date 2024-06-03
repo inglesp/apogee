@@ -63,6 +63,7 @@ table#constituencies td:nth-child(n+3) {
         <tr>
             <th></th>
             <th>Constituency</th>
+            <th class="text-center">2019 (nominal)</th>
             <th class="text-center">Britain Predicts</th>
             <th class="text-center">Electoral Calculus</th>
             <th class="text-center">Economist</th>
@@ -74,8 +75,9 @@ table#constituencies td:nth-child(n+3) {
     <tbody>
         {% for row in rows %}
         <tr data-disagreement={{ row.disagreement }}>
-    	    <td>{{ row.code }}</td>
+            <td>{{ row.code }}</td>
 	    <td><a href="constituencies/{{ row.code }}">{{ row.name }}</a></td>
+	    <td class="text-center border-end party-{{ row._2019 }}">{{ row._2019 }}</td>
 	    <td class="text-center party-{{ row.britainpredicts }}">{{ row.britainpredicts }}</td>
 	    <td class="text-center party-{{ row.electoralcalculus }}">{{ row.electoralcalculus }}</td>
 	    <td class="text-center party-{{ row.economist }}">{{ row.economist }}</td>

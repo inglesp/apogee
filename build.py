@@ -22,12 +22,13 @@ def main():
             parties |= set(item["2024"])
 
     with open("data/constituencies.csv") as f:
-        code_to_name = dict(csv.reader(f))
+        constituencies = {r["code"]: r for r in csv.DictReader(f)}
 
     predictions = [
         {
             "code": code,
-            "name": code_to_name[code],
+            "name": constituencies[code]["name"],
+            "2019": constituencies[code]["2019"],
             "disagreement": int(len(set(v.values())) > 1),
         }
         | v
@@ -37,14 +38,14 @@ def main():
     predictions.sort(key=lambda row: row["name"])
 
     with open("outputs/predictions.csv", "w") as f:
-        writer = csv.DictWriter(f, ["code", "name", *sources, "disagreement"])
+        writer = csv.DictWriter(f, ["code", "name", "2019", *sources, "disagreement"])
         writer.writeheader()
         writer.writerows(predictions)
 
     details = [
         {
             "code": code,
-            "name": code_to_name[code],
+            "name": constituencies[code]["name"],
             "party": party,
         }
         | {source: v[source].get(party, 0) for source in sources}
