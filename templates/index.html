@@ -6,7 +6,7 @@
 <style>
 table th:nth-child(n+3),
 table td:nth-child(n+3) {
-    width: 12%;
+    width: 10%;
 }
 </style>
 {% endblock %}
@@ -22,6 +22,8 @@ table td:nth-child(n+3) {
 	<li><a href="https://www.electoralcalculus.co.uk/dynamicmap.html">Electoral Calculus</a></li>
 	<li><a href="https://www.economist.com/interactive/uk-general-election/forecast">The Economist</a></li>
 	<li><a href="https://ig.ft.com/uk-general-election/2024/projection/">The FT</a></li>
+	<li><a href="https://www.moreincommon.org.uk/general-election-2024/mrp/">More in Common</a></li>
+	<li><a href="https://yougov.co.uk/politics/articles/49606">YouGov</a></li>
 </ul>
 
 <p>Source code <a href="https://github.com/inglesp/apogee">on GitHub</a>.</p>
@@ -45,6 +47,8 @@ table td:nth-child(n+3) {
             <th class="text-center">Electoral Calculus</th>
             <th class="text-center">Economist</th>
             <th class="text-center">FT</th>
+            <th class="text-center">More in Common</th>
+            <th class="text-center">YouGov</th>
         </tr>
     </thead>
     <tbody>
@@ -56,6 +60,8 @@ table td:nth-child(n+3) {
 	    <td class="text-center party-{{ row.electoralcalculus }}">{{ row.electoralcalculus }}</td>
 	    <td class="text-center party-{{ row.economist }}">{{ row.economist }}</td>
 	    <td class="text-center party-{{ row.ft }}">{{ row.ft }}</td>
+	    <td class="text-center party-{{ row.moreincommon }}">{{ row.moreincommon }}</td>
+	    <td class="text-center party-{{ row.yougov }}">{{ row.yougov }}</td>
         </tr>
         {% endfor %}
     </tbody>
