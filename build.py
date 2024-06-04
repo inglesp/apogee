@@ -28,7 +28,7 @@ def main():
         {
             "code": code,
             "name": constituencies[code]["name"],
-            "2019": constituencies[code]["2019"],
+            "_2019": constituencies[code]["_2019"],
             "disagreement": int(len(set(v.values())) > 1),
         }
         | v
@@ -38,7 +38,7 @@ def main():
     predictions.sort(key=lambda row: row["name"])
 
     with open("outputs/predictions.csv", "w") as f:
-        writer = csv.DictWriter(f, ["code", "name", "2019", *sources, "disagreement"])
+        writer = csv.DictWriter(f, ["code", "name", "_2019", *sources, "disagreement"])
         writer.writeheader()
         writer.writerows(predictions)
 

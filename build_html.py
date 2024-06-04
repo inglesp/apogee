@@ -14,6 +14,7 @@ def main():
         "Economist",
         "FT",
         "More in Common",
+        "Survation",
         "YouGov",
     ]
 

@@ -23,6 +23,7 @@ table#constituencies td:nth-child(n+3) {
 	<li><a href="https://www.economist.com/interactive/uk-general-election/forecast">The Economist</a> (3 June)</li>
 	<li><a href="https://ig.ft.com/uk-general-election/2024/projection/">The FT</a> (3 June)</li>
 	<li><a href="https://www.moreincommon.org.uk/general-election-2024/mrp/">More in Common</a> (3 June)</li>
+	<li><a href="https://www.survation.com/survation-mrp-labour-set-for-record-breaking-majority/">Survation</a> (4 June)</li>
 	<li><a href="https://yougov.co.uk/politics/articles/49606">YouGov</a> (3 June)</li>
 </ul>
 
@@ -69,6 +70,7 @@ table#constituencies td:nth-child(n+3) {
             <th class="text-center">Economist</th>
             <th class="text-center">FT</th>
             <th class="text-center">More in Common</th>
+            <th class="text-center">Survation</th>
             <th class="text-center">YouGov</th>
         </tr>
     </thead>
@@ -83,6 +85,7 @@ table#constituencies td:nth-child(n+3) {
 	    <td class="text-center party-{{ row.economist }}">{{ row.economist }}</td>
 	    <td class="text-center party-{{ row.ft }}">{{ row.ft }}</td>
 	    <td class="text-center party-{{ row.moreincommon }}">{{ row.moreincommon }}</td>
+	    <td class="text-center party-{{ row.survation }}">{{ row.survation }}</td>
 	    <td class="text-center party-{{ row.yougov }}">{{ row.yougov }}</td>
         </tr>
         {% endfor %}
