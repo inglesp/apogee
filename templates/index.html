@@ -33,6 +33,14 @@ table#constituencies td:nth-child(n+3) {
 
 <h2 class="mt-5">Summary</h2>
 
+<p>This summary shows, for each model and each party, in how many seats is that party predicted to get the most votes.</p>
+
+<p>Note that these totals are indicative of how the parties' level of support from each model's prediction, but won't match the number of seats predicted by each model.</p>
+
+<p>To understand why, imagine two parties and ten constituencies, where a model predicts that party X will get more votes than party Y, and assigns party X a 90% chance of winning.  In this case, the model may predict that X will win nine seats and Y one.  However, in this summary, we will instead show X with ten and Y with none.</p>
+
+<p>(Am struggling with words this evening: let me know if you've got a better way of phrasing this!)</p>
+
 <table id="summary" class="table table-sm">
     <thead>
         <tr>
