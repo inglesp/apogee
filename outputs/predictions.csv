@@ -79,7 +79,7 @@ E14001123,Brent West,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001124,Brentford and Isleworth,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001125,Brentwood and Ongar,con,con,con,con,con,con,con,con,0
 W07000086,Bridgend,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001126,Bridgwater,con,con,con,lab,lab,con,lab,lab,1
+E14001126,Bridgwater,con,con,con,lab,con,con,lab,lab,1
 E14001127,Bridlington and the Wolds,con,con,con,lab,con,con,lab,con,1
 E14001128,Brigg and Immingham,con,con,con,con,con,con,lab,con,1
 E14001129,Brighton Kemptown and Peacehaven,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -210,7 +210,7 @@ E14001228,Erewash,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001229,Erith and Thamesmead,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001230,Esher and Walton,con,lib,lib,lib,lib,con,lib,lib,1
 E14001231,Exeter,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001232,Exmouth and Exeter East,con,con,con,con,lab,con,lab,con,1
+E14001232,Exmouth and Exeter East,con,con,con,con,con,con,lab,con,1
 S14000083,Falkirk,snp,snp,snp,snp,snp,snp,lab,lab,1
 E14001233,Fareham and Waterlooville,con,con,con,con,con,con,con,con,0
 E14001234,Farnham and Bordon,con,lib,con,lib,con,con,con,con,1
@@ -352,7 +352,7 @@ E14001353,Manchester Rusholme,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001354,Manchester Withington,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001355,Mansfield,con,con,lab,lab,lab,lab,lab,lab,1
 E14001356,Melksham and Devizes,con,con,con,con,con,con,con,con,0
-E14001357,Melton and Syston,con,lab,con,lab,lab,con,lab,con,1
+E14001357,Melton and Syston,con,lab,con,lab,con,con,lab,con,1
 E14001358,Meriden and Solihull East,con,con,con,con,con,con,lab,con,1
 W07000099,Merthyr Tydfil and Aberdare,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001359,Mid Bedfordshire,con,con,con,lab,lab,con,lab,lab,1
@@ -443,7 +443,7 @@ E14001426,Plymouth Moor View,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001427,Plymouth Sutton and Devonport,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001428,"Pontefract, Castleford and Knottingley",lab,lab,lab,lab,lab,lab,lab,lab,0
 W07000106,Pontypridd,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001429,Poole,con,con,con,lab,lab,con,lab,con,1
+E14001429,Poole,con,con,con,lab,con,con,lab,con,1
 E14001430,Poplar and Limehouse,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001431,Portsmouth North,con,lab,con,lab,lab,lab,lab,lab,1
 E14001432,Portsmouth South,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -511,7 +511,7 @@ E14001491,South Ribble,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001492,South Shields,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001493,South Shropshire,con,con,con,con,con,con,con,con,0
 E14001494,South Suffolk,con,con,con,lab,con,con,lab,con,1
-E14001495,South West Devon,con,con,con,lab,lab,con,lab,con,1
+E14001495,South West Devon,con,con,con,lab,con,con,lab,con,1
 E14001496,South West Hertfordshire,con,con,con,lab,con,lab,lab,con,1
 E14001497,South West Norfolk,con,con,con,lab,con,con,lab,con,1
 E14001498,South West Wiltshire,con,lab,con,lab,lab,con,lab,con,1
@@ -547,7 +547,7 @@ E14001526,Stratford-on-Avon,con,con,con,con,con,con,con,con,0
 E14001527,Streatham and Croydon North,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001528,Stretford and Urmston,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001529,Stroud,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001530,Suffolk Coastal,con,lab,con,lab,lab,con,lab,con,1
+E14001530,Suffolk Coastal,con,lab,con,lab,con,con,lab,con,1
 E14001531,Sunderland Central,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001532,Surrey Heath,con,con,con,lib,con,con,con,lib,1
 E14001533,Sussex Weald,con,con,con,con,con,con,con,con,0
