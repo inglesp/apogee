@@ -17,6 +17,11 @@ def main():
         with datapath.open() as f:
             data = json.load(f)
         for code, item in data.items():
+            # if code == "E14001232":
+            #     if "lib" not in item["2024"]:
+            #         breakpoint()
+            #     print(source)
+            #     print(item)
             predictions[code][source] = item["party"]
             details[code][source] = item["2024"]
             parties |= set(item["2024"])
@@ -53,7 +58,7 @@ def main():
         for party in parties
         if code != "E14001170"  # Chorley, the speaker's constituency
     ]
-    details = [r for r in details if all(r[source] > 0 for source in sources)]
+    details = [r for r in details if any(r[source] > 0 for source in sources)]
     details.sort(key=lambda row: (row["name"], row["party"]))
 
     with open("outputs/details.csv", "w") as f:
