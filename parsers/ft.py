@@ -16,7 +16,7 @@ def parse(path):
         print(code, name)
         item = {"name": name, "2024": {}}
         table = tree.xpath('//table[contains(@class, "TableEl-sc-upst2p-0")]')[0]
-        for row in table.xpath(".//tr")[1:-1]:
+        for row in table.xpath(".//tr")[1:]:
             values = [td.text_content() for td in row.xpath("td")]
             party = {
                 "Conservative": "con",
