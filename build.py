@@ -17,11 +17,6 @@ def main():
         with datapath.open() as f:
             data = json.load(f)
         for code, item in data.items():
-            # if code == "E14001232":
-            #     if "lib" not in item["2024"]:
-            #         breakpoint()
-            #     print(source)
-            #     print(item)
             predictions[code][source] = item["party"]
             details[code][source] = item["2024"]
             parties |= set(item["2024"])
