@@ -18,8 +18,8 @@ parties = [
 
 model_map = {
     "britainpredicts": "Britain Predicts",
-    "electoralcalculus": "Electoral Calculus",
     "economist": "Economist",
+    "electoralcalculus": "Electoral Calculus",
     "ft": "FT",
     "moreincommon": "More in Common",
     "survation": "Survation",
