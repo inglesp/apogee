@@ -1,42 +1,26 @@
 import csv
-import json
-import sys
-from pathlib import Path
 
 
 def parse(path):
     csv_paths = list(path.glob("*.csv"))
     assert len(csv_paths) == 1
     with csv_paths[0].open() as f:
-        rows = list(csv.DictReader(f))
+        return [parse_one(r) for r in csv.DictReader(f)]
 
-    data = {
-        get_code(r["PCON24CD"]): {
-            "name": r["Seat"],
-            "2024": {
-                "con": r["mean_Con"],
-                "grn": r["mean_Green"],
-                "lab": r["mean_Lab"],
-                "lib": r["mean_LDem"],
-                "oth": r["mean_Other"],
-                "pc": r["mean_Plaid"],
-                "ref": r["mean_Reform"],
-                "snp": r["mean_SNP"],
-            },
-        }
-        for r in rows
+
+def parse_one(r):
+    return {
+        "code": get_code(r["PCON24CD"]),
+        "name": r["Seat"],
+        "con": r["mean_Con"],
+        "grn": r["mean_Green"],
+        "lab": r["mean_Lab"],
+        "lib": r["mean_LDem"],
+        "oth": r["mean_Other"],
+        "pc": r["mean_Plaid"],
+        "ref": r["mean_Reform"],
+        "snp": r["mean_SNP"],
     }
-
-    for item in data.values():
-        item["2024"] = {k: round(float(v)) for k, v in item["2024"].items()}
-        item["party"] = max(item["2024"].items(), key=lambda pair: pair[1])[0]
-
-    date = path.parts[-1]
-    dirpath = Path(f"data/processed/survation/{date}")
-    dirpath.mkdir(parents=True, exist_ok=True)
-
-    with (dirpath / "data.json").open("w") as f:
-        json.dump(data, f, indent=2)
 
 
 def get_code(code):
@@ -50,8 +34,3 @@ def get_code(code):
         "S14000110": "S14000040",  # Kilmarnock and Loudoun
         "S14000111": "S14000058",  # West Aberdeenshire and Kincardine
     }.get(code, code)
-
-
-if __name__ == "__main__":
-    path = Path(sys.argv[1])
-    parse(path)

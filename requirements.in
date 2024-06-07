@@ -1,6 +1,7 @@
 jinja2
 httpx
 lxml
+pandas
 playwright
 
 # dev

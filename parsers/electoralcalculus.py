@@ -1,54 +1,45 @@
 import csv
 import functools
-import json
-import sys
-from pathlib import Path
 
 from lxml import html
 
 
+party_map = {
+    "CON": "con",
+    "Green": "grn",
+    "LAB": "lab",
+    "LIB": "lib",
+    "MIN": "independent",
+    "OTH": "oth",
+    "Plaid": "pc",
+    "Reform": "ref",
+    "SNP": "snp",
+}
+
+
 def parse(path):
-    data = {}
+    rows = [parse_one(filepath) for filepath in path.glob("*.html")]
+    return [r for r in rows if r is not None]
 
-    for filepath in path.glob("*.html"):
-        content = filepath.read_text()
-        if "Northern Ireland" in content:
-            continue
-        name = filepath.parts[-1].split(".")[0]
-        code = get_constituency_code(name)
-        item = {"name": name, "2019": {}, "2024": {}}
-        tree = html.fromstring(content)
-        table = tree.xpath('//table[contains(@class, "seatpred")]')[0]
-        for row in table.xpath("tr")[1:-1]:
-            values = [td.text_content() for td in row.xpath("td")]
-            party = {
-                "CON": "con",
-                "Green": "grn",
-                "LAB": "lab",
-                "LIB": "lib",
-                "MIN": "independent",
-                "OTH": "oth",
-                "Plaid": "pc",
-                "SNP": "snp",
-                "Reform": "ref",
-            }[values[0]]
-            item["2019"][party] = round(float(values[2].rstrip("%")))
-            item["2024"][party] = round(float(values[3].rstrip("%")))
-        for year in ["2019", "2024"]:
-            if "independent" in item[year]:
-                if "oth" not in item[year]:
-                    item[year]["oth"] = 0
-                item[year]["oth"] += item[year]["independent"]
-                del item[year]["independent"]
-        item["party"] = max(item["2024"].items(), key=lambda pair: pair[1])[0]
-        data[code] = item
 
-    date = path.parts[-1]
-    dirpath = Path(f"data/processed/electoralcalculus/{date}")
-    dirpath.mkdir(parents=True, exist_ok=True)
-
-    with (dirpath / "data.json").open("w") as f:
-        json.dump(data, f, indent=2)
+def parse_one(path):
+    content = path.read_text()
+    if "Northern Ireland" in content:
+        return
+    name = path.parts[-1].split(".")[0]
+    code = get_constituency_code(name)
+    row = {"code": code, "name": name}
+    tree = html.fromstring(content)
+    table = tree.xpath('//table[contains(@class, "seatpred")]')[0]
+    for tr in table.xpath("tr")[1:-1]:
+        values = [td.text_content() for td in tr.xpath("td")]
+        row[party_map[values[0]]] = float(values[3].rstrip("%"))
+    if "independent" in row:
+        if "oth" not in row:
+            row["oth"] = 0
+        row["oth"] += row["independent"]
+        del row["independent"]
+    return row
 
 
 def get_constituency_code(name):
@@ -79,8 +70,3 @@ def normalise(name):
     name = name.lower()
     name = name.split("(")[0]
     return "".join(c for c in sorted(name) if c.isalpha())
-
-
-if __name__ == "__main__":
-    path = Path(sys.argv[1])
-    parse(path)

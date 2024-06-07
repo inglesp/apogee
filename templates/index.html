@@ -45,16 +45,16 @@ table#constituencies td:nth-child(n+3) {
     <thead>
         <tr>
             <th></th>
-            {% for source in sources %}
-            <th class="text-center">{{ source }}</th>
+	    {% for header in summary[0][1:] %}
+            <th class="text-center">{{ header }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
-        {% for row in summary %}
+        {% for row in summary[1:] %}
 	<tr>
             {% for item in row %}
-            <td class="text-center party-{{ row.0 }}">{{ item }}</td>
+            <td class="text-center party-{{ row[0] }}">{{ item }}</td>
             {% endfor %}
 	</tr>
         {% endfor %}
@@ -71,30 +71,20 @@ table#constituencies td:nth-child(n+3) {
     <thead>
         <tr>
             <th></th>
-            <th>Constituency</th>
-            <th class="text-center">2019 (nominal)</th>
-            <th class="text-center">Britain Predicts</th>
-            <th class="text-center">Electoral Calculus</th>
-            <th class="text-center">Economist</th>
-            <th class="text-center">FT</th>
-            <th class="text-center">More in Common</th>
-            <th class="text-center">Survation</th>
-            <th class="text-center">YouGov</th>
+	    {% for header in predictions[0][1:-1] %}
+            <th class="text-center">{{ header }}</th>
+            {% endfor %}
         </tr>
     </thead>
     <tbody>
-        {% for row in rows %}
-        <tr data-disagreement={{ row.disagreement }}>
-            <td>{{ row.code }}</td>
-	    <td><a href="constituencies/{{ row.code }}">{{ row.name }}</a></td>
-	    <td class="text-center border-end party-{{ row._2019 }}">{{ row._2019 }}</td>
-	    <td class="text-center party-{{ row.britainpredicts }}">{{ row.britainpredicts }}</td>
-	    <td class="text-center party-{{ row.electoralcalculus }}">{{ row.electoralcalculus }}</td>
-	    <td class="text-center party-{{ row.economist }}">{{ row.economist }}</td>
-	    <td class="text-center party-{{ row.ft }}">{{ row.ft }}</td>
-	    <td class="text-center party-{{ row.moreincommon }}">{{ row.moreincommon }}</td>
-	    <td class="text-center party-{{ row.survation }}">{{ row.survation }}</td>
-	    <td class="text-center party-{{ row.yougov }}">{{ row.yougov }}</td>
+        {% for row in predictions[1:] %}
+        <tr data-disagreement={{ row[-1] }}>
+            <td>{{ row[0] }}</td>
+	    <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
+	    <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
+	    {% for item in row[3:-1] %}
+	    <td class="text-center party-{{ item }}">{{ item }}</td>
+	    {% endfor %}
         </tr>
         {% endfor %}
     </tbody>

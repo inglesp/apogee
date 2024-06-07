@@ -11,28 +11,20 @@
     <thead>
         <tr>
             <th>Party</th>
-            <th class="text-center">Britain Predicts</th>
-            <th class="text-center">Electoral Calculus</th>
-            <th class="text-center">Economist</th>
-            <th class="text-center">FT</th>
-            <th class="text-center">More in Common</th>
-            <th class="text-center">Survation</th>
-            <th class="text-center">YouGov</th>
+	    {% for header in constituency_details[0][1:] %}
+            <th class="text-center">{{ header }}</th>
+            {% endfor %}
         </tr>
     </thead>
     <tbody>
-    {% for row in rows %}
-    <tr>
-        <td class="party-{{ row.party }}">{{ row.party }}</td>
-        <td class="text-center">{{ row.britainpredicts }}%</td>
-        <td class="text-center">{{ row.electoralcalculus }}%</td>
-        <td class="text-center">{{ row.economist }}%</td>
-        <td class="text-center">{{ row.ft }}%</td>
-	<td class="text-center">{{ row.moreincommon }}%</td>
-	<td class="text-center">{{ row.survation }}%</td>
-	<td class="text-center">{{ row.yougov }}%</td>
-    </tr>
-    {% endfor %}
+        {% for row in constituency_details[1:] %}
+        <tr>
+            <td class="party-{{ row[0] }}">{{ row[0] }}</td>
+            {% for item in row[1:] %}
+            <td class="text-center">{{ item|round|int }}%</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
     </tbody>
 </table>
 {% endblock %}
