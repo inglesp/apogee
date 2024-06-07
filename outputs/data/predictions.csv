@@ -17,7 +17,7 @@ E14001067,Arundel and South Downs,con,con,con,con,con,con,con,con,0
 E14001068,Ashfield,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001069,Ashford,con,lab,con,lab,lab,con,lab,lab,1
 E14001070,Ashton-under-Lyne,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001071,Aylesbury,con,con,lab,lab,con,con,lab,lab,1
+E14001071,Aylesbury,con,lib,lab,lab,con,con,lab,lab,1
 S14000006,"Ayr, Carrick and Cumnock",snp,snp,snp,lab,lab,snp,snp,lab,1
 E14001072,Banbury,con,con,lab,lab,lab,con,con,lab,1
 W07000083,Bangor Aberconwy,con,lab,lab,lab,lab,lab,lab,lab,0
@@ -25,7 +25,7 @@ E14001073,Barking,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001074,Barnsley North,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001075,Barnsley South,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001076,Barrow and Furness,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001077,Basildon and Billericay,con,con,con,lab,con,con,lab,con,1
+E14001077,Basildon and Billericay,con,lab,con,lab,con,con,lab,con,1
 E14001078,Basingstoke,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001079,Bassetlaw,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001080,Bath,lib,lib,lib,lib,lib,lib,lib,lib,0
@@ -38,7 +38,7 @@ E14001085,Bermondsey and Old Southwark,lab,lab,lab,lab,lab,lab,lab,lab,0
 S14000008,"Berwickshire, Roxburgh and Selkirk",con,con,con,con,con,con,con,con,0
 E14001086,Bethnal Green and Stepney,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001087,Beverley and Holderness,con,lab,con,lab,lab,con,lab,con,1
-E14001088,Bexhill and Battle,con,con,con,lab,lab,con,lab,con,1
+E14001088,Bexhill and Battle,con,lab,con,lab,lab,con,lab,con,1
 E14001089,Bexleyheath and Crayford,con,lab,con,lab,lab,lab,lab,lab,1
 E14001090,Bicester and Woodstock,con,lib,con,con,con,con,lab,con,1
 E14001091,Birkenhead,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -79,7 +79,7 @@ E14001123,Brent West,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001124,Brentford and Isleworth,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001125,Brentwood and Ongar,con,con,con,con,con,con,con,con,0
 W07000086,Bridgend,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001126,Bridgwater,con,con,con,lab,con,con,lab,lab,1
+E14001126,Bridgwater,con,lab,con,lab,con,con,lab,lab,1
 E14001127,Bridlington and the Wolds,con,con,con,lab,con,con,lab,con,1
 E14001128,Brigg and Immingham,con,con,con,con,con,con,lab,con,1
 E14001129,Brighton Kemptown and Peacehaven,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -117,7 +117,7 @@ E14001153,Carshalton and Wallington,con,lib,lib,lib,lib,lib,lib,lib,0
 E14001154,Castle Point,con,con,con,lab,con,con,con,con,1
 S14000010,Central Ayrshire,snp,snp,snp,lab,lab,snp,lab,lab,1
 E14001155,Central Devon,con,con,lab,lab,lab,con,lab,lab,1
-E14001156,Central Suffolk and North Ipswich,con,con,con,lab,con,con,lab,con,1
+E14001156,Central Suffolk and North Ipswich,con,lab,con,lab,con,con,lab,con,1
 W07000093,Ceredigion Preseli,pc,pc,pc,pc,pc,pc,pc,pc,0
 E14001157,Chatham and Aylesford,con,lab,con,lab,con,con,lab,con,1
 E14001158,Cheadle,con,lib,lib,lib,lib,lib,lib,lib,0
@@ -135,7 +135,7 @@ E14001169,Chipping Barnet,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001171,Christchurch,con,con,con,con,con,con,con,con,0
 E14001172,Cities of London and Westminster,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001173,City of Durham,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001174,Clacton,con,con,con,lab,con,con,lab,con,1
+E14001174,Clacton,con,ref,con,lab,con,con,lab,con,1
 E14001175,Clapham and Brixton Hill,lab,lab,lab,lab,lab,lab,lab,lab,0
 W07000094,Clwyd East,con,lab,lab,lab,lab,lab,lab,lab,0
 W07000095,Clwyd North,con,lab,lab,lab,lab,lab,lab,lab,0
@@ -270,7 +270,7 @@ E14001277,Hazel Grove,con,lib,con,lib,lib,lib,lab,lib,1
 E14001278,Hemel Hempstead,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001279,Hendon,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001280,Henley and Thame,con,lib,con,lib,con,lib,lib,lib,1
-E14001281,Hereford and South Herefordshire,con,con,con,lab,con,con,lab,con,1
+E14001281,Hereford and South Herefordshire,con,lab,con,lab,con,con,lab,con,1
 E14001282,Herne Bay and Sandwich,con,lab,con,lab,lab,con,lab,con,1
 E14001283,Hertford and Stortford,con,lab,lab,lab,lab,lab,lab,con,1
 E14001284,Hertsmere,con,con,con,lab,con,con,lab,con,1
@@ -281,13 +281,13 @@ E14001288,Hinckley and Bosworth,con,con,con,lab,con,con,lab,con,1
 E14001289,Hitchin,con,lab,con,lab,lab,lab,con,lab,1
 E14001290,Holborn and St Pancras,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001291,Honiton and Sidmouth,con,con,con,lib,lab,con,lab,lib,1
-E14001292,Hornchurch and Upminster,con,con,con,lab,lab,lab,con,con,1
+E14001292,Hornchurch and Upminster,con,lab,con,lab,lab,lab,con,con,1
 E14001293,Hornsey and Friern Barnet,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001294,Horsham,con,con,con,lib,con,con,lib,con,1
 E14001295,Houghton and Sunderland South,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001296,Hove and Portslade,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001297,Huddersfield,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001298,Huntingdon,con,con,con,lab,con,con,lab,con,1
+E14001298,Huntingdon,con,lab,con,lab,con,con,lab,con,1
 E14001299,Hyndburn,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001300,Ilford North,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001301,Ilford South,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -327,7 +327,7 @@ E14001331,Lewisham East,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001332,Lewisham North,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001333,Lewisham West and East Dulwich,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001334,Leyton and Wanstead,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001335,Lichfield,con,con,con,lab,con,con,con,con,1
+E14001335,Lichfield,con,lab,con,lab,con,con,con,con,1
 E14001336,Lincoln,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001337,Liverpool Garston,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001338,Liverpool Riverside,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -350,16 +350,16 @@ E14001351,Maldon,con,con,con,con,con,con,con,con,0
 E14001352,Manchester Central,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001353,Manchester Rusholme,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001354,Manchester Withington,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001355,Mansfield,con,con,lab,lab,lab,lab,lab,lab,1
-E14001356,Melksham and Devizes,con,con,con,con,con,con,con,con,0
+E14001355,Mansfield,con,lab,lab,lab,lab,lab,lab,lab,0
+E14001356,Melksham and Devizes,con,lib,con,con,con,con,con,con,1
 E14001357,Melton and Syston,con,lab,con,lab,con,con,lab,con,1
-E14001358,Meriden and Solihull East,con,con,con,con,con,con,lab,con,1
+E14001358,Meriden and Solihull East,con,lab,con,con,con,con,lab,con,1
 W07000099,Merthyr Tydfil and Aberdare,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001359,Mid Bedfordshire,con,con,con,lab,lab,con,lab,lab,1
 E14001360,Mid Buckinghamshire,con,con,con,con,con,con,con,con,0
 E14001361,Mid Cheshire,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001362,Mid Derbyshire,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001363,Mid Dorset and North Poole,con,con,con,lib,con,con,con,con,1
+E14001363,Mid Dorset and North Poole,con,lib,con,lib,con,con,con,con,1
 S14000097,Mid Dunbartonshire,snp,lib,lib,lib,lib,lib,lab,snp,1
 E14001364,Mid Leicestershire,con,lab,con,lab,lab,con,lab,con,1
 E14001365,Mid Norfolk,con,lab,con,lab,con,con,lab,con,1
@@ -372,7 +372,7 @@ E14001369,Milton Keynes Central,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001370,Milton Keynes North,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001371,Mitcham and Morden,lab,lab,lab,lab,lab,lab,lab,lab,0
 W07000101,Monmouthshire,con,lab,lab,lab,lab,lab,lab,lab,0
-W07000102,Montgomeryshire and Glyndwr,con,con,con,con,lab,lab,lab,con,1
+W07000102,Montgomeryshire and Glyndwr,con,lab,con,con,lab,lab,lab,con,1
 S14000098,"Moray West, Nairn and Strathspey",snp,snp,snp,snp,snp,snp,snp,snp,0
 E14001372,Morecambe and Lunesdale,con,lab,lab,lab,lab,con,lab,lab,1
 S14000099,"Motherwell, Wishaw and Carluke",snp,lab,lab,lab,lab,lab,snp,lab,1
@@ -393,7 +393,7 @@ E14001382,Newton Aycliffe and Spennymoor,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001383,Normanton and Hemsworth,lab,lab,lab,lab,lab,lab,lab,lab,0
 S14000048,North Ayrshire and Arran,snp,snp,snp,snp,lab,snp,snp,lab,1
 E14001384,North Bedfordshire,con,con,con,lab,con,con,lab,con,1
-E14001385,North Cornwall,con,con,con,lib,con,con,lib,lib,1
+E14001385,North Cornwall,con,lib,con,lib,con,con,lib,lib,1
 E14001386,North Cotswolds,con,con,con,con,con,con,lab,con,1
 E14001387,North Devon,con,lib,con,lib,con,con,con,lib,1
 E14001388,North Dorset,con,con,con,con,con,con,con,con,0
@@ -405,7 +405,7 @@ E14001392,North East Hampshire,con,con,con,con,con,con,con,con,0
 E14001393,North East Hertfordshire,con,lab,con,lab,lab,con,lab,lab,1
 E14001394,North East Somerset and Hanham,con,lab,lab,lab,lab,con,lab,lab,1
 E14001395,North Herefordshire,con,con,con,con,con,con,con,con,0
-E14001396,North Norfolk,con,con,con,con,con,con,lib,lib,1
+E14001396,North Norfolk,con,lib,con,con,con,con,lib,lib,1
 E14001397,North Northumberland,con,lab,lab,lab,lab,con,lab,con,1
 E14001398,North Shropshire,con,con,con,lib,lab,con,con,lib,1
 E14001399,North Somerset,con,lab,lab,lab,lab,con,lab,lab,1
@@ -414,7 +414,7 @@ E14001401,North West Cambridgeshire,con,lab,con,lab,lab,con,lab,lab,1
 E14001402,North West Essex,con,con,con,con,con,con,con,con,0
 E14001403,North West Hampshire,con,con,con,con,con,con,con,con,0
 E14001404,North West Leicestershire,con,lab,con,lab,lab,lab,lab,lab,1
-E14001405,North West Norfolk,con,con,con,lab,con,con,lab,con,1
+E14001405,North West Norfolk,con,lab,con,lab,con,con,lab,con,1
 E14001406,Northampton North,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001407,Northampton South,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001408,Norwich North,con,lab,lab,lab,lab,lab,lab,lab,0
@@ -443,7 +443,7 @@ E14001426,Plymouth Moor View,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001427,Plymouth Sutton and Devonport,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001428,"Pontefract, Castleford and Knottingley",lab,lab,lab,lab,lab,lab,lab,lab,0
 W07000106,Pontypridd,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001429,Poole,con,con,con,lab,con,con,lab,con,1
+E14001429,Poole,con,lab,con,lab,con,con,lab,con,1
 E14001430,Poplar and Limehouse,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001431,Portsmouth North,con,lab,con,lab,lab,lab,lab,lab,1
 E14001432,Portsmouth South,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -464,7 +464,7 @@ E14001444,Richmond and Northallerton,con,con,con,con,con,con,con,con,0
 E14001446,Rochdale,lab,lab,lab,oth,lab,lab,lab,lab,1
 E14001447,Rochester and Strood,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001448,Romford,con,lab,con,lab,lab,lab,lab,con,1
-E14001449,Romsey and Southampton North,con,lib,con,con,con,con,lib,con,1
+E14001449,Romsey and Southampton North,con,con,con,con,con,con,lib,con,1
 E14001450,Rossendale and Darwen,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001451,Rother Valley,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001452,Rotherham,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -476,7 +476,7 @@ E14001457,Rushcliffe,con,lab,lab,lab,lab,lab,lab,lab,0
 S14000104,Rutherglen,snp,lab,lab,lab,lab,lab,lab,lab,0
 E14001458,Rutland and Stamford,con,con,con,con,con,con,con,con,0
 E14001459,Salford,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001460,Salisbury,con,con,con,con,con,con,con,con,0
+E14001460,Salisbury,con,lab,con,con,con,con,con,con,1
 E14001461,Scarborough and Whitby,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001462,Scunthorpe,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001463,Sefton Central,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -498,11 +498,11 @@ E14001478,Smethwick,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001479,Solihull West and Shirley,con,con,con,con,con,con,lab,con,1
 E14001480,South Basildon and East Thurrock,con,lab,con,lab,lab,con,lab,lab,1
 E14001481,South Cambridgeshire,con,lib,lib,lib,lib,lib,lib,lib,0
-E14001482,South Cotswolds,con,con,con,lib,con,con,lib,lib,1
+E14001482,South Cotswolds,con,lib,con,lib,con,con,lib,lib,1
 E14001483,South Derbyshire,con,lab,con,lab,lab,lab,lab,lab,1
 E14001484,South Devon,con,lib,con,con,con,con,lib,lib,1
 E14001485,South Dorset,con,lab,lab,lab,lab,con,lab,lab,1
-E14001486,South East Cornwall,con,con,con,lab,lab,con,lab,con,1
+E14001486,South East Cornwall,con,lab,con,lab,lab,con,lab,con,1
 E14001487,South Holland and the Deepings,con,con,con,con,con,con,lab,con,1
 E14001488,South Leicestershire,con,con,con,lab,con,con,lab,con,1
 E14001489,South Norfolk,con,lab,lab,lab,con,con,lab,lab,1
@@ -511,7 +511,7 @@ E14001491,South Ribble,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001492,South Shields,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001493,South Shropshire,con,con,con,con,con,con,con,con,0
 E14001494,South Suffolk,con,con,con,lab,con,con,lab,con,1
-E14001495,South West Devon,con,con,con,lab,con,con,lab,con,1
+E14001495,South West Devon,con,lab,con,lab,con,con,lab,con,1
 E14001496,South West Hertfordshire,con,con,con,lab,con,lab,lab,con,1
 E14001497,South West Norfolk,con,con,con,lab,con,con,lab,con,1
 E14001498,South West Wiltshire,con,lab,con,lab,lab,con,lab,con,1
@@ -600,7 +600,7 @@ E14001575,West Dorset,con,lib,con,con,con,con,lib,lib,1
 S14000106,West Dunbartonshire,snp,lab,lab,lab,lab,snp,snp,lab,1
 E14001576,West Ham and Beckton,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001577,West Lancashire,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001578,West Suffolk,con,con,con,lab,con,con,lab,con,1
+E14001578,West Suffolk,con,lab,con,lab,con,con,lab,con,1
 E14001579,West Worcestershire,con,con,con,con,con,con,lab,con,1
 E14001580,Westmorland and Lonsdale,con,lib,con,lib,lib,lib,lib,lib,1
 E14001581,Weston-super-Mare,con,lab,lab,lab,lab,lab,lab,lab,0
@@ -610,7 +610,7 @@ E14001584,Widnes and Halewood,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001585,Wigan,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001586,Wimbledon,con,lib,lib,lib,lib,lib,lib,lib,0
 E14001587,Winchester,con,lib,lib,lib,lib,lib,lib,lib,0
-E14001588,Windsor,con,con,lab,lab,con,con,con,con,1
+E14001588,Windsor,con,lab,lab,lab,con,con,con,con,1
 E14001589,Wirral West,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001590,Witham,con,con,con,con,con,con,lab,con,1
 E14001591,Witney,con,con,con,con,con,con,lib,con,1
@@ -624,7 +624,7 @@ E14001598,Worsley and Eccles,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001599,Worthing West,con,lab,lab,lab,lab,lab,lab,lab,0
 W07000111,Wrexham,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001600,Wycombe,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001601,Wyre Forest,con,con,con,lab,lab,con,lab,con,1
+E14001601,Wyre Forest,con,lab,con,lab,lab,con,lab,con,1
 E14001602,Wythenshawe and Sale East,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001603,Yeovil,con,lib,con,lib,con,con,lib,lib,1
 W07000112,Ynys Môn,con,lab,lab,lab,lab,lab,lab,lab,0
