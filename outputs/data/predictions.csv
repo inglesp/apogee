@@ -163,7 +163,7 @@ E14001193,Derby North,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001194,Derby South,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001195,Derbyshire Dales,con,lab,con,lab,lab,con,lab,lab,1
 E14001196,Dewsbury and Batley,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001197,Didcot and Wantage,con,lib,con,lib,con,con,lib,lib,1
+E14001197,Didcot and Wantage,con,lib,con,lib,lib,con,lib,lib,1
 E14001198,Doncaster Central,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001199,Doncaster East and the Isle of Axholme,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001200,Doncaster North,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -210,14 +210,14 @@ E14001228,Erewash,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001229,Erith and Thamesmead,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001230,Esher and Walton,con,lib,lib,lib,lib,lib,lib,lib,0
 E14001231,Exeter,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001232,Exmouth and Exeter East,con,con,con,con,con,con,lab,con,1
+E14001232,Exmouth and Exeter East,con,con,con,con,lab,con,lab,con,1
 S14000083,Falkirk,snp,snp,snp,snp,snp,snp,lab,lab,1
 E14001233,Fareham and Waterlooville,con,con,con,con,con,con,con,con,0
 E14001234,Farnham and Bordon,con,lib,con,lib,con,con,con,con,1
 E14001235,Faversham and Mid Kent,con,con,con,lab,con,con,lab,con,1
 E14001236,Feltham and Heston,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001237,Filton and Bradley Stoke,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001238,Finchley and Golders Green,con,lab,lab,lab,lab,lab,lab,lab,0
+E14001238,Finchley and Golders Green,con,lab,lab,lab,lib,lab,lab,lab,1
 E14001239,Folkestone and Hythe,con,lab,con,lab,lab,lab,lab,lab,1
 E14001240,Forest of Dean,con,lab,lab,lab,lab,con,lab,lab,1
 E14001241,Frome and East Somerset,con,lib,con,lib,con,con,lab,con,1
