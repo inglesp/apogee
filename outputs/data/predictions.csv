@@ -161,7 +161,7 @@ E14001191,Dartford,con,lab,con,lab,lab,lab,lab,lab,1
 E14001192,Daventry,con,con,con,con,con,con,lab,con,1
 E14001193,Derby North,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001194,Derby South,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001195,Derbyshire Dales,con,lab,lab,lab,lab,con,lab,lab,1
+E14001195,Derbyshire Dales,con,lab,con,lab,lab,con,lab,lab,1
 E14001196,Dewsbury and Batley,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001197,Didcot and Wantage,con,lib,con,lib,lib,con,lib,lib,1
 E14001198,Doncaster Central,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -266,7 +266,7 @@ E14001273,Harwich and North Essex,con,lab,con,lab,lab,con,lab,lab,1
 E14001274,Hastings and Rye,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001275,Havant,con,con,con,lab,con,con,lab,con,1
 E14001276,Hayes and Harlington,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001277,Hazel Grove,con,lib,lib,lib,lib,lib,lab,lib,1
+E14001277,Hazel Grove,con,lib,con,lib,lib,lib,lab,lib,1
 E14001278,Hemel Hempstead,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001279,Hendon,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001280,Henley and Thame,con,lib,con,lib,con,lib,lib,lib,1
@@ -402,7 +402,7 @@ E14001390,North East Cambridgeshire,con,con,con,con,con,con,lab,con,1
 E14001391,North East Derbyshire,con,lab,lab,lab,lab,lab,lab,lab,0
 S14000100,North East Fife,snp,lib,lib,lib,lib,lib,lib,snp,1
 E14001392,North East Hampshire,con,con,con,con,con,con,con,con,0
-E14001393,North East Hertfordshire,con,lab,lab,lab,lab,con,lab,lab,1
+E14001393,North East Hertfordshire,con,lab,con,lab,lab,con,lab,lab,1
 E14001394,North East Somerset and Hanham,con,lab,lab,lab,lab,con,lab,lab,1
 E14001395,North Herefordshire,con,con,con,con,con,con,con,con,0
 E14001396,North Norfolk,con,lib,con,con,con,con,lib,lib,1
