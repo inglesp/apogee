@@ -73,7 +73,7 @@ E14001118,Bradford East,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001119,Bradford South,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001120,Bradford West,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001121,Braintree,con,con,con,lab,con,con,lab,con,1
-W07000085,"Brecon, Radnor and Cwm Tawe",con,lib,con,con,con,con,lab,con,1
+W07000085,"Brecon, Radnor and Cwm Tawe",con,lib,con,con,lib,con,lab,con,1
 E14001122,Brent East,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001123,Brent West,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001124,Brentford and Isleworth,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -172,7 +172,7 @@ E14001202,Dover and Deal,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001203,Droitwich and Evesham,con,con,con,con,con,con,lab,con,1
 E14001204,Dudley,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001205,Dulwich and West Norwood,lab,lab,lab,lab,lab,lab,lab,lab,0
-S14000073,Dumfries and Galloway,con,con,con,lab,lab,lab,con,con,1
+S14000073,Dumfries and Galloway,con,con,con,lab,snp,lab,con,con,1
 S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,con,con,lab,con,con,con,con,1
 S14000075,Dundee Central,snp,snp,snp,lab,snp,snp,snp,snp,1
 S14000076,Dunfermline and Dollar,snp,lab,lab,lab,lab,snp,lab,lab,1
@@ -220,7 +220,7 @@ E14001237,Filton and Bradley Stoke,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001238,Finchley and Golders Green,con,lab,lab,lab,lib,lab,lab,lab,1
 E14001239,Folkestone and Hythe,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001240,Forest of Dean,con,lab,lab,lab,lab,con,lab,lab,1
-E14001241,Frome and East Somerset,con,lib,con,lib,con,con,lab,con,1
+E14001241,Frome and East Somerset,con,lib,con,lib,lib,con,lab,con,1
 E14001242,Fylde,con,lab,con,lab,lab,con,lab,con,1
 E14001243,Gainsborough,con,con,con,lab,con,con,con,con,1
 E14001244,Gateshead Central and Whickham,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -235,9 +235,9 @@ S14000089,Glasgow West,snp,lab,lab,lab,lab,snp,snp,lab,1
 E14001247,Glastonbury and Somerton,con,lib,con,lib,con,con,lib,con,1
 S14000090,Glenrothes and Mid Fife,snp,lab,lab,lab,lab,lab,lab,lab,0
 E14001248,Gloucester,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001249,Godalming and Ash,con,lib,con,lib,con,con,lib,lib,1
+E14001249,Godalming and Ash,con,lib,con,lib,lib,con,lib,lib,1
 E14001250,Goole and Pocklington,con,con,con,lab,con,con,lab,con,1
-S14000091,Gordon and Buchan,con,con,con,con,con,con,snp,con,1
+S14000091,Gordon and Buchan,con,con,con,con,snp,con,snp,con,1
 E14001251,Gorton and Denton,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001252,Gosport,con,con,con,lab,con,con,lab,con,1
 W07000097,Gower,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -352,7 +352,7 @@ E14001353,Manchester Rusholme,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001354,Manchester Withington,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001355,Mansfield,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001356,Melksham and Devizes,con,lib,con,con,con,con,con,con,1
-E14001357,Melton and Syston,con,lab,con,lab,con,con,lab,con,1
+E14001357,Melton and Syston,con,lab,con,lab,lab,con,lab,con,1
 E14001358,Meriden and Solihull East,con,lab,con,con,con,con,lab,con,1
 W07000099,Merthyr Tydfil and Aberdare,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001359,Mid Bedfordshire,con,con,con,lab,lab,con,lab,lab,1
@@ -391,7 +391,7 @@ W07000105,Newport West and Islwyn,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001381,Newton Abbot,con,con,con,lib,con,con,lab,con,1
 E14001382,Newton Aycliffe and Spennymoor,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001383,Normanton and Hemsworth,lab,lab,lab,lab,lab,lab,lab,lab,0
-S14000048,North Ayrshire and Arran,snp,snp,snp,snp,lab,snp,snp,lab,1
+S14000048,North Ayrshire and Arran,snp,snp,snp,snp,snp,snp,snp,lab,1
 E14001384,North Bedfordshire,con,con,con,lab,con,con,lab,con,1
 E14001385,North Cornwall,con,lib,con,lib,con,con,lib,lib,1
 E14001386,North Cotswolds,con,con,con,con,con,con,lab,con,1
@@ -511,7 +511,7 @@ E14001491,South Ribble,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001492,South Shields,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001493,South Shropshire,con,con,con,con,con,con,con,con,0
 E14001494,South Suffolk,con,con,con,lab,con,con,lab,con,1
-E14001495,South West Devon,con,lab,con,lab,con,con,lab,con,1
+E14001495,South West Devon,con,lab,con,lab,lab,con,lab,con,1
 E14001496,South West Hertfordshire,con,con,con,lab,con,lab,lab,con,1
 E14001497,South West Norfolk,con,con,con,lab,con,con,lab,con,1
 E14001498,South West Wiltshire,con,lab,con,lab,lab,con,lab,con,1
@@ -547,7 +547,7 @@ E14001526,Stratford-on-Avon,con,con,con,con,con,con,con,con,0
 E14001527,Streatham and Croydon North,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001528,Stretford and Urmston,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001529,Stroud,con,lab,lab,lab,lab,lab,lab,lab,0
-E14001530,Suffolk Coastal,con,lab,con,lab,con,con,lab,con,1
+E14001530,Suffolk Coastal,con,lab,con,lab,lab,con,lab,con,1
 E14001531,Sunderland Central,lab,lab,lab,lab,lab,lab,lab,lab,0
 E14001532,Surrey Heath,con,con,con,lib,con,con,con,lib,1
 E14001533,Sussex Weald,con,con,con,con,con,con,con,con,0
