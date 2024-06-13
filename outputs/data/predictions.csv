@@ -102,7 +102,7 @@ E14001145,Bury South,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001146,Bury St Edmunds and Stowmarket,con,con,con,lab,lab,con,lab,con,1
 W07000087,Caerfyrddin,con,pc,lab,pc,lab,pc,lab,lab,1
 W07000088,Caerphilly,lab,lab,lab,lab,lab,lab,lab,lab,0
-S14000069,"Caithness, Sutherland and Easter Ross",snp,lib,lib,lib,lib,lib,lib,snp,1
+S14000069,"Caithness, Sutherland and Easter Ross",snp,lib,snp,lib,lib,lib,lib,snp,1
 E14001147,Calder Valley,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001148,Camborne and Redruth,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001149,Cambridge,lab,lab,lab,lab,lab,lab,lab,lab,0
@@ -217,7 +217,7 @@ E14001234,Farnham and Bordon,con,lib,con,,con,con,con,con,1
 E14001235,Faversham and Mid Kent,con,con,con,,con,con,lab,con,1
 E14001236,Feltham and Heston,lab,lab,lab,,lab,lab,lab,lab,0
 E14001237,Filton and Bradley Stoke,con,lab,lab,,lab,lab,lab,lab,0
-E14001238,Finchley and Golders Green,con,lab,lab,,lib,lab,lab,lab,1
+E14001238,Finchley and Golders Green,con,lab,con,,lib,lab,lab,lab,1
 E14001239,Folkestone and Hythe,con,lab,con,,lab,lab,lab,lab,1
 E14001240,Forest of Dean,con,lab,lab,,lab,con,lab,lab,1
 E14001241,Frome and East Somerset,con,lib,con,,lib,con,lab,con,1
@@ -266,7 +266,7 @@ E14001273,Harwich and North Essex,con,lab,con,,lab,con,lab,lab,1
 E14001274,Hastings and Rye,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001275,Havant,con,con,con,con,con,con,lab,con,1
 E14001276,Hayes and Harlington,lab,lab,lab,lab,lab,lab,lab,lab,0
-E14001277,Hazel Grove,con,lib,con,lib,lib,lib,lab,lib,1
+E14001277,Hazel Grove,con,lib,lib,lib,lib,lib,lab,lib,1
 E14001278,Hemel Hempstead,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001279,Hendon,con,lab,lab,lab,lab,lab,lab,lab,0
 E14001280,Henley and Thame,con,lib,con,lib,con,lib,lib,lib,1
@@ -402,7 +402,7 @@ E14001390,North East Cambridgeshire,con,con,con,con,con,con,lab,con,1
 E14001391,North East Derbyshire,con,lab,lab,lab,lab,lab,lab,lab,0
 S14000100,North East Fife,snp,lib,lib,,lib,lib,lib,snp,1
 E14001392,North East Hampshire,con,con,con,,con,con,con,con,0
-E14001393,North East Hertfordshire,con,lab,con,lab,lab,con,lab,lab,1
+E14001393,North East Hertfordshire,con,lab,lab,lab,lab,con,lab,lab,1
 E14001394,North East Somerset and Hanham,con,lab,lab,lab,lab,con,lab,lab,1
 E14001395,North Herefordshire,con,con,con,con,con,con,con,con,0
 E14001396,North Norfolk,con,lib,con,lib,lib,con,lib,lib,1
