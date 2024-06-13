@@ -743,14 +743,14 @@ E14001155,Central Devon,con,oth,5.0,3.25067324971151,0.5,2.4,0.4,2.56,1.0
 E14001155,Central Devon,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001155,Central Devon,con,ref,14.0,8.96403538015111,10.0,15.5,8.6,12.87,10.0
 E14001155,Central Devon,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001156,Central Suffolk and North Ipswich,con,con,28.0,39.3078718431024,38.1,31.1,37.1,28.48,37.0
-E14001156,Central Suffolk and North Ipswich,con,grn,11.0,8.98854331070862,7.5,8.7,10.4,6.41,7.0
-E14001156,Central Suffolk and North Ipswich,con,lab,30.0,32.6265997460908,38.6,31.4,29.4,45.01,35.0
-E14001156,Central Suffolk and North Ipswich,con,lib,9.0,6.82896513417048,5.0,8.0,13.4,5.4,7.0
-E14001156,Central Suffolk and North Ipswich,con,oth,5.0,2.15636054046176,0.8,2.8,0.7,2.2,1.0
-E14001156,Central Suffolk and North Ipswich,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001156,Central Suffolk and North Ipswich,con,ref,17.0,10.091659425466,10.0,18.1,9.0,12.44,12.0
-E14001156,Central Suffolk and North Ipswich,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001156,Central Suffolk and North Ipswich,con,con,28.0,39.3078718431024,,31.1,37.1,28.48,37.0
+E14001156,Central Suffolk and North Ipswich,con,grn,11.0,8.98854331070862,,8.7,10.4,6.41,7.0
+E14001156,Central Suffolk and North Ipswich,con,lab,30.0,32.6265997460908,,31.4,29.4,45.01,35.0
+E14001156,Central Suffolk and North Ipswich,con,lib,9.0,6.82896513417048,,8.0,13.4,5.4,7.0
+E14001156,Central Suffolk and North Ipswich,con,oth,5.0,2.15636054046176,,2.8,0.7,2.2,1.0
+E14001156,Central Suffolk and North Ipswich,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001156,Central Suffolk and North Ipswich,con,ref,17.0,10.091659425466,,18.1,9.0,12.44,12.0
+E14001156,Central Suffolk and North Ipswich,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001157,Chatham and Aylesford,con,con,29.0,41.6246209699071,34.3,34.9,40.9,31.87,37.0
 E14001157,Chatham and Aylesford,con,grn,7.0,4.10199953690994,4.1,5.7,3.6,2.9,5.0
 E14001157,Chatham and Aylesford,con,lab,32.0,34.385223319535,46.2,35.1,37.3,37.38,37.0
@@ -871,14 +871,14 @@ E14001172,Cities of London and Westminster,con,oth,4.0,2.02510521059326,0.6,1.3,
 E14001172,Cities of London and Westminster,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001172,Cities of London and Westminster,con,ref,8.0,5.80245824484946,9.3,8.5,5.9,6.18,5.0
 E14001172,Cities of London and Westminster,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001173,City of Durham,lab,con,21.0,14.1423676144425,,16.0,25.0,15.26,16.0
-E14001173,City of Durham,lab,grn,4.0,4.67803092741206,,6.5,10.5,3.62,7.0
-E14001173,City of Durham,lab,lab,54.0,52.635616577166,,51.9,45.5,59.71,58.0
-E14001173,City of Durham,lab,lib,10.0,10.838193963111,,11.2,9.8,7.92,9.0
-E14001173,City of Durham,lab,oth,3.0,3.62962607918894,,1.9,0.9,1.93,1.0
-E14001173,City of Durham,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001173,City of Durham,lab,ref,8.0,14.0761648386796,,12.6,8.4,11.49,10.0
-E14001173,City of Durham,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001173,City of Durham,lab,con,21.0,14.1423676144425,17.4,16.0,25.0,15.26,16.0
+E14001173,City of Durham,lab,grn,4.0,4.67803092741206,5.2,6.5,10.5,3.62,7.0
+E14001173,City of Durham,lab,lab,54.0,52.635616577166,56.5,51.9,45.5,59.71,58.0
+E14001173,City of Durham,lab,lib,10.0,10.838193963111,8.8,11.2,9.8,7.92,9.0
+E14001173,City of Durham,lab,oth,3.0,3.62962607918894,1.0,1.9,0.9,1.93,1.0
+E14001173,City of Durham,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001173,City of Durham,lab,ref,8.0,14.0761648386796,11.1,12.6,8.4,11.49,10.0
+E14001173,City of Durham,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001174,Clacton,con,con,28.0,45.3141494649154,25.7,38.2,46.4,29.46,42.0
 E14001174,Clacton,con,grn,8.0,3.90057718440413,2.5,5.4,3.5,2.65,6.0
 E14001174,Clacton,con,lab,22.0,26.7409289658528,28.9,31.4,30.6,34.18,27.0
@@ -1111,118 +1111,118 @@ E14001202,Dover and Deal,con,oth,7.0,3.91137079947234,0.6,3.1,1.1,1.79,0.0
 E14001202,Dover and Deal,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001202,Dover and Deal,con,ref,13.0,13.1272787231324,11.7,12.8,7.7,16.28,14.0
 E14001202,Dover and Deal,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001203,Droitwich and Evesham,con,con,30.0,43.3561402438815,,35.8,41.6,34.2,39.0
-E14001203,Droitwich and Evesham,con,grn,9.0,6.69733074042793,,6.6,7.8,5.05,5.0
-E14001203,Droitwich and Evesham,con,lab,26.0,28.6887937634643,,30.1,26.6,34.73,30.0
-E14001203,Droitwich and Evesham,con,lib,10.0,8.1915621121585,,10.5,15.9,8.26,12.0
-E14001203,Droitwich and Evesham,con,oth,7.0,2.89464309989069,,2.1,0.8,1.3,1.0
-E14001203,Droitwich and Evesham,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001203,Droitwich and Evesham,con,ref,20.0,10.1715300401771,,14.9,7.3,16.41,14.0
-E14001203,Droitwich and Evesham,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001204,Dudley,con,con,39.0,37.2133415071385,,27.3,37.8,30.41,34.0
-E14001204,Dudley,con,grn,2.0,3.30162427336418,,5.5,2.8,1.86,5.0
-E14001204,Dudley,con,lab,41.0,40.4338272361948,,47.8,46.0,45.33,41.0
-E14001204,Dudley,con,lib,2.0,3.63389691698635,,3.4,5.0,3.65,4.0
-E14001204,Dudley,con,oth,0.0,2.77616196411401,,1.6,1.0,2.55,1.0
-E14001204,Dudley,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001204,Dudley,con,ref,16.0,12.6411481022022,,14.5,7.4,16.17,16.0
-E14001204,Dudley,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001205,Dulwich and West Norwood,lab,con,7.0,5.36532897445169,,10.0,13.7,16.56,4.0
-E14001205,Dulwich and West Norwood,lab,grn,17.0,20.9209520098404,,18.2,11.9,9.79,24.0
-E14001205,Dulwich and West Norwood,lab,lab,64.0,64.1209945998767,,63.1,67.6,58.47,61.0
-E14001205,Dulwich and West Norwood,lab,lib,6.0,4.80598692589483,,2.7,2.4,5.49,5.0
-E14001205,Dulwich and West Norwood,lab,oth,2.0,1.62297688080775,,1.2,1.4,2.91,3.0
-E14001205,Dulwich and West Norwood,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001205,Dulwich and West Norwood,lab,ref,4.0,3.16376060912867,,4.8,3.0,6.74,3.0
-E14001205,Dulwich and West Norwood,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001206,Dunstable and Leighton Buzzard,con,con,33.0,37.5681582673292,,28.8,36.0,31.2,34.0
-E14001206,Dunstable and Leighton Buzzard,con,grn,5.0,6.69282376695643,,7.2,4.2,5.08,6.0
-E14001206,Dunstable and Leighton Buzzard,con,lab,38.0,36.6982117191184,,38.6,37.4,41.11,38.0
-E14001206,Dunstable and Leighton Buzzard,con,lib,6.0,6.47503551484323,,7.7,12.8,7.55,7.0
-E14001206,Dunstable and Leighton Buzzard,con,oth,5.0,2.42809648442247,,2.1,0.5,2.57,1.0
-E14001206,Dunstable and Leighton Buzzard,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001206,Dunstable and Leighton Buzzard,con,ref,13.0,10.1376742473303,,15.6,9.1,12.46,13.0
-E14001206,Dunstable and Leighton Buzzard,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001207,Ealing Central and Acton,lab,con,12.0,12.0177542957539,,14.3,19.1,20.03,14.0
-E14001207,Ealing Central and Acton,lab,grn,7.0,7.53878621769081,,8.1,4.8,5.79,8.0
-E14001207,Ealing Central and Acton,lab,lab,57.0,61.0055258984442,,58.0,58.1,51.34,64.0
-E14001207,Ealing Central and Acton,lab,lib,14.0,11.1825878290334,,11.4,12.2,12.72,8.0
-E14001207,Ealing Central and Acton,lab,oth,2.0,3.06815276214281,,1.3,1.0,3.56,1.0
-E14001207,Ealing Central and Acton,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001207,Ealing Central and Acton,lab,ref,7.0,5.18719299693486,,6.9,4.8,6.53,5.0
-E14001207,Ealing Central and Acton,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001208,Ealing North,lab,con,15.0,14.7617663982131,,16.5,21.9,22.38,17.0
-E14001208,Ealing North,lab,grn,6.0,6.77236789270243,,5.1,4.1,3.74,10.0
-E14001208,Ealing North,lab,lab,61.0,63.1238835679966,,62.7,62.0,54.87,57.0
-E14001208,Ealing North,lab,lib,7.0,6.51934567490604,,5.4,5.6,7.94,7.0
-E14001208,Ealing North,lab,oth,3.0,3.204031079552,,2.0,1.9,4.72,1.0
-E14001208,Ealing North,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001208,Ealing North,lab,ref,9.0,5.61860538662986,,8.3,4.4,6.32,8.0
-E14001208,Ealing North,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001209,Ealing Southall,lab,con,11.0,9.65128007408941,,13.9,18.2,20.67,14.0
-E14001209,Ealing Southall,lab,grn,6.0,7.82662603454957,,9.3,5.6,5.5,13.0
-E14001209,Ealing Southall,lab,lab,65.0,64.9375498053928,,62.6,62.8,49.98,61.0
-E14001209,Ealing Southall,lab,lib,8.0,7.61135528999157,,5.5,6.1,10.46,6.0
-E14001209,Ealing Southall,lab,oth,3.0,3.30948505027696,,1.9,3.1,5.65,1.0
-E14001209,Ealing Southall,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001209,Ealing Southall,lab,ref,6.0,6.66370374569968,,6.8,4.2,7.69,6.0
-E14001209,Ealing Southall,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001210,Earley and Woodley,con,con,30.0,26.9758768158954,,27.8,32.6,29.66,30.0
-E14001210,Earley and Woodley,con,grn,5.0,6.61312726096718,,3.9,4.2,3.85,5.0
-E14001210,Earley and Woodley,con,lab,39.0,40.6045212365172,,32.2,37.9,40.48,41.0
-E14001210,Earley and Woodley,con,lib,11.0,15.7088990215866,,21.9,17.5,14.17,14.0
-E14001210,Earley and Woodley,con,oth,4.0,1.06622539069189,,2.8,0.7,2.63,1.0
-E14001210,Earley and Woodley,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001210,Earley and Woodley,con,ref,10.0,9.03135027434176,,11.4,7.0,9.19,9.0
-E14001210,Earley and Woodley,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001211,Easington,lab,con,14.0,10.6017006394208,,12.6,22.3,13.06,10.0
-E14001211,Easington,lab,grn,5.0,2.24947371944337,,4.6,3.7,2.37,5.0
-E14001211,Easington,lab,lab,56.0,49.1875675646691,,56.7,52.0,52.91,61.0
-E14001211,Easington,lab,lib,6.0,4.12168362061699,,3.3,5.2,4.75,4.0
-E14001211,Easington,lab,oth,7.0,5.89290383709268,,1.9,1.6,3.26,1.0
-E14001211,Easington,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001211,Easington,lab,ref,13.0,27.9466706187572,,20.9,15.1,23.52,19.0
-E14001211,Easington,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001212,East Grinstead and Uckfield,con,con,29.0,35.4197909441754,,31.4,35.8,31.47,41.0
-E14001212,East Grinstead and Uckfield,con,grn,7.0,9.03170752823099,,8.2,8.9,4.55,7.0
-E14001212,East Grinstead and Uckfield,con,lab,17.0,26.1963092746741,,18.3,24.1,31.8,23.0
-E14001212,East Grinstead and Uckfield,con,lib,27.0,18.4866203937368,,26.4,21.8,21.55,18.0
-E14001212,East Grinstead and Uckfield,con,oth,5.0,1.28746583424961,,2.1,0.7,1.55,1.0
-E14001212,East Grinstead and Uckfield,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001212,East Grinstead and Uckfield,con,ref,15.0,9.57810602493309,,13.6,8.7,9.03,10.0
-E14001212,East Grinstead and Uckfield,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001213,East Ham,lab,con,7.0,5.99005072691599,,9.8,11.9,14.41,5.0
-E14001213,East Ham,lab,grn,5.0,4.07338149076995,,7.9,4.9,4.47,12.0
-E14001213,East Ham,lab,lab,79.0,75.5462929144464,,72.3,72.6,66.71,70.0
-E14001213,East Ham,lab,lib,4.0,3.97115597124731,,3.9,3.6,5.31,4.0
-E14001213,East Ham,lab,oth,2.0,2.17724739584633,,1.3,3.8,3.94,4.0
-E14001213,East Ham,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001213,East Ham,lab,ref,4.0,8.24187150077403,,4.8,3.2,5.12,4.0
-E14001213,East Ham,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001214,East Hampshire,con,con,30.0,39.5857653558214,,33.2,36.5,31.79,37.0
-E14001214,East Hampshire,con,grn,8.0,8.34726827956556,,8.3,9.7,3.87,6.0
-E14001214,East Hampshire,con,lab,16.0,22.2904750943774,,16.4,20.7,25.25,18.0
-E14001214,East Hampshire,con,lib,25.0,18.3451592996092,,25.4,23.2,22.8,29.0
-E14001214,East Hampshire,con,oth,7.0,4.04683440666163,,2.0,0.6,1.01,1.0
-E14001214,East Hampshire,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001214,East Hampshire,con,ref,14.0,7.38449756396479,,14.7,9.3,15.26,9.0
-E14001214,East Hampshire,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001215,East Surrey,con,con,35.0,37.7027891987656,33.0,31.2,37.5,32.5,39.0
-E14001215,East Surrey,con,grn,6.0,5.31704171546993,2.6,6.4,7.0,3.23,5.0
-E14001215,East Surrey,con,lab,19.0,25.2967772773401,22.5,19.5,26.2,31.68,22.0
-E14001215,East Surrey,con,lib,27.0,14.1487724134924,28.0,23.7,18.7,18.47,22.0
-E14001215,East Surrey,con,oth,2.0,7.10799919706561,0.7,3.0,1.2,1.77,1.0
-E14001215,East Surrey,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001215,East Surrey,con,ref,12.0,10.4266201978663,13.1,16.3,9.4,12.34,11.0
-E14001215,East Surrey,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001216,East Thanet,con,con,27.0,31.9030848310401,29.1,26.0,33.8,30.47,29.0
-E14001216,East Thanet,con,grn,6.0,6.09829005703315,3.8,7.5,8.2,5.13,6.0
-E14001216,East Thanet,con,lab,42.0,43.2046970900371,50.9,49.6,44.5,43.16,48.0
-E14001216,East Thanet,con,lib,3.0,4.19408227583563,2.7,3.6,5.4,4.98,4.0
-E14001216,East Thanet,con,oth,4.0,3.26772701774629,1.3,2.0,0.7,2.04,1.0
-E14001216,East Thanet,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001216,East Thanet,con,ref,17.0,11.3321187283078,12.3,11.3,7.4,14.16,12.0
-E14001216,East Thanet,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001203,Droitwich and Evesham,con,con,30.0,43.3561402438815,44.5,35.8,41.6,34.2,39.0
+E14001203,Droitwich and Evesham,con,grn,9.0,6.69733074042793,5.0,6.6,7.8,5.05,5.0
+E14001203,Droitwich and Evesham,con,lab,26.0,28.6887937634643,36.8,30.1,26.6,34.73,30.0
+E14001203,Droitwich and Evesham,con,lib,10.0,8.1915621121585,3.4,10.5,15.9,8.26,12.0
+E14001203,Droitwich and Evesham,con,oth,7.0,2.89464309989069,0.8,2.1,0.8,1.3,1.0
+E14001203,Droitwich and Evesham,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001203,Droitwich and Evesham,con,ref,20.0,10.1715300401771,9.5,14.9,7.3,16.41,14.0
+E14001203,Droitwich and Evesham,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001204,Dudley,con,con,39.0,37.2133415071385,31.4,27.3,37.8,30.41,34.0
+E14001204,Dudley,con,grn,2.0,3.30162427336418,4.0,5.5,2.8,1.86,5.0
+E14001204,Dudley,con,lab,41.0,40.4338272361948,49.0,47.8,46.0,45.33,41.0
+E14001204,Dudley,con,lib,2.0,3.63389691698635,1.5,3.4,5.0,3.65,4.0
+E14001204,Dudley,con,oth,0.0,2.77616196411401,1.0,1.6,1.0,2.55,1.0
+E14001204,Dudley,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001204,Dudley,con,ref,16.0,12.6411481022022,13.1,14.5,7.4,16.17,16.0
+E14001204,Dudley,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001205,Dulwich and West Norwood,lab,con,7.0,5.36532897445169,5.1,10.0,13.7,16.56,4.0
+E14001205,Dulwich and West Norwood,lab,grn,17.0,20.9209520098404,16.8,18.2,11.9,9.79,24.0
+E14001205,Dulwich and West Norwood,lab,lab,64.0,64.1209945998767,65.9,63.1,67.6,58.47,61.0
+E14001205,Dulwich and West Norwood,lab,lib,6.0,4.80598692589483,2.5,2.7,2.4,5.49,5.0
+E14001205,Dulwich and West Norwood,lab,oth,2.0,1.62297688080775,1.5,1.2,1.4,2.91,3.0
+E14001205,Dulwich and West Norwood,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001205,Dulwich and West Norwood,lab,ref,4.0,3.16376060912867,8.3,4.8,3.0,6.74,3.0
+E14001205,Dulwich and West Norwood,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001206,Dunstable and Leighton Buzzard,con,con,33.0,37.5681582673292,28.8,28.8,36.0,31.2,34.0
+E14001206,Dunstable and Leighton Buzzard,con,grn,5.0,6.69282376695643,3.8,7.2,4.2,5.08,6.0
+E14001206,Dunstable and Leighton Buzzard,con,lab,38.0,36.6982117191184,43.8,38.6,37.4,41.11,38.0
+E14001206,Dunstable and Leighton Buzzard,con,lib,6.0,6.47503551484323,9.7,7.7,12.8,7.55,7.0
+E14001206,Dunstable and Leighton Buzzard,con,oth,5.0,2.42809648442247,0.8,2.1,0.5,2.57,1.0
+E14001206,Dunstable and Leighton Buzzard,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001206,Dunstable and Leighton Buzzard,con,ref,13.0,10.1376742473303,13.0,15.6,9.1,12.46,13.0
+E14001206,Dunstable and Leighton Buzzard,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001207,Ealing Central and Acton,lab,con,12.0,12.0177542957539,14.7,14.3,19.1,20.03,14.0
+E14001207,Ealing Central and Acton,lab,grn,7.0,7.53878621769081,7.3,8.1,4.8,5.79,8.0
+E14001207,Ealing Central and Acton,lab,lab,57.0,61.0055258984442,61.0,58.0,58.1,51.34,64.0
+E14001207,Ealing Central and Acton,lab,lib,14.0,11.1825878290334,7.4,11.4,12.2,12.72,8.0
+E14001207,Ealing Central and Acton,lab,oth,2.0,3.06815276214281,1.2,1.3,1.0,3.56,1.0
+E14001207,Ealing Central and Acton,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001207,Ealing Central and Acton,lab,ref,7.0,5.18719299693486,8.4,6.9,4.8,6.53,5.0
+E14001207,Ealing Central and Acton,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001208,Ealing North,lab,con,15.0,14.7617663982131,15.2,16.5,21.9,22.38,17.0
+E14001208,Ealing North,lab,grn,6.0,6.77236789270243,7.3,5.1,4.1,3.74,10.0
+E14001208,Ealing North,lab,lab,61.0,63.1238835679966,62.5,62.7,62.0,54.87,57.0
+E14001208,Ealing North,lab,lib,7.0,6.51934567490604,3.0,5.4,5.6,7.94,7.0
+E14001208,Ealing North,lab,oth,3.0,3.204031079552,1.6,2.0,1.9,4.72,1.0
+E14001208,Ealing North,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001208,Ealing North,lab,ref,9.0,5.61860538662986,10.3,8.3,4.4,6.32,8.0
+E14001208,Ealing North,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001209,Ealing Southall,lab,con,11.0,9.65128007408941,11.0,13.9,18.2,20.67,14.0
+E14001209,Ealing Southall,lab,grn,6.0,7.82662603454957,8.0,9.3,5.6,5.5,13.0
+E14001209,Ealing Southall,lab,lab,65.0,64.9375498053928,65.4,62.6,62.8,49.98,61.0
+E14001209,Ealing Southall,lab,lib,8.0,7.61135528999157,4.3,5.5,6.1,10.46,6.0
+E14001209,Ealing Southall,lab,oth,3.0,3.30948505027696,1.8,1.9,3.1,5.65,1.0
+E14001209,Ealing Southall,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001209,Ealing Southall,lab,ref,6.0,6.66370374569968,9.5,6.8,4.2,7.69,6.0
+E14001209,Ealing Southall,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001210,Earley and Woodley,con,con,30.0,26.9758768158954,34.0,27.8,32.6,29.66,30.0
+E14001210,Earley and Woodley,con,grn,5.0,6.61312726096718,5.6,3.9,4.2,3.85,5.0
+E14001210,Earley and Woodley,con,lab,39.0,40.6045212365172,48.3,32.2,37.9,40.48,41.0
+E14001210,Earley and Woodley,con,lib,11.0,15.7088990215866,11.4,21.9,17.5,14.17,14.0
+E14001210,Earley and Woodley,con,oth,4.0,1.06622539069189,0.7,2.8,0.7,2.63,1.0
+E14001210,Earley and Woodley,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001210,Earley and Woodley,con,ref,10.0,9.03135027434176,0.0,11.4,7.0,9.19,9.0
+E14001210,Earley and Woodley,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001211,Easington,lab,con,14.0,10.6017006394208,15.5,12.6,22.3,13.06,10.0
+E14001211,Easington,lab,grn,5.0,2.24947371944337,3.1,4.6,3.7,2.37,5.0
+E14001211,Easington,lab,lab,56.0,49.1875675646691,61.6,56.7,52.0,52.91,61.0
+E14001211,Easington,lab,lib,6.0,4.12168362061699,2.7,3.3,5.2,4.75,4.0
+E14001211,Easington,lab,oth,7.0,5.89290383709268,1.5,1.9,1.6,3.26,1.0
+E14001211,Easington,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001211,Easington,lab,ref,13.0,27.9466706187572,15.7,20.9,15.1,23.52,19.0
+E14001211,Easington,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001212,East Grinstead and Uckfield,con,con,29.0,35.4197909441754,44.9,31.4,35.8,31.47,41.0
+E14001212,East Grinstead and Uckfield,con,grn,7.0,9.03170752823099,9.1,8.2,8.9,4.55,7.0
+E14001212,East Grinstead and Uckfield,con,lab,17.0,26.1963092746741,23.7,18.3,24.1,31.8,23.0
+E14001212,East Grinstead and Uckfield,con,lib,27.0,18.4866203937368,21.4,26.4,21.8,21.55,18.0
+E14001212,East Grinstead and Uckfield,con,oth,5.0,1.28746583424961,0.9,2.1,0.7,1.55,1.0
+E14001212,East Grinstead and Uckfield,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001212,East Grinstead and Uckfield,con,ref,15.0,9.57810602493309,0.0,13.6,8.7,9.03,10.0
+E14001212,East Grinstead and Uckfield,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001213,East Ham,lab,con,7.0,5.99005072691599,7.2,9.8,11.9,14.41,5.0
+E14001213,East Ham,lab,grn,5.0,4.07338149076995,9.2,7.9,4.9,4.47,12.0
+E14001213,East Ham,lab,lab,79.0,75.5462929144464,68.7,72.3,72.6,66.71,70.0
+E14001213,East Ham,lab,lib,4.0,3.97115597124731,2.3,3.9,3.6,5.31,4.0
+E14001213,East Ham,lab,oth,2.0,2.17724739584633,2.6,1.3,3.8,3.94,4.0
+E14001213,East Ham,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001213,East Ham,lab,ref,4.0,8.24187150077403,10.0,4.8,3.2,5.12,4.0
+E14001213,East Ham,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001214,East Hampshire,con,con,30.0,39.5857653558214,37.3,33.2,36.5,31.79,37.0
+E14001214,East Hampshire,con,grn,8.0,8.34726827956556,5.2,8.3,9.7,3.87,6.0
+E14001214,East Hampshire,con,lab,16.0,22.2904750943774,20.0,16.4,20.7,25.25,18.0
+E14001214,East Hampshire,con,lib,25.0,18.3451592996092,25.6,25.4,23.2,22.8,29.0
+E14001214,East Hampshire,con,oth,7.0,4.04683440666163,0.7,2.0,0.6,1.01,1.0
+E14001214,East Hampshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001214,East Hampshire,con,ref,14.0,7.38449756396479,11.2,14.7,9.3,15.26,9.0
+E14001214,East Hampshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001215,East Surrey,con,con,35.0,37.7027891987656,,31.2,37.5,32.5,39.0
+E14001215,East Surrey,con,grn,6.0,5.31704171546993,,6.4,7.0,3.23,5.0
+E14001215,East Surrey,con,lab,19.0,25.2967772773401,,19.5,26.2,31.68,22.0
+E14001215,East Surrey,con,lib,27.0,14.1487724134924,,23.7,18.7,18.47,22.0
+E14001215,East Surrey,con,oth,2.0,7.10799919706561,,3.0,1.2,1.77,1.0
+E14001215,East Surrey,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001215,East Surrey,con,ref,12.0,10.4266201978663,,16.3,9.4,12.34,11.0
+E14001215,East Surrey,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001216,East Thanet,con,con,27.0,31.9030848310401,,26.0,33.8,30.47,29.0
+E14001216,East Thanet,con,grn,6.0,6.09829005703315,,7.5,8.2,5.13,6.0
+E14001216,East Thanet,con,lab,42.0,43.2046970900371,,49.6,44.5,43.16,48.0
+E14001216,East Thanet,con,lib,3.0,4.19408227583563,,3.6,5.4,4.98,4.0
+E14001216,East Thanet,con,oth,4.0,3.26772701774629,,2.0,0.7,2.04,1.0
+E14001216,East Thanet,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001216,East Thanet,con,ref,17.0,11.3321187283078,,11.3,7.4,14.16,12.0
+E14001216,East Thanet,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001217,East Wiltshire,con,con,30.0,37.866723166014,43.2,35.6,44.3,35.13,39.0
 E14001217,East Wiltshire,con,grn,8.0,7.62454325712589,4.0,5.5,5.0,4.84,5.0
 E14001217,East Wiltshire,con,lab,25.0,31.0936556282436,37.5,28.8,28.3,35.7,35.0
@@ -1239,446 +1239,446 @@ E14001218,East Worthing and Shoreham,con,oth,5.0,1.51259919143408,1.1,1.7,0.9,1.
 E14001218,East Worthing and Shoreham,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001218,East Worthing and Shoreham,con,ref,12.0,10.8717391964197,10.9,10.3,6.5,11.31,9.0
 E14001218,East Worthing and Shoreham,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001219,Eastbourne,con,con,25.0,29.200690538005,,27.7,31.6,24.69,21.0
-E14001219,Eastbourne,con,grn,5.0,5.96027144101912,,3.6,1.5,3.45,2.0
-E14001219,Eastbourne,con,lab,11.0,19.2051728469493,,12.9,16.6,16.03,10.0
-E14001219,Eastbourne,con,lib,42.0,33.918198514044,,39.3,41.4,40.83,54.0
-E14001219,Eastbourne,con,oth,5.0,1.34770303039083,,2.2,0.4,1.63,2.0
-E14001219,Eastbourne,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001219,Eastbourne,con,ref,12.0,10.3679636295917,,14.3,8.6,13.35,10.0
-E14001219,Eastbourne,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001220,Eastleigh,con,con,26.0,34.717847268106,,30.1,33.2,29.26,33.0
-E14001220,Eastleigh,con,grn,5.0,5.81214065179874,,5.4,2.3,2.79,6.0
-E14001220,Eastleigh,con,lab,15.0,22.3783263629543,,16.3,20.4,23.52,19.0
-E14001220,Eastleigh,con,lib,35.0,24.9921969017495,,33.0,36.6,31.01,31.0
-E14001220,Eastleigh,con,oth,5.0,3.02313233121037,,2.0,0.3,2.13,1.0
-E14001220,Eastleigh,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001220,Eastleigh,con,ref,13.0,9.07635648418111,,13.1,7.1,11.26,10.0
-E14001220,Eastleigh,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001221,Edmonton and Winchmore Hill,lab,con,14.0,14.350218485924,,16.2,22.4,21.95,17.0
-E14001221,Edmonton and Winchmore Hill,lab,grn,6.0,5.37472722987029,,5.2,3.6,3.3,9.0
-E14001221,Edmonton and Winchmore Hill,lab,lab,63.0,65.4496184939668,,63.6,62.8,55.5,61.0
-E14001221,Edmonton and Winchmore Hill,lab,lib,6.0,5.37940580999385,,4.4,4.6,7.5,5.0
-E14001221,Edmonton and Winchmore Hill,lab,oth,3.0,1.75843654483823,,2.1,1.4,4.56,1.0
-E14001221,Edmonton and Winchmore Hill,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001221,Edmonton and Winchmore Hill,lab,ref,8.0,7.6875934354069,,8.4,5.3,7.16,8.0
-E14001221,Edmonton and Winchmore Hill,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001222,Ellesmere Port and Bromborough,lab,con,13.0,16.4345989843921,,12.1,17.8,16.01,10.0
-E14001222,Ellesmere Port and Bromborough,lab,grn,6.0,3.04812425698341,,5.1,6.5,2.89,7.0
-E14001222,Ellesmere Port and Bromborough,lab,lab,64.0,61.2489266443323,,65.8,58.3,61.55,68.0
-E14001222,Ellesmere Port and Bromborough,lab,lib,6.0,4.51127060005854,,3.9,8.8,3.53,4.0
-E14001222,Ellesmere Port and Bromborough,lab,oth,2.0,3.71451323015788,,1.4,0.8,2.6,1.0
-E14001222,Ellesmere Port and Bromborough,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001222,Ellesmere Port and Bromborough,lab,ref,9.0,11.0425662840758,,11.6,7.8,13.35,11.0
-E14001222,Ellesmere Port and Bromborough,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001223,Eltham and Chislehurst,con,con,26.0,28.5153879720367,,27.0,30.3,23.96,26.0
-E14001223,Eltham and Chislehurst,con,grn,5.0,5.25430762735778,,5.2,3.1,4.79,6.0
-E14001223,Eltham and Chislehurst,con,lab,50.0,48.3777952481308,,50.7,53.1,50.47,52.0
-E14001223,Eltham and Chislehurst,con,lib,4.0,6.07551601237559,,4.9,4.9,6.1,5.0
-E14001223,Eltham and Chislehurst,con,oth,4.0,2.16633737130233,,1.7,1.2,4.71,1.0
-E14001223,Eltham and Chislehurst,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001223,Eltham and Chislehurst,con,ref,11.0,9.61065576879684,,10.4,7.4,9.93,9.0
-E14001223,Eltham and Chislehurst,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001224,Ely and East Cambridgeshire,con,con,31.0,33.3750019598174,,31.1,38.7,26.39,36.0
-E14001224,Ely and East Cambridgeshire,con,grn,4.0,4.03146018197497,,4.7,2.2,3.35,5.0
-E14001224,Ely and East Cambridgeshire,con,lab,19.0,27.5889533668804,,18.3,24.1,25.53,22.0
-E14001224,Ely and East Cambridgeshire,con,lib,36.0,21.060104115916,,31.1,28.3,30.71,26.0
-E14001224,Ely and East Cambridgeshire,con,oth,1.0,4.68505627261553,,2.1,0.6,1.31,1.0
-E14001224,Ely and East Cambridgeshire,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001224,Ely and East Cambridgeshire,con,ref,9.0,9.25942410279572,,12.6,6.1,12.69,10.0
-E14001224,Ely and East Cambridgeshire,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001225,Enfield North,lab,con,17.0,18.6890901767841,,19.7,24.5,23.58,19.0
-E14001225,Enfield North,lab,grn,6.0,5.4983072809945,,5.3,3.4,4.71,7.0
-E14001225,Enfield North,lab,lab,59.0,60.5531698025809,,60.6,60.7,54.77,60.0
-E14001225,Enfield North,lab,lib,5.0,5.24132197851626,,4.5,4.4,7.79,6.0
-E14001225,Enfield North,lab,oth,3.0,3.20246928063546,,1.5,1.2,2.49,1.0
-E14001225,Enfield North,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001225,Enfield North,lab,ref,10.0,6.81564148048879,,8.5,5.7,6.62,8.0
-E14001225,Enfield North,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001226,Epping Forest,con,con,29.0,41.5743403903566,,33.3,39.0,32.09,39.0
-E14001226,Epping Forest,con,grn,9.0,6.70868265764709,,7.5,6.3,3.41,7.0
-E14001226,Epping Forest,con,lab,28.0,31.6623192070023,,30.7,36.5,40.22,32.0
-E14001226,Epping Forest,con,lib,8.0,6.84452690493654,,7.6,7.7,7.58,8.0
-E14001226,Epping Forest,con,oth,6.0,1.82900084392447,,2.1,1.2,2.37,1.0
-E14001226,Epping Forest,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001226,Epping Forest,con,ref,19.0,11.381129996133,,18.7,9.2,14.3,14.0
-E14001226,Epping Forest,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001227,Epsom and Ewell,con,con,32.0,32.4289883271831,,30.1,33.6,31.16,33.0
-E14001227,Epsom and Ewell,con,grn,5.0,6.58830355048024,,6.9,3.3,2.76,4.0
-E14001227,Epsom and Ewell,con,lab,21.0,27.5139472110391,,20.2,35.7,32.12,22.0
-E14001227,Epsom and Ewell,con,lib,32.0,19.4362554981438,,27.3,17.2,21.63,32.0
-E14001227,Epsom and Ewell,con,oth,1.0,5.60543793452312,,2.4,1.4,2.58,1.0
-E14001227,Epsom and Ewell,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001227,Epsom and Ewell,con,ref,9.0,8.42706747863068,,13.0,8.8,9.71,8.0
-E14001227,Epsom and Ewell,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001228,Erewash,con,con,25.0,31.2371965889007,,26.3,32.3,27.49,31.0
-E14001228,Erewash,con,grn,7.0,3.66085147540829,,6.8,4.0,2.88,5.0
-E14001228,Erewash,con,lab,41.0,44.2178251838989,,48.6,48.0,47.96,45.0
-E14001228,Erewash,con,lib,5.0,4.62905927436627,,3.8,3.6,4.03,5.0
-E14001228,Erewash,con,oth,6.0,2.87082320844302,,1.3,1.8,1.83,1.0
-E14001228,Erewash,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001228,Erewash,con,ref,16.0,13.3842442689828,,13.2,10.4,15.78,13.0
-E14001228,Erewash,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001229,Erith and Thamesmead,lab,con,13.0,19.1660082481792,,13.8,20.0,24.59,13.0
-E14001229,Erith and Thamesmead,lab,grn,6.0,4.20474842229164,,4.2,4.0,3.07,10.0
-E14001229,Erith and Thamesmead,lab,lab,63.0,58.1138389760281,,62.8,63.5,49.18,64.0
-E14001229,Erith and Thamesmead,lab,lib,4.0,4.7480448597349,,4.0,4.2,9.86,5.0
-E14001229,Erith and Thamesmead,lab,oth,3.0,1.89504154388111,,2.0,1.5,5.17,1.0
-E14001229,Erith and Thamesmead,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001229,Erith and Thamesmead,lab,ref,10.0,11.8723179498851,,13.1,6.8,8.1,8.0
-E14001229,Erith and Thamesmead,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001230,Esher and Walton,con,con,28.0,28.4394357933058,,29.1,33.8,26.0,29.0
-E14001230,Esher and Walton,con,grn,4.0,4.11907537467978,,3.7,1.3,1.75,2.0
-E14001230,Esher and Walton,con,lab,12.0,17.5675361490371,,10.2,23.1,16.89,12.0
-E14001230,Esher and Walton,con,lib,47.0,38.0154470574405,,42.3,34.1,44.43,49.0
-E14001230,Esher and Walton,con,oth,1.0,4.07533567942544,,2.1,0.9,2.51,1.0
-E14001230,Esher and Walton,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001230,Esher and Walton,con,ref,8.0,7.78316994611133,,12.5,6.8,8.37,7.0
-E14001230,Esher and Walton,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001231,Exeter,lab,con,14.0,13.1162218403692,,15.1,21.8,17.7,14.0
-E14001231,Exeter,lab,grn,11.0,14.5391335741759,,8.8,12.4,10.63,13.0
-E14001231,Exeter,lab,lab,57.0,59.0438291718858,,61.5,54.6,49.46,60.0
-E14001231,Exeter,lab,lib,6.0,3.1763065560744,,2.8,3.7,7.55,4.0
-E14001231,Exeter,lab,oth,4.0,1.87119178374347,,1.0,1.2,3.58,1.0
-E14001231,Exeter,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001231,Exeter,lab,ref,9.0,8.25331707375121,,10.8,6.3,11.04,8.0
-E14001231,Exeter,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001232,Exmouth and Exeter East,con,con,25.0,40.643211804476,,31.7,35.8,22.46,33.0
-E14001232,Exmouth and Exeter East,con,grn,8.0,4.82310840113027,,4.6,5.3,6.66,6.0
-E14001232,Exmouth and Exeter East,con,lab,23.0,25.8666555894334,,32.7,31.4,35.78,29.0
-E14001232,Exmouth and Exeter East,con,lib,19.0,8.34333816550135,,4.1,9.0,12.15,11.0
-E14001232,Exmouth and Exeter East,con,oth,9.0,2.74532823294644,,9.3,5.9,5.6,5.0
-E14001232,Exmouth and Exeter East,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001232,Exmouth and Exeter East,con,ref,16.0,17.5783578065126,,17.7,12.7,17.26,15.0
-E14001232,Exmouth and Exeter East,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001233,Fareham and Waterlooville,con,con,28.0,44.1369540109951,,30.8,39.0,36.12,37.0
-E14001233,Fareham and Waterlooville,con,grn,8.0,7.06972143178166,,6.7,4.5,3.19,5.0
-E14001233,Fareham and Waterlooville,con,lab,24.0,25.0570962784487,,25.1,29.8,29.57,26.0
-E14001233,Fareham and Waterlooville,con,lib,15.0,10.4442573482788,,19.3,17.1,18.2,20.0
-E14001233,Fareham and Waterlooville,con,oth,5.0,3.18642315445753,,2.1,0.5,0.88,1.0
-E14001233,Fareham and Waterlooville,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001233,Fareham and Waterlooville,con,ref,18.0,10.1055477760382,,16.0,9.1,12.03,12.0
-E14001233,Fareham and Waterlooville,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001234,Farnham and Bordon,con,con,34.0,35.3647544369757,,33.9,39.1,30.75,39.0
-E14001234,Farnham and Bordon,con,grn,4.0,5.35706576406796,,4.7,3.2,2.88,3.0
-E14001234,Farnham and Bordon,con,lab,14.0,21.1600882315226,,12.9,20.4,24.05,16.0
-E14001234,Farnham and Bordon,con,lib,38.0,26.042316452327,,31.8,28.3,30.5,33.0
-E14001234,Farnham and Bordon,con,oth,0.0,2.95592192785524,,1.9,0.5,1.39,1.0
-E14001234,Farnham and Bordon,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001234,Farnham and Bordon,con,ref,9.0,9.11985318725154,,14.7,8.6,10.39,8.0
-E14001234,Farnham and Bordon,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001235,Faversham and Mid Kent,con,con,28.0,38.7034609933295,,30.8,38.5,30.29,37.0
-E14001235,Faversham and Mid Kent,con,grn,9.0,6.13355295370587,,7.1,6.8,3.41,6.0
-E14001235,Faversham and Mid Kent,con,lab,28.0,31.3576750807287,,30.8,30.1,34.81,35.0
-E14001235,Faversham and Mid Kent,con,lib,10.0,7.39968427572626,,9.8,14.7,10.3,10.0
-E14001235,Faversham and Mid Kent,con,oth,6.0,2.09146246294622,,3.0,0.7,3.59,1.0
-E14001235,Faversham and Mid Kent,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001235,Faversham and Mid Kent,con,ref,19.0,14.3141642335634,,18.4,9.3,17.58,12.0
-E14001235,Faversham and Mid Kent,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001236,Feltham and Heston,lab,con,17.0,18.7100174170563,,16.9,23.0,22.67,18.0
-E14001236,Feltham and Heston,lab,grn,7.0,4.43076149836551,,5.0,3.9,2.87,11.0
-E14001236,Feltham and Heston,lab,lab,57.0,58.9932625942538,,60.8,59.2,50.31,53.0
-E14001236,Feltham and Heston,lab,lib,5.0,5.18403676768312,,4.2,5.1,8.07,6.0
-E14001236,Feltham and Heston,lab,oth,3.0,2.31104617484395,,1.2,2.1,5.85,1.0
-E14001236,Feltham and Heston,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001236,Feltham and Heston,lab,ref,11.0,10.3708755477973,,12.0,6.7,10.21,10.0
-E14001236,Feltham and Heston,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001237,Filton and Bradley Stoke,con,con,33.0,26.9064421371193,,29.9,34.1,27.7,29.0
-E14001237,Filton and Bradley Stoke,con,grn,4.0,5.98342570404623,,5.7,4.0,5.96,6.0
-E14001237,Filton and Bradley Stoke,con,lab,48.0,48.0358907327066,,45.2,46.2,48.3,51.0
-E14001237,Filton and Bradley Stoke,con,lib,6.0,6.72887433974633,,6.7,8.4,7.7,6.0
-E14001237,Filton and Bradley Stoke,con,oth,0.0,1.79403219019906,,1.7,0.8,1.78,1.0
-E14001237,Filton and Bradley Stoke,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001237,Filton and Bradley Stoke,con,ref,8.0,10.5513348961825,,10.9,6.4,8.52,8.0
-E14001237,Filton and Bradley Stoke,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001238,Finchley and Golders Green,con,con,25.0,29.8333615263075,,25.1,31.3,27.92,35.0
-E14001238,Finchley and Golders Green,con,grn,5.0,6.00577911633647,,3.8,2.8,7.92,5.0
-E14001238,Finchley and Golders Green,con,lab,33.0,29.8114769503302,,29.2,41.8,32.73,38.0
-E14001238,Finchley and Golders Green,con,lib,31.0,25.4593566305781,,30.7,16.4,23.51,16.0
-E14001238,Finchley and Golders Green,con,oth,0.0,3.76391551319856,,1.8,1.4,2.83,1.0
-E14001238,Finchley and Golders Green,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001238,Finchley and Golders Green,con,ref,7.0,5.1261102632492,,9.4,6.3,5.01,5.0
-E14001238,Finchley and Golders Green,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001239,Folkestone and Hythe,con,con,30.0,34.8322709761825,,28.2,32.8,32.67,31.0
-E14001239,Folkestone and Hythe,con,grn,7.0,6.57360137864055,,7.7,9.6,4.68,8.0
-E14001239,Folkestone and Hythe,con,lab,36.0,34.8040890796844,,41.1,34.5,40.0,34.0
-E14001239,Folkestone and Hythe,con,lib,6.0,6.02049921789107,,5.7,12.5,6.59,11.0
-E14001239,Folkestone and Hythe,con,oth,6.0,3.33006477000576,,3.1,1.3,2.53,1.0
-E14001239,Folkestone and Hythe,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001239,Folkestone and Hythe,con,ref,14.0,14.4394745775958,,14.2,9.2,13.49,15.0
-E14001239,Folkestone and Hythe,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001240,Forest of Dean,con,con,31.0,34.7315035499483,,28.9,35.6,27.29,34.0
-E14001240,Forest of Dean,con,grn,8.0,11.1087961064876,,10.7,14.2,11.25,10.0
-E14001240,Forest of Dean,con,lab,38.0,35.975745881451,,42.3,34.1,42.91,38.0
-E14001240,Forest of Dean,con,lib,4.0,3.10149883366276,,2.7,5.9,2.82,4.0
-E14001240,Forest of Dean,con,oth,7.0,4.38514899865544,,2.3,1.5,2.63,1.0
-E14001240,Forest of Dean,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001240,Forest of Dean,con,ref,13.0,10.6973066297949,,13.1,8.7,13.0,13.0
-E14001240,Forest of Dean,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001241,Frome and East Somerset,con,con,29.0,32.1211498453683,,26.6,30.3,28.31,30.0
-E14001241,Frome and East Somerset,con,grn,7.0,9.99925672287769,,7.6,9.1,6.04,8.0
-E14001241,Frome and East Somerset,con,lab,23.0,28.9246521862711,,23.1,27.5,33.06,27.0
-E14001241,Frome and East Somerset,con,lib,33.0,18.6565545102675,,28.1,24.3,20.33,25.0
-E14001241,Frome and East Somerset,con,oth,1.0,2.32269060233425,,2.0,0.5,1.76,1.0
-E14001241,Frome and East Somerset,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001241,Frome and East Somerset,con,ref,8.0,7.97569613288115,,12.6,8.4,10.43,10.0
-E14001241,Frome and East Somerset,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001242,Fylde,con,con,28.0,39.3592852491264,,32.7,41.4,29.37,40.0
-E14001242,Fylde,con,grn,8.0,4.53859952324085,,6.2,3.9,4.29,5.0
-E14001242,Fylde,con,lab,33.0,33.5819431791272,,37.4,37.4,43.67,37.0
-E14001242,Fylde,con,lib,7.0,6.19579825354471,,5.8,8.0,6.26,5.0
-E14001242,Fylde,con,oth,7.0,3.18309116752889,,2.4,1.0,0.96,1.0
-E14001242,Fylde,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001242,Fylde,con,ref,17.0,13.141282627432,,15.6,8.2,15.33,12.0
-E14001242,Fylde,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001243,Gainsborough,con,con,29.0,42.9580195490705,,34.4,38.7,29.24,41.0
-E14001243,Gainsborough,con,grn,7.0,3.85836934648709,,5.2,1.8,4.56,4.0
-E14001243,Gainsborough,con,lab,29.0,31.9383749367207,,32.0,31.1,28.92,33.0
-E14001243,Gainsborough,con,lib,9.0,6.98279670833563,,8.3,13.2,10.11,7.0
-E14001243,Gainsborough,con,oth,8.0,3.97297312567628,,2.8,0.9,1.76,1.0
-E14001243,Gainsborough,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001243,Gainsborough,con,ref,18.0,10.2894663337099,,17.3,14.3,25.37,14.0
-E14001243,Gainsborough,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001244,Gateshead Central and Whickham,lab,con,16.0,12.6949040697468,,14.3,21.0,17.59,15.0
-E14001244,Gateshead Central and Whickham,lab,grn,6.0,5.30004876153886,,6.8,3.7,4.52,9.0
-E14001244,Gateshead Central and Whickham,lab,lab,53.0,57.6115609410991,,56.1,54.8,48.6,50.0
-E14001244,Gateshead Central and Whickham,lab,lib,10.0,6.39436426658528,,8.2,10.7,8.51,12.0
-E14001244,Gateshead Central and Whickham,lab,oth,3.0,1.99294011831676,,2.1,0.6,3.39,3.0
-E14001244,Gateshead Central and Whickham,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001244,Gateshead Central and Whickham,lab,ref,12.0,16.0061818427132,,12.6,9.1,17.33,12.0
-E14001244,Gateshead Central and Whickham,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001245,Gedling,con,con,31.0,24.97281447034,,23.7,28.8,24.58,26.0
-E14001245,Gedling,con,grn,3.0,4.12163662403332,,4.9,2.3,2.85,5.0
-E14001245,Gedling,con,lab,53.0,52.1481362242594,,51.7,53.2,47.87,53.0
-E14001245,Gedling,con,lib,2.0,4.53979399653873,,3.7,4.0,4.83,4.0
-E14001245,Gedling,con,oth,0.0,3.06124780391527,,1.5,1.2,3.39,1.0
-E14001245,Gedling,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001245,Gedling,con,ref,10.0,11.1563708809133,,14.5,10.6,16.44,11.0
-E14001245,Gedling,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001246,Gillingham and Rainham,con,con,32.0,38.9015150001285,,30.1,39.5,29.28,34.0
-E14001246,Gillingham and Rainham,con,grn,4.0,3.3660338053601,,5.7,3.5,2.28,5.0
-E14001246,Gillingham and Rainham,con,lab,38.0,38.4973987627874,,42.4,41.6,38.82,43.0
-E14001246,Gillingham and Rainham,con,lib,4.0,4.16442095310648,,3.5,5.9,4.69,4.0
-E14001246,Gillingham and Rainham,con,oth,8.0,4.66488603861338,,3.1,1.3,1.78,1.0
-E14001246,Gillingham and Rainham,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001246,Gillingham and Rainham,con,ref,14.0,10.4057454400041,,15.1,8.2,23.13,14.0
-E14001246,Gillingham and Rainham,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001247,Glastonbury and Somerton,con,con,33.0,34.3084717693147,,31.5,38.8,23.55,36.0
-E14001247,Glastonbury and Somerton,con,grn,5.0,5.57108570306674,,5.0,2.5,3.08,4.0
-E14001247,Glastonbury and Somerton,con,lab,16.0,22.1826985829813,,17.4,15.4,19.58,14.0
-E14001247,Glastonbury and Somerton,con,lib,38.0,22.4579861559008,,30.3,35.9,40.68,35.0
-E14001247,Glastonbury and Somerton,con,oth,0.0,3.04587707698898,,1.9,0.3,2.35,1.0
-E14001247,Glastonbury and Somerton,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001247,Glastonbury and Somerton,con,ref,9.0,12.4338807117476,,14.0,7.1,10.71,10.0
-E14001247,Glastonbury and Somerton,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001248,Gloucester,con,con,30.0,31.529349505631,,26.7,33.9,26.79,30.0
-E14001248,Gloucester,con,grn,4.0,4.83493093432222,,6.8,3.6,4.54,6.0
-E14001248,Gloucester,con,lab,45.0,44.7292252956075,,46.6,44.2,49.34,46.0
-E14001248,Gloucester,con,lib,4.0,5.46141273083881,,5.2,9.5,6.27,6.0
-E14001248,Gloucester,con,oth,5.0,2.98750175354226,,1.6,0.5,2.14,1.0
-E14001248,Gloucester,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001248,Gloucester,con,ref,12.0,10.4575797800582,,13.1,8.3,10.89,11.0
-E14001248,Gloucester,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001249,Godalming and Ash,con,con,31.0,34.1658948993222,,31.4,37.7,31.45,31.0
-E14001249,Godalming and Ash,con,grn,4.0,6.5492073429803,,5.6,4.5,1.85,3.0
-E14001249,Godalming and Ash,con,lab,15.0,19.4471378550956,,14.4,18.5,14.7,12.0
-E14001249,Godalming and Ash,con,lib,40.0,29.1616607387919,,33.0,32.4,41.94,46.0
-E14001249,Godalming and Ash,con,oth,1.0,2.77777359147748,,2.4,0.6,1.3,1.0
-E14001249,Godalming and Ash,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001249,Godalming and Ash,con,ref,9.0,7.89832557233251,,13.3,6.2,8.75,8.0
-E14001249,Godalming and Ash,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001250,Goole and Pocklington,con,con,29.0,42.9362938189157,,34.9,41.8,31.14,38.0
-E14001250,Goole and Pocklington,con,grn,8.0,4.69167873528344,,7.2,4.6,6.54,5.0
-E14001250,Goole and Pocklington,con,lab,29.0,30.9481485451525,,31.8,32.6,31.91,34.0
-E14001250,Goole and Pocklington,con,lib,7.0,6.50472664817083,,6.9,10.8,6.81,9.0
-E14001250,Goole and Pocklington,con,oth,8.0,4.91292806773036,,2.6,0.9,1.55,1.0
-E14001250,Goole and Pocklington,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001250,Goole and Pocklington,con,ref,18.0,10.0062241847472,,16.6,9.4,22.0,14.0
-E14001250,Goole and Pocklington,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001251,Gorton and Denton,lab,con,9.0,7.12939393091578,,9.2,14.7,15.17,7.0
-E14001251,Gorton and Denton,lab,grn,4.0,4.33115101736302,,6.8,4.2,3.57,11.0
-E14001251,Gorton and Denton,lab,lab,70.0,66.359306026164,,68.3,68.4,65.9,65.0
-E14001251,Gorton and Denton,lab,lib,8.0,5.012292098115,,5.2,4.6,5.11,5.0
-E14001251,Gorton and Denton,lab,oth,2.0,3.76259470419547,,1.3,2.1,2.81,4.0
-E14001251,Gorton and Denton,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001251,Gorton and Denton,lab,ref,6.0,13.4052622232468,,9.3,6.0,7.41,9.0
-E14001251,Gorton and Denton,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001252,Gosport,con,con,30.0,43.0022973184566,,35.9,39.3,29.1,38.0
-E14001252,Gosport,con,grn,8.0,6.14454129847376,,6.1,3.8,3.06,5.0
-E14001252,Gosport,con,lab,27.0,29.8366558055715,,30.5,30.8,35.04,30.0
-E14001252,Gosport,con,lib,10.0,7.04742891696783,,8.1,14.7,7.82,13.0
-E14001252,Gosport,con,oth,6.0,2.58989940755136,,2.0,0.5,1.65,1.0
-E14001252,Gosport,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001252,Gosport,con,ref,20.0,11.379177252979,,17.4,10.9,23.32,14.0
-E14001252,Gosport,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001253,Grantham and Bourne,con,con,30.0,43.3879830855138,,35.1,39.3,33.09,39.0
-E14001253,Grantham and Bourne,con,grn,9.0,6.77935008878286,,7.4,7.1,3.29,5.0
-E14001253,Grantham and Bourne,con,lab,29.0,30.2037859931004,,32.4,32.9,35.21,35.0
-E14001253,Grantham and Bourne,con,lib,7.0,7.07513929264639,,7.0,7.8,6.91,6.0
-E14001253,Grantham and Bourne,con,oth,7.0,3.72713610125126,,2.2,1.2,1.46,1.0
-E14001253,Grantham and Bourne,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001253,Grantham and Bourne,con,ref,19.0,8.82660543870528,,16.0,11.6,20.02,14.0
-E14001253,Grantham and Bourne,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001254,Gravesham,con,con,33.0,36.4798932224127,,29.8,37.7,36.36,34.0
-E14001254,Gravesham,con,grn,5.0,4.34304831415102,,5.7,3.1,2.9,6.0
-E14001254,Gravesham,con,lab,39.0,38.5903193737789,,42.3,44.6,40.63,41.0
-E14001254,Gravesham,con,lib,3.0,4.05177111974872,,3.4,5.2,4.76,5.0
-E14001254,Gravesham,con,oth,5.0,2.77408060597407,,2.9,1.0,1.73,1.0
-E14001254,Gravesham,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001254,Gravesham,con,ref,15.0,13.7608873639346,,15.8,8.5,13.61,13.0
-E14001254,Gravesham,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001255,Great Grimsby and Cleethorpes,con,con,37.0,40.1063173608583,,26.1,34.8,26.03,27.0
-E14001255,Great Grimsby and Cleethorpes,con,grn,3.0,2.7829196570228,,3.8,3.4,2.33,5.0
-E14001255,Great Grimsby and Cleethorpes,con,lab,43.0,37.4806235639941,,50.8,42.7,43.22,44.0
-E14001255,Great Grimsby and Cleethorpes,con,lib,3.0,3.89904636390484,,3.3,7.1,5.08,9.0
-E14001255,Great Grimsby and Cleethorpes,con,oth,0.0,2.02374203286166,,1.4,0.7,1.8,0.0
-E14001255,Great Grimsby and Cleethorpes,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001255,Great Grimsby and Cleethorpes,con,ref,14.0,13.7073510213583,,14.5,11.3,21.51,16.0
-E14001255,Great Grimsby and Cleethorpes,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001256,Great Yarmouth,con,con,28.0,38.6977118834568,,32.4,42.3,23.49,34.0
-E14001256,Great Yarmouth,con,grn,7.0,3.19501065285931,,5.5,3.5,2.59,4.0
-E14001256,Great Yarmouth,con,lab,32.0,34.4392311024511,,39.2,38.0,40.0,37.0
-E14001256,Great Yarmouth,con,lib,4.0,3.29737970161031,,3.3,5.7,3.63,5.0
-E14001256,Great Yarmouth,con,oth,8.0,4.12604968584871,,2.0,1.3,2.26,1.0
-E14001256,Great Yarmouth,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001256,Great Yarmouth,con,ref,21.0,16.2446169737738,,17.5,9.4,27.93,18.0
-E14001256,Great Yarmouth,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001257,Greenwich and Woolwich,lab,con,11.0,8.67559684339114,,12.1,18.3,20.95,12.0
-E14001257,Greenwich and Woolwich,lab,grn,8.0,8.65318556860313,,9.4,5.7,6.42,10.0
-E14001257,Greenwich and Woolwich,lab,lab,60.0,62.9465988901941,,60.9,62.2,51.76,63.0
-E14001257,Greenwich and Woolwich,lab,lib,12.0,9.8791155151146,,9.0,7.8,10.86,10.0
-E14001257,Greenwich and Woolwich,lab,oth,3.0,2.45210719981782,,1.2,1.6,4.15,1.0
-E14001257,Greenwich and Woolwich,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001257,Greenwich and Woolwich,lab,ref,7.0,7.39339598287925,,7.4,4.3,5.81,5.0
-E14001257,Greenwich and Woolwich,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001258,Guildford,con,con,27.0,25.8409804392362,,27.5,33.9,27.36,25.0
-E14001258,Guildford,con,grn,3.0,6.90781260634508,,3.7,2.1,2.19,3.0
-E14001258,Guildford,con,lab,13.0,20.5149461155815,,13.5,21.7,18.0,13.0
-E14001258,Guildford,con,lib,44.0,36.2052621193953,,38.8,34.6,40.86,50.0
-E14001258,Guildford,con,oth,5.0,1.25296550847255,,2.9,1.5,1.72,2.0
-E14001258,Guildford,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001258,Guildford,con,ref,7.0,9.27803321096944,,13.6,6.2,9.84,7.0
-E14001258,Guildford,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001259,Hackney North and Stoke Newington,lab,con,6.0,4.1104257368481,,7.8,11.1,15.85,3.0
-E14001259,Hackney North and Stoke Newington,lab,grn,9.0,15.2760128364592,,12.0,15.9,8.33,12.0
-E14001259,Hackney North and Stoke Newington,lab,lab,73.0,69.8739983977896,,69.7,64.5,58.43,78.0
-E14001259,Hackney North and Stoke Newington,lab,lib,7.0,5.73807155490698,,5.4,4.3,8.77,3.0
-E14001259,Hackney North and Stoke Newington,lab,oth,2.0,1.59487447041341,,1.0,1.6,2.34,1.0
-E14001259,Hackney North and Stoke Newington,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001259,Hackney North and Stoke Newington,lab,ref,3.0,3.40661700358271,,4.2,2.6,6.21,3.0
-E14001259,Hackney North and Stoke Newington,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001260,Hackney South and Shoreditch,lab,con,5.0,3.60984190453546,,6.8,9.4,16.49,2.0
-E14001260,Hackney South and Shoreditch,lab,grn,7.0,12.3040481170008,,10.6,14.7,14.16,16.0
-E14001260,Hackney South and Shoreditch,lab,lab,76.0,71.9886136610181,,72.0,67.1,52.58,75.0
-E14001260,Hackney South and Shoreditch,lab,lib,7.0,6.44993760680807,,5.6,4.8,8.13,3.0
-E14001260,Hackney South and Shoreditch,lab,oth,1.0,0.974275009684605,,0.9,1.4,3.55,1.0
-E14001260,Hackney South and Shoreditch,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001260,Hackney South and Shoreditch,lab,ref,3.0,4.67328370095299,,4.1,2.6,5.03,3.0
-E14001260,Hackney South and Shoreditch,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001261,Halesowen,con,con,26.0,35.1280379210468,,27.0,37.0,27.91,33.0
-E14001261,Halesowen,con,grn,6.0,3.9258325564671,,6.5,3.0,2.13,5.0
-E14001261,Halesowen,con,lab,39.0,41.5449882106251,,47.8,47.0,53.37,43.0
-E14001261,Halesowen,con,lib,4.0,4.20723598706435,,3.5,4.6,3.65,5.0
-E14001261,Halesowen,con,oth,6.0,2.60961824289911,,1.3,1.5,1.6,1.0
-E14001261,Halesowen,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001261,Halesowen,con,ref,18.0,12.5842870818975,,13.8,7.0,11.31,14.0
-E14001261,Halesowen,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001262,Halifax,lab,con,24.0,21.3828390532378,,18.9,25.0,18.81,22.0
-E14001262,Halifax,lab,grn,4.0,3.15278916335665,,5.3,5.4,5.69,8.0
-E14001262,Halifax,lab,lab,55.0,54.5496507026604,,55.9,53.0,46.86,49.0
-E14001262,Halifax,lab,lib,4.0,4.75845796925369,,3.7,5.2,4.77,6.0
-E14001262,Halifax,lab,oth,4.0,2.29856496918274,,1.0,1.3,2.6,2.0
-E14001262,Halifax,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001262,Halifax,lab,ref,9.0,13.8576981423087,,15.2,10.0,21.23,14.0
-E14001262,Halifax,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001263,Hamble Valley,con,con,31.0,36.8225694385031,,34.3,36.6,31.73,39.0
-E14001263,Hamble Valley,con,grn,6.0,6.1063372261922,,5.8,3.6,3.24,4.0
-E14001263,Hamble Valley,con,lab,17.0,26.4978750874184,,19.2,24.2,26.72,21.0
-E14001263,Hamble Valley,con,lib,25.0,16.8053321680827,,23.8,24.7,22.96,25.0
-E14001263,Hamble Valley,con,oth,6.0,3.29216352472537,,2.6,0.4,1.27,1.0
-E14001263,Hamble Valley,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001263,Hamble Valley,con,ref,16.0,10.4757225550782,,14.3,10.4,14.06,10.0
-E14001263,Hamble Valley,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001264,Hammersmith and Chiswick,lab,con,15.0,11.3755148524925,,18.7,22.7,20.63,17.0
-E14001264,Hammersmith and Chiswick,lab,grn,6.0,6.93342865499011,,7.0,4.3,4.45,9.0
-E14001264,Hammersmith and Chiswick,lab,lab,57.0,61.2368681949363,,57.8,59.4,48.47,60.0
-E14001264,Hammersmith and Chiswick,lab,lib,12.0,10.3530260021711,,8.2,7.4,12.11,9.0
-E14001264,Hammersmith and Chiswick,lab,oth,3.0,3.21918946651922,,1.0,1.3,5.32,1.0
-E14001264,Hammersmith and Chiswick,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001264,Hammersmith and Chiswick,lab,ref,8.0,6.88197282889076,,7.4,4.9,8.99,5.0
-E14001264,Hammersmith and Chiswick,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001265,Hampstead and Highgate,lab,con,11.0,7.84110822488555,,12.8,17.7,18.04,13.0
-E14001265,Hampstead and Highgate,lab,grn,7.0,8.40236186656444,,7.5,9.5,5.21,9.0
-E14001265,Hampstead and Highgate,lab,lab,53.0,57.245456606779,,53.8,51.4,45.89,60.0
-E14001265,Hampstead and Highgate,lab,lib,21.0,19.2329581724781,,17.5,15.9,19.45,14.0
-E14001265,Hampstead and Highgate,lab,oth,2.0,2.27453692043917,,1.4,1.1,6.72,1.0
-E14001265,Hampstead and Highgate,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001265,Hampstead and Highgate,lab,ref,6.0,5.00357820885377,,7.0,4.5,4.63,4.0
-E14001265,Hampstead and Highgate,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001266,"Harborough, Oadby and Wigston",con,con,25.0,32.6005899637733,,28.0,30.5,28.59,34.0
-E14001266,"Harborough, Oadby and Wigston",con,grn,8.0,5.98430807650296,,4.8,6.3,4.08,7.0
-E14001266,"Harborough, Oadby and Wigston",con,lab,32.0,37.7540231224261,,34.7,32.1,41.42,38.0
-E14001266,"Harborough, Oadby and Wigston",con,lib,14.0,11.4557824108911,,14.9,18.0,11.21,11.0
-E14001266,"Harborough, Oadby and Wigston",con,oth,6.0,2.17296738265061,,3.2,0.9,2.32,1.0
-E14001266,"Harborough, Oadby and Wigston",con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001266,"Harborough, Oadby and Wigston",con,ref,16.0,10.0323290437559,,14.5,12.2,12.31,10.0
-E14001266,"Harborough, Oadby and Wigston",con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001267,Harlow,con,con,34.0,39.5952745275629,,30.9,40.9,31.18,36.0
-E14001267,Harlow,con,grn,4.0,3.65147843965718,,4.1,2.5,3.88,5.0
-E14001267,Harlow,con,lab,39.0,38.0530605447027,,44.6,41.3,46.14,40.0
-E14001267,Harlow,con,lib,3.0,4.41615037229405,,3.7,6.3,4.5,4.0
-E14001267,Harlow,con,oth,5.0,2.20974242392786,,1.6,0.7,2.18,1.0
-E14001267,Harlow,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001267,Harlow,con,ref,14.0,12.0742936918553,,15.1,8.4,12.06,14.0
-E14001267,Harlow,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001268,Harpenden and Berkhamsted,con,con,32.0,29.8680925951674,,31.2,37.4,25.46,35.0
-E14001268,Harpenden and Berkhamsted,con,grn,5.0,5.70792412935183,,6.0,2.1,2.88,4.0
-E14001268,Harpenden and Berkhamsted,con,lab,17.0,27.3485768351979,,15.1,22.9,28.29,17.0
-E14001268,Harpenden and Berkhamsted,con,lib,33.0,24.1534191202634,,28.6,28.6,28.28,35.0
-E14001268,Harpenden and Berkhamsted,con,oth,5.0,1.66230216067818,,3.3,1.5,4.25,1.0
-E14001268,Harpenden and Berkhamsted,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001268,Harpenden and Berkhamsted,con,ref,9.0,11.2596851593414,,15.9,7.4,10.77,8.0
-E14001268,Harpenden and Berkhamsted,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001269,Harrogate and Knaresborough,con,con,26.0,34.8105437358594,,31.1,35.7,31.65,30.0
-E14001269,Harrogate and Knaresborough,con,grn,4.0,4.99627025702089,,4.4,1.6,3.04,2.0
-E14001269,Harrogate and Knaresborough,con,lab,13.0,18.5292139339834,,14.3,18.2,23.54,14.0
-E14001269,Harrogate and Knaresborough,con,lib,36.0,29.4930332329886,,35.2,37.4,31.46,46.0
-E14001269,Harrogate and Knaresborough,con,oth,7.0,4.22302933875095,,2.6,0.7,1.34,0.0
-E14001269,Harrogate and Knaresborough,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001269,Harrogate and Knaresborough,con,ref,13.0,7.94790950139679,,12.2,6.4,8.92,8.0
-E14001269,Harrogate and Knaresborough,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001270,Harrow East,con,con,35.0,36.4140801487247,,32.6,35.1,34.19,39.0
-E14001270,Harrow East,con,grn,3.0,4.80518006726538,,4.5,2.3,2.73,5.0
-E14001270,Harrow East,con,lab,51.0,44.4876030773998,,46.9,48.5,46.66,44.0
-E14001270,Harrow East,con,lib,5.0,5.3482042637857,,4.8,5.6,6.86,5.0
-E14001270,Harrow East,con,oth,0.0,1.80315755975411,,1.1,2.3,2.74,1.0
-E14001270,Harrow East,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001270,Harrow East,con,ref,7.0,7.14177488307036,,10.0,6.3,6.76,7.0
-E14001270,Harrow East,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001271,Harrow West,lab,con,16.0,18.695905645558,,19.1,24.1,25.55,21.0
-E14001271,Harrow West,lab,grn,6.0,5.24824496399461,,6.0,3.9,5.46,9.0
-E14001271,Harrow West,lab,lab,59.0,59.5325726417324,,60.4,59.1,51.67,56.0
-E14001271,Harrow West,lab,lib,7.0,6.38582897389212,,4.8,5.5,7.98,6.0
-E14001271,Harrow West,lab,oth,3.0,2.80113063360811,,1.8,2.5,3.94,1.0
-E14001271,Harrow West,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001271,Harrow West,lab,ref,9.0,7.33631714121472,,7.9,4.9,5.36,7.0
-E14001271,Harrow West,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001272,Hartlepool,lab,con,25.0,11.636204722727,,13.5,23.4,14.75,12.0
-E14001272,Hartlepool,lab,grn,2.0,1.89853612376926,,3.8,3.0,2.31,5.0
-E14001272,Hartlepool,lab,lab,49.0,49.9885149084927,,49.4,46.8,53.34,53.0
-E14001272,Hartlepool,lab,lib,3.0,4.40316659701827,,3.5,5.0,6.72,4.0
-E14001272,Hartlepool,lab,oth,4.0,4.39537480372764,,1.6,1.7,3.16,3.0
-E14001272,Hartlepool,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001272,Hartlepool,lab,ref,17.0,27.6782028442652,,28.2,20.0,19.67,23.0
-E14001272,Hartlepool,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001273,Harwich and North Essex,con,con,26.0,36.6598747820472,,27.6,38.8,33.49,35.0
-E14001273,Harwich and North Essex,con,grn,8.0,5.73406273934054,,7.9,4.4,3.62,6.0
-E14001273,Harwich and North Essex,con,lab,33.0,34.6484172870946,,38.0,35.6,37.56,39.0
-E14001273,Harwich and North Essex,con,lib,8.0,7.27165842242005,,7.5,11.9,8.74,6.0
-E14001273,Harwich and North Essex,con,oth,6.0,2.89671585647255,,2.9,0.7,1.78,1.0
-E14001273,Harwich and North Essex,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001273,Harwich and North Essex,con,ref,18.0,12.789270912625,,16.1,8.6,14.77,13.0
-E14001273,Harwich and North Essex,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001219,Eastbourne,con,con,25.0,29.200690538005,28.6,27.7,31.6,24.69,21.0
+E14001219,Eastbourne,con,grn,5.0,5.96027144101912,3.4,3.6,1.5,3.45,2.0
+E14001219,Eastbourne,con,lab,11.0,19.2051728469493,13.4,12.9,16.6,16.03,10.0
+E14001219,Eastbourne,con,lib,42.0,33.918198514044,43.6,39.3,41.4,40.83,54.0
+E14001219,Eastbourne,con,oth,5.0,1.34770303039083,0.5,2.2,0.4,1.63,2.0
+E14001219,Eastbourne,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001219,Eastbourne,con,ref,12.0,10.3679636295917,10.5,14.3,8.6,13.35,10.0
+E14001219,Eastbourne,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001220,Eastleigh,con,con,26.0,34.717847268106,26.2,30.1,33.2,29.26,33.0
+E14001220,Eastleigh,con,grn,5.0,5.81214065179874,2.9,5.4,2.3,2.79,6.0
+E14001220,Eastleigh,con,lab,15.0,22.3783263629543,15.3,16.3,20.4,23.52,19.0
+E14001220,Eastleigh,con,lib,35.0,24.9921969017495,42.9,33.0,36.6,31.01,31.0
+E14001220,Eastleigh,con,oth,5.0,3.02313233121037,0.8,2.0,0.3,2.13,1.0
+E14001220,Eastleigh,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001220,Eastleigh,con,ref,13.0,9.07635648418111,11.9,13.1,7.1,11.26,10.0
+E14001220,Eastleigh,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001221,Edmonton and Winchmore Hill,lab,con,14.0,14.350218485924,17.5,16.2,22.4,21.95,17.0
+E14001221,Edmonton and Winchmore Hill,lab,grn,6.0,5.37472722987029,6.4,5.2,3.6,3.3,9.0
+E14001221,Edmonton and Winchmore Hill,lab,lab,63.0,65.4496184939668,61.7,63.6,62.8,55.5,61.0
+E14001221,Edmonton and Winchmore Hill,lab,lib,6.0,5.37940580999385,3.4,4.4,4.6,7.5,5.0
+E14001221,Edmonton and Winchmore Hill,lab,oth,3.0,1.75843654483823,1.4,2.1,1.4,4.56,1.0
+E14001221,Edmonton and Winchmore Hill,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001221,Edmonton and Winchmore Hill,lab,ref,8.0,7.6875934354069,9.6,8.4,5.3,7.16,8.0
+E14001221,Edmonton and Winchmore Hill,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001222,Ellesmere Port and Bromborough,lab,con,13.0,16.4345989843921,15.9,12.1,17.8,16.01,10.0
+E14001222,Ellesmere Port and Bromborough,lab,grn,6.0,3.04812425698341,5.6,5.1,6.5,2.89,7.0
+E14001222,Ellesmere Port and Bromborough,lab,lab,64.0,61.2489266443323,66.1,65.8,58.3,61.55,68.0
+E14001222,Ellesmere Port and Bromborough,lab,lib,6.0,4.51127060005854,2.6,3.9,8.8,3.53,4.0
+E14001222,Ellesmere Port and Bromborough,lab,oth,2.0,3.71451323015788,1.0,1.4,0.8,2.6,1.0
+E14001222,Ellesmere Port and Bromborough,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001222,Ellesmere Port and Bromborough,lab,ref,9.0,11.0425662840758,8.8,11.6,7.8,13.35,11.0
+E14001222,Ellesmere Port and Bromborough,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001223,Eltham and Chislehurst,con,con,26.0,28.5153879720367,25.5,27.0,30.3,23.96,26.0
+E14001223,Eltham and Chislehurst,con,grn,5.0,5.25430762735778,4.1,5.2,3.1,4.79,6.0
+E14001223,Eltham and Chislehurst,con,lab,50.0,48.3777952481308,55.5,50.7,53.1,50.47,52.0
+E14001223,Eltham and Chislehurst,con,lib,4.0,6.07551601237559,4.1,4.9,4.9,6.1,5.0
+E14001223,Eltham and Chislehurst,con,oth,4.0,2.16633737130233,0.8,1.7,1.2,4.71,1.0
+E14001223,Eltham and Chislehurst,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001223,Eltham and Chislehurst,con,ref,11.0,9.61065576879684,10.0,10.4,7.4,9.93,9.0
+E14001223,Eltham and Chislehurst,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001224,Ely and East Cambridgeshire,con,con,31.0,33.3750019598174,32.7,31.1,38.7,26.39,36.0
+E14001224,Ely and East Cambridgeshire,con,grn,4.0,4.03146018197497,2.8,4.7,2.2,3.35,5.0
+E14001224,Ely and East Cambridgeshire,con,lab,19.0,27.5889533668804,19.6,18.3,24.1,25.53,22.0
+E14001224,Ely and East Cambridgeshire,con,lib,36.0,21.060104115916,34.1,31.1,28.3,30.71,26.0
+E14001224,Ely and East Cambridgeshire,con,oth,1.0,4.68505627261553,0.7,2.1,0.6,1.31,1.0
+E14001224,Ely and East Cambridgeshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001224,Ely and East Cambridgeshire,con,ref,9.0,9.25942410279572,10.1,12.6,6.1,12.69,10.0
+E14001224,Ely and East Cambridgeshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001225,Enfield North,lab,con,17.0,18.6890901767841,20.9,19.7,24.5,23.58,19.0
+E14001225,Enfield North,lab,grn,6.0,5.4983072809945,4.8,5.3,3.4,4.71,7.0
+E14001225,Enfield North,lab,lab,59.0,60.5531698025809,58.6,60.6,60.7,54.77,60.0
+E14001225,Enfield North,lab,lib,5.0,5.24132197851626,3.7,4.5,4.4,7.79,6.0
+E14001225,Enfield North,lab,oth,3.0,3.20246928063546,0.8,1.5,1.2,2.49,1.0
+E14001225,Enfield North,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001225,Enfield North,lab,ref,10.0,6.81564148048879,11.3,8.5,5.7,6.62,8.0
+E14001225,Enfield North,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001226,Epping Forest,con,con,29.0,41.5743403903566,44.3,33.3,39.0,32.09,39.0
+E14001226,Epping Forest,con,grn,9.0,6.70868265764709,5.5,7.5,6.3,3.41,7.0
+E14001226,Epping Forest,con,lab,28.0,31.6623192070023,43.5,30.7,36.5,40.22,32.0
+E14001226,Epping Forest,con,lib,8.0,6.84452690493654,5.7,7.6,7.7,7.58,8.0
+E14001226,Epping Forest,con,oth,6.0,1.82900084392447,1.0,2.1,1.2,2.37,1.0
+E14001226,Epping Forest,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001226,Epping Forest,con,ref,19.0,11.381129996133,0.0,18.7,9.2,14.3,14.0
+E14001226,Epping Forest,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001227,Epsom and Ewell,con,con,32.0,32.4289883271831,27.5,30.1,33.6,31.16,33.0
+E14001227,Epsom and Ewell,con,grn,5.0,6.58830355048024,2.7,6.9,3.3,2.76,4.0
+E14001227,Epsom and Ewell,con,lab,21.0,27.5139472110391,21.5,20.2,35.7,32.12,22.0
+E14001227,Epsom and Ewell,con,lib,32.0,19.4362554981438,34.6,27.3,17.2,21.63,32.0
+E14001227,Epsom and Ewell,con,oth,1.0,5.60543793452312,1.6,2.4,1.4,2.58,1.0
+E14001227,Epsom and Ewell,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001227,Epsom and Ewell,con,ref,9.0,8.42706747863068,12.1,13.0,8.8,9.71,8.0
+E14001227,Epsom and Ewell,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001228,Erewash,con,con,25.0,31.2371965889007,32.1,26.3,32.3,27.49,31.0
+E14001228,Erewash,con,grn,7.0,3.66085147540829,2.5,6.8,4.0,2.88,5.0
+E14001228,Erewash,con,lab,41.0,44.2178251838989,50.5,48.6,48.0,47.96,45.0
+E14001228,Erewash,con,lib,5.0,4.62905927436627,2.2,3.8,3.6,4.03,5.0
+E14001228,Erewash,con,oth,6.0,2.87082320844302,0.5,1.3,1.8,1.83,1.0
+E14001228,Erewash,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001228,Erewash,con,ref,16.0,13.3842442689828,12.1,13.2,10.4,15.78,13.0
+E14001228,Erewash,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001229,Erith and Thamesmead,lab,con,13.0,19.1660082481792,14.6,13.8,20.0,24.59,13.0
+E14001229,Erith and Thamesmead,lab,grn,6.0,4.20474842229164,6.1,4.2,4.0,3.07,10.0
+E14001229,Erith and Thamesmead,lab,lab,63.0,58.1138389760281,64.3,62.8,63.5,49.18,64.0
+E14001229,Erith and Thamesmead,lab,lib,4.0,4.7480448597349,2.6,4.0,4.2,9.86,5.0
+E14001229,Erith and Thamesmead,lab,oth,3.0,1.89504154388111,1.4,2.0,1.5,5.17,1.0
+E14001229,Erith and Thamesmead,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001229,Erith and Thamesmead,lab,ref,10.0,11.8723179498851,11.1,13.1,6.8,8.1,8.0
+E14001229,Erith and Thamesmead,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001230,Esher and Walton,con,con,28.0,28.4394357933058,27.1,29.1,33.8,26.0,29.0
+E14001230,Esher and Walton,con,grn,4.0,4.11907537467978,2.4,3.7,1.3,1.75,2.0
+E14001230,Esher and Walton,con,lab,12.0,17.5675361490371,15.3,10.2,23.1,16.89,12.0
+E14001230,Esher and Walton,con,lib,47.0,38.0154470574405,46.6,42.3,34.1,44.43,49.0
+E14001230,Esher and Walton,con,oth,1.0,4.07533567942544,0.6,2.1,0.9,2.51,1.0
+E14001230,Esher and Walton,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001230,Esher and Walton,con,ref,8.0,7.78316994611133,8.0,12.5,6.8,8.37,7.0
+E14001230,Esher and Walton,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001231,Exeter,lab,con,14.0,13.1162218403692,15.6,15.1,21.8,17.7,14.0
+E14001231,Exeter,lab,grn,11.0,14.5391335741759,10.2,8.8,12.4,10.63,13.0
+E14001231,Exeter,lab,lab,57.0,59.0438291718858,61.5,61.5,54.6,49.46,60.0
+E14001231,Exeter,lab,lib,6.0,3.1763065560744,2.7,2.8,3.7,7.55,4.0
+E14001231,Exeter,lab,oth,4.0,1.87119178374347,1.5,1.0,1.2,3.58,1.0
+E14001231,Exeter,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001231,Exeter,lab,ref,9.0,8.25331707375121,8.6,10.8,6.3,11.04,8.0
+E14001231,Exeter,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001232,Exmouth and Exeter East,con,con,25.0,40.643211804476,31.1,31.7,35.8,22.46,33.0
+E14001232,Exmouth and Exeter East,con,grn,8.0,4.82310840113027,2.7,4.6,5.3,6.66,6.0
+E14001232,Exmouth and Exeter East,con,lab,23.0,25.8666555894334,20.5,32.7,31.4,35.78,29.0
+E14001232,Exmouth and Exeter East,con,lib,19.0,8.34333816550135,28.4,4.1,9.0,12.15,11.0
+E14001232,Exmouth and Exeter East,con,oth,9.0,2.74532823294644,5.7,9.3,5.9,5.6,5.0
+E14001232,Exmouth and Exeter East,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001232,Exmouth and Exeter East,con,ref,16.0,17.5783578065126,11.6,17.7,12.7,17.26,15.0
+E14001232,Exmouth and Exeter East,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001233,Fareham and Waterlooville,con,con,28.0,44.1369540109951,36.5,30.8,39.0,36.12,37.0
+E14001233,Fareham and Waterlooville,con,grn,8.0,7.06972143178166,4.9,6.7,4.5,3.19,5.0
+E14001233,Fareham and Waterlooville,con,lab,24.0,25.0570962784487,23.8,25.1,29.8,29.57,26.0
+E14001233,Fareham and Waterlooville,con,lib,15.0,10.4442573482788,22.5,19.3,17.1,18.2,20.0
+E14001233,Fareham and Waterlooville,con,oth,5.0,3.18642315445753,0.6,2.1,0.5,0.88,1.0
+E14001233,Fareham and Waterlooville,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001233,Fareham and Waterlooville,con,ref,18.0,10.1055477760382,11.7,16.0,9.1,12.03,12.0
+E14001233,Fareham and Waterlooville,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001234,Farnham and Bordon,con,con,34.0,35.3647544369757,31.7,33.9,39.1,30.75,39.0
+E14001234,Farnham and Bordon,con,grn,4.0,5.35706576406796,1.9,4.7,3.2,2.88,3.0
+E14001234,Farnham and Bordon,con,lab,14.0,21.1600882315226,16.2,12.9,20.4,24.05,16.0
+E14001234,Farnham and Bordon,con,lib,38.0,26.042316452327,39.2,31.8,28.3,30.5,33.0
+E14001234,Farnham and Bordon,con,oth,0.0,2.95592192785524,0.5,1.9,0.5,1.39,1.0
+E14001234,Farnham and Bordon,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001234,Farnham and Bordon,con,ref,9.0,9.11985318725154,10.5,14.7,8.6,10.39,8.0
+E14001234,Farnham and Bordon,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001235,Faversham and Mid Kent,con,con,28.0,38.7034609933295,37.7,30.8,38.5,30.29,37.0
+E14001235,Faversham and Mid Kent,con,grn,9.0,6.13355295370587,4.9,7.1,6.8,3.41,6.0
+E14001235,Faversham and Mid Kent,con,lab,28.0,31.3576750807287,41.6,30.8,30.1,34.81,35.0
+E14001235,Faversham and Mid Kent,con,lib,10.0,7.39968427572626,3.8,9.8,14.7,10.3,10.0
+E14001235,Faversham and Mid Kent,con,oth,6.0,2.09146246294622,1.0,3.0,0.7,3.59,1.0
+E14001235,Faversham and Mid Kent,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001235,Faversham and Mid Kent,con,ref,19.0,14.3141642335634,11.0,18.4,9.3,17.58,12.0
+E14001235,Faversham and Mid Kent,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001236,Feltham and Heston,lab,con,17.0,18.7100174170563,18.0,16.9,23.0,22.67,18.0
+E14001236,Feltham and Heston,lab,grn,7.0,4.43076149836551,5.5,5.0,3.9,2.87,11.0
+E14001236,Feltham and Heston,lab,lab,57.0,58.9932625942538,58.4,60.8,59.2,50.31,53.0
+E14001236,Feltham and Heston,lab,lib,5.0,5.18403676768312,2.9,4.2,5.1,8.07,6.0
+E14001236,Feltham and Heston,lab,oth,3.0,2.31104617484395,0.9,1.2,2.1,5.85,1.0
+E14001236,Feltham and Heston,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001236,Feltham and Heston,lab,ref,11.0,10.3708755477973,14.2,12.0,6.7,10.21,10.0
+E14001236,Feltham and Heston,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001237,Filton and Bradley Stoke,con,con,33.0,26.9064421371193,29.0,29.9,34.1,27.7,29.0
+E14001237,Filton and Bradley Stoke,con,grn,4.0,5.98342570404623,3.6,5.7,4.0,5.96,6.0
+E14001237,Filton and Bradley Stoke,con,lab,48.0,48.0358907327066,51.2,45.2,46.2,48.3,51.0
+E14001237,Filton and Bradley Stoke,con,lib,6.0,6.72887433974633,5.7,6.7,8.4,7.7,6.0
+E14001237,Filton and Bradley Stoke,con,oth,0.0,1.79403219019906,0.0,1.7,0.8,1.78,1.0
+E14001237,Filton and Bradley Stoke,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001237,Filton and Bradley Stoke,con,ref,8.0,10.5513348961825,10.6,10.9,6.4,8.52,8.0
+E14001237,Filton and Bradley Stoke,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001238,Finchley and Golders Green,con,con,25.0,29.8333615263075,28.2,25.1,31.3,27.92,35.0
+E14001238,Finchley and Golders Green,con,grn,5.0,6.00577911633647,6.4,3.8,2.8,7.92,5.0
+E14001238,Finchley and Golders Green,con,lab,33.0,29.8114769503302,31.8,29.2,41.8,32.73,38.0
+E14001238,Finchley and Golders Green,con,lib,31.0,25.4593566305781,24.9,30.7,16.4,23.51,16.0
+E14001238,Finchley and Golders Green,con,oth,0.0,3.76391551319856,0.7,1.8,1.4,2.83,1.0
+E14001238,Finchley and Golders Green,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001238,Finchley and Golders Green,con,ref,7.0,5.1261102632492,7.9,9.4,6.3,5.01,5.0
+E14001238,Finchley and Golders Green,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001239,Folkestone and Hythe,con,con,30.0,34.8322709761825,36.1,28.2,32.8,32.67,31.0
+E14001239,Folkestone and Hythe,con,grn,7.0,6.57360137864055,5.3,7.7,9.6,4.68,8.0
+E14001239,Folkestone and Hythe,con,lab,36.0,34.8040890796844,42.0,41.1,34.5,40.0,34.0
+E14001239,Folkestone and Hythe,con,lib,6.0,6.02049921789107,4.4,5.7,12.5,6.59,11.0
+E14001239,Folkestone and Hythe,con,oth,6.0,3.33006477000576,0.7,3.1,1.3,2.53,1.0
+E14001239,Folkestone and Hythe,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001239,Folkestone and Hythe,con,ref,14.0,14.4394745775958,11.5,14.2,9.2,13.49,15.0
+E14001239,Folkestone and Hythe,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001240,Forest of Dean,con,con,31.0,34.7315035499483,32.7,28.9,35.6,27.29,34.0
+E14001240,Forest of Dean,con,grn,8.0,11.1087961064876,8.0,10.7,14.2,11.25,10.0
+E14001240,Forest of Dean,con,lab,38.0,35.975745881451,43.5,42.3,34.1,42.91,38.0
+E14001240,Forest of Dean,con,lib,4.0,3.10149883366276,3.4,2.7,5.9,2.82,4.0
+E14001240,Forest of Dean,con,oth,7.0,4.38514899865544,1.3,2.3,1.5,2.63,1.0
+E14001240,Forest of Dean,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001240,Forest of Dean,con,ref,13.0,10.6973066297949,11.1,13.1,8.7,13.0,13.0
+E14001240,Forest of Dean,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001241,Frome and East Somerset,con,con,29.0,32.1211498453683,28.4,26.6,30.3,28.31,30.0
+E14001241,Frome and East Somerset,con,grn,7.0,9.99925672287769,6.1,7.6,9.1,6.04,8.0
+E14001241,Frome and East Somerset,con,lab,23.0,28.9246521862711,19.3,23.1,27.5,33.06,27.0
+E14001241,Frome and East Somerset,con,lib,33.0,18.6565545102675,35.2,28.1,24.3,20.33,25.0
+E14001241,Frome and East Somerset,con,oth,1.0,2.32269060233425,1.4,2.0,0.5,1.76,1.0
+E14001241,Frome and East Somerset,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001241,Frome and East Somerset,con,ref,8.0,7.97569613288115,9.6,12.6,8.4,10.43,10.0
+E14001241,Frome and East Somerset,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001242,Fylde,con,con,28.0,39.3592852491264,39.4,32.7,41.4,29.37,40.0
+E14001242,Fylde,con,grn,8.0,4.53859952324085,2.8,6.2,3.9,4.29,5.0
+E14001242,Fylde,con,lab,33.0,33.5819431791272,42.7,37.4,37.4,43.67,37.0
+E14001242,Fylde,con,lib,7.0,6.19579825354471,3.0,5.8,8.0,6.26,5.0
+E14001242,Fylde,con,oth,7.0,3.18309116752889,0.9,2.4,1.0,0.96,1.0
+E14001242,Fylde,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001242,Fylde,con,ref,17.0,13.141282627432,11.3,15.6,8.2,15.33,12.0
+E14001242,Fylde,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001243,Gainsborough,con,con,29.0,42.9580195490705,39.3,34.4,38.7,29.24,41.0
+E14001243,Gainsborough,con,grn,7.0,3.85836934648709,2.2,5.2,1.8,4.56,4.0
+E14001243,Gainsborough,con,lab,29.0,31.9383749367207,41.0,32.0,31.1,28.92,33.0
+E14001243,Gainsborough,con,lib,9.0,6.98279670833563,4.4,8.3,13.2,10.11,7.0
+E14001243,Gainsborough,con,oth,8.0,3.97297312567628,0.8,2.8,0.9,1.76,1.0
+E14001243,Gainsborough,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001243,Gainsborough,con,ref,18.0,10.2894663337099,12.3,17.3,14.3,25.37,14.0
+E14001243,Gainsborough,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001244,Gateshead Central and Whickham,lab,con,16.0,12.6949040697468,18.2,14.3,21.0,17.59,15.0
+E14001244,Gateshead Central and Whickham,lab,grn,6.0,5.30004876153886,3.8,6.8,3.7,4.52,9.0
+E14001244,Gateshead Central and Whickham,lab,lab,53.0,57.6115609410991,58.9,56.1,54.8,48.6,50.0
+E14001244,Gateshead Central and Whickham,lab,lib,10.0,6.39436426658528,4.9,8.2,10.7,8.51,12.0
+E14001244,Gateshead Central and Whickham,lab,oth,3.0,1.99294011831676,0.7,2.1,0.6,3.39,3.0
+E14001244,Gateshead Central and Whickham,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001244,Gateshead Central and Whickham,lab,ref,12.0,16.0061818427132,13.5,12.6,9.1,17.33,12.0
+E14001244,Gateshead Central and Whickham,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001245,Gedling,con,con,31.0,24.97281447034,25.6,23.7,28.8,24.58,26.0
+E14001245,Gedling,con,grn,3.0,4.12163662403332,3.2,4.9,2.3,2.85,5.0
+E14001245,Gedling,con,lab,53.0,52.1481362242594,57.4,51.7,53.2,47.87,53.0
+E14001245,Gedling,con,lib,2.0,4.53979399653873,2.4,3.7,4.0,4.83,4.0
+E14001245,Gedling,con,oth,0.0,3.06124780391527,0.7,1.5,1.2,3.39,1.0
+E14001245,Gedling,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001245,Gedling,con,ref,10.0,11.1563708809133,10.6,14.5,10.6,16.44,11.0
+E14001245,Gedling,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001246,Gillingham and Rainham,con,con,32.0,38.9015150001285,33.7,30.1,39.5,29.28,34.0
+E14001246,Gillingham and Rainham,con,grn,4.0,3.3660338053601,4.2,5.7,3.5,2.28,5.0
+E14001246,Gillingham and Rainham,con,lab,38.0,38.4973987627874,44.8,42.4,41.6,38.82,43.0
+E14001246,Gillingham and Rainham,con,lib,4.0,4.16442095310648,3.6,3.5,5.9,4.69,4.0
+E14001246,Gillingham and Rainham,con,oth,8.0,4.66488603861338,0.9,3.1,1.3,1.78,1.0
+E14001246,Gillingham and Rainham,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001246,Gillingham and Rainham,con,ref,14.0,10.4057454400041,12.9,15.1,8.2,23.13,14.0
+E14001246,Gillingham and Rainham,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001247,Glastonbury and Somerton,con,con,33.0,34.3084717693147,28.3,31.5,38.8,23.55,36.0
+E14001247,Glastonbury and Somerton,con,grn,5.0,5.57108570306674,5.4,5.0,2.5,3.08,4.0
+E14001247,Glastonbury and Somerton,con,lab,16.0,22.1826985829813,7.3,17.4,15.4,19.58,14.0
+E14001247,Glastonbury and Somerton,con,lib,38.0,22.4579861559008,50.8,30.3,35.9,40.68,35.0
+E14001247,Glastonbury and Somerton,con,oth,0.0,3.04587707698898,0.0,1.9,0.3,2.35,1.0
+E14001247,Glastonbury and Somerton,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001247,Glastonbury and Somerton,con,ref,9.0,12.4338807117476,8.2,14.0,7.1,10.71,10.0
+E14001247,Glastonbury and Somerton,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001248,Gloucester,con,con,30.0,31.529349505631,30.4,26.7,33.9,26.79,30.0
+E14001248,Gloucester,con,grn,4.0,4.83493093432222,2.9,6.8,3.6,4.54,6.0
+E14001248,Gloucester,con,lab,45.0,44.7292252956075,48.6,46.6,44.2,49.34,46.0
+E14001248,Gloucester,con,lib,4.0,5.46141273083881,6.1,5.2,9.5,6.27,6.0
+E14001248,Gloucester,con,oth,5.0,2.98750175354226,0.9,1.6,0.5,2.14,1.0
+E14001248,Gloucester,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001248,Gloucester,con,ref,12.0,10.4575797800582,11.1,13.1,8.3,10.89,11.0
+E14001248,Gloucester,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001249,Godalming and Ash,con,con,31.0,34.1658948993222,35.2,31.4,37.7,31.45,31.0
+E14001249,Godalming and Ash,con,grn,4.0,6.5492073429803,2.3,5.6,4.5,1.85,3.0
+E14001249,Godalming and Ash,con,lab,15.0,19.4471378550956,15.8,14.4,18.5,14.7,12.0
+E14001249,Godalming and Ash,con,lib,40.0,29.1616607387919,36.5,33.0,32.4,41.94,46.0
+E14001249,Godalming and Ash,con,oth,1.0,2.77777359147748,0.5,2.4,0.6,1.3,1.0
+E14001249,Godalming and Ash,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001249,Godalming and Ash,con,ref,9.0,7.89832557233251,9.7,13.3,6.2,8.75,8.0
+E14001249,Godalming and Ash,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001250,Goole and Pocklington,con,con,29.0,42.9362938189157,39.5,34.9,41.8,31.14,38.0
+E14001250,Goole and Pocklington,con,grn,8.0,4.69167873528344,2.7,7.2,4.6,6.54,5.0
+E14001250,Goole and Pocklington,con,lab,29.0,30.9481485451525,41.7,31.8,32.6,31.91,34.0
+E14001250,Goole and Pocklington,con,lib,7.0,6.50472664817083,3.6,6.9,10.8,6.81,9.0
+E14001250,Goole and Pocklington,con,oth,8.0,4.91292806773036,0.8,2.6,0.9,1.55,1.0
+E14001250,Goole and Pocklington,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001250,Goole and Pocklington,con,ref,18.0,10.0062241847472,11.7,16.6,9.4,22.0,14.0
+E14001250,Goole and Pocklington,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001251,Gorton and Denton,lab,con,9.0,7.12939393091578,10.2,9.2,14.7,15.17,7.0
+E14001251,Gorton and Denton,lab,grn,4.0,4.33115101736302,6.6,6.8,4.2,3.57,11.0
+E14001251,Gorton and Denton,lab,lab,70.0,66.359306026164,68.8,68.3,68.4,65.9,65.0
+E14001251,Gorton and Denton,lab,lib,8.0,5.012292098115,2.5,5.2,4.6,5.11,5.0
+E14001251,Gorton and Denton,lab,oth,2.0,3.76259470419547,0.0,1.3,2.1,2.81,4.0
+E14001251,Gorton and Denton,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001251,Gorton and Denton,lab,ref,6.0,13.4052622232468,11.9,9.3,6.0,7.41,9.0
+E14001251,Gorton and Denton,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001252,Gosport,con,con,30.0,43.0022973184566,38.2,35.9,39.3,29.1,38.0
+E14001252,Gosport,con,grn,8.0,6.14454129847376,3.9,6.1,3.8,3.06,5.0
+E14001252,Gosport,con,lab,27.0,29.8366558055715,40.2,30.5,30.8,35.04,30.0
+E14001252,Gosport,con,lib,10.0,7.04742891696783,5.1,8.1,14.7,7.82,13.0
+E14001252,Gosport,con,oth,6.0,2.58989940755136,0.8,2.0,0.5,1.65,1.0
+E14001252,Gosport,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001252,Gosport,con,ref,20.0,11.379177252979,11.9,17.4,10.9,23.32,14.0
+E14001252,Gosport,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001253,Grantham and Bourne,con,con,30.0,43.3879830855138,39.0,35.1,39.3,33.09,39.0
+E14001253,Grantham and Bourne,con,grn,9.0,6.77935008878286,3.3,7.4,7.1,3.29,5.0
+E14001253,Grantham and Bourne,con,lab,29.0,30.2037859931004,41.8,32.4,32.9,35.21,35.0
+E14001253,Grantham and Bourne,con,lib,7.0,7.07513929264639,3.1,7.0,7.8,6.91,6.0
+E14001253,Grantham and Bourne,con,oth,7.0,3.72713610125126,0.9,2.2,1.2,1.46,1.0
+E14001253,Grantham and Bourne,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001253,Grantham and Bourne,con,ref,19.0,8.82660543870528,11.9,16.0,11.6,20.02,14.0
+E14001253,Grantham and Bourne,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001254,Gravesham,con,con,33.0,36.4798932224127,34.2,29.8,37.7,36.36,34.0
+E14001254,Gravesham,con,grn,5.0,4.34304831415102,4.3,5.7,3.1,2.9,6.0
+E14001254,Gravesham,con,lab,39.0,38.5903193737789,45.2,42.3,44.6,40.63,41.0
+E14001254,Gravesham,con,lib,3.0,4.05177111974872,3.4,3.4,5.2,4.76,5.0
+E14001254,Gravesham,con,oth,5.0,2.77408060597407,0.0,2.9,1.0,1.73,1.0
+E14001254,Gravesham,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001254,Gravesham,con,ref,15.0,13.7608873639346,12.9,15.8,8.5,13.61,13.0
+E14001254,Gravesham,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001255,Great Grimsby and Cleethorpes,con,con,37.0,40.1063173608583,29.7,26.1,34.8,26.03,27.0
+E14001255,Great Grimsby and Cleethorpes,con,grn,3.0,2.7829196570228,2.1,3.8,3.4,2.33,5.0
+E14001255,Great Grimsby and Cleethorpes,con,lab,43.0,37.4806235639941,50.1,50.8,42.7,43.22,44.0
+E14001255,Great Grimsby and Cleethorpes,con,lib,3.0,3.89904636390484,3.3,3.3,7.1,5.08,9.0
+E14001255,Great Grimsby and Cleethorpes,con,oth,0.0,2.02374203286166,0.5,1.4,0.7,1.8,0.0
+E14001255,Great Grimsby and Cleethorpes,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001255,Great Grimsby and Cleethorpes,con,ref,14.0,13.7073510213583,14.4,14.5,11.3,21.51,16.0
+E14001255,Great Grimsby and Cleethorpes,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001256,Great Yarmouth,con,con,28.0,38.6977118834568,36.6,32.4,42.3,23.49,34.0
+E14001256,Great Yarmouth,con,grn,7.0,3.19501065285931,3.5,5.5,3.5,2.59,4.0
+E14001256,Great Yarmouth,con,lab,32.0,34.4392311024511,44.5,39.2,38.0,40.0,37.0
+E14001256,Great Yarmouth,con,lib,4.0,3.29737970161031,1.7,3.3,5.7,3.63,5.0
+E14001256,Great Yarmouth,con,oth,8.0,4.12604968584871,1.0,2.0,1.3,2.26,1.0
+E14001256,Great Yarmouth,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001256,Great Yarmouth,con,ref,21.0,16.2446169737738,12.7,17.5,9.4,27.93,18.0
+E14001256,Great Yarmouth,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001257,Greenwich and Woolwich,lab,con,11.0,8.67559684339114,10.9,12.1,18.3,20.95,12.0
+E14001257,Greenwich and Woolwich,lab,grn,8.0,8.65318556860313,7.5,9.4,5.7,6.42,10.0
+E14001257,Greenwich and Woolwich,lab,lab,60.0,62.9465988901941,66.0,60.9,62.2,51.76,63.0
+E14001257,Greenwich and Woolwich,lab,lib,12.0,9.8791155151146,5.4,9.0,7.8,10.86,10.0
+E14001257,Greenwich and Woolwich,lab,oth,3.0,2.45210719981782,1.5,1.2,1.6,4.15,1.0
+E14001257,Greenwich and Woolwich,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001257,Greenwich and Woolwich,lab,ref,7.0,7.39339598287925,8.7,7.4,4.3,5.81,5.0
+E14001257,Greenwich and Woolwich,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001258,Guildford,con,con,27.0,25.8409804392362,25.6,27.5,33.9,27.36,25.0
+E14001258,Guildford,con,grn,3.0,6.90781260634508,3.1,3.7,2.1,2.19,3.0
+E14001258,Guildford,con,lab,13.0,20.5149461155815,16.4,13.5,21.7,18.0,13.0
+E14001258,Guildford,con,lib,44.0,36.2052621193953,45.2,38.8,34.6,40.86,50.0
+E14001258,Guildford,con,oth,5.0,1.25296550847255,0.9,2.9,1.5,1.72,2.0
+E14001258,Guildford,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001258,Guildford,con,ref,7.0,9.27803321096944,8.8,13.6,6.2,9.84,7.0
+E14001258,Guildford,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001259,Hackney North and Stoke Newington,lab,con,6.0,4.1104257368481,6.7,7.8,11.1,15.85,3.0
+E14001259,Hackney North and Stoke Newington,lab,grn,9.0,15.2760128364592,10.5,12.0,15.9,8.33,12.0
+E14001259,Hackney North and Stoke Newington,lab,lab,73.0,69.8739983977896,71.2,69.7,64.5,58.43,78.0
+E14001259,Hackney North and Stoke Newington,lab,lib,7.0,5.73807155490698,4.1,5.4,4.3,8.77,3.0
+E14001259,Hackney North and Stoke Newington,lab,oth,2.0,1.59487447041341,1.3,1.0,1.6,2.34,1.0
+E14001259,Hackney North and Stoke Newington,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001259,Hackney North and Stoke Newington,lab,ref,3.0,3.40661700358271,6.2,4.2,2.6,6.21,3.0
+E14001259,Hackney North and Stoke Newington,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001260,Hackney South and Shoreditch,lab,con,5.0,3.60984190453546,5.8,6.8,9.4,16.49,2.0
+E14001260,Hackney South and Shoreditch,lab,grn,7.0,12.3040481170008,9.7,10.6,14.7,14.16,16.0
+E14001260,Hackney South and Shoreditch,lab,lab,76.0,71.9886136610181,73.2,72.0,67.1,52.58,75.0
+E14001260,Hackney South and Shoreditch,lab,lib,7.0,6.44993760680807,3.6,5.6,4.8,8.13,3.0
+E14001260,Hackney South and Shoreditch,lab,oth,1.0,0.974275009684605,1.5,0.9,1.4,3.55,1.0
+E14001260,Hackney South and Shoreditch,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001260,Hackney South and Shoreditch,lab,ref,3.0,4.67328370095299,6.1,4.1,2.6,5.03,3.0
+E14001260,Hackney South and Shoreditch,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001261,Halesowen,con,con,26.0,35.1280379210468,32.7,27.0,37.0,27.91,33.0
+E14001261,Halesowen,con,grn,6.0,3.9258325564671,4.1,6.5,3.0,2.13,5.0
+E14001261,Halesowen,con,lab,39.0,41.5449882106251,46.6,47.8,47.0,53.37,43.0
+E14001261,Halesowen,con,lib,4.0,4.20723598706435,3.4,3.5,4.6,3.65,5.0
+E14001261,Halesowen,con,oth,6.0,2.60961824289911,0.0,1.3,1.5,1.6,1.0
+E14001261,Halesowen,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001261,Halesowen,con,ref,18.0,12.5842870818975,13.2,13.8,7.0,11.31,14.0
+E14001261,Halesowen,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001262,Halifax,lab,con,24.0,21.3828390532378,24.5,18.9,25.0,18.81,22.0
+E14001262,Halifax,lab,grn,4.0,3.15278916335665,4.0,5.3,5.4,5.69,8.0
+E14001262,Halifax,lab,lab,55.0,54.5496507026604,53.2,55.9,53.0,46.86,49.0
+E14001262,Halifax,lab,lib,4.0,4.75845796925369,2.7,3.7,5.2,4.77,6.0
+E14001262,Halifax,lab,oth,4.0,2.29856496918274,0.8,1.0,1.3,2.6,2.0
+E14001262,Halifax,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001262,Halifax,lab,ref,9.0,13.8576981423087,14.8,15.2,10.0,21.23,14.0
+E14001262,Halifax,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001263,Hamble Valley,con,con,31.0,36.8225694385031,33.9,34.3,36.6,31.73,39.0
+E14001263,Hamble Valley,con,grn,6.0,6.1063372261922,4.5,5.8,3.6,3.24,4.0
+E14001263,Hamble Valley,con,lab,17.0,26.4978750874184,20.8,19.2,24.2,26.72,21.0
+E14001263,Hamble Valley,con,lib,25.0,16.8053321680827,27.8,23.8,24.7,22.96,25.0
+E14001263,Hamble Valley,con,oth,6.0,3.29216352472537,0.6,2.6,0.4,1.27,1.0
+E14001263,Hamble Valley,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001263,Hamble Valley,con,ref,16.0,10.4757225550782,12.4,14.3,10.4,14.06,10.0
+E14001263,Hamble Valley,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001264,Hammersmith and Chiswick,lab,con,15.0,11.3755148524925,16.7,18.7,22.7,20.63,17.0
+E14001264,Hammersmith and Chiswick,lab,grn,6.0,6.93342865499011,7.2,7.0,4.3,4.45,9.0
+E14001264,Hammersmith and Chiswick,lab,lab,57.0,61.2368681949363,61.4,57.8,59.4,48.47,60.0
+E14001264,Hammersmith and Chiswick,lab,lib,12.0,10.3530260021711,5.4,8.2,7.4,12.11,9.0
+E14001264,Hammersmith and Chiswick,lab,oth,3.0,3.21918946651922,1.2,1.0,1.3,5.32,1.0
+E14001264,Hammersmith and Chiswick,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001264,Hammersmith and Chiswick,lab,ref,8.0,6.88197282889076,8.1,7.4,4.9,8.99,5.0
+E14001264,Hammersmith and Chiswick,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001265,Hampstead and Highgate,lab,con,11.0,7.84110822488555,8.2,12.8,17.7,18.04,13.0
+E14001265,Hampstead and Highgate,lab,grn,7.0,8.40236186656444,6.2,7.5,9.5,5.21,9.0
+E14001265,Hampstead and Highgate,lab,lab,53.0,57.245456606779,51.0,53.8,51.4,45.89,60.0
+E14001265,Hampstead and Highgate,lab,lib,21.0,19.2329581724781,23.9,17.5,15.9,19.45,14.0
+E14001265,Hampstead and Highgate,lab,oth,2.0,2.27453692043917,1.2,1.4,1.1,6.72,1.0
+E14001265,Hampstead and Highgate,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001265,Hampstead and Highgate,lab,ref,6.0,5.00357820885377,9.4,7.0,4.5,4.63,4.0
+E14001265,Hampstead and Highgate,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001266,"Harborough, Oadby and Wigston",con,con,25.0,32.6005899637733,33.6,28.0,30.5,28.59,34.0
+E14001266,"Harborough, Oadby and Wigston",con,grn,8.0,5.98430807650296,3.0,4.8,6.3,4.08,7.0
+E14001266,"Harborough, Oadby and Wigston",con,lab,32.0,37.7540231224261,40.8,34.7,32.1,41.42,38.0
+E14001266,"Harborough, Oadby and Wigston",con,lib,14.0,11.4557824108911,10.7,14.9,18.0,11.21,11.0
+E14001266,"Harborough, Oadby and Wigston",con,oth,6.0,2.17296738265061,0.5,3.2,0.9,2.32,1.0
+E14001266,"Harborough, Oadby and Wigston",con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001266,"Harborough, Oadby and Wigston",con,ref,16.0,10.0323290437559,11.5,14.5,12.2,12.31,10.0
+E14001266,"Harborough, Oadby and Wigston",con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001267,Harlow,con,con,34.0,39.5952745275629,36.1,30.9,40.9,31.18,36.0
+E14001267,Harlow,con,grn,4.0,3.65147843965718,3.4,4.1,2.5,3.88,5.0
+E14001267,Harlow,con,lab,39.0,38.0530605447027,46.4,44.6,41.3,46.14,40.0
+E14001267,Harlow,con,lib,3.0,4.41615037229405,2.2,3.7,6.3,4.5,4.0
+E14001267,Harlow,con,oth,5.0,2.20974242392786,0.8,1.6,0.7,2.18,1.0
+E14001267,Harlow,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001267,Harlow,con,ref,14.0,12.0742936918553,11.1,15.1,8.4,12.06,14.0
+E14001267,Harlow,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001268,Harpenden and Berkhamsted,con,con,32.0,29.8680925951674,30.3,31.2,37.4,25.46,35.0
+E14001268,Harpenden and Berkhamsted,con,grn,5.0,5.70792412935183,2.3,6.0,2.1,2.88,4.0
+E14001268,Harpenden and Berkhamsted,con,lab,17.0,27.3485768351979,17.6,15.1,22.9,28.29,17.0
+E14001268,Harpenden and Berkhamsted,con,lib,33.0,24.1534191202634,38.1,28.6,28.6,28.28,35.0
+E14001268,Harpenden and Berkhamsted,con,oth,5.0,1.66230216067818,1.4,3.3,1.5,4.25,1.0
+E14001268,Harpenden and Berkhamsted,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001268,Harpenden and Berkhamsted,con,ref,9.0,11.2596851593414,10.2,15.9,7.4,10.77,8.0
+E14001268,Harpenden and Berkhamsted,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001269,Harrogate and Knaresborough,con,con,26.0,34.8105437358594,33.8,31.1,35.7,31.65,30.0
+E14001269,Harrogate and Knaresborough,con,grn,4.0,4.99627025702089,2.2,4.4,1.6,3.04,2.0
+E14001269,Harrogate and Knaresborough,con,lab,13.0,18.5292139339834,17.4,14.3,18.2,23.54,14.0
+E14001269,Harrogate and Knaresborough,con,lib,36.0,29.4930332329886,35.0,35.2,37.4,31.46,46.0
+E14001269,Harrogate and Knaresborough,con,oth,7.0,4.22302933875095,0.7,2.6,0.7,1.34,0.0
+E14001269,Harrogate and Knaresborough,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001269,Harrogate and Knaresborough,con,ref,13.0,7.94790950139679,10.8,12.2,6.4,8.92,8.0
+E14001269,Harrogate and Knaresborough,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001270,Harrow East,con,con,35.0,36.4140801487247,33.5,32.6,35.1,34.19,39.0
+E14001270,Harrow East,con,grn,3.0,4.80518006726538,3.4,4.5,2.3,2.73,5.0
+E14001270,Harrow East,con,lab,51.0,44.4876030773998,47.5,46.9,48.5,46.66,44.0
+E14001270,Harrow East,con,lib,5.0,5.3482042637857,4.9,4.8,5.6,6.86,5.0
+E14001270,Harrow East,con,oth,0.0,1.80315755975411,0.9,1.1,2.3,2.74,1.0
+E14001270,Harrow East,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001270,Harrow East,con,ref,7.0,7.14177488307036,9.7,10.0,6.3,6.76,7.0
+E14001270,Harrow East,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001271,Harrow West,lab,con,16.0,18.695905645558,17.1,19.1,24.1,25.55,21.0
+E14001271,Harrow West,lab,grn,6.0,5.24824496399461,7.2,6.0,3.9,5.46,9.0
+E14001271,Harrow West,lab,lab,59.0,59.5325726417324,60.7,60.4,59.1,51.67,56.0
+E14001271,Harrow West,lab,lib,7.0,6.38582897389212,3.7,4.8,5.5,7.98,6.0
+E14001271,Harrow West,lab,oth,3.0,2.80113063360811,1.4,1.8,2.5,3.94,1.0
+E14001271,Harrow West,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001271,Harrow West,lab,ref,9.0,7.33631714121472,9.9,7.9,4.9,5.36,7.0
+E14001271,Harrow West,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001272,Hartlepool,lab,con,25.0,11.636204722727,37.2,13.5,23.4,14.75,12.0
+E14001272,Hartlepool,lab,grn,2.0,1.89853612376926,1.8,3.8,3.0,2.31,5.0
+E14001272,Hartlepool,lab,lab,49.0,49.9885149084927,40.3,49.4,46.8,53.34,53.0
+E14001272,Hartlepool,lab,lib,3.0,4.40316659701827,2.3,3.5,5.0,6.72,4.0
+E14001272,Hartlepool,lab,oth,4.0,4.39537480372764,8.8,1.6,1.7,3.16,3.0
+E14001272,Hartlepool,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001272,Hartlepool,lab,ref,17.0,27.6782028442652,9.7,28.2,20.0,19.67,23.0
+E14001272,Hartlepool,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001273,Harwich and North Essex,con,con,26.0,36.6598747820472,33.1,27.6,38.8,33.49,35.0
+E14001273,Harwich and North Essex,con,grn,8.0,5.73406273934054,4.3,7.9,4.4,3.62,6.0
+E14001273,Harwich and North Essex,con,lab,33.0,34.6484172870946,42.3,38.0,35.6,37.56,39.0
+E14001273,Harwich and North Essex,con,lib,8.0,7.27165842242005,7.5,7.5,11.9,8.74,6.0
+E14001273,Harwich and North Essex,con,oth,6.0,2.89671585647255,0.0,2.9,0.7,1.78,1.0
+E14001273,Harwich and North Essex,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001273,Harwich and North Essex,con,ref,18.0,12.789270912625,12.8,16.1,8.6,14.77,13.0
+E14001273,Harwich and North Essex,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001274,Hastings and Rye,con,con,26.0,26.3283918963533,28.4,26.4,30.7,25.5,29.0
 E14001274,Hastings and Rye,con,grn,5.0,3.37835736310676,4.0,5.2,4.6,3.89,6.0
 E14001274,Hastings and Rye,con,lab,50.0,49.9520134661326,55.0,52.4,46.7,53.16,50.0
@@ -2415,14 +2415,14 @@ E14001365,Mid Norfolk,con,oth,7.0,3.33048428062023,0.0,2.9,1.0,1.34,1.0
 E14001365,Mid Norfolk,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001365,Mid Norfolk,con,ref,19.0,12.3630203197673,10.7,18.4,8.5,12.77,14.0
 E14001365,Mid Norfolk,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001366,Mid Sussex,con,con,26.0,31.5650593043006,29.3,29.5,30.2,25.81,32.0
-E14001366,Mid Sussex,con,grn,6.0,8.06251802315555,5.0,7.1,8.9,8.97,6.0
-E14001366,Mid Sussex,con,lab,20.0,29.265758645254,21.6,21.4,23.7,30.33,24.0
-E14001366,Mid Sussex,con,lib,30.0,19.5186393936285,35.5,27.9,27.8,22.04,29.0
-E14001366,Mid Sussex,con,oth,6.0,3.19793779182631,0.6,2.7,0.6,1.63,1.0
-E14001366,Mid Sussex,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001366,Mid Sussex,con,ref,13.0,8.39008684183507,8.0,11.4,8.9,11.19,8.0
-E14001366,Mid Sussex,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001366,Mid Sussex,con,con,26.0,31.5650593043006,,29.5,30.2,25.81,32.0
+E14001366,Mid Sussex,con,grn,6.0,8.06251802315555,,7.1,8.9,8.97,6.0
+E14001366,Mid Sussex,con,lab,20.0,29.265758645254,,21.4,23.7,30.33,24.0
+E14001366,Mid Sussex,con,lib,30.0,19.5186393936285,,27.9,27.8,22.04,29.0
+E14001366,Mid Sussex,con,oth,6.0,3.19793779182631,,2.7,0.6,1.63,1.0
+E14001366,Mid Sussex,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001366,Mid Sussex,con,ref,13.0,8.39008684183507,,11.4,8.9,11.19,8.0
+E14001366,Mid Sussex,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001367,Middlesbrough and Thornaby East,lab,con,14.0,16.0217333114788,14.6,12.2,19.1,15.27,9.0
 E14001367,Middlesbrough and Thornaby East,lab,grn,4.0,2.80011162918794,3.9,9.1,4.4,2.13,10.0
 E14001367,Middlesbrough and Thornaby East,lab,lab,59.0,57.5291541944365,62.2,62.6,58.4,57.71,56.0
@@ -2599,14 +2599,14 @@ E14001388,North Dorset,con,oth,6.0,5.02238990422438,0.6,2.5,0.5,0.98,1.0
 E14001388,North Dorset,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001388,North Dorset,con,ref,16.0,9.53975801015956,10.7,16.7,9.4,8.86,11.0
 E14001388,North Dorset,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001389,North Durham,lab,con,26.0,14.7543280458704,,15.2,25.5,15.95,17.0
-E14001389,North Durham,lab,grn,3.0,3.54035273809928,,5.8,3.9,3.5,7.0
-E14001389,North Durham,lab,lab,55.0,51.6623712296009,,53.9,52.3,50.12,56.0
-E14001389,North Durham,lab,lib,3.0,5.77584116007292,,4.2,5.3,7.76,5.0
-E14001389,North Durham,lab,oth,2.0,4.49952135122791,,2.1,1.5,2.35,0.0
-E14001389,North Durham,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001389,North Durham,lab,ref,10.0,19.7675854751285,,18.9,11.5,20.26,15.0
-E14001389,North Durham,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001389,North Durham,lab,con,26.0,14.7543280458704,18.0,15.2,25.5,15.95,17.0
+E14001389,North Durham,lab,grn,3.0,3.54035273809928,3.4,5.8,3.9,3.5,7.0
+E14001389,North Durham,lab,lab,55.0,51.6623712296009,59.6,53.9,52.3,50.12,56.0
+E14001389,North Durham,lab,lib,3.0,5.77584116007292,4.4,4.2,5.3,7.76,5.0
+E14001389,North Durham,lab,oth,2.0,4.49952135122791,1.3,2.1,1.5,2.35,0.0
+E14001389,North Durham,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001389,North Durham,lab,ref,10.0,19.7675854751285,13.4,18.9,11.5,20.26,15.0
+E14001389,North Durham,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001390,North East Cambridgeshire,con,con,32.0,48.6018958846842,44.5,38.5,45.8,33.34,41.0
 E14001390,North East Cambridgeshire,con,grn,8.0,5.04229645049925,3.2,5.0,3.8,5.19,5.0
 E14001390,North East Cambridgeshire,con,lab,25.0,26.4126107823309,36.8,32.2,30.8,36.93,30.0
@@ -2623,14 +2623,14 @@ E14001391,North East Derbyshire,con,oth,0.0,2.68349837460151,0.5,0.9,0.9,1.39,1.
 E14001391,North East Derbyshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001391,North East Derbyshire,con,ref,12.0,12.5900909676453,11.7,14.3,11.4,10.4,12.0
 E14001391,North East Derbyshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001392,North East Hampshire,con,con,31.0,37.6277499988844,,35.3,41.4,36.62,42.0
-E14001392,North East Hampshire,con,grn,7.0,5.2244565570155,,6.7,4.1,3.44,4.0
-E14001392,North East Hampshire,con,lab,15.0,22.4367636926262,,14.0,25.3,25.38,19.0
-E14001392,North East Hampshire,con,lib,25.0,19.1258765357853,,25.8,19.7,22.9,25.0
-E14001392,North East Hampshire,con,oth,8.0,5.65724015125933,,2.4,1.0,1.55,1.0
-E14001392,North East Hampshire,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001392,North East Hampshire,con,ref,14.0,9.92791306442929,,15.9,8.5,10.08,9.0
-E14001392,North East Hampshire,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001392,North East Hampshire,con,con,31.0,37.6277499988844,33.5,35.3,41.4,36.62,42.0
+E14001392,North East Hampshire,con,grn,7.0,5.2244565570155,3.6,6.7,4.1,3.44,4.0
+E14001392,North East Hampshire,con,lab,15.0,22.4367636926262,20.7,14.0,25.3,25.38,19.0
+E14001392,North East Hampshire,con,lib,25.0,19.1258765357853,29.0,25.8,19.7,22.9,25.0
+E14001392,North East Hampshire,con,oth,8.0,5.65724015125933,1.0,2.4,1.0,1.55,1.0
+E14001392,North East Hampshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001392,North East Hampshire,con,ref,14.0,9.92791306442929,12.2,15.9,8.5,10.08,9.0
+E14001392,North East Hampshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001393,North East Hertfordshire,con,con,26.0,35.407466587,37.3,28.9,35.8,31.79,35.0
 E14001393,North East Hertfordshire,con,grn,8.0,8.26620076742887,3.6,7.2,9.5,4.32,7.0
 E14001393,North East Hertfordshire,con,lab,32.0,35.5174291754023,41.8,32.9,30.6,39.56,39.0
@@ -2703,22 +2703,22 @@ E14001401,North West Cambridgeshire,con,oth,5.0,2.34034488295754,0.0,2.8,0.6,2.0
 E14001401,North West Cambridgeshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001401,North West Cambridgeshire,con,ref,20.0,8.561915498199,11.3,16.5,8.3,10.05,12.0
 E14001401,North West Cambridgeshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001402,North West Essex,con,con,29.0,41.494667827289,,33.7,41.6,33.99,39.0
-E14001402,North West Essex,con,grn,9.0,8.29900084578467,,7.4,5.7,3.49,5.0
-E14001402,North West Essex,con,lab,23.0,24.3711533075295,,20.1,26.9,31.68,24.0
-E14001402,North West Essex,con,lib,16.0,13.5524475278012,,23.5,17.3,18.01,20.0
-E14001402,North West Essex,con,oth,6.0,3.79672728788331,,2.2,0.5,1.12,1.0
-E14001402,North West Essex,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001402,North West Essex,con,ref,18.0,8.4860032037123,,13.1,7.9,11.67,10.0
-E14001402,North West Essex,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001403,North West Hampshire,con,con,28.0,39.6323379189537,,32.1,38.2,33.11,38.0
-E14001403,North West Hampshire,con,grn,9.0,8.41946740003066,,7.0,5.2,3.92,7.0
-E14001403,North West Hampshire,con,lab,26.0,27.8049828151447,,25.5,29.6,29.04,28.0
-E14001403,North West Hampshire,con,lib,15.0,12.0496260437182,,18.5,18.1,16.86,15.0
-E14001403,North West Hampshire,con,oth,5.0,3.44740073606682,,3.0,0.5,1.03,1.0
-E14001403,North West Hampshire,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-E14001403,North West Hampshire,con,ref,17.0,8.64618508608593,,14.0,8.5,16.02,11.0
-E14001403,North West Hampshire,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001402,North West Essex,con,con,29.0,41.494667827289,32.9,33.7,41.6,33.99,39.0
+E14001402,North West Essex,con,grn,9.0,8.29900084578467,4.3,7.4,5.7,3.49,5.0
+E14001402,North West Essex,con,lab,23.0,24.3711533075295,22.5,20.1,26.9,31.68,24.0
+E14001402,North West Essex,con,lib,16.0,13.5524475278012,26.3,23.5,17.3,18.01,20.0
+E14001402,North West Essex,con,oth,6.0,3.79672728788331,0.8,2.2,0.5,1.12,1.0
+E14001402,North West Essex,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001402,North West Essex,con,ref,18.0,8.4860032037123,13.0,13.1,7.9,11.67,10.0
+E14001402,North West Essex,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001403,North West Hampshire,con,con,28.0,39.6323379189537,34.8,32.1,38.2,33.11,38.0
+E14001403,North West Hampshire,con,grn,9.0,8.41946740003066,4.9,7.0,5.2,3.92,7.0
+E14001403,North West Hampshire,con,lab,26.0,27.8049828151447,25.1,25.5,29.6,29.04,28.0
+E14001403,North West Hampshire,con,lib,15.0,12.0496260437182,23.2,18.5,18.1,16.86,15.0
+E14001403,North West Hampshire,con,oth,5.0,3.44740073606682,0.6,3.0,0.5,1.03,1.0
+E14001403,North West Hampshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001403,North West Hampshire,con,ref,17.0,8.64618508608593,11.4,14.0,8.5,16.02,11.0
+E14001403,North West Hampshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001404,North West Leicestershire,con,con,28.0,37.8187436189802,33.6,31.0,37.4,30.91,36.0
 E14001404,North West Leicestershire,con,grn,9.0,7.132806265097,3.6,8.5,4.0,6.13,7.0
 E14001404,North West Leicestershire,con,lab,33.0,35.5993142476854,44.4,39.8,39.2,42.39,39.0
@@ -3439,14 +3439,14 @@ E14001493,South Shropshire,con,oth,6.0,2.66493264246622,0.0,2.6,0.4,1.21,1.0
 E14001493,South Shropshire,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001493,South Shropshire,con,ref,16.0,10.8885707518582,11.8,13.0,7.4,17.16,12.0
 E14001493,South Shropshire,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001494,South Suffolk,con,con,28.0,39.7492205550921,36.0,30.7,37.3,28.76,38.0
-E14001494,South Suffolk,con,grn,12.0,9.72523001973049,6.7,8.2,11.3,8.17,8.0
-E14001494,South Suffolk,con,lab,27.0,31.1612751619394,38.6,30.5,25.6,35.24,30.0
-E14001494,South Suffolk,con,lib,10.0,7.79148660269024,7.7,11.1,16.0,9.1,11.0
-E14001494,South Suffolk,con,oth,5.0,2.70719415538788,0.0,3.2,0.6,2.06,1.0
-E14001494,South Suffolk,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001494,South Suffolk,con,ref,18.0,8.86559350515989,11.0,16.3,9.2,16.61,12.0
-E14001494,South Suffolk,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001494,South Suffolk,con,con,28.0,39.7492205550921,,30.7,37.3,28.76,38.0
+E14001494,South Suffolk,con,grn,12.0,9.72523001973049,,8.2,11.3,8.17,8.0
+E14001494,South Suffolk,con,lab,27.0,31.1612751619394,,30.5,25.6,35.24,30.0
+E14001494,South Suffolk,con,lib,10.0,7.79148660269024,,11.1,16.0,9.1,11.0
+E14001494,South Suffolk,con,oth,5.0,2.70719415538788,,3.2,0.6,2.06,1.0
+E14001494,South Suffolk,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001494,South Suffolk,con,ref,18.0,8.86559350515989,,16.3,9.2,16.61,12.0
+E14001494,South Suffolk,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001495,South West Devon,con,con,29.0,39.3993584895824,35.5,32.0,38.5,27.49,39.0
 E14001495,South West Devon,con,grn,8.0,6.99757933252793,3.9,6.6,7.6,5.3,5.0
 E14001495,South West Devon,con,lab,30.0,33.1612001771884,38.5,33.0,30.1,36.18,32.0
@@ -3663,174 +3663,174 @@ E14001521,Stoke-on-Trent North,con,oth,1.0,2.39354145086442,1.2,1.9,1.0,2.28,1.0
 E14001521,Stoke-on-Trent North,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001521,Stoke-on-Trent North,con,ref,15.0,14.8222066796958,15.6,19.1,9.0,20.5,17.0
 E14001521,Stoke-on-Trent North,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001522,Stoke-on-Trent South,con,con,40.0,37.6216232227774,37.6,27.7,41.6,30.91,36.0
-E14001522,Stoke-on-Trent South,con,grn,2.0,4.55817761347749,3.4,5.9,3.6,4.01,5.0
-E14001522,Stoke-on-Trent South,con,lab,42.0,39.4786187302649,44.8,44.9,39.5,41.17,40.0
-E14001522,Stoke-on-Trent South,con,lib,3.0,4.7981437062869,2.5,4.7,8.2,4.04,5.0
-E14001522,Stoke-on-Trent South,con,oth,0.0,2.47839121877328,0.7,1.7,0.6,1.36,1.0
-E14001522,Stoke-on-Trent South,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001522,Stoke-on-Trent South,con,ref,13.0,11.06504550842,10.9,15.0,6.4,18.45,13.0
-E14001522,Stoke-on-Trent South,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,con,30.0,41.7268089197869,46.8,35.0,45.2,31.16,39.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,grn,8.0,5.72555858616988,4.5,7.4,4.5,2.72,4.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,lab,30.0,32.9197609764406,43.7,35.4,33.9,46.39,36.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,lib,6.0,5.48606422369224,4.1,5.3,8.9,4.49,6.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,oth,6.0,2.68886232192856,0.9,1.8,0.6,1.0,1.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,ref,19.0,11.4529449719819,0.0,15.0,7.0,14.21,13.0
-E14001523,"Stone, Great Wyrley and Penkridge",con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001524,Stourbridge,con,con,27.0,36.7640814560708,34.9,27.5,38.4,32.48,36.0
-E14001524,Stourbridge,con,grn,7.0,3.3227387373753,4.1,6.6,2.6,3.79,5.0
-E14001524,Stourbridge,con,lab,36.0,39.7695325082526,44.7,45.7,44.6,40.6,38.0
-E14001524,Stourbridge,con,lib,5.0,4.74331436460912,3.9,4.8,5.7,5.15,6.0
-E14001524,Stourbridge,con,oth,7.0,3.39503987071711,0.0,1.6,1.5,1.68,1.0
-E14001524,Stourbridge,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001524,Stourbridge,con,ref,18.0,12.0052930629751,12.4,13.8,7.2,16.27,14.0
-E14001524,Stourbridge,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001525,Stratford and Bow,lab,con,7.0,5.02016193604877,7.2,9.6,11.5,15.55,5.0
-E14001525,Stratford and Bow,lab,grn,7.0,8.15899512640243,11.1,9.1,8.6,4.37,15.0
-E14001525,Stratford and Bow,lab,lab,73.0,70.859055488195,67.3,67.9,67.4,59.86,71.0
-E14001525,Stratford and Bow,lab,lib,7.0,6.60428427808241,4.0,6.7,6.4,9.04,5.0
-E14001525,Stratford and Bow,lab,oth,1.0,0.660116410284051,2.2,0.9,2.5,6.9,1.0
-E14001525,Stratford and Bow,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001525,Stratford and Bow,lab,ref,4.0,8.69738676098733,8.1,5.7,3.7,4.26,5.0
-E14001525,Stratford and Bow,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001526,Stratford-on-Avon,con,con,30.0,39.0433929486343,34.7,33.1,41.2,33.03,37.0
-E14001526,Stratford-on-Avon,con,grn,6.0,7.52466500155521,5.1,7.2,5.5,5.0,4.0
-E14001526,Stratford-on-Avon,con,lab,15.0,22.7344800858479,20.0,17.6,16.9,24.69,18.0
-E14001526,Stratford-on-Avon,con,lib,28.0,19.4977337006844,27.9,26.5,31.1,23.76,30.0
-E14001526,Stratford-on-Avon,con,oth,5.0,3.00038870229195,0.7,2.0,0.3,1.79,1.0
-E14001526,Stratford-on-Avon,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001526,Stratford-on-Avon,con,ref,15.0,8.19933956098623,11.6,13.6,5.0,11.66,9.0
-E14001526,Stratford-on-Avon,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001527,Streatham and Croydon North,lab,con,9.0,7.54679319342228,10.0,10.3,14.1,15.05,8.0
-E14001527,Streatham and Croydon North,lab,grn,7.0,9.43706158223816,8.7,9.9,10.7,2.77,10.0
-E14001527,Streatham and Croydon North,lab,lab,62.0,64.3863036127365,65.5,60.8,58.3,62.14,65.0
-E14001527,Streatham and Croydon North,lab,lib,15.0,11.6188478019857,6.4,11.8,11.6,12.04,12.0
-E14001527,Streatham and Croydon North,lab,oth,2.0,2.18299078508995,1.5,1.6,1.2,3.26,1.0
-E14001527,Streatham and Croydon North,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001527,Streatham and Croydon North,lab,ref,5.0,4.82800302452743,7.9,5.5,4.1,4.72,5.0
-E14001527,Streatham and Croydon North,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001528,Stretford and Urmston,lab,con,13.0,10.7752097557995,14.4,11.7,19.8,16.43,13.0
-E14001528,Stretford and Urmston,lab,grn,5.0,4.80058305589845,4.1,6.4,3.6,3.35,9.0
-E14001528,Stretford and Urmston,lab,lab,65.0,65.9562888086172,69.2,65.4,64.9,64.83,64.0
-E14001528,Stretford and Urmston,lab,lib,6.0,5.50293506647236,2.6,4.1,4.3,4.05,5.0
-E14001528,Stretford and Urmston,lab,oth,2.0,2.58734157858869,2.4,1.2,1.5,2.29,0.0
-E14001528,Stretford and Urmston,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001528,Stretford and Urmston,lab,ref,8.0,10.3776417346238,7.3,11.2,5.9,9.0,9.0
-E14001528,Stretford and Urmston,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001529,Stroud,con,con,25.0,27.9810315985963,27.0,26.4,28.7,24.89,25.0
-E14001529,Stroud,con,grn,7.0,13.0280872013916,6.2,9.2,12.0,12.19,10.0
-E14001529,Stroud,con,lab,51.0,46.5694083832411,54.2,48.5,45.2,48.79,51.0
-E14001529,Stroud,con,lib,3.0,4.05016007510868,3.9,2.7,5.3,2.94,4.0
-E14001529,Stroud,con,oth,5.0,2.82561768627684,0.8,1.5,1.5,2.77,1.0
-E14001529,Stroud,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001529,Stroud,con,ref,9.0,5.54569505538545,7.9,11.7,7.3,8.28,8.0
-E14001529,Stroud,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001530,Suffolk Coastal,con,con,26.0,34.068599918821,36.5,28.7,33.1,30.46,36.0
-E14001530,Suffolk Coastal,con,grn,8.0,7.22554079290391,4.4,7.9,8.0,6.68,8.0
-E14001530,Suffolk Coastal,con,lab,29.0,33.5065476453901,39.7,30.0,26.9,34.65,34.0
-E14001530,Suffolk Coastal,con,lib,12.0,9.61311480333648,8.7,13.9,20.8,11.51,10.0
-E14001530,Suffolk Coastal,con,oth,8.0,5.48533026120322,0.0,2.5,0.9,3.93,1.0
-E14001530,Suffolk Coastal,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001530,Suffolk Coastal,con,ref,16.0,10.1008665783453,10.7,17.0,10.3,12.74,12.0
-E14001530,Suffolk Coastal,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001531,Sunderland Central,lab,con,22.0,16.072157683516,21.4,15.7,23.2,16.37,17.0
-E14001531,Sunderland Central,lab,grn,4.0,3.71709043698874,3.1,5.9,3.0,3.6,10.0
-E14001531,Sunderland Central,lab,lab,54.0,50.7082415011813,55.7,52.5,52.2,54.33,48.0
-E14001531,Sunderland Central,lab,lib,4.0,5.79454367426451,4.9,4.5,6.8,5.95,8.0
-E14001531,Sunderland Central,lab,oth,5.0,2.56657338577556,0.0,1.9,1.1,2.33,2.0
-E14001531,Sunderland Central,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001531,Sunderland Central,lab,ref,11.0,21.1413933182738,14.9,19.5,13.6,17.35,15.0
-E14001531,Sunderland Central,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001532,Surrey Heath,con,con,34.0,37.427441291978,34.2,32.3,34.0,37.12,34.0
-E14001532,Surrey Heath,con,grn,5.0,7.08093715281304,2.7,7.2,4.0,3.37,5.0
-E14001532,Surrey Heath,con,lab,16.0,21.9873614818158,17.2,15.5,20.1,17.74,15.0
-E14001532,Surrey Heath,con,lib,34.0,21.4080369974358,34.9,29.2,31.2,31.24,36.0
-E14001532,Surrey Heath,con,oth,1.0,2.86672319527118,0.5,1.7,0.6,1.85,1.0
-E14001532,Surrey Heath,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001532,Surrey Heath,con,ref,10.0,9.22949988068623,10.6,14.1,10.3,8.66,9.0
-E14001532,Surrey Heath,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001533,Sussex Weald,con,con,29.0,39.8685357175011,36.0,31.6,36.9,30.88,41.0
-E14001533,Sussex Weald,con,grn,11.0,8.06266745233086,6.5,7.8,8.1,6.86,5.0
-E14001533,Sussex Weald,con,lab,23.0,26.8060770167544,23.1,25.0,22.0,30.06,23.0
-E14001533,Sussex Weald,con,lib,13.0,12.1077972059856,22.3,17.0,22.1,17.47,19.0
-E14001533,Sussex Weald,con,oth,6.0,2.84158585550921,0.8,2.6,0.5,1.41,1.0
-E14001533,Sussex Weald,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001533,Sussex Weald,con,ref,18.0,10.3133367519189,11.4,16.0,10.3,13.29,11.0
-E14001533,Sussex Weald,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001534,Sutton and Cheam,con,con,26.0,35.6839697626951,31.0,29.6,33.0,26.5,31.0
-E14001534,Sutton and Cheam,con,grn,5.0,4.7157542975929,4.1,5.0,2.2,4.05,5.0
-E14001534,Sutton and Cheam,con,lab,17.0,20.5092950584725,17.5,18.4,32.6,31.48,17.0
-E14001534,Sutton and Cheam,con,lib,35.0,28.0419352718008,35.5,33.6,24.9,29.24,37.0
-E14001534,Sutton and Cheam,con,oth,5.0,4.66990141345948,0.7,2.4,0.8,1.88,1.0
-E14001534,Sutton and Cheam,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001534,Sutton and Cheam,con,ref,12.0,6.37914419597928,11.2,11.0,6.5,6.83,9.0
-E14001534,Sutton and Cheam,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001535,Sutton Coldfield,con,con,28.0,37.3677995684195,39.2,31.5,40.0,32.6,40.0
-E14001535,Sutton Coldfield,con,grn,8.0,7.16856227043054,4.3,4.9,3.9,3.13,7.0
-E14001535,Sutton Coldfield,con,lab,32.0,35.1990605883875,40.0,35.4,40.0,38.27,36.0
-E14001535,Sutton Coldfield,con,lib,10.0,8.61046611844311,6.3,8.8,8.9,7.74,8.0
-E14001535,Sutton Coldfield,con,oth,5.0,2.70149985273589,0.0,3.0,1.1,1.51,1.0
-E14001535,Sutton Coldfield,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001535,Sutton Coldfield,con,ref,17.0,8.95261160158349,10.2,16.3,6.1,16.71,9.0
-E14001535,Sutton Coldfield,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001536,Swindon North,con,con,32.0,36.0453478292037,31.9,27.3,38.2,31.12,33.0
-E14001536,Swindon North,con,grn,5.0,5.64796244627875,4.6,8.3,4.2,2.97,5.0
-E14001536,Swindon North,con,lab,41.0,39.752142526191,46.9,44.4,42.7,45.98,43.0
-E14001536,Swindon North,con,lib,4.0,5.45933591032754,3.8,5.1,6.9,6.46,6.0
-E14001536,Swindon North,con,oth,5.0,2.87933851215449,0.8,2.6,0.8,2.43,1.0
-E14001536,Swindon North,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001536,Swindon North,con,ref,13.0,10.2158727758445,12.0,12.2,7.3,11.02,12.0
-E14001536,Swindon North,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001537,Swindon South,con,con,28.0,30.3770241239219,28.3,29.7,34.6,29.13,30.0
-E14001537,Swindon South,con,grn,4.0,6.40306910236345,3.0,5.1,3.2,3.33,4.0
-E14001537,Swindon South,con,lab,49.0,46.0871908085141,53.3,48.9,49.0,48.95,51.0
-E14001537,Swindon South,con,lib,4.0,5.05537867403746,3.2,4.6,6.1,6.71,5.0
-E14001537,Swindon South,con,oth,4.0,2.30051665474973,1.1,1.1,1.0,2.65,1.0
-E14001537,Swindon South,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001537,Swindon South,con,ref,11.0,9.77682063641336,11.0,10.5,6.1,9.2,9.0
-E14001537,Swindon South,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001538,Tamworth,con,con,33.0,41.2927618579288,36.6,31.1,43.6,33.5,38.0
-E14001538,Tamworth,con,grn,4.0,2.80404513077056,2.2,7.0,3.8,2.37,4.0
-E14001538,Tamworth,con,lab,38.0,34.4733591652489,47.3,38.4,36.0,42.6,38.0
-E14001538,Tamworth,con,lib,3.0,4.84305366206372,1.9,4.8,8.2,4.86,3.0
-E14001538,Tamworth,con,oth,8.0,4.14762876219195,3.0,2.2,1.2,1.68,1.0
-E14001538,Tamworth,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001538,Tamworth,con,ref,14.0,12.4391514217961,8.9,16.5,7.2,14.95,15.0
-E14001538,Tamworth,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001539,Tatton,con,con,27.0,36.9754320067911,37.8,29.4,38.1,31.22,38.0
-E14001539,Tatton,con,grn,8.0,6.61980238079218,2.0,4.6,4.1,6.53,6.0
-E14001539,Tatton,con,lab,31.0,34.1140628819121,40.4,33.7,34.5,37.35,39.0
-E14001539,Tatton,con,lib,13.0,10.9144826746736,9.3,13.3,14.6,9.87,7.0
-E14001539,Tatton,con,oth,5.0,2.87787644279731,0.0,3.3,0.6,1.29,1.0
-E14001539,Tatton,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001539,Tatton,con,ref,15.0,8.4983436130338,10.5,15.7,8.1,13.69,9.0
-E14001539,Tatton,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001540,Taunton and Wellington,con,con,30.0,31.9647371865846,29.4,30.2,35.0,27.52,26.0
-E14001540,Taunton and Wellington,con,grn,3.0,4.41901197840892,2.5,4.0,1.5,2.56,3.0
-E14001540,Taunton and Wellington,con,lab,14.0,19.372447215295,14.9,16.7,16.3,25.14,11.0
-E14001540,Taunton and Wellington,con,lib,41.0,27.7249742503281,40.1,33.7,39.3,33.1,49.0
-E14001540,Taunton and Wellington,con,oth,3.0,6.76762236775994,0.9,2.7,0.8,1.74,2.0
-E14001540,Taunton and Wellington,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001540,Taunton and Wellington,con,ref,9.0,9.75120700162337,12.1,12.7,7.1,9.91,10.0
-E14001540,Taunton and Wellington,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001541,Telford,con,con,26.0,33.7106178146442,27.6,25.5,39.0,27.08,30.0
-E14001541,Telford,con,grn,5.0,3.0444176316887,4.1,4.9,3.0,1.81,4.0
-E14001541,Telford,con,lab,41.0,42.864581876325,51.5,48.4,44.3,43.67,48.0
-E14001541,Telford,con,lib,5.0,4.94151844917386,2.6,4.1,7.0,4.98,5.0
-E14001541,Telford,con,oth,5.0,2.25439948534914,0.0,1.0,0.6,2.85,1.0
-E14001541,Telford,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001541,Telford,con,ref,17.0,13.1844647428192,14.3,16.2,6.2,19.55,13.0
-E14001541,Telford,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001542,Tewkesbury,con,con,29.0,37.9434740684584,33.9,31.2,33.5,29.77,35.0
-E14001542,Tewkesbury,con,grn,7.0,8.42578524001446,3.7,7.0,6.1,5.26,5.0
-E14001542,Tewkesbury,con,lab,18.0,26.440596059092,22.7,22.6,24.3,29.96,22.0
-E14001542,Tewkesbury,con,lib,26.0,15.9829634949182,27.4,23.4,25.5,24.24,27.0
-E14001542,Tewkesbury,con,oth,5.0,2.99868233209426,0.5,2.1,0.5,2.35,1.0
-E14001542,Tewkesbury,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001542,Tewkesbury,con,ref,14.0,8.20849880542269,11.7,13.7,10.1,8.38,10.0
-E14001542,Tewkesbury,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001522,Stoke-on-Trent South,con,con,40.0,37.6216232227774,,27.7,41.6,30.91,36.0
+E14001522,Stoke-on-Trent South,con,grn,2.0,4.55817761347749,,5.9,3.6,4.01,5.0
+E14001522,Stoke-on-Trent South,con,lab,42.0,39.4786187302649,,44.9,39.5,41.17,40.0
+E14001522,Stoke-on-Trent South,con,lib,3.0,4.7981437062869,,4.7,8.2,4.04,5.0
+E14001522,Stoke-on-Trent South,con,oth,0.0,2.47839121877328,,1.7,0.6,1.36,1.0
+E14001522,Stoke-on-Trent South,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001522,Stoke-on-Trent South,con,ref,13.0,11.06504550842,,15.0,6.4,18.45,13.0
+E14001522,Stoke-on-Trent South,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,con,30.0,41.7268089197869,,35.0,45.2,31.16,39.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,grn,8.0,5.72555858616988,,7.4,4.5,2.72,4.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,lab,30.0,32.9197609764406,,35.4,33.9,46.39,36.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,lib,6.0,5.48606422369224,,5.3,8.9,4.49,6.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,oth,6.0,2.68886232192856,,1.8,0.6,1.0,1.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,ref,19.0,11.4529449719819,,15.0,7.0,14.21,13.0
+E14001523,"Stone, Great Wyrley and Penkridge",con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001524,Stourbridge,con,con,27.0,36.7640814560708,,27.5,38.4,32.48,36.0
+E14001524,Stourbridge,con,grn,7.0,3.3227387373753,,6.6,2.6,3.79,5.0
+E14001524,Stourbridge,con,lab,36.0,39.7695325082526,,45.7,44.6,40.6,38.0
+E14001524,Stourbridge,con,lib,5.0,4.74331436460912,,4.8,5.7,5.15,6.0
+E14001524,Stourbridge,con,oth,7.0,3.39503987071711,,1.6,1.5,1.68,1.0
+E14001524,Stourbridge,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001524,Stourbridge,con,ref,18.0,12.0052930629751,,13.8,7.2,16.27,14.0
+E14001524,Stourbridge,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001525,Stratford and Bow,lab,con,7.0,5.02016193604877,,9.6,11.5,15.55,5.0
+E14001525,Stratford and Bow,lab,grn,7.0,8.15899512640243,,9.1,8.6,4.37,15.0
+E14001525,Stratford and Bow,lab,lab,73.0,70.859055488195,,67.9,67.4,59.86,71.0
+E14001525,Stratford and Bow,lab,lib,7.0,6.60428427808241,,6.7,6.4,9.04,5.0
+E14001525,Stratford and Bow,lab,oth,1.0,0.660116410284051,,0.9,2.5,6.9,1.0
+E14001525,Stratford and Bow,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001525,Stratford and Bow,lab,ref,4.0,8.69738676098733,,5.7,3.7,4.26,5.0
+E14001525,Stratford and Bow,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001526,Stratford-on-Avon,con,con,30.0,39.0433929486343,,33.1,41.2,33.03,37.0
+E14001526,Stratford-on-Avon,con,grn,6.0,7.52466500155521,,7.2,5.5,5.0,4.0
+E14001526,Stratford-on-Avon,con,lab,15.0,22.7344800858479,,17.6,16.9,24.69,18.0
+E14001526,Stratford-on-Avon,con,lib,28.0,19.4977337006844,,26.5,31.1,23.76,30.0
+E14001526,Stratford-on-Avon,con,oth,5.0,3.00038870229195,,2.0,0.3,1.79,1.0
+E14001526,Stratford-on-Avon,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001526,Stratford-on-Avon,con,ref,15.0,8.19933956098623,,13.6,5.0,11.66,9.0
+E14001526,Stratford-on-Avon,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001527,Streatham and Croydon North,lab,con,9.0,7.54679319342228,,10.3,14.1,15.05,8.0
+E14001527,Streatham and Croydon North,lab,grn,7.0,9.43706158223816,,9.9,10.7,2.77,10.0
+E14001527,Streatham and Croydon North,lab,lab,62.0,64.3863036127365,,60.8,58.3,62.14,65.0
+E14001527,Streatham and Croydon North,lab,lib,15.0,11.6188478019857,,11.8,11.6,12.04,12.0
+E14001527,Streatham and Croydon North,lab,oth,2.0,2.18299078508995,,1.6,1.2,3.26,1.0
+E14001527,Streatham and Croydon North,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001527,Streatham and Croydon North,lab,ref,5.0,4.82800302452743,,5.5,4.1,4.72,5.0
+E14001527,Streatham and Croydon North,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001528,Stretford and Urmston,lab,con,13.0,10.7752097557995,,11.7,19.8,16.43,13.0
+E14001528,Stretford and Urmston,lab,grn,5.0,4.80058305589845,,6.4,3.6,3.35,9.0
+E14001528,Stretford and Urmston,lab,lab,65.0,65.9562888086172,,65.4,64.9,64.83,64.0
+E14001528,Stretford and Urmston,lab,lib,6.0,5.50293506647236,,4.1,4.3,4.05,5.0
+E14001528,Stretford and Urmston,lab,oth,2.0,2.58734157858869,,1.2,1.5,2.29,0.0
+E14001528,Stretford and Urmston,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001528,Stretford and Urmston,lab,ref,8.0,10.3776417346238,,11.2,5.9,9.0,9.0
+E14001528,Stretford and Urmston,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001529,Stroud,con,con,25.0,27.9810315985963,,26.4,28.7,24.89,25.0
+E14001529,Stroud,con,grn,7.0,13.0280872013916,,9.2,12.0,12.19,10.0
+E14001529,Stroud,con,lab,51.0,46.5694083832411,,48.5,45.2,48.79,51.0
+E14001529,Stroud,con,lib,3.0,4.05016007510868,,2.7,5.3,2.94,4.0
+E14001529,Stroud,con,oth,5.0,2.82561768627684,,1.5,1.5,2.77,1.0
+E14001529,Stroud,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001529,Stroud,con,ref,9.0,5.54569505538545,,11.7,7.3,8.28,8.0
+E14001529,Stroud,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001530,Suffolk Coastal,con,con,26.0,34.068599918821,,28.7,33.1,30.46,36.0
+E14001530,Suffolk Coastal,con,grn,8.0,7.22554079290391,,7.9,8.0,6.68,8.0
+E14001530,Suffolk Coastal,con,lab,29.0,33.5065476453901,,30.0,26.9,34.65,34.0
+E14001530,Suffolk Coastal,con,lib,12.0,9.61311480333648,,13.9,20.8,11.51,10.0
+E14001530,Suffolk Coastal,con,oth,8.0,5.48533026120322,,2.5,0.9,3.93,1.0
+E14001530,Suffolk Coastal,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001530,Suffolk Coastal,con,ref,16.0,10.1008665783453,,17.0,10.3,12.74,12.0
+E14001530,Suffolk Coastal,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001531,Sunderland Central,lab,con,22.0,16.072157683516,,15.7,23.2,16.37,17.0
+E14001531,Sunderland Central,lab,grn,4.0,3.71709043698874,,5.9,3.0,3.6,10.0
+E14001531,Sunderland Central,lab,lab,54.0,50.7082415011813,,52.5,52.2,54.33,48.0
+E14001531,Sunderland Central,lab,lib,4.0,5.79454367426451,,4.5,6.8,5.95,8.0
+E14001531,Sunderland Central,lab,oth,5.0,2.56657338577556,,1.9,1.1,2.33,2.0
+E14001531,Sunderland Central,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001531,Sunderland Central,lab,ref,11.0,21.1413933182738,,19.5,13.6,17.35,15.0
+E14001531,Sunderland Central,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001532,Surrey Heath,con,con,34.0,37.427441291978,,32.3,34.0,37.12,34.0
+E14001532,Surrey Heath,con,grn,5.0,7.08093715281304,,7.2,4.0,3.37,5.0
+E14001532,Surrey Heath,con,lab,16.0,21.9873614818158,,15.5,20.1,17.74,15.0
+E14001532,Surrey Heath,con,lib,34.0,21.4080369974358,,29.2,31.2,31.24,36.0
+E14001532,Surrey Heath,con,oth,1.0,2.86672319527118,,1.7,0.6,1.85,1.0
+E14001532,Surrey Heath,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001532,Surrey Heath,con,ref,10.0,9.22949988068623,,14.1,10.3,8.66,9.0
+E14001532,Surrey Heath,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001533,Sussex Weald,con,con,29.0,39.8685357175011,,31.6,36.9,30.88,41.0
+E14001533,Sussex Weald,con,grn,11.0,8.06266745233086,,7.8,8.1,6.86,5.0
+E14001533,Sussex Weald,con,lab,23.0,26.8060770167544,,25.0,22.0,30.06,23.0
+E14001533,Sussex Weald,con,lib,13.0,12.1077972059856,,17.0,22.1,17.47,19.0
+E14001533,Sussex Weald,con,oth,6.0,2.84158585550921,,2.6,0.5,1.41,1.0
+E14001533,Sussex Weald,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001533,Sussex Weald,con,ref,18.0,10.3133367519189,,16.0,10.3,13.29,11.0
+E14001533,Sussex Weald,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001534,Sutton and Cheam,con,con,26.0,35.6839697626951,,29.6,33.0,26.5,31.0
+E14001534,Sutton and Cheam,con,grn,5.0,4.7157542975929,,5.0,2.2,4.05,5.0
+E14001534,Sutton and Cheam,con,lab,17.0,20.5092950584725,,18.4,32.6,31.48,17.0
+E14001534,Sutton and Cheam,con,lib,35.0,28.0419352718008,,33.6,24.9,29.24,37.0
+E14001534,Sutton and Cheam,con,oth,5.0,4.66990141345948,,2.4,0.8,1.88,1.0
+E14001534,Sutton and Cheam,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001534,Sutton and Cheam,con,ref,12.0,6.37914419597928,,11.0,6.5,6.83,9.0
+E14001534,Sutton and Cheam,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001535,Sutton Coldfield,con,con,28.0,37.3677995684195,,31.5,40.0,32.6,40.0
+E14001535,Sutton Coldfield,con,grn,8.0,7.16856227043054,,4.9,3.9,3.13,7.0
+E14001535,Sutton Coldfield,con,lab,32.0,35.1990605883875,,35.4,40.0,38.27,36.0
+E14001535,Sutton Coldfield,con,lib,10.0,8.61046611844311,,8.8,8.9,7.74,8.0
+E14001535,Sutton Coldfield,con,oth,5.0,2.70149985273589,,3.0,1.1,1.51,1.0
+E14001535,Sutton Coldfield,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001535,Sutton Coldfield,con,ref,17.0,8.95261160158349,,16.3,6.1,16.71,9.0
+E14001535,Sutton Coldfield,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001536,Swindon North,con,con,32.0,36.0453478292037,,27.3,38.2,31.12,33.0
+E14001536,Swindon North,con,grn,5.0,5.64796244627875,,8.3,4.2,2.97,5.0
+E14001536,Swindon North,con,lab,41.0,39.752142526191,,44.4,42.7,45.98,43.0
+E14001536,Swindon North,con,lib,4.0,5.45933591032754,,5.1,6.9,6.46,6.0
+E14001536,Swindon North,con,oth,5.0,2.87933851215449,,2.6,0.8,2.43,1.0
+E14001536,Swindon North,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001536,Swindon North,con,ref,13.0,10.2158727758445,,12.2,7.3,11.02,12.0
+E14001536,Swindon North,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001537,Swindon South,con,con,28.0,30.3770241239219,,29.7,34.6,29.13,30.0
+E14001537,Swindon South,con,grn,4.0,6.40306910236345,,5.1,3.2,3.33,4.0
+E14001537,Swindon South,con,lab,49.0,46.0871908085141,,48.9,49.0,48.95,51.0
+E14001537,Swindon South,con,lib,4.0,5.05537867403746,,4.6,6.1,6.71,5.0
+E14001537,Swindon South,con,oth,4.0,2.30051665474973,,1.1,1.0,2.65,1.0
+E14001537,Swindon South,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001537,Swindon South,con,ref,11.0,9.77682063641336,,10.5,6.1,9.2,9.0
+E14001537,Swindon South,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001538,Tamworth,con,con,33.0,41.2927618579288,,31.1,43.6,33.5,38.0
+E14001538,Tamworth,con,grn,4.0,2.80404513077056,,7.0,3.8,2.37,4.0
+E14001538,Tamworth,con,lab,38.0,34.4733591652489,,38.4,36.0,42.6,38.0
+E14001538,Tamworth,con,lib,3.0,4.84305366206372,,4.8,8.2,4.86,3.0
+E14001538,Tamworth,con,oth,8.0,4.14762876219195,,2.2,1.2,1.68,1.0
+E14001538,Tamworth,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001538,Tamworth,con,ref,14.0,12.4391514217961,,16.5,7.2,14.95,15.0
+E14001538,Tamworth,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001539,Tatton,con,con,27.0,36.9754320067911,,29.4,38.1,31.22,38.0
+E14001539,Tatton,con,grn,8.0,6.61980238079218,,4.6,4.1,6.53,6.0
+E14001539,Tatton,con,lab,31.0,34.1140628819121,,33.7,34.5,37.35,39.0
+E14001539,Tatton,con,lib,13.0,10.9144826746736,,13.3,14.6,9.87,7.0
+E14001539,Tatton,con,oth,5.0,2.87787644279731,,3.3,0.6,1.29,1.0
+E14001539,Tatton,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001539,Tatton,con,ref,15.0,8.4983436130338,,15.7,8.1,13.69,9.0
+E14001539,Tatton,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001540,Taunton and Wellington,con,con,30.0,31.9647371865846,,30.2,35.0,27.52,26.0
+E14001540,Taunton and Wellington,con,grn,3.0,4.41901197840892,,4.0,1.5,2.56,3.0
+E14001540,Taunton and Wellington,con,lab,14.0,19.372447215295,,16.7,16.3,25.14,11.0
+E14001540,Taunton and Wellington,con,lib,41.0,27.7249742503281,,33.7,39.3,33.1,49.0
+E14001540,Taunton and Wellington,con,oth,3.0,6.76762236775994,,2.7,0.8,1.74,2.0
+E14001540,Taunton and Wellington,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001540,Taunton and Wellington,con,ref,9.0,9.75120700162337,,12.7,7.1,9.91,10.0
+E14001540,Taunton and Wellington,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001541,Telford,con,con,26.0,33.7106178146442,,25.5,39.0,27.08,30.0
+E14001541,Telford,con,grn,5.0,3.0444176316887,,4.9,3.0,1.81,4.0
+E14001541,Telford,con,lab,41.0,42.864581876325,,48.4,44.3,43.67,48.0
+E14001541,Telford,con,lib,5.0,4.94151844917386,,4.1,7.0,4.98,5.0
+E14001541,Telford,con,oth,5.0,2.25439948534914,,1.0,0.6,2.85,1.0
+E14001541,Telford,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001541,Telford,con,ref,17.0,13.1844647428192,,16.2,6.2,19.55,13.0
+E14001541,Telford,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001542,Tewkesbury,con,con,29.0,37.9434740684584,,31.2,33.5,29.77,35.0
+E14001542,Tewkesbury,con,grn,7.0,8.42578524001446,,7.0,6.1,5.26,5.0
+E14001542,Tewkesbury,con,lab,18.0,26.440596059092,,22.6,24.3,29.96,22.0
+E14001542,Tewkesbury,con,lib,26.0,15.9829634949182,,23.4,25.5,24.24,27.0
+E14001542,Tewkesbury,con,oth,5.0,2.99868233209426,,2.1,0.5,2.35,1.0
+E14001542,Tewkesbury,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001542,Tewkesbury,con,ref,14.0,8.20849880542269,,13.7,10.1,8.38,10.0
+E14001542,Tewkesbury,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001543,The Wrekin,con,con,29.0,38.6856198023457,35.7,33.9,42.8,33.89,38.0
 E14001543,The Wrekin,con,grn,7.0,4.91551389590849,3.9,7.7,4.6,3.77,5.0
 E14001543,The Wrekin,con,lab,33.0,35.5469527806507,44.2,37.5,34.0,39.11,38.0
@@ -3839,134 +3839,134 @@ E14001543,The Wrekin,con,oth,6.0,2.38869724996739,1.0,1.3,0.5,1.69,1.0
 E14001543,The Wrekin,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001543,The Wrekin,con,ref,19.0,12.0655755835194,11.9,14.3,6.7,15.38,12.0
 E14001543,The Wrekin,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001544,Thirsk and Malton,con,con,28.0,43.8946671071132,40.6,34.2,41.9,34.76,39.0
-E14001544,Thirsk and Malton,con,grn,9.0,6.05677555751112,3.3,6.9,9.8,5.2,5.0
-E14001544,Thirsk and Malton,con,lab,26.0,27.6617811976876,40.0,28.5,25.9,29.65,35.0
-E14001544,Thirsk and Malton,con,lib,10.0,8.05518248249801,3.7,11.0,13.1,8.26,7.0
-E14001544,Thirsk and Malton,con,oth,8.0,4.99212130983115,0.9,3.1,0.9,2.12,1.0
-E14001544,Thirsk and Malton,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001544,Thirsk and Malton,con,ref,18.0,9.33947234535889,11.5,16.4,8.4,19.95,14.0
-E14001544,Thirsk and Malton,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001545,Thornbury and Yate,con,con,34.0,36.2585581001404,32.6,32.2,38.2,28.36,34.0
-E14001545,Thornbury and Yate,con,grn,4.0,5.2765882956738,2.3,4.1,1.5,1.98,2.0
-E14001545,Thornbury and Yate,con,lab,15.0,20.9128057012867,13.7,16.3,16.1,25.84,15.0
-E14001545,Thornbury and Yate,con,lib,38.0,24.3250439635766,40.4,30.6,36.5,29.98,39.0
-E14001545,Thornbury and Yate,con,oth,0.0,2.95009379795459,0.0,2.2,0.3,1.61,1.0
-E14001545,Thornbury and Yate,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001545,Thornbury and Yate,con,ref,9.0,10.2769101413678,11.0,14.7,7.5,12.19,9.0
-E14001545,Thornbury and Yate,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001546,Thurrock,con,con,30.0,31.6144836731227,27.4,27.1,34.4,30.04,29.0
-E14001546,Thurrock,con,grn,4.0,2.342473219784,4.0,4.9,2.2,3.19,5.0
-E14001546,Thurrock,con,lab,38.0,42.9259531683429,49.6,48.9,48.9,47.58,46.0
-E14001546,Thurrock,con,lib,3.0,3.03692515084825,3.1,2.8,4.0,4.85,5.0
-E14001546,Thurrock,con,oth,7.0,3.65485866618957,0.9,2.3,1.6,3.48,1.0
-E14001546,Thurrock,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001546,Thurrock,con,ref,20.0,16.4253061217125,15.0,14.0,8.8,10.84,14.0
-E14001546,Thurrock,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001547,Tipton and Wednesbury,con,con,33.0,28.0074513727882,23.3,22.2,31.2,21.82,24.0
-E14001547,Tipton and Wednesbury,con,grn,3.0,3.17853537636257,3.3,4.1,3.3,1.81,5.0
-E14001547,Tipton and Wednesbury,con,lab,48.0,48.2634096905138,53.5,51.8,50.5,58.44,51.0
-E14001547,Tipton and Wednesbury,con,lib,2.0,3.45028670147265,2.1,3.3,4.5,3.94,4.0
-E14001547,Tipton and Wednesbury,con,oth,0.0,2.03583403200187,1.4,1.7,1.2,2.89,1.0
-E14001547,Tipton and Wednesbury,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001547,Tipton and Wednesbury,con,ref,14.0,15.0644828268609,16.5,16.8,9.3,11.09,15.0
-E14001547,Tipton and Wednesbury,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001548,Tiverton and Minehead,con,con,29.0,38.4380826420503,31.9,32.2,35.7,31.53,37.0
-E14001548,Tiverton and Minehead,con,grn,7.0,7.4570753782823,3.8,6.4,8.5,5.39,5.0
-E14001548,Tiverton and Minehead,con,lab,17.0,27.6415649348728,15.2,22.5,18.3,25.02,19.0
-E14001548,Tiverton and Minehead,con,lib,24.0,13.0609267331636,39.0,20.2,26.3,24.17,28.0
-E14001548,Tiverton and Minehead,con,oth,7.0,3.19614021619621,0.0,2.4,0.5,1.73,1.0
-E14001548,Tiverton and Minehead,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001548,Tiverton and Minehead,con,ref,16.0,10.2062100954347,10.1,16.4,10.7,12.13,11.0
-E14001548,Tiverton and Minehead,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001549,Tonbridge,con,con,30.0,41.9590459599524,41.8,31.8,37.5,36.15,40.0
-E14001549,Tonbridge,con,grn,12.0,11.3618523985742,7.5,9.9,12.1,6.51,10.0
-E14001549,Tonbridge,con,lab,24.0,25.1199222616427,36.9,28.5,24.8,31.64,30.0
-E14001549,Tonbridge,con,lib,10.0,10.4022424586532,3.8,10.5,15.6,14.58,8.0
-E14001549,Tonbridge,con,oth,6.0,2.75812261963865,0.9,3.1,0.7,1.65,1.0
-E14001549,Tonbridge,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001549,Tonbridge,con,ref,18.0,8.39881430153888,9.1,16.3,9.3,9.44,12.0
-E14001549,Tonbridge,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001550,Tooting,lab,con,13.0,13.1913204990813,15.1,15.7,21.5,21.76,15.0
-E14001550,Tooting,lab,grn,6.0,10.7247586680425,7.7,8.4,4.9,4.45,8.0
-E14001550,Tooting,lab,lab,59.0,61.2918586673299,63.8,60.3,61.0,59.46,66.0
-E14001550,Tooting,lab,lib,12.0,10.0491247981553,4.9,8.1,7.3,7.51,6.0
-E14001550,Tooting,lab,oth,3.0,0.848387526967068,1.2,0.5,1.5,2.78,1.0
-E14001550,Tooting,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001550,Tooting,lab,ref,7.0,3.89454984042388,7.3,6.9,3.8,3.97,4.0
-E14001550,Tooting,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001551,Torbay,con,con,29.0,36.9454346982676,31.2,30.1,39.8,27.56,31.0
-E14001551,Torbay,con,grn,6.0,4.27944615024385,4.5,5.3,2.3,2.9,4.0
-E14001551,Torbay,con,lab,16.0,24.4471671027606,19.7,23.0,25.7,30.82,15.0
-E14001551,Torbay,con,lib,27.0,17.9665595778712,29.3,24.0,23.7,20.86,37.0
-E14001551,Torbay,con,oth,7.0,2.90280779550391,0.0,2.0,0.6,1.57,1.0
-E14001551,Torbay,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001551,Torbay,con,ref,15.0,13.4585846753527,15.3,15.6,7.9,16.26,13.0
-E14001551,Torbay,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001552,Torridge and Tavistock,con,con,27.0,38.7018397435467,33.6,30.2,39.0,31.93,38.0
-E14001552,Torridge and Tavistock,con,grn,10.0,5.85329827517922,4.0,6.2,8.2,3.49,5.0
-E14001552,Torridge and Tavistock,con,lab,26.0,27.8396088450298,35.7,27.1,25.7,34.49,23.0
-E14001552,Torridge and Tavistock,con,lib,14.0,12.393211315129,12.0,17.4,17.4,18.05,20.0
-E14001552,Torridge and Tavistock,con,oth,6.0,2.44794742313028,1.0,2.4,0.7,1.19,1.0
-E14001552,Torridge and Tavistock,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001552,Torridge and Tavistock,con,ref,18.0,12.764094397985,13.7,16.7,9.1,10.81,12.0
-E14001552,Torridge and Tavistock,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001553,Tottenham,lab,con,5.0,3.97689182591605,6.1,7.8,10.4,15.49,2.0
-E14001553,Tottenham,lab,grn,6.0,9.88288108712207,7.9,9.7,6.5,5.36,13.0
-E14001553,Tottenham,lab,lab,79.0,73.6374563760654,74.5,73.2,74.3,62.48,76.0
-E14001553,Tottenham,lab,lib,5.0,5.35278615755569,3.2,4.7,4.3,8.59,4.0
-E14001553,Tottenham,lab,oth,1.0,1.93450844465606,1.6,0.7,1.5,3.63,1.0
-E14001553,Tottenham,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001553,Tottenham,lab,ref,3.0,5.2154761086847,6.8,4.0,3.1,4.4,4.0
-E14001553,Tottenham,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001554,Truro and Falmouth,con,con,26.0,24.2825434418995,28.5,25.6,32.9,28.85,28.0
-E14001554,Truro and Falmouth,con,grn,5.0,5.22767381809673,4.2,6.1,8.3,6.13,6.0
-E14001554,Truro and Falmouth,con,lab,48.0,48.2311230369378,49.6,48.2,42.9,45.56,51.0
-E14001554,Truro and Falmouth,con,lib,7.0,7.77336114087441,8.2,8.6,9.0,9.0,8.0
-E14001554,Truro and Falmouth,con,oth,5.0,2.21489405056806,0.7,1.1,0.9,1.51,1.0
-E14001554,Truro and Falmouth,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001554,Truro and Falmouth,con,ref,10.0,12.2704045116236,8.7,10.5,6.1,8.89,8.0
-E14001554,Truro and Falmouth,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001555,Tunbridge Wells,con,con,32.0,35.0030893970043,32.4,31.4,40.7,29.73,35.0
-E14001555,Tunbridge Wells,con,grn,4.0,4.60514683452327,2.2,4.7,1.8,2.52,3.0
-E14001555,Tunbridge Wells,con,lab,19.0,25.777619368688,21.5,18.2,26.5,23.83,20.0
-E14001555,Tunbridge Wells,con,lib,35.0,21.5781783264568,33.1,30.5,24.7,29.96,33.0
-E14001555,Tunbridge Wells,con,oth,1.0,4.4736967860388,0.5,2.0,0.7,2.14,1.0
-E14001555,Tunbridge Wells,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001555,Tunbridge Wells,con,ref,9.0,8.56226928728883,10.3,13.1,5.6,11.79,8.0
-E14001555,Tunbridge Wells,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001556,Twickenham,lib,con,18.0,17.3386373138067,18.1,18.6,20.7,15.27,13.0
-E14001556,Twickenham,lib,grn,5.0,5.01849859902997,3.5,3.1,2.5,1.56,2.0
-E14001556,Twickenham,lib,lab,11.0,15.5235041800561,10.2,12.6,12.3,16.88,13.0
-E14001556,Twickenham,lib,lib,54.0,52.8740797049583,59.2,54.1,58.0,56.34,62.0
-E14001556,Twickenham,lib,oth,3.0,3.54923009132745,0.0,1.9,0.4,4.28,5.0
-E14001556,Twickenham,lib,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001556,Twickenham,lib,ref,8.0,5.69605011082144,9.0,9.8,6.1,5.65,5.0
-E14001556,Twickenham,lib,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001557,Tynemouth,lab,con,23.0,19.4675300647046,23.5,20.4,27.2,24.25,23.0
-E14001557,Tynemouth,lab,grn,4.0,4.15969865094043,3.0,5.2,2.7,6.8,7.0
-E14001557,Tynemouth,lab,lab,57.0,56.4254605892005,58.2,55.5,57.1,49.47,56.0
-E14001557,Tynemouth,lab,lib,4.0,5.96865278547252,3.2,4.6,4.2,5.58,4.0
-E14001557,Tynemouth,lab,oth,4.0,3.16200907309855,0.6,1.3,1.1,2.01,1.0
-E14001557,Tynemouth,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001557,Tynemouth,lab,ref,9.0,10.8166488365834,11.6,12.9,7.6,11.72,10.0
-E14001557,Tynemouth,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001558,Uxbridge and South Ruislip,con,con,28.0,36.8962427149175,38.6,25.5,31.9,33.19,31.0
-E14001558,Uxbridge and South Ruislip,con,grn,5.0,4.83904543472021,2.8,7.9,3.0,2.9,7.0
-E14001558,Uxbridge and South Ruislip,con,lab,46.0,42.6901210247118,46.2,46.5,51.5,43.95,47.0
-E14001558,Uxbridge and South Ruislip,con,lib,4.0,5.40418856255413,3.2,4.9,4.9,6.91,5.0
-E14001558,Uxbridge and South Ruislip,con,oth,6.0,2.98952235457141,2.6,1.9,2.0,2.55,1.0
-E14001558,Uxbridge and South Ruislip,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001558,Uxbridge and South Ruislip,con,ref,12.0,7.18087990852497,6.7,13.3,6.8,10.49,9.0
-E14001558,Uxbridge and South Ruislip,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001559,Vauxhall and Camberwell Green,lab,con,7.0,5.88494811532203,4.4,8.4,13.6,20.08,5.0
-E14001559,Vauxhall and Camberwell Green,lab,grn,7.0,9.21124598270834,7.2,9.3,6.1,12.52,11.0
-E14001559,Vauxhall and Camberwell Green,lab,lab,65.0,63.372130342882,67.3,61.5,65.7,45.97,67.0
-E14001559,Vauxhall and Camberwell Green,lab,lib,16.0,14.2851866557193,10.4,15.0,9.7,12.58,12.0
-E14001559,Vauxhall and Camberwell Green,lab,oth,2.0,1.58188360909279,1.5,1.0,1.3,4.48,2.0
-E14001559,Vauxhall and Camberwell Green,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001559,Vauxhall and Camberwell Green,lab,ref,4.0,5.66460529427554,9.3,4.7,3.7,4.31,4.0
-E14001559,Vauxhall and Camberwell Green,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001544,Thirsk and Malton,con,con,28.0,43.8946671071132,,34.2,41.9,34.76,39.0
+E14001544,Thirsk and Malton,con,grn,9.0,6.05677555751112,,6.9,9.8,5.2,5.0
+E14001544,Thirsk and Malton,con,lab,26.0,27.6617811976876,,28.5,25.9,29.65,35.0
+E14001544,Thirsk and Malton,con,lib,10.0,8.05518248249801,,11.0,13.1,8.26,7.0
+E14001544,Thirsk and Malton,con,oth,8.0,4.99212130983115,,3.1,0.9,2.12,1.0
+E14001544,Thirsk and Malton,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001544,Thirsk and Malton,con,ref,18.0,9.33947234535889,,16.4,8.4,19.95,14.0
+E14001544,Thirsk and Malton,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001545,Thornbury and Yate,con,con,34.0,36.2585581001404,,32.2,38.2,28.36,34.0
+E14001545,Thornbury and Yate,con,grn,4.0,5.2765882956738,,4.1,1.5,1.98,2.0
+E14001545,Thornbury and Yate,con,lab,15.0,20.9128057012867,,16.3,16.1,25.84,15.0
+E14001545,Thornbury and Yate,con,lib,38.0,24.3250439635766,,30.6,36.5,29.98,39.0
+E14001545,Thornbury and Yate,con,oth,0.0,2.95009379795459,,2.2,0.3,1.61,1.0
+E14001545,Thornbury and Yate,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001545,Thornbury and Yate,con,ref,9.0,10.2769101413678,,14.7,7.5,12.19,9.0
+E14001545,Thornbury and Yate,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001546,Thurrock,con,con,30.0,31.6144836731227,,27.1,34.4,30.04,29.0
+E14001546,Thurrock,con,grn,4.0,2.342473219784,,4.9,2.2,3.19,5.0
+E14001546,Thurrock,con,lab,38.0,42.9259531683429,,48.9,48.9,47.58,46.0
+E14001546,Thurrock,con,lib,3.0,3.03692515084825,,2.8,4.0,4.85,5.0
+E14001546,Thurrock,con,oth,7.0,3.65485866618957,,2.3,1.6,3.48,1.0
+E14001546,Thurrock,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001546,Thurrock,con,ref,20.0,16.4253061217125,,14.0,8.8,10.84,14.0
+E14001546,Thurrock,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001547,Tipton and Wednesbury,con,con,33.0,28.0074513727882,,22.2,31.2,21.82,24.0
+E14001547,Tipton and Wednesbury,con,grn,3.0,3.17853537636257,,4.1,3.3,1.81,5.0
+E14001547,Tipton and Wednesbury,con,lab,48.0,48.2634096905138,,51.8,50.5,58.44,51.0
+E14001547,Tipton and Wednesbury,con,lib,2.0,3.45028670147265,,3.3,4.5,3.94,4.0
+E14001547,Tipton and Wednesbury,con,oth,0.0,2.03583403200187,,1.7,1.2,2.89,1.0
+E14001547,Tipton and Wednesbury,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001547,Tipton and Wednesbury,con,ref,14.0,15.0644828268609,,16.8,9.3,11.09,15.0
+E14001547,Tipton and Wednesbury,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001548,Tiverton and Minehead,con,con,29.0,38.4380826420503,,32.2,35.7,31.53,37.0
+E14001548,Tiverton and Minehead,con,grn,7.0,7.4570753782823,,6.4,8.5,5.39,5.0
+E14001548,Tiverton and Minehead,con,lab,17.0,27.6415649348728,,22.5,18.3,25.02,19.0
+E14001548,Tiverton and Minehead,con,lib,24.0,13.0609267331636,,20.2,26.3,24.17,28.0
+E14001548,Tiverton and Minehead,con,oth,7.0,3.19614021619621,,2.4,0.5,1.73,1.0
+E14001548,Tiverton and Minehead,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001548,Tiverton and Minehead,con,ref,16.0,10.2062100954347,,16.4,10.7,12.13,11.0
+E14001548,Tiverton and Minehead,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001549,Tonbridge,con,con,30.0,41.9590459599524,,31.8,37.5,36.15,40.0
+E14001549,Tonbridge,con,grn,12.0,11.3618523985742,,9.9,12.1,6.51,10.0
+E14001549,Tonbridge,con,lab,24.0,25.1199222616427,,28.5,24.8,31.64,30.0
+E14001549,Tonbridge,con,lib,10.0,10.4022424586532,,10.5,15.6,14.58,8.0
+E14001549,Tonbridge,con,oth,6.0,2.75812261963865,,3.1,0.7,1.65,1.0
+E14001549,Tonbridge,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001549,Tonbridge,con,ref,18.0,8.39881430153888,,16.3,9.3,9.44,12.0
+E14001549,Tonbridge,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001550,Tooting,lab,con,13.0,13.1913204990813,,15.7,21.5,21.76,15.0
+E14001550,Tooting,lab,grn,6.0,10.7247586680425,,8.4,4.9,4.45,8.0
+E14001550,Tooting,lab,lab,59.0,61.2918586673299,,60.3,61.0,59.46,66.0
+E14001550,Tooting,lab,lib,12.0,10.0491247981553,,8.1,7.3,7.51,6.0
+E14001550,Tooting,lab,oth,3.0,0.848387526967068,,0.5,1.5,2.78,1.0
+E14001550,Tooting,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001550,Tooting,lab,ref,7.0,3.89454984042388,,6.9,3.8,3.97,4.0
+E14001550,Tooting,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001551,Torbay,con,con,29.0,36.9454346982676,,30.1,39.8,27.56,31.0
+E14001551,Torbay,con,grn,6.0,4.27944615024385,,5.3,2.3,2.9,4.0
+E14001551,Torbay,con,lab,16.0,24.4471671027606,,23.0,25.7,30.82,15.0
+E14001551,Torbay,con,lib,27.0,17.9665595778712,,24.0,23.7,20.86,37.0
+E14001551,Torbay,con,oth,7.0,2.90280779550391,,2.0,0.6,1.57,1.0
+E14001551,Torbay,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001551,Torbay,con,ref,15.0,13.4585846753527,,15.6,7.9,16.26,13.0
+E14001551,Torbay,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001552,Torridge and Tavistock,con,con,27.0,38.7018397435467,,30.2,39.0,31.93,38.0
+E14001552,Torridge and Tavistock,con,grn,10.0,5.85329827517922,,6.2,8.2,3.49,5.0
+E14001552,Torridge and Tavistock,con,lab,26.0,27.8396088450298,,27.1,25.7,34.49,23.0
+E14001552,Torridge and Tavistock,con,lib,14.0,12.393211315129,,17.4,17.4,18.05,20.0
+E14001552,Torridge and Tavistock,con,oth,6.0,2.44794742313028,,2.4,0.7,1.19,1.0
+E14001552,Torridge and Tavistock,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001552,Torridge and Tavistock,con,ref,18.0,12.764094397985,,16.7,9.1,10.81,12.0
+E14001552,Torridge and Tavistock,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001553,Tottenham,lab,con,5.0,3.97689182591605,,7.8,10.4,15.49,2.0
+E14001553,Tottenham,lab,grn,6.0,9.88288108712207,,9.7,6.5,5.36,13.0
+E14001553,Tottenham,lab,lab,79.0,73.6374563760654,,73.2,74.3,62.48,76.0
+E14001553,Tottenham,lab,lib,5.0,5.35278615755569,,4.7,4.3,8.59,4.0
+E14001553,Tottenham,lab,oth,1.0,1.93450844465606,,0.7,1.5,3.63,1.0
+E14001553,Tottenham,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001553,Tottenham,lab,ref,3.0,5.2154761086847,,4.0,3.1,4.4,4.0
+E14001553,Tottenham,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001554,Truro and Falmouth,con,con,26.0,24.2825434418995,,25.6,32.9,28.85,28.0
+E14001554,Truro and Falmouth,con,grn,5.0,5.22767381809673,,6.1,8.3,6.13,6.0
+E14001554,Truro and Falmouth,con,lab,48.0,48.2311230369378,,48.2,42.9,45.56,51.0
+E14001554,Truro and Falmouth,con,lib,7.0,7.77336114087441,,8.6,9.0,9.0,8.0
+E14001554,Truro and Falmouth,con,oth,5.0,2.21489405056806,,1.1,0.9,1.51,1.0
+E14001554,Truro and Falmouth,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001554,Truro and Falmouth,con,ref,10.0,12.2704045116236,,10.5,6.1,8.89,8.0
+E14001554,Truro and Falmouth,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001555,Tunbridge Wells,con,con,32.0,35.0030893970043,,31.4,40.7,29.73,35.0
+E14001555,Tunbridge Wells,con,grn,4.0,4.60514683452327,,4.7,1.8,2.52,3.0
+E14001555,Tunbridge Wells,con,lab,19.0,25.777619368688,,18.2,26.5,23.83,20.0
+E14001555,Tunbridge Wells,con,lib,35.0,21.5781783264568,,30.5,24.7,29.96,33.0
+E14001555,Tunbridge Wells,con,oth,1.0,4.4736967860388,,2.0,0.7,2.14,1.0
+E14001555,Tunbridge Wells,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001555,Tunbridge Wells,con,ref,9.0,8.56226928728883,,13.1,5.6,11.79,8.0
+E14001555,Tunbridge Wells,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001556,Twickenham,lib,con,18.0,17.3386373138067,,18.6,20.7,15.27,13.0
+E14001556,Twickenham,lib,grn,5.0,5.01849859902997,,3.1,2.5,1.56,2.0
+E14001556,Twickenham,lib,lab,11.0,15.5235041800561,,12.6,12.3,16.88,13.0
+E14001556,Twickenham,lib,lib,54.0,52.8740797049583,,54.1,58.0,56.34,62.0
+E14001556,Twickenham,lib,oth,3.0,3.54923009132745,,1.9,0.4,4.28,5.0
+E14001556,Twickenham,lib,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001556,Twickenham,lib,ref,8.0,5.69605011082144,,9.8,6.1,5.65,5.0
+E14001556,Twickenham,lib,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001557,Tynemouth,lab,con,23.0,19.4675300647046,,20.4,27.2,24.25,23.0
+E14001557,Tynemouth,lab,grn,4.0,4.15969865094043,,5.2,2.7,6.8,7.0
+E14001557,Tynemouth,lab,lab,57.0,56.4254605892005,,55.5,57.1,49.47,56.0
+E14001557,Tynemouth,lab,lib,4.0,5.96865278547252,,4.6,4.2,5.58,4.0
+E14001557,Tynemouth,lab,oth,4.0,3.16200907309855,,1.3,1.1,2.01,1.0
+E14001557,Tynemouth,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001557,Tynemouth,lab,ref,9.0,10.8166488365834,,12.9,7.6,11.72,10.0
+E14001557,Tynemouth,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001558,Uxbridge and South Ruislip,con,con,28.0,36.8962427149175,,25.5,31.9,33.19,31.0
+E14001558,Uxbridge and South Ruislip,con,grn,5.0,4.83904543472021,,7.9,3.0,2.9,7.0
+E14001558,Uxbridge and South Ruislip,con,lab,46.0,42.6901210247118,,46.5,51.5,43.95,47.0
+E14001558,Uxbridge and South Ruislip,con,lib,4.0,5.40418856255413,,4.9,4.9,6.91,5.0
+E14001558,Uxbridge and South Ruislip,con,oth,6.0,2.98952235457141,,1.9,2.0,2.55,1.0
+E14001558,Uxbridge and South Ruislip,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001558,Uxbridge and South Ruislip,con,ref,12.0,7.18087990852497,,13.3,6.8,10.49,9.0
+E14001558,Uxbridge and South Ruislip,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001559,Vauxhall and Camberwell Green,lab,con,7.0,5.88494811532203,,8.4,13.6,20.08,5.0
+E14001559,Vauxhall and Camberwell Green,lab,grn,7.0,9.21124598270834,,9.3,6.1,12.52,11.0
+E14001559,Vauxhall and Camberwell Green,lab,lab,65.0,63.372130342882,,61.5,65.7,45.97,67.0
+E14001559,Vauxhall and Camberwell Green,lab,lib,16.0,14.2851866557193,,15.0,9.7,12.58,12.0
+E14001559,Vauxhall and Camberwell Green,lab,oth,2.0,1.58188360909279,,1.0,1.3,4.48,2.0
+E14001559,Vauxhall and Camberwell Green,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001559,Vauxhall and Camberwell Green,lab,ref,4.0,5.66460529427554,,4.7,3.7,4.31,4.0
+E14001559,Vauxhall and Camberwell Green,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001560,Wakefield and Rothwell,con,con,29.0,32.8782957941267,23.7,21.0,27.4,27.49,22.0
 E14001560,Wakefield and Rothwell,con,grn,2.0,3.20877917762607,2.7,4.9,2.1,2.43,6.0
 E14001560,Wakefield and Rothwell,con,lab,50.0,43.7118049532804,56.2,51.2,52.1,50.6,51.0
@@ -4111,14 +4111,14 @@ E14001577,West Lancashire,lab,oth,3.0,2.80515832106597,0.0,1.4,0.9,1.6,1.0
 E14001577,West Lancashire,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 E14001577,West Lancashire,lab,ref,11.0,11.5330938095478,8.4,13.6,7.4,11.74,11.0
 E14001577,West Lancashire,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001578,West Suffolk,con,con,28.0,41.6527132379991,34.3,32.2,41.7,31.15,36.0
-E14001578,West Suffolk,con,grn,9.0,7.2039967395189,3.8,7.7,5.1,4.0,7.0
-E14001578,West Suffolk,con,lab,30.0,31.7247908551573,43.8,32.5,34.8,39.31,36.0
-E14001578,West Suffolk,con,lib,8.0,5.79661260116214,3.7,5.9,9.6,6.08,7.0
-E14001578,West Suffolk,con,oth,5.0,2.20715936684311,1.1,2.8,0.6,2.7,1.0
-E14001578,West Suffolk,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-E14001578,West Suffolk,con,ref,20.0,11.4147271993195,13.3,18.9,8.3,16.73,14.0
-E14001578,West Suffolk,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E14001578,West Suffolk,con,con,28.0,41.6527132379991,,32.2,41.7,31.15,36.0
+E14001578,West Suffolk,con,grn,9.0,7.2039967395189,,7.7,5.1,4.0,7.0
+E14001578,West Suffolk,con,lab,30.0,31.7247908551573,,32.5,34.8,39.31,36.0
+E14001578,West Suffolk,con,lib,8.0,5.79661260116214,,5.9,9.6,6.08,7.0
+E14001578,West Suffolk,con,oth,5.0,2.20715936684311,,2.8,0.6,2.7,1.0
+E14001578,West Suffolk,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
+E14001578,West Suffolk,con,ref,20.0,11.4147271993195,,18.9,8.3,16.73,14.0
+E14001578,West Suffolk,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 E14001579,West Worcestershire,con,con,28.0,38.9399346622735,35.4,31.6,39.7,33.05,41.0
 E14001579,West Worcestershire,con,grn,9.0,8.54848337492492,5.8,6.1,8.8,7.51,7.0
 E14001579,West Worcestershire,con,lab,25.0,27.1570237904776,22.9,26.6,23.6,34.5,22.0
@@ -4519,166 +4519,166 @@ S14000072,Cumbernauld and Kirkintilloch,snp,oth,4.0,1.51597196488245,0.0,1.7,1.9
 S14000072,Cumbernauld and Kirkintilloch,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 S14000072,Cumbernauld and Kirkintilloch,snp,ref,0.0,3.02635349126707,1.4,3.1,3.6,2.52,3.0
 S14000072,Cumbernauld and Kirkintilloch,snp,snp,42.0,39.7936308602783,39.6,37.8,39.1,42.22955935,38.0
-S14000073,Dumfries and Galloway,con,con,38.0,32.3425696413758,,26.1,25.5,31.25,34.0
-S14000073,Dumfries and Galloway,con,grn,0.0,2.01836258562494,,1.9,0.9,0.57,4.0
-S14000073,Dumfries and Galloway,con,lab,17.0,22.3171807151127,,29.0,33.2,29.3,20.0
-S14000073,Dumfries and Galloway,con,lib,4.0,6.87669848676061,,4.4,3.6,4.21,3.0
-S14000073,Dumfries and Galloway,con,oth,6.0,1.12246417660887,,1.6,1.1,1.42,1.0
-S14000073,Dumfries and Galloway,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000073,Dumfries and Galloway,con,ref,0.0,4.83140525551594,,7.8,3.9,2.16,5.0
-S14000073,Dumfries and Galloway,con,snp,36.0,30.4913191390012,,29.2,31.9,31.07581984,33.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,con,40.0,34.3612585279186,,27.9,30.6,34.56,37.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,grn,0.0,2.45594354346062,,2.0,1.5,0.92,4.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,lab,17.0,22.1082416847948,,27.2,26.3,28.83,20.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,lib,5.0,7.34549865896525,,5.1,7.1,4.75,4.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,oth,6.0,1.15605083887935,,1.6,1.1,1.79,1.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,ref,0.0,4.36885428852838,,8.7,3.1,2.39,5.0
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,snp,33.0,28.204152457453,,27.6,30.5,26.74777146,30.0
-S14000075,Dundee Central,snp,con,8.0,6.22640805634672,,7.2,8.6,10.59,1.0
-S14000075,Dundee Central,snp,grn,0.0,1.83126270923125,,1.5,1.2,1.52,11.0
-S14000075,Dundee Central,snp,lab,37.0,35.1399034563144,,39.6,35.3,34.17,30.0
-S14000075,Dundee Central,snp,lib,5.0,6.64745773366473,,4.2,6.6,5.38,3.0
-S14000075,Dundee Central,snp,oth,5.0,1.3059283719145,,1.5,1.8,3.58,10.0
-S14000075,Dundee Central,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000075,Dundee Central,snp,ref,0.0,4.9462698855487,,2.5,4.5,1.65,3.0
-S14000075,Dundee Central,snp,snp,45.0,43.9027697869797,,43.4,42.0,43.11265702,41.0
-S14000076,Dunfermline and Dollar,snp,con,11.0,10.3823622672883,,11.9,13.7,16.15,5.0
-S14000076,Dunfermline and Dollar,snp,grn,0.0,3.31151284469381,,2.3,3.3,1.54,6.0
-S14000076,Dunfermline and Dollar,snp,lab,42.0,38.6456126377825,,42.0,32.0,42.86,41.0
-S14000076,Dunfermline and Dollar,snp,lib,5.0,8.74804583928732,,5.5,11.7,4.32,4.0
-S14000076,Dunfermline and Dollar,snp,oth,4.0,1.2846696717436,,1.8,2.6,3.19,8.0
-S14000076,Dunfermline and Dollar,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000076,Dunfermline and Dollar,snp,ref,0.0,3.62135017084325,,3.3,4.7,1.1,4.0
-S14000076,Dunfermline and Dollar,snp,snp,37.0,34.0064465683612,,33.2,32.1,30.83522505,32.0
-S14000077,East Kilbride and Strathaven,snp,con,15.0,10.3572833408406,,12.0,13.8,13.82,3.0
-S14000077,East Kilbride and Strathaven,snp,grn,0.0,3.1703610452038,,2.3,5.1,1.12,5.0
-S14000077,East Kilbride and Strathaven,snp,lab,34.0,37.4770737470765,,40.0,30.4,43.79,46.0
-S14000077,East Kilbride and Strathaven,snp,lib,7.0,7.82378314861948,,4.8,8.5,3.33,3.0
-S14000077,East Kilbride and Strathaven,snp,oth,5.0,1.49504244401457,,2.0,3.1,2.01,7.0
-S14000077,East Kilbride and Strathaven,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000077,East Kilbride and Strathaven,snp,ref,0.0,3.34812213407054,,3.2,4.6,1.24,3.0
-S14000077,East Kilbride and Strathaven,snp,snp,39.0,36.3283341401746,,35.8,34.6,34.69249664,32.0
-S14000078,Edinburgh East and Musselburgh,snp,con,7.0,7.28759186178405,,8.6,10.0,11.06,3.0
-S14000078,Edinburgh East and Musselburgh,snp,grn,0.0,5.06622391301243,,4.2,4.6,3.39,11.0
-S14000078,Edinburgh East and Musselburgh,snp,lab,44.0,41.2082703806328,,41.5,34.2,34.2,34.0
-S14000078,Edinburgh East and Musselburgh,snp,lib,4.0,7.8085735736907,,4.5,7.4,5.35,3.0
-S14000078,Edinburgh East and Musselburgh,snp,oth,4.0,1.43350255797913,,1.6,2.7,3.94,9.0
-S14000078,Edinburgh East and Musselburgh,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000078,Edinburgh East and Musselburgh,snp,ref,0.0,2.10386101973383,,2.9,4.7,3.27,3.0
-S14000078,Edinburgh East and Musselburgh,snp,snp,40.0,35.0919766931671,,36.6,36.4,38.78479973,37.0
-S14000079,Edinburgh North and Leith,snp,con,9.0,8.81952897371115,,9.9,12.0,13.33,4.0
-S14000079,Edinburgh North and Leith,snp,grn,0.0,4.65630350428981,,5.2,6.4,4.08,10.0
-S14000079,Edinburgh North and Leith,snp,lab,42.0,37.287643202286,,39.3,28.8,33.91,35.0
-S14000079,Edinburgh North and Leith,snp,lib,8.0,10.8835891067233,,7.7,11.2,9.81,5.0
-S14000079,Edinburgh North and Leith,snp,oth,4.0,1.25025650801855,,1.5,4.2,2.08,9.0
-S14000079,Edinburgh North and Leith,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000079,Edinburgh North and Leith,snp,ref,0.0,2.48128370639165,,2.8,5.4,3.75,3.0
-S14000079,Edinburgh North and Leith,snp,snp,37.0,34.6213949985796,,33.7,32.0,33.01726017,34.0
-S14000080,Edinburgh South,lab,con,9.0,7.08044205441136,,9.2,10.3,12.64,6.0
-S14000080,Edinburgh South,lab,grn,0.0,3.74272628103795,,6.3,8.5,6.88,9.0
-S14000080,Edinburgh South,lab,lab,63.0,56.8228365631173,,54.1,39.5,51.64,53.0
-S14000080,Edinburgh South,lab,lib,5.0,8.13623750709811,,5.0,10.1,5.09,4.0
-S14000080,Edinburgh South,lab,oth,2.0,1.39983237435226,,1.5,6.7,2.37,3.0
-S14000080,Edinburgh South,lab,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000080,Edinburgh South,lab,ref,0.0,3.09824433185267,,3.6,5.2,1.68,3.0
-S14000080,Edinburgh South,lab,snp,22.0,19.7196808881304,,20.2,19.6,19.6467885,22.0
-S14000081,Edinburgh South West,snp,con,18.0,13.7353010310609,,13.5,15.2,16.74,9.0
-S14000081,Edinburgh South West,snp,grn,0.0,3.80326433812424,,3.3,6.7,2.96,8.0
-S14000081,Edinburgh South West,snp,lab,26.0,28.9693628476295,,36.8,25.3,29.38,33.0
-S14000081,Edinburgh South West,snp,lib,9.0,10.1185675449777,,5.8,10.0,6.07,4.0
-S14000081,Edinburgh South West,snp,oth,5.0,1.15156591885753,,1.8,3.8,1.71,8.0
-S14000081,Edinburgh South West,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000081,Edinburgh South West,snp,ref,0.0,3.36006417113855,,3.7,6.0,4.37,4.0
-S14000081,Edinburgh South West,snp,snp,41.0,38.8618741482116,,35.1,33.0,38.75053415,34.0
-S14000082,Edinburgh West,lib,con,8.0,8.15951026526613,,8.8,12.4,12.66,6.0
-S14000082,Edinburgh West,lib,grn,0.0,3.04882796531563,,2.0,8.3,1.99,9.0
-S14000082,Edinburgh West,lib,lab,14.0,22.5628307924894,,17.2,20.2,24.7,16.0
-S14000082,Edinburgh West,lib,lib,46.0,37.6782846143341,,37.7,27.8,31.47,24.0
-S14000082,Edinburgh West,lib,oth,3.0,1.74012356852917,,0.6,4.3,3.01,9.0
-S14000082,Edinburgh West,lib,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000082,Edinburgh West,lib,ref,0.0,2.9714294126791,,6.6,5.8,3.19,6.0
-S14000082,Edinburgh West,lib,snp,29.0,23.8389933813865,,27.1,21.2,22.9341717,30.0
-S14000083,Falkirk,snp,con,19.0,13.372257468451,,14.8,16.6,14.23,6.0
-S14000083,Falkirk,snp,grn,0.0,3.69186021354009,,2.3,2.3,1.11,5.0
-S14000083,Falkirk,snp,lab,25.0,26.7285548232523,,34.0,28.5,41.68,38.0
-S14000083,Falkirk,snp,lib,7.0,8.1848352957531,,4.9,8.4,4.04,2.0
-S14000083,Falkirk,snp,oth,5.0,1.39806695368996,,1.8,1.5,1.72,8.0
-S14000083,Falkirk,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000083,Falkirk,snp,ref,0.0,3.8167697495363,,3.6,5.2,1.5,7.0
-S14000083,Falkirk,snp,snp,45.0,42.8076554957773,,38.6,37.5,35.72075267,33.0
-S14000084,Glasgow East,snp,con,6.0,5.70719722594917,,7.8,9.0,9.35,1.0
-S14000084,Glasgow East,snp,grn,0.0,3.7174017156325,,2.9,2.1,2.06,10.0
-S14000084,Glasgow East,snp,lab,49.0,44.7138800190483,,46.2,41.0,38.97,40.0
-S14000084,Glasgow East,snp,lib,2.0,6.09593497337722,,3.5,4.3,4.16,3.0
-S14000084,Glasgow East,snp,oth,4.0,1.56209723812327,,1.6,1.1,3.31,9.0
-S14000084,Glasgow East,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000084,Glasgow East,snp,ref,0.0,2.85292021461716,,3.1,3.8,2.73,3.0
-S14000084,Glasgow East,snp,snp,39.0,35.3505686132523,,34.8,38.7,39.40919998,33.0
-S14000085,Glasgow North,snp,con,4.0,4.63295578552426,,6.3,7.5,7.05,5.0
-S14000085,Glasgow North,snp,grn,0.0,4.35981039207728,,3.6,3.6,2.37,14.0
-S14000085,Glasgow North,snp,lab,50.0,44.2305211514221,,46.0,40.6,43.71,37.0
-S14000085,Glasgow North,snp,lib,3.0,6.45141298179112,,4.1,6.1,3.49,3.0
-S14000085,Glasgow North,snp,oth,4.0,1.78930301362382,,1.6,2.1,3.31,4.0
-S14000085,Glasgow North,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000085,Glasgow North,snp,ref,0.0,1.90639122060631,,2.6,4.3,1.67,3.0
-S14000085,Glasgow North,snp,snp,39.0,36.6296054549551,,35.8,35.9,38.40534908,33.0
-S14000086,Glasgow North East,snp,con,5.0,4.87477593100745,,7.2,8.2,8.95,2.0
-S14000086,Glasgow North East,snp,grn,0.0,3.33940840483874,,2.3,1.4,1.53,11.0
-S14000086,Glasgow North East,snp,lab,52.0,46.7955476002184,,49.1,43.7,41.1,36.0
-S14000086,Glasgow North East,snp,lib,2.0,5.25026199360093,,3.3,3.7,4.53,4.0
-S14000086,Glasgow North East,snp,oth,4.0,1.34616149301451,,1.7,0.9,3.51,9.0
-S14000086,Glasgow North East,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000086,Glasgow North East,snp,ref,0.0,2.81365885304834,,3.1,3.2,1.79,4.0
-S14000086,Glasgow North East,snp,snp,37.0,35.5801857242716,,33.2,38.8,38.57577352,35.0
-S14000087,Glasgow South,snp,con,6.0,5.9727233942924,,7.7,9.5,9.61,5.0
-S14000087,Glasgow South,snp,grn,0.0,3.87371007301276,,4.7,2.9,7.12,8.0
-S14000087,Glasgow South,snp,lab,46.0,42.5029161893319,,43.6,37.0,38.14,45.0
-S14000087,Glasgow South,snp,lib,4.0,6.85812694352291,,3.8,6.0,4.39,3.0
-S14000087,Glasgow South,snp,oth,4.0,1.26574052121997,,1.5,1.9,4.48,2.0
-S14000087,Glasgow South,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000087,Glasgow South,snp,ref,0.0,2.71558262679044,,2.6,4.5,2.48,3.0
-S14000087,Glasgow South,snp,snp,40.0,36.8112002518297,,36.1,38.2,33.76401018,33.0
-S14000088,Glasgow South West,snp,con,6.0,5.37115114371961,,7.9,9.3,8.59,1.0
-S14000088,Glasgow South West,snp,grn,0.0,3.01296707391041,,3.0,1.7,5.6,9.0
-S14000088,Glasgow South West,snp,lab,49.0,45.5995985235073,,46.1,41.7,37.33,41.0
-S14000088,Glasgow South West,snp,lib,3.0,5.90405726309702,,3.4,4.6,4.49,4.0
-S14000088,Glasgow South West,snp,oth,4.0,1.20444048480194,,1.6,1.1,3.68,9.0
-S14000088,Glasgow South West,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000088,Glasgow South West,snp,ref,0.0,3.77335773591422,,3.0,4.1,3.23,3.0
-S14000088,Glasgow South West,snp,snp,38.0,35.1344277750495,,35.0,37.5,37.06731675,33.0
-S14000089,Glasgow West,snp,con,8.0,6.30965653807837,,9.1,10.8,10.48,3.0
-S14000089,Glasgow West,snp,grn,0.0,3.66599783651459,,3.3,2.3,2.2,10.0
-S14000089,Glasgow West,snp,lab,45.0,41.6068412939464,,43.4,35.9,35.35,36.0
-S14000089,Glasgow West,snp,lib,4.0,7.70727035206114,,4.4,7.2,5.99,4.0
-S14000089,Glasgow West,snp,oth,4.0,1.63123509815626,,1.6,2.0,2.83,9.0
-S14000089,Glasgow West,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000089,Glasgow West,snp,ref,0.0,2.68992903972591,,2.9,4.2,2.16,3.0
-S14000089,Glasgow West,snp,snp,39.0,36.3890698415174,,35.3,37.7,40.97301016,36.0
-S14000090,Glenrothes and Mid Fife,snp,con,8.0,8.11147571485575,,9.1,11.2,12.39,4.0
-S14000090,Glenrothes and Mid Fife,snp,grn,0.0,2.0424612382379,,1.6,1.2,0.8,8.0
-S14000090,Glenrothes and Mid Fife,snp,lab,44.0,38.7755410732839,,42.2,38.1,41.82,37.0
-S14000090,Glenrothes and Mid Fife,snp,lib,3.0,6.99794059172765,,3.8,5.7,3.81,3.0
-S14000090,Glenrothes and Mid Fife,snp,oth,4.0,1.19118866771892,,1.7,1.0,2.73,8.0
-S14000090,Glenrothes and Mid Fife,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000090,Glenrothes and Mid Fife,snp,ref,0.0,5.37272283159344,,3.2,4.7,0.96,4.0
-S14000090,Glenrothes and Mid Fife,snp,snp,41.0,37.5086698825824,,38.4,38.1,37.48179577,36.0
-S14000091,Gordon and Buchan,con,con,40.0,32.1393244727121,,27.5,27.0,31.14,35.0
-S14000091,Gordon and Buchan,con,grn,0.0,3.00130085679599,,2.0,3.5,1.37,4.0
-S14000091,Gordon and Buchan,con,lab,13.0,19.1498627700031,,22.6,15.7,18.89,18.0
-S14000091,Gordon and Buchan,con,lib,7.0,8.98969399814609,,8.3,22.0,8.42,6.0
-S14000091,Gordon and Buchan,con,oth,6.0,1.41304830473487,,1.6,2.1,2.36,1.0
-S14000091,Gordon and Buchan,con,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000091,Gordon and Buchan,con,ref,0.0,3.82211064769511,,9.3,4.7,5.99,6.0
-S14000091,Gordon and Buchan,con,snp,34.0,31.4846589499127,,28.6,25.1,31.81140705,30.0
-S14000092,Hamilton and Clyde Valley,snp,con,13.0,13.8450606895813,,14.0,16.0,17.61,8.0
-S14000092,Hamilton and Clyde Valley,snp,grn,0.0,3.01225492769557,,1.6,1.4,0.89,6.0
-S14000092,Hamilton and Clyde Valley,snp,lab,45.0,37.600595164962,,43.7,35.8,40.99,45.0
-S14000092,Hamilton and Clyde Valley,snp,lib,2.0,6.78972072957182,,3.5,6.9,4.98,3.0
-S14000092,Hamilton and Clyde Valley,snp,oth,4.0,1.28643915385911,,2.1,1.4,2.57,5.0
-S14000092,Hamilton and Clyde Valley,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000092,Hamilton and Clyde Valley,snp,ref,0.0,4.10356403419218,,4.1,4.3,1.49,3.0
-S14000092,Hamilton and Clyde Valley,snp,snp,36.0,33.362365300138,,31.1,34.3,31.46657299,30.0
+S14000073,Dumfries and Galloway,con,con,38.0,32.3425696413758,29.7,26.1,25.5,31.25,34.0
+S14000073,Dumfries and Galloway,con,grn,0.0,2.01836258562494,0.9,1.9,0.9,0.57,4.0
+S14000073,Dumfries and Galloway,con,lab,17.0,22.3171807151127,31.1,29.0,33.2,29.3,20.0
+S14000073,Dumfries and Galloway,con,lib,4.0,6.87669848676061,4.4,4.4,3.6,4.21,3.0
+S14000073,Dumfries and Galloway,con,oth,6.0,1.12246417660887,4.1,1.6,1.1,1.42,1.0
+S14000073,Dumfries and Galloway,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000073,Dumfries and Galloway,con,ref,0.0,4.83140525551594,1.4,7.8,3.9,2.16,5.0
+S14000073,Dumfries and Galloway,con,snp,36.0,30.4913191390012,28.4,29.2,31.9,31.07581984,33.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,con,40.0,34.3612585279186,31.5,27.9,30.6,34.56,37.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,grn,0.0,2.45594354346062,0.9,2.0,1.5,0.92,4.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,lab,17.0,22.1082416847948,30.5,27.2,26.3,28.83,20.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,lib,5.0,7.34549865896525,5.2,5.1,7.1,4.75,4.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,oth,6.0,1.15605083887935,4.1,1.6,1.1,1.79,1.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,ref,0.0,4.36885428852838,1.4,8.7,3.1,2.39,5.0
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,snp,33.0,28.204152457453,26.4,27.6,30.5,26.74777146,30.0
+S14000075,Dundee Central,snp,con,8.0,6.22640805634672,8.0,7.2,8.6,10.59,1.0
+S14000075,Dundee Central,snp,grn,0.0,1.83126270923125,0.0,1.5,1.2,1.52,11.0
+S14000075,Dundee Central,snp,lab,37.0,35.1399034563144,43.7,39.6,35.3,34.17,30.0
+S14000075,Dundee Central,snp,lib,5.0,6.64745773366473,1.7,4.2,6.6,5.38,3.0
+S14000075,Dundee Central,snp,oth,5.0,1.3059283719145,3.4,1.5,1.8,3.58,10.0
+S14000075,Dundee Central,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000075,Dundee Central,snp,ref,0.0,4.9462698855487,1.4,2.5,4.5,1.65,3.0
+S14000075,Dundee Central,snp,snp,45.0,43.9027697869797,41.9,43.4,42.0,43.11265702,41.0
+S14000076,Dunfermline and Dollar,snp,con,11.0,10.3823622672883,15.4,11.9,13.7,16.15,5.0
+S14000076,Dunfermline and Dollar,snp,grn,0.0,3.31151284469381,0.9,2.3,3.3,1.54,6.0
+S14000076,Dunfermline and Dollar,snp,lab,42.0,38.6456126377825,44.5,42.0,32.0,42.86,41.0
+S14000076,Dunfermline and Dollar,snp,lib,5.0,8.74804583928732,2.2,5.5,11.7,4.32,4.0
+S14000076,Dunfermline and Dollar,snp,oth,4.0,1.2846696717436,3.1,1.8,2.6,3.19,8.0
+S14000076,Dunfermline and Dollar,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000076,Dunfermline and Dollar,snp,ref,0.0,3.62135017084325,1.6,3.3,4.7,1.1,4.0
+S14000076,Dunfermline and Dollar,snp,snp,37.0,34.0064465683612,32.2,33.2,32.1,30.83522505,32.0
+S14000077,East Kilbride and Strathaven,snp,con,15.0,10.3572833408406,15.3,12.0,13.8,13.82,3.0
+S14000077,East Kilbride and Strathaven,snp,grn,0.0,3.1703610452038,0.9,2.3,5.1,1.12,5.0
+S14000077,East Kilbride and Strathaven,snp,lab,34.0,37.4770737470765,42.7,40.0,30.4,43.79,46.0
+S14000077,East Kilbride and Strathaven,snp,lib,7.0,7.82378314861948,1.9,4.8,8.5,3.33,3.0
+S14000077,East Kilbride and Strathaven,snp,oth,5.0,1.49504244401457,3.5,2.0,3.1,2.01,7.0
+S14000077,East Kilbride and Strathaven,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000077,East Kilbride and Strathaven,snp,ref,0.0,3.34812213407054,1.6,3.2,4.6,1.24,3.0
+S14000077,East Kilbride and Strathaven,snp,snp,39.0,36.3283341401746,34.0,35.8,34.6,34.69249664,32.0
+S14000078,Edinburgh East and Musselburgh,snp,con,7.0,7.28759186178405,10.9,8.6,10.0,11.06,3.0
+S14000078,Edinburgh East and Musselburgh,snp,grn,0.0,5.06622391301243,1.0,4.2,4.6,3.39,11.0
+S14000078,Edinburgh East and Musselburgh,snp,lab,44.0,41.2082703806328,46.4,41.5,34.2,34.2,34.0
+S14000078,Edinburgh East and Musselburgh,snp,lib,4.0,7.8085735736907,1.9,4.5,7.4,5.35,3.0
+S14000078,Edinburgh East and Musselburgh,snp,oth,4.0,1.43350255797913,2.9,1.6,2.7,3.94,9.0
+S14000078,Edinburgh East and Musselburgh,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000078,Edinburgh East and Musselburgh,snp,ref,0.0,2.10386101973383,1.7,2.9,4.7,3.27,3.0
+S14000078,Edinburgh East and Musselburgh,snp,snp,40.0,35.0919766931671,35.2,36.6,36.4,38.78479973,37.0
+S14000079,Edinburgh North and Leith,snp,con,9.0,8.81952897371115,13.4,9.9,12.0,13.33,4.0
+S14000079,Edinburgh North and Leith,snp,grn,0.0,4.65630350428981,1.0,5.2,6.4,4.08,10.0
+S14000079,Edinburgh North and Leith,snp,lab,42.0,37.287643202286,45.0,39.3,28.8,33.91,35.0
+S14000079,Edinburgh North and Leith,snp,lib,8.0,10.8835891067233,3.6,7.7,11.2,9.81,5.0
+S14000079,Edinburgh North and Leith,snp,oth,4.0,1.25025650801855,3.1,1.5,4.2,2.08,9.0
+S14000079,Edinburgh North and Leith,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000079,Edinburgh North and Leith,snp,ref,0.0,2.48128370639165,1.8,2.8,5.4,3.75,3.0
+S14000079,Edinburgh North and Leith,snp,snp,37.0,34.6213949985796,32.1,33.7,32.0,33.01726017,34.0
+S14000080,Edinburgh South,lab,con,9.0,7.08044205441136,11.8,9.2,10.3,12.64,6.0
+S14000080,Edinburgh South,lab,grn,0.0,3.74272628103795,0.9,6.3,8.5,6.88,9.0
+S14000080,Edinburgh South,lab,lab,63.0,56.8228365631173,64.9,54.1,39.5,51.64,53.0
+S14000080,Edinburgh South,lab,lib,5.0,8.13623750709811,2.2,5.0,10.1,5.09,4.0
+S14000080,Edinburgh South,lab,oth,2.0,1.39983237435226,2.7,1.5,6.7,2.37,3.0
+S14000080,Edinburgh South,lab,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000080,Edinburgh South,lab,ref,0.0,3.09824433185267,1.6,3.6,5.2,1.68,3.0
+S14000080,Edinburgh South,lab,snp,22.0,19.7196808881304,15.9,20.2,19.6,19.6467885,22.0
+S14000081,Edinburgh South West,snp,con,18.0,13.7353010310609,18.5,13.5,15.2,16.74,9.0
+S14000081,Edinburgh South West,snp,grn,0.0,3.80326433812424,1.0,3.3,6.7,2.96,8.0
+S14000081,Edinburgh South West,snp,lab,26.0,28.9693628476295,33.4,36.8,25.3,29.38,33.0
+S14000081,Edinburgh South West,snp,lib,9.0,10.1185675449777,6.7,5.8,10.0,6.07,4.0
+S14000081,Edinburgh South West,snp,oth,5.0,1.15156591885753,3.5,1.8,3.8,1.71,8.0
+S14000081,Edinburgh South West,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000081,Edinburgh South West,snp,ref,0.0,3.36006417113855,1.5,3.7,6.0,4.37,4.0
+S14000081,Edinburgh South West,snp,snp,41.0,38.8618741482116,35.2,35.1,33.0,38.75053415,34.0
+S14000082,Edinburgh West,lib,con,8.0,8.15951026526613,10.3,8.8,12.4,12.66,6.0
+S14000082,Edinburgh West,lib,grn,0.0,3.04882796531563,0.9,2.0,8.3,1.99,9.0
+S14000082,Edinburgh West,lib,lab,14.0,22.5628307924894,8.5,17.2,20.2,24.7,16.0
+S14000082,Edinburgh West,lib,lib,46.0,37.6782846143341,54.7,37.7,27.8,31.47,24.0
+S14000082,Edinburgh West,lib,oth,3.0,1.74012356852917,2.9,0.6,4.3,3.01,9.0
+S14000082,Edinburgh West,lib,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000082,Edinburgh West,lib,ref,0.0,2.9714294126791,1.8,6.6,5.8,3.19,6.0
+S14000082,Edinburgh West,lib,snp,29.0,23.8389933813865,21.1,27.1,21.2,22.9341717,30.0
+S14000083,Falkirk,snp,con,19.0,13.372257468451,19.2,14.8,16.6,14.23,6.0
+S14000083,Falkirk,snp,grn,0.0,3.69186021354009,1.1,2.3,2.3,1.11,5.0
+S14000083,Falkirk,snp,lab,25.0,26.7285548232523,31.1,34.0,28.5,41.68,38.0
+S14000083,Falkirk,snp,lib,7.0,8.1848352957531,5.2,4.9,8.4,4.04,2.0
+S14000083,Falkirk,snp,oth,5.0,1.39806695368996,3.5,1.8,1.5,1.72,8.0
+S14000083,Falkirk,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000083,Falkirk,snp,ref,0.0,3.8167697495363,1.5,3.6,5.2,1.5,7.0
+S14000083,Falkirk,snp,snp,45.0,42.8076554957773,38.4,38.6,37.5,35.72075267,33.0
+S14000084,Glasgow East,snp,con,6.0,5.70719722594917,8.1,7.8,9.0,9.35,1.0
+S14000084,Glasgow East,snp,grn,0.0,3.7174017156325,0.7,2.9,2.1,2.06,10.0
+S14000084,Glasgow East,snp,lab,49.0,44.7138800190483,50.6,46.2,41.0,38.97,40.0
+S14000084,Glasgow East,snp,lib,2.0,6.09593497337722,1.2,3.5,4.3,4.16,3.0
+S14000084,Glasgow East,snp,oth,4.0,1.56209723812327,2.8,1.6,1.1,3.31,9.0
+S14000084,Glasgow East,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000084,Glasgow East,snp,ref,0.0,2.85292021461716,1.3,3.1,3.8,2.73,3.0
+S14000084,Glasgow East,snp,snp,39.0,35.3505686132523,35.3,34.8,38.7,39.40919998,33.0
+S14000085,Glasgow North,snp,con,4.0,4.63295578552426,7.3,6.3,7.5,7.05,5.0
+S14000085,Glasgow North,snp,grn,0.0,4.35981039207728,0.9,3.6,3.6,2.37,14.0
+S14000085,Glasgow North,snp,lab,50.0,44.2305211514221,51.0,46.0,40.6,43.71,37.0
+S14000085,Glasgow North,snp,lib,3.0,6.45141298179112,1.5,4.1,6.1,3.49,3.0
+S14000085,Glasgow North,snp,oth,4.0,1.78930301362382,2.6,1.6,2.1,3.31,4.0
+S14000085,Glasgow North,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000085,Glasgow North,snp,ref,0.0,1.90639122060631,1.5,2.6,4.3,1.67,3.0
+S14000085,Glasgow North,snp,snp,39.0,36.6296054549551,35.2,35.8,35.9,38.40534908,33.0
+S14000086,Glasgow North East,snp,con,5.0,4.87477593100745,6.4,7.2,8.2,8.95,2.0
+S14000086,Glasgow North East,snp,grn,0.0,3.33940840483874,0.6,2.3,1.4,1.53,11.0
+S14000086,Glasgow North East,snp,lab,52.0,46.7955476002184,54.1,49.1,43.7,41.1,36.0
+S14000086,Glasgow North East,snp,lib,2.0,5.25026199360093,1.0,3.3,3.7,4.53,4.0
+S14000086,Glasgow North East,snp,oth,4.0,1.34616149301451,2.7,1.7,0.9,3.51,9.0
+S14000086,Glasgow North East,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000086,Glasgow North East,snp,ref,0.0,2.81365885304834,1.2,3.1,3.2,1.79,4.0
+S14000086,Glasgow North East,snp,snp,37.0,35.5801857242716,34.1,33.2,38.8,38.57577352,35.0
+S14000087,Glasgow South,snp,con,6.0,5.9727233942924,9.4,7.7,9.5,9.61,5.0
+S14000087,Glasgow South,snp,grn,0.0,3.87371007301276,0.9,4.7,2.9,7.12,8.0
+S14000087,Glasgow South,snp,lab,46.0,42.5029161893319,48.3,43.6,37.0,38.14,45.0
+S14000087,Glasgow South,snp,lib,4.0,6.85812694352291,1.7,3.8,6.0,4.39,3.0
+S14000087,Glasgow South,snp,oth,4.0,1.26574052121997,2.9,1.5,1.9,4.48,2.0
+S14000087,Glasgow South,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000087,Glasgow South,snp,ref,0.0,2.71558262679044,1.5,2.6,4.5,2.48,3.0
+S14000087,Glasgow South,snp,snp,40.0,36.8112002518297,35.3,36.1,38.2,33.76401018,33.0
+S14000088,Glasgow South West,snp,con,6.0,5.37115114371961,7.8,7.9,9.3,8.59,1.0
+S14000088,Glasgow South West,snp,grn,0.0,3.01296707391041,0.7,3.0,1.7,5.6,9.0
+S14000088,Glasgow South West,snp,lab,49.0,45.5995985235073,51.5,46.1,41.7,37.33,41.0
+S14000088,Glasgow South West,snp,lib,3.0,5.90405726309702,1.2,3.4,4.6,4.49,4.0
+S14000088,Glasgow South West,snp,oth,4.0,1.20444048480194,2.9,1.6,1.1,3.68,9.0
+S14000088,Glasgow South West,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000088,Glasgow South West,snp,ref,0.0,3.77335773591422,1.3,3.0,4.1,3.23,3.0
+S14000088,Glasgow South West,snp,snp,38.0,35.1344277750495,34.5,35.0,37.5,37.06731675,33.0
+S14000089,Glasgow West,snp,con,8.0,6.30965653807837,10.3,9.1,10.8,10.48,3.0
+S14000089,Glasgow West,snp,grn,0.0,3.66599783651459,0.7,3.3,2.3,2.2,10.0
+S14000089,Glasgow West,snp,lab,45.0,41.6068412939464,47.3,43.4,35.9,35.35,36.0
+S14000089,Glasgow West,snp,lib,4.0,7.70727035206114,2.1,4.4,7.2,5.99,4.0
+S14000089,Glasgow West,snp,oth,4.0,1.63123509815626,2.9,1.6,2.0,2.83,9.0
+S14000089,Glasgow West,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000089,Glasgow West,snp,ref,0.0,2.68992903972591,1.4,2.9,4.2,2.16,3.0
+S14000089,Glasgow West,snp,snp,39.0,36.3890698415174,35.4,35.3,37.7,40.97301016,36.0
+S14000090,Glenrothes and Mid Fife,snp,con,8.0,8.11147571485575,10.8,9.1,11.2,12.39,4.0
+S14000090,Glenrothes and Mid Fife,snp,grn,0.0,2.0424612382379,0.0,1.6,1.2,0.8,8.0
+S14000090,Glenrothes and Mid Fife,snp,lab,44.0,38.7755410732839,48.5,42.2,38.1,41.82,37.0
+S14000090,Glenrothes and Mid Fife,snp,lib,3.0,6.99794059172765,1.6,3.8,5.7,3.81,3.0
+S14000090,Glenrothes and Mid Fife,snp,oth,4.0,1.19118866771892,0.0,1.7,1.0,2.73,8.0
+S14000090,Glenrothes and Mid Fife,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000090,Glenrothes and Mid Fife,snp,ref,0.0,5.37272283159344,1.5,3.2,4.7,0.96,4.0
+S14000090,Glenrothes and Mid Fife,snp,snp,41.0,37.5086698825824,37.5,38.4,38.1,37.48179577,36.0
+S14000091,Gordon and Buchan,con,con,40.0,32.1393244727121,32.9,27.5,27.0,31.14,35.0
+S14000091,Gordon and Buchan,con,grn,0.0,3.00130085679599,0.0,2.0,3.5,1.37,4.0
+S14000091,Gordon and Buchan,con,lab,13.0,19.1498627700031,26.8,22.6,15.7,18.89,18.0
+S14000091,Gordon and Buchan,con,lib,7.0,8.98969399814609,8.0,8.3,22.0,8.42,6.0
+S14000091,Gordon and Buchan,con,oth,6.0,1.41304830473487,0.0,1.6,2.1,2.36,1.0
+S14000091,Gordon and Buchan,con,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000091,Gordon and Buchan,con,ref,0.0,3.82211064769511,1.6,9.3,4.7,5.99,6.0
+S14000091,Gordon and Buchan,con,snp,34.0,31.4846589499127,30.7,28.6,25.1,31.81140705,30.0
+S14000092,Hamilton and Clyde Valley,snp,con,13.0,13.8450606895813,16.5,14.0,16.0,17.61,8.0
+S14000092,Hamilton and Clyde Valley,snp,grn,0.0,3.01225492769557,0.0,1.6,1.4,0.89,6.0
+S14000092,Hamilton and Clyde Valley,snp,lab,45.0,37.600595164962,46.4,43.7,35.8,40.99,45.0
+S14000092,Hamilton and Clyde Valley,snp,lib,2.0,6.78972072957182,1.4,3.5,6.9,4.98,3.0
+S14000092,Hamilton and Clyde Valley,snp,oth,4.0,1.28643915385911,3.5,2.1,1.4,2.57,5.0
+S14000092,Hamilton and Clyde Valley,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000092,Hamilton and Clyde Valley,snp,ref,0.0,4.10356403419218,1.5,4.1,4.3,1.49,3.0
+S14000092,Hamilton and Clyde Valley,snp,snp,36.0,33.362365300138,30.8,31.1,34.3,31.46657299,30.0
 S14000093,Inverclyde and Renfrewshire West,snp,con,9.0,7.57087553400463,11.3,10.2,12.3,12.62,3.0
 S14000093,Inverclyde and Renfrewshire West,snp,grn,0.0,2.76527915914878,0.6,2.3,1.5,2.37,7.0
 S14000093,Inverclyde and Renfrewshire West,snp,lab,45.0,41.1947098074722,47.2,44.2,36.3,37.41,41.0
@@ -4735,14 +4735,14 @@ S14000099,"Motherwell, Wishaw and Carluke",snp,oth,5.0,1.21528245802979,3.6,1.9,
 S14000099,"Motherwell, Wishaw and Carluke",snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 S14000099,"Motherwell, Wishaw and Carluke",snp,ref,0.0,3.68723425239749,1.4,3.9,4.4,5.49,3.0
 S14000099,"Motherwell, Wishaw and Carluke",snp,snp,37.0,33.8927397811662,32.3,34.3,35.6,37.12541453,31.0
-S14000100,North East Fife,snp,con,6.0,6.05449590555918,,7.1,10.4,8.69,3.0
-S14000100,North East Fife,snp,grn,0.0,3.27853577918806,,1.5,3.3,0.77,12.0
-S14000100,North East Fife,snp,lab,12.0,19.7824387483294,,15.9,10.7,19.0,11.0
-S14000100,North East Fife,snp,lib,44.0,36.8944308580766,,39.2,43.8,41.59,28.0
-S14000100,North East Fife,snp,oth,4.0,2.28796842826481,,0.8,1.8,2.68,9.0
-S14000100,North East Fife,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000100,North East Fife,snp,ref,0.0,3.17206775668253,,4.3,3.1,0.98,7.0
-S14000100,North East Fife,snp,snp,35.0,28.5300625238994,,31.2,27.0,26.28223237,30.0
+S14000100,North East Fife,snp,con,6.0,6.05449590555918,7.5,7.1,10.4,8.69,3.0
+S14000100,North East Fife,snp,grn,0.0,3.27853577918806,0.6,1.5,3.3,0.77,12.0
+S14000100,North East Fife,snp,lab,12.0,19.7824387483294,7.3,15.9,10.7,19.0,11.0
+S14000100,North East Fife,snp,lib,44.0,36.8944308580766,54.3,39.2,43.8,41.59,28.0
+S14000100,North East Fife,snp,oth,4.0,2.28796842826481,0.0,0.8,1.8,2.68,9.0
+S14000100,North East Fife,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000100,North East Fife,snp,ref,0.0,3.17206775668253,1.6,4.3,3.1,0.98,7.0
+S14000100,North East Fife,snp,snp,35.0,28.5300625238994,28.7,31.2,27.0,26.28223237,30.0
 S14000101,Paisley and Renfrewshire North,snp,con,10.0,9.7693855035832,13.3,11.1,12.7,15.47,4.0
 S14000101,Paisley and Renfrewshire North,snp,grn,0.0,3.0134024501632,0.7,1.8,1.5,1.58,7.0
 S14000101,Paisley and Renfrewshire North,snp,lab,42.0,38.6956426928862,46.6,41.3,35.6,36.21,40.0
@@ -4783,14 +4783,14 @@ S14000105,Stirling and Strathallan,snp,oth,5.0,1.44778512063837,0.0,1.8,2.7,1.44
 S14000105,Stirling and Strathallan,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 S14000105,Stirling and Strathallan,snp,ref,0.0,3.54003915240663,1.5,5.3,5.5,6.63,4.0
 S14000105,Stirling and Strathallan,snp,snp,45.0,41.3736424438317,38.6,35.6,34.3,33.43748059,35.0
-S14000106,West Dunbartonshire,snp,con,7.0,6.3376228905836,,8.7,10.4,10.64,5.0
-S14000106,West Dunbartonshire,snp,grn,0.0,2.38232367330121,,2.9,1.4,1.78,5.0
-S14000106,West Dunbartonshire,snp,lab,44.0,41.0718627977217,,42.4,37.2,38.56,49.0
-S14000106,West Dunbartonshire,snp,lib,2.0,5.91502083155524,,3.6,5.2,3.78,2.0
-S14000106,West Dunbartonshire,snp,oth,6.0,2.75522955969273,,1.7,2.2,2.64,0.0
-S14000106,West Dunbartonshire,snp,pc,0.0,0.0,,0.0,0.0,0.0,0.0
-S14000106,West Dunbartonshire,snp,ref,0.0,3.09619208159078,,3.3,3.7,2.25,3.0
-S14000106,West Dunbartonshire,snp,snp,40.0,38.4417481655548,,37.5,39.9,40.33674975,35.0
+S14000106,West Dunbartonshire,snp,con,7.0,6.3376228905836,10.0,8.7,10.4,10.64,5.0
+S14000106,West Dunbartonshire,snp,grn,0.0,2.38232367330121,0.8,2.9,1.4,1.78,5.0
+S14000106,West Dunbartonshire,snp,lab,44.0,41.0718627977217,46.5,42.4,37.2,38.56,49.0
+S14000106,West Dunbartonshire,snp,lib,2.0,5.91502083155524,1.2,3.6,5.2,3.78,2.0
+S14000106,West Dunbartonshire,snp,oth,6.0,2.75522955969273,3.6,1.7,2.2,2.64,0.0
+S14000106,West Dunbartonshire,snp,pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S14000106,West Dunbartonshire,snp,ref,0.0,3.09619208159078,1.5,3.3,3.7,2.25,3.0
+S14000106,West Dunbartonshire,snp,snp,40.0,38.4417481655548,36.3,37.5,39.9,40.33674975,35.0
 W07000081,Aberafan Maesteg,lab,con,12.0,9.61022603917407,14.1,11.3,16.0,14.77,9.0
 W07000081,Aberafan Maesteg,lab,grn,4.0,1.98935364913459,4.3,4.9,4.2,3.05,4.0
 W07000081,Aberafan Maesteg,lab,lab,56.0,54.7495288339332,57.8,58.4,54.0,54.48,52.0
@@ -4911,22 +4911,22 @@ W07000095,Clwyd North,con,oth,1.0,1.57265406443026,0.0,1.2,1.1,0.56,1.0
 W07000095,Clwyd North,con,pc,9.0,8.43498052755184,8.7,7.8,7.8,14.77032916,11.0
 W07000095,Clwyd North,con,ref,10.0,8.74710309028112,7.4,13.0,8.9,13.38,10.0
 W07000095,Clwyd North,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-W07000096,Dwyfor Meirionnydd,pc,con,14.0,10.95658978276,,7.7,18.4,14.77,11.0
-W07000096,Dwyfor Meirionnydd,pc,grn,3.0,3.72925289533269,,1.3,2.4,4.27,4.0
-W07000096,Dwyfor Meirionnydd,pc,lab,24.0,24.5602648941589,,29.9,23.2,16.59,22.0
-W07000096,Dwyfor Meirionnydd,pc,lib,4.0,5.85998360764816,,1.9,3.1,3.48,3.0
-W07000096,Dwyfor Meirionnydd,pc,oth,0.0,4.27072734719279,,0.9,0.3,0.02,8.0
-W07000096,Dwyfor Meirionnydd,pc,pc,46.0,39.5239997248526,,45.9,44.8,53.75712459,43.0
-W07000096,Dwyfor Meirionnydd,pc,ref,8.0,11.0991817480549,,12.3,7.9,7.07,9.0
-W07000096,Dwyfor Meirionnydd,pc,snp,0.0,0.0,,0.0,0.0,0.0,0.0
-W07000097,Gower,lab,con,25.0,19.226628388857,,20.8,27.3,22.08,27.0
-W07000097,Gower,lab,grn,2.0,2.60124299434147,,4.2,2.8,2.56,4.0
-W07000097,Gower,lab,lab,51.0,52.2650369908352,,55.2,46.6,49.7,44.0
-W07000097,Gower,lab,lib,5.0,6.05107928262471,,4.8,6.4,3.5,5.0
-W07000097,Gower,lab,oth,1.0,1.95714424912479,,1.1,2.4,1.27,0.0
-W07000097,Gower,lab,pc,7.0,8.34556108716349,,4.0,6.4,10.8649555,11.0
-W07000097,Gower,lab,ref,9.0,9.55330700705344,,9.8,8.0,9.98,10.0
-W07000097,Gower,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+W07000096,Dwyfor Meirionnydd,pc,con,14.0,10.95658978276,17.0,7.7,18.4,14.77,11.0
+W07000096,Dwyfor Meirionnydd,pc,grn,3.0,3.72925289533269,1.4,1.3,2.4,4.27,4.0
+W07000096,Dwyfor Meirionnydd,pc,lab,24.0,24.5602648941589,19.6,29.9,23.2,16.59,22.0
+W07000096,Dwyfor Meirionnydd,pc,lib,4.0,5.85998360764816,1.7,1.9,3.1,3.48,3.0
+W07000096,Dwyfor Meirionnydd,pc,oth,0.0,4.27072734719279,0.4,0.9,0.3,0.02,8.0
+W07000096,Dwyfor Meirionnydd,pc,pc,46.0,39.5239997248526,53.1,45.9,44.8,53.75712459,43.0
+W07000096,Dwyfor Meirionnydd,pc,ref,8.0,11.0991817480549,6.9,12.3,7.9,7.07,9.0
+W07000096,Dwyfor Meirionnydd,pc,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+W07000097,Gower,lab,con,25.0,19.226628388857,30.6,20.8,27.3,22.08,27.0
+W07000097,Gower,lab,grn,2.0,2.60124299434147,3.2,4.2,2.8,2.56,4.0
+W07000097,Gower,lab,lab,51.0,52.2650369908352,46.1,55.2,46.6,49.7,44.0
+W07000097,Gower,lab,lib,5.0,6.05107928262471,2.7,4.8,6.4,3.5,5.0
+W07000097,Gower,lab,oth,1.0,1.95714424912479,0.3,1.1,2.4,1.27,0.0
+W07000097,Gower,lab,pc,7.0,8.34556108716349,7.6,4.0,6.4,10.8649555,11.0
+W07000097,Gower,lab,ref,9.0,9.55330700705344,9.3,9.8,8.0,9.98,10.0
+W07000097,Gower,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 W07000098,Llanelli,lab,con,20.0,11.9127657965289,19.6,13.9,21.6,19.55,16.0
 W07000098,Llanelli,lab,grn,2.0,1.38805313215517,2.8,4.1,2.6,1.06,5.0
 W07000098,Llanelli,lab,lab,44.0,45.3376509164226,40.8,44.8,43.9,47.35,38.0
@@ -5007,30 +5007,30 @@ W07000107,Rhondda and Ogmore,lab,oth,1.0,2.80400559809947,0.0,1.3,0.9,0.79,3.0
 W07000107,Rhondda and Ogmore,lab,pc,14.0,13.074572383871,14.9,10.5,14.5,12.5191547,14.0
 W07000107,Rhondda and Ogmore,lab,ref,7.0,17.0185727860882,10.1,15.1,11.7,15.8,13.0
 W07000107,Rhondda and Ogmore,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-W07000108,Swansea West,lab,con,15.0,9.97400783795293,17.1,13.0,19.3,16.99,15.0
-W07000108,Swansea West,lab,grn,4.0,2.39668982892095,5.6,4.3,3.4,3.49,5.0
-W07000108,Swansea West,lab,lab,53.0,57.7763628413058,53.8,57.7,50.7,57.25,50.0
-W07000108,Swansea West,lab,lib,9.0,6.21973986474176,3.1,4.1,6.6,4.39,5.0
-W07000108,Swansea West,lab,oth,0.0,1.68720597459759,0.6,1.4,3.1,1.9,2.0
-W07000108,Swansea West,lab,pc,7.0,8.82196650204769,10.4,6.7,7.1,4.782633139,12.0
-W07000108,Swansea West,lab,ref,11.0,13.1240271504333,9.5,12.8,9.9,11.19,10.0
-W07000108,Swansea West,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-W07000109,Torfaen,lab,con,24.0,14.5334253628854,22.7,15.1,23.0,20.02,17.0
-W07000109,Torfaen,lab,grn,4.0,2.52783505236599,4.6,4.8,4.1,7.71,4.0
-W07000109,Torfaen,lab,lab,51.0,47.4085814568164,49.5,49.8,47.3,44.15,49.0
-W07000109,Torfaen,lab,lib,4.0,5.72957930095003,2.3,3.5,5.1,5.09,4.0
-W07000109,Torfaen,lab,oth,1.0,1.85319429185778,0.5,1.7,2.2,2.51,1.0
-W07000109,Torfaen,lab,pc,6.0,7.43859505603078,8.8,4.0,6.2,6.039862097,9.0
-W07000109,Torfaen,lab,ref,11.0,20.5087894790936,11.6,21.1,12.1,14.43,15.0
-W07000109,Torfaen,lab,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-W07000110,Vale of Glamorgan,con,con,28.0,28.4147753833582,35.8,24.0,30.1,24.68,30.0
-W07000110,Vale of Glamorgan,con,grn,6.0,6.6107611116013,3.7,6.7,3.6,4.15,6.0
-W07000110,Vale of Glamorgan,con,lab,47.0,45.0188398245734,47.4,53.4,51.2,49.72,46.0
-W07000110,Vale of Glamorgan,con,lib,3.0,4.75721363850431,1.6,1.9,3.0,4.5,4.0
-W07000110,Vale of Glamorgan,con,oth,2.0,2.08430438190623,0.5,0.9,0.8,0.77,1.0
-W07000110,Vale of Glamorgan,con,pc,4.0,4.89933235783636,2.6,1.5,3.4,2.939928832,5.0
-W07000110,Vale of Glamorgan,con,ref,10.0,8.21477330222018,8.4,11.6,7.8,13.22,8.0
-W07000110,Vale of Glamorgan,con,snp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+W07000108,Swansea West,lab,con,15.0,9.97400783795293,,13.0,19.3,16.99,15.0
+W07000108,Swansea West,lab,grn,4.0,2.39668982892095,,4.3,3.4,3.49,5.0
+W07000108,Swansea West,lab,lab,53.0,57.7763628413058,,57.7,50.7,57.25,50.0
+W07000108,Swansea West,lab,lib,9.0,6.21973986474176,,4.1,6.6,4.39,5.0
+W07000108,Swansea West,lab,oth,0.0,1.68720597459759,,1.4,3.1,1.9,2.0
+W07000108,Swansea West,lab,pc,7.0,8.82196650204769,,6.7,7.1,4.782633139,12.0
+W07000108,Swansea West,lab,ref,11.0,13.1240271504333,,12.8,9.9,11.19,10.0
+W07000108,Swansea West,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+W07000109,Torfaen,lab,con,24.0,14.5334253628854,,15.1,23.0,20.02,17.0
+W07000109,Torfaen,lab,grn,4.0,2.52783505236599,,4.8,4.1,7.71,4.0
+W07000109,Torfaen,lab,lab,51.0,47.4085814568164,,49.8,47.3,44.15,49.0
+W07000109,Torfaen,lab,lib,4.0,5.72957930095003,,3.5,5.1,5.09,4.0
+W07000109,Torfaen,lab,oth,1.0,1.85319429185778,,1.7,2.2,2.51,1.0
+W07000109,Torfaen,lab,pc,6.0,7.43859505603078,,4.0,6.2,6.039862097,9.0
+W07000109,Torfaen,lab,ref,11.0,20.5087894790936,,21.1,12.1,14.43,15.0
+W07000109,Torfaen,lab,snp,0.0,0.0,,0.0,0.0,0.0,0.0
+W07000110,Vale of Glamorgan,con,con,28.0,28.4147753833582,,24.0,30.1,24.68,30.0
+W07000110,Vale of Glamorgan,con,grn,6.0,6.6107611116013,,6.7,3.6,4.15,6.0
+W07000110,Vale of Glamorgan,con,lab,47.0,45.0188398245734,,53.4,51.2,49.72,46.0
+W07000110,Vale of Glamorgan,con,lib,3.0,4.75721363850431,,1.9,3.0,4.5,4.0
+W07000110,Vale of Glamorgan,con,oth,2.0,2.08430438190623,,0.9,0.8,0.77,1.0
+W07000110,Vale of Glamorgan,con,pc,4.0,4.89933235783636,,1.5,3.4,2.939928832,5.0
+W07000110,Vale of Glamorgan,con,ref,10.0,8.21477330222018,,11.6,7.8,13.22,8.0
+W07000110,Vale of Glamorgan,con,snp,0.0,0.0,,0.0,0.0,0.0,0.0
 W07000111,Wrexham,con,con,28.0,27.2349245291766,33.4,20.7,29.8,24.78,28.0
 W07000111,Wrexham,con,grn,3.0,2.50795801503726,2.6,4.6,2.2,2.62,4.0
 W07000111,Wrexham,con,lab,43.0,45.2921028805032,43.4,48.2,47.5,52.3,43.0
