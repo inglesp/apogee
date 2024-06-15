@@ -20,7 +20,7 @@ def scrape(n):
         path = dirpath / f"{name}.html"
         if path.exists():
             continue
-        print(datetime.now(), ix, name)
+        print(datetime.now(), n, ix, name)
         rsp = client.get(
             f"https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat={name}"
         )
