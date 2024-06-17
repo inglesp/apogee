@@ -93,6 +93,7 @@ def main():
 
     tpl = env.get_template("templates/index.html")
     ctx = {
+        "parties": parties,
         "summary": df_to_list_of_lists(summary),
         "predictions": df_to_list_of_lists(predictions),
     }

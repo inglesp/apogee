@@ -43,46 +43,87 @@ table#constituencies td:nth-child(n+3) {
     <thead>
         <tr>
             <th></th>
-	    {% for header in summary[0][1:] %}
+            {% for header in summary[0][1:] %}
             <th class="text-center">{{ header }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
         {% for row in summary[1:] %}
-	<tr>
+        <tr>
             {% for item in row %}
             <td class="text-center party-{{ row[0] }}">{{ item }}</td>
             {% endfor %}
-	</tr>
+        </tr>
         {% endfor %}
     </tbody>
 </table>
 
 <h2 class="mt-5">Constituencies</h2>
 
-<div class="mt-3">
-    <button type="button" id="toggle" class="btn btn-primary">Toggle Boring</button>
+<div class="row mb-3">
+    <div class="col-12 col-lg-6">
+        <div>Filter by 2019</div>
+
+        <div class="btn-group" role="group">
+        {% for party in parties %}
+            <input type="checkbox" class="btn-check filter-2019" id="filter-2019-{{ party }}">
+            <label class="btn btn-outline-secondary" for="filter-2019-{{ party }}">{{ party }}</label>
+        {% endfor %}
+        </div>
+    </div>
+
+    <div class="col-12 col-lg-6 d-flex justify-content-lg-end">
+        <div>
+            <div>Filter by 2024 prediction</div>
+
+            <div class="btn-group" role="group">
+                {% for party in parties %}
+                <input type="checkbox" class="btn-check filter-2024" id="filter-2024-{{ party }}">
+                <label class="btn btn-outline-secondary" for="filter-2024-{{ party }}">{{ party }}</label>
+                {% endfor %}
+            </div>
+
+            <div class="btn-group" role="group">
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-all" checked>
+                <label class="btn btn-outline-secondary" for="prediction-type-all">All</label>
+
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-any">
+                <label class="btn btn-outline-secondary" for="prediction-type-any">Any</label>
+
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-none">
+                <label class="btn btn-outline-secondary" for="prediction-type-none">None</label>
+            </div>
+        </div>
+    </div>
 </div>
+
+<div class="row mb-3">
+    <div class="col">
+        <input class="form-control" id="filter-search" placeholder="Search">
+    </div>
+</div>
+
+<p class="mb-0">Showing <span id="constituencies-summary">all constituencies</span></p>
 
 <table id="constituencies" class="table table-sm">
     <thead>
         <tr>
             <th></th>
-	    {% for header in predictions[0][1:-1] %}
+            {% for header in predictions[0][1:-1] %}
             <th class="text-center">{{ header }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
         {% for row in predictions[1:] %}
-        <tr data-disagreement={{ row[-1] }}>
+        <tr data-2019="{{ row[2] }}" data-2024="{{ row[3:-1]|unique|sort|join(',') }}">
             <td>{{ row[0] }}</td>
-	    <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
-	    <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
-	    {% for item in row[3:-1] %}
-	    <td class="text-center party-{{ item }}">{{ item }}</td>
-	    {% endfor %}
+            <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
+            <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
+            {% for item in row[3:-1] %}
+            <td class="text-center party-{{ item }}">{{ item }}</td>
+            {% endfor %}
         </tr>
         {% endfor %}
     </tbody>
@@ -91,14 +132,169 @@ table#constituencies td:nth-child(n+3) {
 
 {% block extrajs %}
 <script>
-  document.getElementById('toggle').addEventListener('click', () => {
-    document.querySelectorAll('tr[data-disagreement="0"]').forEach(row => {
-      if (row.style.display === 'none') {
-        row.style.display = 'table-row';
-      } else {
-        row.style.display = 'none';
-      }
+    // forgive my javascript: I am in a tent with no access to StackOverflow
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const parties = {{ parties|tojson }};
+        const inputSearch = document.getElementById('filter-search');
+        const checkboxes2019 = document.querySelectorAll('.filter-2019');
+        const checkboxes2024 = document.querySelectorAll('.filter-2024');
+        const radiosPredictionType = document.querySelectorAll('.filter-prediction-type');
+        const tableRows = document.querySelectorAll('table#constituencies > tbody > tr');
+
+        function loadState() {
+            const url = new URL(window.location);
+
+            if (url.searchParams.get('search')) {
+                inputSearch.value = url.searchParams.get('search');
+            }
+
+            if (url.searchParams.get('2019')) {
+                const params2019 = url.searchParams.get('2019').split(',');
+                for (let i = 0; i < parties.length; i++) {
+                    if (params2019.includes(parties[i])) {
+                        checkboxes2019[i].checked = true;
+                    }
+                }
+            }
+            if (url.searchParams.get('2024')) {
+                const params2024 = url.searchParams.get('2024').split(',');
+                for (let i = 0; i < parties.length; i++) {
+                    if (params2024.includes(parties[i])) {
+                        checkboxes2024[i].checked = true;
+                    }
+                }
+            }
+            if (url.searchParams.get('prediction-type')) {
+                if (url.searchParams.get('prediction-type') == 'all') {
+                    document.getElementById('prediction-type-all').checked = true;
+                } else if (url.searchParams.get('prediction-type') == 'any') {
+                    document.getElementById('prediction-type-any').checked = true;
+                } else {
+                    document.getElementById('prediction-type-none').checked = true;
+                }
+            }
+        }
+
+        function update() {
+            let state = {
+                'search': inputSearch.value.toLowerCase(),
+                '2019': [],
+                '2024': [],
+                'predictionType': document.getElementById('prediction-type-all').checked ? 'all' : (document.getElementById('prediction-type-any').checked ? 'any' : 'none'),
+            };
+            for (let i = 0; i < parties.length; i++) {
+                if (checkboxes2019[i].checked) {
+                    state['2019'].push(parties[i]);
+                }
+                if (checkboxes2024[i].checked) {
+                    state['2024'].push(parties[i]);
+                }
+            }
+
+            console.log(JSON.stringify(state));
+
+            tableRows.forEach((tr) => {
+                tr.style.display = showRow(tr, state) ? '' : 'none';
+            })
+
+            const nRows = tableRows.length;
+            let nRowsShown = 0;
+            for (let i = 0; i < tableRows.length; i++) {
+                if (tableRows[i].style.display == '') {
+                    nRowsShown++;
+                }
+            }
+
+            if (nRowsShown == nRows) {
+                document.getElementById('constituencies-summary').textContent = `all ${nRows} constituencies`;
+            } else if (nRowsShown == 1) {
+                document.getElementById('constituencies-summary').textContent = '1 matching constituency';
+            } else {
+                document.getElementById('constituencies-summary').textContent = `${nRowsShown} matching constituencies`;
+            }
+
+            let newUrl = new URL(window.location);
+
+            if (state['search'] == '') {
+                newUrl.searchParams.delete('search');
+                if (newUrl.toString() != window.location) {
+                    window.history.replaceState({}, '', newUrl);
+                }
+            } else if (state['search'] != (newUrl.searchParams.get('search') | '')) {
+                newUrl.searchParams.set('search', state['search']);
+                window.history.replaceState({}, '', newUrl);
+            }
+
+            if (state['2019'].length > 0) {
+                newUrl.searchParams.set('2019', state['2019'].join(','));
+            } else {
+                newUrl.searchParams.delete('2019');
+            }
+            if (state['2024'].length > 0) {
+                newUrl.searchParams.set('2024', state['2024'].join(','));
+            } else {
+                newUrl.searchParams.delete('2024');
+            }
+            if (state['predictionType'] == 'all') {
+                newUrl.searchParams.delete('prediction-type');
+            } else {
+                newUrl.searchParams.set('prediction-type', state['predictionType']);
+            }
+            if (newUrl.toString() != window.location) {
+                window.history.pushState({}, '', newUrl);
+            }
+        }
+
+        function showRow(tr, state) {
+            const dataset = tr.dataset;
+            const parties2019 = state['2019'];
+            const parties2024 = state['2024'];
+
+            if (state['search'] != '') {
+                const code = tr.getElementsByTagName('td')[0].textContent.toLowerCase();
+                const name = tr.getElementsByTagName('td')[1].textContent.toLowerCase();
+                if (!code.includes(state['search']) & !(name.includes(state['search']))) {
+                    return false;
+                }
+            }
+
+            if (parties2019.length > 0) {
+                if (!parties2019.includes(dataset['2019'])) {
+                    return false;
+                }
+            }
+            if (parties2024.length > 0) {
+                if (state['predictionType'] == 'all') {
+                    if (parties2024.join(',') != dataset['2024']) {
+                        return false;
+                    }
+                } else if (state['predictionType'] == 'any') {
+                    if (!parties2024.every(party => dataset['2024'].split(',').includes(party))) {
+                        return false;
+                    }
+                } else {
+                    if (parties2024.some(party => dataset['2024'].split(',').includes(party))) {
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+
+        inputSearch.addEventListener('keyup', update);
+        checkboxes2019.forEach(cb => {
+            cb.addEventListener('change', update);
+        });
+        checkboxes2024.forEach(cb => {
+            cb.addEventListener('change', update);
+        });
+        radiosPredictionType.forEach(r => {
+            r.addEventListener('change', update);
+        });
+
+        loadState();
+        update();
     });
-  });
 </script>
 {% endblock %}
