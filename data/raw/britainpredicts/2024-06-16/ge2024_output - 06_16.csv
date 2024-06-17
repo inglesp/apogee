@@ -1,0 +1,633 @@
+Country,Constituency,Con,Lab,LDem,Grn,SNP,PC,Ref,Ind_Oth
+England,Aldershot,33%,33%,10%,5%,,,15%,4%
+England,Aldridge-Brownhills,32%,30%,6%,8%,,,23%,
+England,Altrincham and Sale West,27%,47%,7%,4%,,,11%,4%
+England,Amber Valley,30%,35%,6%,8%,,,21%,
+England,Arundel and South Downs,27%,22%,17%,10%,,,19%,5%
+England,Ashfield,22%,31%,7%,2%,,,14%,24%
+England,Ashford,26%,30%,9%,9%,,,21%,5%
+England,Ashton-under-Lyne,17%,53%,6%,6%,,,16%,2%
+England,Aylesbury,25%,21%,28%,5%,,,18%,3%
+England,Banbury,31%,36%,11%,5%,,,13%,3%
+England,Barking,12%,64%,4%,4%,,,14%,2%
+England,Barnsley North,19%,50%,5%,4%,,,17%,4%
+England,Barnsley South,12%,52%,7%,6%,,,20%,3%
+England,Barrow and Furness,36%,50%,2%,2%,,,10%,
+England,Basildon and Billericay,29%,28%,7%,8%,,,23%,5%
+England,Basingstoke,30%,39%,7%,5%,,,14%,5%
+England,Bassetlaw,40%,43%,3%,1%,,,13%,
+England,Bath,16%,13%,55%,5%,,,9%,3%
+England,Battersea,22%,55%,8%,4%,,,8%,2%
+England,Beaconsfield,26%,18%,22%,8%,,,19%,7%
+England,Beckenham and Penge,25%,51%,9%,5%,,,10%,
+England,Bedford,24%,53%,6%,4%,,,10%,3%
+England,Bermondsey and Old Southwark,5%,54%,32%,3%,,,5%,1%
+England,Bethnal Green and Stepney,5%,76%,9%,5%,,,4%,2%
+England,Beverley and Holderness,27%,31%,8%,8%,,,19%,6%
+England,Bexhill and Battle,27%,27%,12%,9%,,,21%,4%
+England,Bexleyheath and Crayford,34%,40%,4%,5%,,,17%,
+England,Bicester and Woodstock,32%,20%,34%,5%,,,9%,
+England,Birkenhead,7%,65%,6%,9%,,,6%,6%
+England,Birmingham Edgbaston,16%,58%,7%,5%,,,12%,2%
+England,Birmingham Erdington,19%,53%,5%,5%,,,15%,3%
+England,Birmingham Hall Green and Moseley,7%,67%,9%,3%,,,5%,9%
+England,Birmingham Hodge Hill and Solihull North,12%,60%,8%,7%,,,10%,2%
+England,Birmingham Ladywood,5%,79%,9%,5%,,,2%,0%
+England,Birmingham Northfield,31%,53%,3%,3%,,,10%,1%
+England,Birmingham Perry Barr,9%,69%,9%,4%,,,8%,2%
+England,Birmingham Selly Oak,14%,59%,8%,6%,,,11%,2%
+England,Birmingham Yardley,12%,59%,12%,4%,,,11%,2%
+England,Bishop Auckland,35%,47%,3%,2%,,,11%,1%
+England,Blackburn,11%,69%,5%,4%,,,9%,2%
+England,Blackley and Middleton South,13%,63%,6%,5%,,,14%,
+England,Blackpool North and Fleetwood,37%,47%,3%,2%,,,10%,1%
+England,Blackpool South,33%,51%,2%,2%,,,10%,1%
+England,Blaydon and Consett,21%,52%,5%,5%,,,11%,6%
+England,Blyth and Ashington,25%,58%,4%,3%,,,10%,
+England,Bognor Regis and Littlehampton,27%,25%,11%,8%,,,22%,6%
+England,Bolsover,34%,49%,3%,3%,,,12%,
+England,Bolton North East,31%,54%,2%,2%,,,11%,
+England,Bolton South and Walkden,14%,59%,5%,5%,,,14%,2%
+England,Bolton West,37%,47%,3%,2%,,,11%,
+England,Bootle,4%,81%,5%,4%,,,5%,1%
+England,Boston and Skegness,30%,21%,5%,7%,,,30%,7%
+England,Bournemouth East,33%,44%,7%,6%,,,9%,1%
+England,Bournemouth West,34%,44%,7%,6%,,,9%,
+England,Bracknell,25%,31%,12%,8%,,,19%,5%
+England,Bradford East,10%,65%,12%,3%,,,8%,1%
+England,Bradford South,23%,53%,4%,4%,,,13%,3%
+England,Bradford West,7%,78%,4%,4%,,,5%,1%
+England,Braintree,29%,25%,8%,9%,,,21%,8%
+England,Brent East,10%,64%,13%,6%,,,6%,1%
+England,Brent West,16%,58%,9%,5%,,,10%,3%
+England,Brentford and Isleworth,13%,55%,15%,7%,,,9%,2%
+England,Brentwood and Ongar,31%,22%,12%,8%,,,22%,5%
+England,Bridgwater,26%,27%,16%,6%,,,19%,5%
+England,Bridlington and The Wolds,29%,27%,7%,8%,,,22%,7%
+England,Brigg and Immingham,32%,29%,6%,8%,,,25%,
+England,Brighton Kemptown and Peacehaven,18%,63%,7%,9%,,,,3%
+England,Brighton Pavilion,8%,33%,4%,52%,,,2%,0%
+England,Bristol Central,6%,45%,12%,35%,,,2%,
+England,Bristol East,11%,65%,11%,11%,,,,2%
+England,Bristol North East,22%,56%,4%,5%,,,10%,2%
+England,Bristol North West,16%,50%,11%,10%,,,10%,2%
+England,Bristol South,14%,53%,9%,10%,,,12%,2%
+England,Broadland and Fakenham,28%,30%,15%,7%,,,21%,
+England,Bromley and Biggin Hill,24%,31%,14%,8%,,,18%,4%
+England,Bromsgrove,28%,28%,11%,8%,,,20%,4%
+England,Broxbourne,28%,31%,8%,7%,,,22%,4%
+England,Broxtowe,25%,47%,5%,4%,,,11%,8%
+England,Buckingham and Bletchley,30%,37%,8%,5%,,,15%,5%
+England,Burnley,29%,51%,5%,3%,,,9%,3%
+England,Burton and Uttoxeter,27%,37%,5%,7%,,,20%,4%
+England,Bury North,31%,55%,3%,3%,,,9%,0%
+England,Bury South,30%,52%,3%,2%,,,9%,3%
+England,Bury St Edmunds and Stowmarket,33%,31%,5%,10%,,,14%,6%
+England,Calder Valley,27%,49%,5%,4%,,,11%,4%
+England,Camborne and Redruth,29%,42%,7%,4%,,,13%,5%
+England,Cambridge,6%,49%,37%,8%,,,,0%
+England,Cannock Chase,30%,32%,5%,11%,,,22%,
+England,Canterbury,24%,52%,6%,5%,,,10%,3%
+England,Cardiff South and Penarth,17%,51%,10%,11%,,5%,5%,
+England,Carlisle,25%,40%,6%,6%,,,17%,6%
+England,Carshalton and Wallington,21%,13%,44%,5%,,,13%,3%
+England,Castle Point,33%,25%,6%,8%,,,29%,
+England,Central Devon,27%,24%,23%,7%,,,15%,4%
+England,Central Suffolk and North Ipswich,27%,29%,9%,11%,,,20%,4%
+England,Chatham and Aylesford,29%,31%,6%,7%,,,23%,5%
+England,Cheadle,23%,14%,45%,3%,,,12%,3%
+England,Chelmsford,26%,18%,31%,4%,,,15%,5%
+England,Chelsea and Fulham,28%,40%,13%,4%,,,10%,4%
+England,Cheltenham,30%,12%,53%,4%,,,,1%
+England,Chesham and Amersham,30%,18%,34%,6%,,,9%,2%
+England,Chester North and Neston,18%,57%,7%,6%,,,12%,
+England,Chester South and Eddisbury,34%,33%,9%,5%,,,14%,5%
+England,Chesterfield,28%,53%,6%,2%,,,9%,1%
+England,Chichester,34%,20%,28%,7%,,,11%,0%
+England,Chingford and Woodford Green,30%,55%,4%,4%,,,7%,
+England,Chippenham,33%,17%,36%,4%,,,9%,
+England,Chipping Barnet,31%,52%,6%,4%,,,6%,0%
+England,Chorley,,,,11%,,,,89%
+England,Christchurch,29%,20%,15%,9%,,,23%,4%
+England,Cities of London and Westminster,27%,41%,15%,5%,,,9%,3%
+England,City of Durham,21%,53%,11%,5%,,,9%,3%
+England,Clacton,28%,21%,5%,8%,,,32%,7%
+England,Clapham and Brixton Hill,9%,58%,18%,8%,,,6%,1%
+England,Colchester,35%,43%,10%,4%,,,8%,
+England,Colne Valley,23%,41%,10%,6%,,,15%,5%
+England,Congleton,27%,30%,11%,8%,,,19%,5%
+England,Corby and East Northamptonshire,29%,46%,4%,4%,,,13%,3%
+England,Coventry East,16%,57%,6%,6%,,,13%,2%
+England,Coventry North West,24%,52%,4%,5%,,,11%,3%
+England,Coventry South,24%,53%,4%,4%,,,10%,4%
+England,Cramlington and Killingworth,28%,55%,4%,2%,,,10%,
+England,Crawley,29%,46%,4%,5%,,,13%,4%
+England,Crewe and Nantwich,28%,48%,4%,5%,,,12%,4%
+England,Croydon East,24%,58%,4%,4%,,,10%,
+England,Croydon South,31%,39%,8%,5%,,,13%,4%
+England,Croydon West,10%,70%,6%,5%,,,7%,2%
+England,Dagenham and Rainham,24%,50%,3%,4%,,,16%,4%
+England,Darlington,33%,50%,4%,4%,,,9%,
+England,Dartford,34%,40%,4%,5%,,,17%,
+England,Daventry,30%,26%,12%,10%,,,22%,
+England,Derby North,27%,51%,7%,4%,,,12%,
+England,Derby South,17%,56%,7%,4%,,,14%,2%
+England,Derbyshire Dales,27%,31%,11%,9%,,,18%,4%
+England,Dewsbury and Batley,12%,56%,4%,5%,,,10%,13%
+England,Didcot and Wantage,29%,19%,37%,5%,,,9%,2%
+England,Doncaster Central,28%,50%,4%,3%,,,13%,2%
+England,Doncaster East and the Isle of Axholme,37%,42%,3%,2%,,,13%,2%
+England,Doncaster North,27%,61%,3%,3%,,,,6%
+England,Dorking and Horley,31%,15%,39%,6%,,,9%,
+England,Dover and Deal,30%,40%,4%,6%,,,15%,5%
+England,Droitwich and Evesham,29%,24%,11%,9%,,,22%,5%
+England,Dudley,40%,41%,2%,2%,,,15%,
+England,Dulwich and West Norwood,7%,63%,7%,17%,,,5%,2%
+England,Dunstable and Leighton Buzzard,33%,37%,6%,5%,,,15%,4%
+England,Ealing Central and Acton,12%,56%,16%,7%,,,8%,2%
+England,Ealing North,14%,59%,8%,6%,,,10%,2%
+England,Ealing Southall,11%,64%,9%,6%,,,7%,3%
+England,Earley and Woodley,32%,44%,14%,6%,,,,4%
+England,Easington,14%,55%,6%,5%,,,14%,6%
+England,East Grinstead and Uckfield,34%,19%,33%,9%,,,,5%
+England,East Ham,7%,78%,4%,5%,,,4%,1%
+England,East Hampshire,29%,15%,27%,8%,,,16%,5%
+England,East Surrey,35%,18%,27%,6%,,,12%,2%
+England,East Thanet,28%,42%,4%,6%,,,18%,3%
+England,East Wiltshire,30%,24%,13%,9%,,,21%,4%
+England,East Worthing and Shoreham,28%,45%,6%,5%,,,13%,4%
+England,Eastbourne,24%,10%,45%,5%,,,14%,4%
+England,Eastleigh,25%,14%,37%,5%,,,15%,3%
+England,Edmonton and Winchmore Hill,14%,62%,6%,6%,,,9%,2%
+England,Ellesmere Port and Bromborough,12%,63%,7%,6%,,,10%,2%
+England,Eltham and Chislehurst,26%,49%,5%,5%,,,12%,3%
+England,Ely and East Cambridgeshire,32%,18%,36%,4%,,,9%,1%
+England,Enfield North,16%,58%,6%,7%,,,11%,2%
+England,Epping Forest,36%,34%,12%,12%,,,,6%
+England,Epsom and Ewell,32%,20%,32%,5%,,,9%,1%
+England,Erewash,25%,40%,6%,7%,,,18%,5%
+England,Erith and Thamesmead,13%,62%,5%,6%,,,11%,3%
+England,Esher and Walton,28%,12%,47%,4%,,,8%,1%
+England,Exeter,14%,56%,6%,11%,,,10%,3%
+England,Exmouth and Exeter East,25%,21%,20%,8%,,,18%,8%
+England,Fareham and Waterlooville,27%,23%,17%,9%,,,20%,4%
+England,Farnham and Bordon,35%,14%,38%,4%,,,9%,
+England,Faversham and Mid Kent,27%,26%,11%,9%,,,21%,5%
+England,Feltham and Heston,16%,56%,6%,7%,,,12%,2%
+England,Filton and Bradley Stoke,34%,48%,6%,4%,,,8%,
+England,Finchley and Golders Green,25%,32%,31%,5%,,,7%,
+England,Folkestone and Hythe,30%,35%,6%,7%,,,16%,5%
+England,Forest of Dean,31%,37%,4%,8%,,,14%,6%
+England,Frome and East Somerset,29%,23%,33%,7%,,,8%,1%
+England,Fylde,28%,32%,7%,8%,,,19%,6%
+England,Gainsborough,29%,28%,9%,7%,,,20%,6%
+England,Gateshead Central and Whickham,15%,52%,11%,6%,,,13%,2%
+England,Gedling,32%,54%,3%,3%,,,9%,
+England,Gillingham and Rainham,32%,37%,4%,4%,,,16%,6%
+England,Glastonbury and Somerton,33%,15%,38%,5%,,,9%,
+England,Gloucester,30%,44%,5%,5%,,,13%,4%
+England,Godalming and Ash,32%,15%,40%,4%,,,9%,1%
+England,Goole and Pocklington,29%,28%,8%,9%,,,20%,7%
+England,Gorton and Denton,9%,69%,9%,4%,,,7%,2%
+England,Gosport,29%,25%,11%,9%,,,22%,4%
+England,Grantham and Bourne,29%,27%,8%,9%,,,22%,5%
+England,Gravesham,34%,40%,4%,5%,,,17%,
+England,Great Grimsby and Cleethorpes,37%,43%,3%,3%,,,13%,0%
+England,Great Yarmouth,28%,31%,5%,7%,,,23%,7%
+England,Greenwich and Woolwich,11%,58%,13%,8%,,,8%,2%
+England,Guildford,27%,13%,44%,3%,,,7%,5%
+England,Hackney North and Stoke Newington,6%,72%,8%,9%,,,4%,1%
+England,Hackney South and Shoreditch,5%,75%,8%,7%,,,3%,1%
+England,Halesowen,27%,40%,5%,7%,,,21%,
+England,Halifax,24%,54%,5%,4%,,,11%,3%
+England,Hamble Valley,30%,16%,26%,6%,,,17%,4%
+England,Hammersmith and Chiswick,14%,56%,13%,6%,,,9%,2%
+England,Hampstead and Highgate,11%,52%,23%,7%,,,7%,2%
+England,"Harborough, Oadby and Wigston",24%,31%,15%,8%,,,17%,4%
+England,Harlow,34%,38%,4%,4%,,,16%,4%
+England,Harpenden and Berkhamsted,32%,16%,33%,5%,,,9%,5%
+England,Harrogate and Knaresborough,25%,12%,39%,4%,,,14%,6%
+England,Harrow East,35%,50%,5%,3%,,,7%,
+England,Harrow West,16%,58%,8%,6%,,,10%,2%
+England,Hartlepool,25%,50%,3%,2%,,,16%,4%
+England,Harwich and North Essex,27%,34%,10%,9%,,,21%,
+England,Hastings and Rye,26%,49%,4%,5%,,,12%,4%
+England,Havant,28%,25%,11%,8%,,,23%,5%
+England,Hayes and Harlington,16%,60%,4%,5%,,,12%,3%
+England,Hazel Grove,23%,17%,41%,4%,,,13%,3%
+England,Hemel Hempstead,33%,40%,7%,6%,,,14%,
+England,Hendon,32%,53%,5%,4%,,,6%,
+England,Henley and Thame,32%,15%,38%,6%,,,9%,
+England,Hereford and South Herefordshire,27%,26%,14%,9%,,,20%,4%
+England,Herne Bay and Sandwich,28%,31%,7%,10%,,,25%,
+England,Hertford and Stortford,25%,30%,13%,9%,,,17%,5%
+England,Hertsmere,29%,29%,10%,8%,,,20%,4%
+England,Hexham,29%,45%,12%,9%,,,,4%
+England,Heywood and Middleton North,30%,51%,4%,,,,15%,
+England,High Peak,26%,54%,5%,5%,,,11%,
+England,Hinckley and Bosworth,29%,22%,16%,8%,,,21%,4%
+England,Hitchin,34%,41%,14%,3%,,,7%,1%
+England,Holborn and St Pancras,7%,69%,11%,6%,,,5%,1%
+England,Honiton and Sidmouth,30%,16%,23%,5%,,,18%,8%
+England,Hornchurch and Upminster,28%,29%,6%,8%,,,24%,5%
+England,Hornsey and Friern Barnet,4%,61%,26%,4%,,,3%,1%
+England,Horsham,27%,17%,30%,6%,,,16%,5%
+England,Houghton and Sunderland South,23%,54%,5%,4%,,,14%,
+England,Hove and Portslade,16%,57%,10%,13%,,,4%,0%
+England,Huddersfield,16%,55%,8%,8%,,,12%,
+England,Huntingdon,26%,27%,12%,8%,,,20%,6%
+England,Hyndburn,33%,52%,2%,2%,,,11%,
+England,Ilford North,17%,58%,5%,5%,,,11%,4%
+England,Ilford South,9%,66%,6%,4%,,,7%,8%
+England,Ipswich,28%,48%,4%,4%,,,12%,3%
+England,Isle of Wight East,23%,27%,9%,16%,,,19%,7%
+England,Isle of Wight West,22%,27%,9%,18%,,,18%,7%
+England,Islington North,5%,66%,14%,10%,,,3%,1%
+England,Islington South and Finsbury,8%,60%,18%,7%,,,5%,1%
+England,Jarrow and Gateshead East,11%,53%,7%,5%,,,13%,10%
+England,Keighley and Ilkley,26%,51%,4%,5%,,,11%,5%
+England,Kenilworth and Southam,27%,26%,15%,9%,,,18%,5%
+England,Kensington and Bayswater,24%,49%,11%,4%,,,9%,3%
+England,Kettering,27%,33%,6%,9%,,,19%,7%
+England,Kingston and Surbiton,17%,11%,54%,5%,,,9%,4%
+England,Kingston upon Hull East,23%,53%,7%,4%,,,13%,
+England,Kingston upon Hull North and Cottingham,16%,51%,11%,6%,,,13%,2%
+England,Kingston upon Hull West and Haltemprice,27%,46%,7%,4%,,,13%,3%
+England,Kingswinford and South Staffordshire,32%,25%,6%,9%,,,23%,5%
+England,Knowsley,4%,81%,5%,5%,,,4%,1%
+England,Lancaster and Wyre,27%,52%,4%,6%,,,11%,
+England,Leeds Central and Headingley,10%,61%,13%,12%,,,4%,
+England,Leeds East,23%,54%,4%,4%,,,12%,3%
+England,Leeds North East,11%,62%,10%,6%,,,8%,2%
+England,Leeds North West,24%,48%,9%,4%,,,10%,4%
+England,Leeds South,13%,69%,8%,7%,,,,3%
+England,Leeds South West and Morley,34%,47%,3%,4%,,,10%,2%
+England,Leeds West and Pudsey,23%,55%,4%,4%,,,10%,4%
+England,Leicester East,18%,56%,5%,6%,,,12%,3%
+England,Leicester South,10%,68%,8%,6%,,,7%,1%
+England,Leicester West,16%,52%,9%,7%,,,13%,2%
+England,Leigh and Atherton,30%,53%,3%,1%,,,10%,2%
+England,Lewes,28%,12%,45%,7%,,,8%,0%
+England,Lewisham East,9%,65%,10%,6%,,,7%,2%
+England,Lewisham North,6%,71%,10%,8%,,,4%,1%
+England,Lewisham West and East Dulwich,7%,68%,10%,9%,,,5%,1%
+England,Leyton and Wanstead,9%,66%,10%,7%,,,6%,2%
+England,Lichfield,29%,28%,9%,8%,,,21%,5%
+England,Lincoln,26%,49%,5%,4%,,,11%,5%
+England,Liverpool Garston,6%,74%,10%,4%,,,5%,2%
+England,Liverpool Riverside,4%,82%,7%,5%,,,2%,
+England,Liverpool Walton,4%,82%,5%,3%,,,4%,2%
+England,Liverpool Wavertree,5%,71%,12%,9%,,,2%,0%
+England,Liverpool West Derby,4%,80%,5%,3%,,,4%,5%
+England,Loughborough,29%,49%,5%,4%,,,12%,
+England,Louth and Horncastle,31%,25%,8%,6%,,,24%,6%
+England,Lowestoft,34%,39%,4%,7%,,,16%,
+England,Luton North,16%,58%,5%,5%,,,12%,5%
+England,Luton South and South Bedfordshire,16%,55%,6%,5%,,,12%,6%
+England,Macclesfield,24%,39%,9%,9%,,,16%,3%
+England,Maidenhead,33%,20%,34%,8%,,,,5%
+England,Maidstone and Malling,26%,25%,17%,8%,,,19%,5%
+England,Makerfield,22%,55%,4%,4%,,,13%,2%
+England,Maldon,34%,22%,11%,10%,,,24%,
+England,Manchester Central,12%,63%,10%,9%,,,6%,0%
+England,Manchester Rusholme,6%,83%,,9%,,,3%,
+England,Manchester Withington,7%,67%,17%,8%,,,2%,
+England,Mansfield,40%,40%,3%,1%,,,15%,2%
+England,Melksham and Devizes,29%,15%,33%,6%,,,17%,
+England,Melton and Syston,28%,30%,7%,10%,,,20%,4%
+England,Meriden and Solihull East,29%,29%,12%,10%,,,20%,
+England,Mid Bedfordshire,38%,37%,9%,5%,,,9%,2%
+England,Mid Buckinghamshire,26%,22%,17%,9%,,,23%,4%
+England,Mid Cheshire,26%,50%,5%,4%,,,11%,3%
+England,Mid Derbyshire,27%,34%,9%,8%,,,19%,4%
+England,Mid Dorset and North Poole,35%,14%,39%,8%,,,,5%
+England,Mid Leicestershire,29%,34%,8%,9%,,,21%,
+England,Mid Norfolk,29%,31%,9%,8%,,,23%,
+England,Mid Sussex,25%,18%,31%,6%,,,14%,5%
+England,Middlesbrough and Thornaby East,14%,58%,7%,4%,,,12%,5%
+England,Middlesbrough South and East Cleveland,31%,49%,7%,8%,,,,5%
+England,Milton Keynes Central,27%,47%,6%,4%,,,12%,4%
+England,Milton Keynes North,29%,48%,5%,5%,,,13%,
+England,Mitcham and Morden,12%,61%,10%,6%,,,9%,2%
+England,Morecambe and Lunesdale,26%,36%,15%,6%,,,18%,
+England,New Forest East,29%,22%,13%,10%,,,21%,5%
+England,New Forest West,29%,21%,14%,12%,,,21%,4%
+England,Newark,29%,31%,9%,8%,,,20%,4%
+England,Newbury,27%,11%,35%,8%,,,15%,4%
+England,Newcastle upon Tyne Central and West,12%,63%,6%,6%,,,11%,2%
+England,Newcastle upon Tyne East and Wallsend,11%,62%,10%,6%,,,10%,2%
+England,Newcastle upon Tyne North,15%,50%,14%,7%,,,12%,2%
+England,Newcastle-under-Lyme,36%,47%,3%,3%,,,11%,
+England,Newton Abbot,27%,18%,28%,6%,,,16%,5%
+England,Newton Aycliffe and Spennymoor,32%,50%,4%,3%,,,10%,1%
+England,Normanton and Hemsworth,27%,55%,3%,3%,,,13%,
+England,North Bedfordshire,30%,28%,13%,8%,,,21%,
+England,North Cornwall,29%,13%,33%,5%,,,16%,5%
+England,North Cotswolds,27%,24%,16%,10%,,,19%,4%
+England,North Devon,27%,12%,33%,7%,,,16%,5%
+England,North Dorset,31%,15%,25%,7%,,,18%,4%
+England,North Durham,26%,56%,4%,3%,,,9%,2%
+England,North East Cambridgeshire,32%,24%,6%,8%,,,25%,5%
+England,North East Derbyshire,38%,44%,4%,3%,,,11%,
+England,North East Hampshire,30%,13%,27%,7%,,,16%,7%
+England,North East Hertfordshire,27%,32%,14%,9%,,,18%,
+England,North East Somerset and Hanham,37%,40%,9%,5%,,,8%,1%
+England,North Herefordshire,28%,23%,12%,13%,,,20%,4%
+England,North Norfolk,30%,12%,35%,6%,,,18%,
+England,North Northumberland,26%,31%,15%,8%,,,16%,4%
+England,North Shropshire,27%,20%,26%,7%,,,16%,4%
+England,North Somerset,24%,31%,15%,9%,,,17%,4%
+England,North Warwickshire and Bedworth,30%,35%,5%,8%,,,22%,
+England,North West Cambridgeshire,27%,31%,10%,10%,,,23%,
+England,North West Essex,28%,21%,18%,9%,,,20%,4%
+England,North West Hampshire,27%,24%,17%,9%,,,19%,4%
+England,North West Leicestershire,28%,32%,6%,9%,,,20%,5%
+England,North West Norfolk,30%,30%,8%,9%,,,22%,
+England,Northampton North,26%,48%,6%,5%,,,12%,3%
+England,Northampton South,25%,37%,7%,8%,,,19%,4%
+England,Norwich North,28%,46%,4%,5%,,,12%,4%
+England,Norwich South,13%,56%,10%,9%,,,10%,2%
+England,Nottingham East,12%,62%,11%,11%,,,4%,1%
+England,Nottingham North and Kimberley,24%,57%,4%,4%,,,11%,
+England,Nottingham South,15%,58%,8%,7%,,,11%,2%
+England,Nuneaton,26%,37%,5%,9%,,,18%,4%
+England,Old Bexley and Sidcup,28%,31%,7%,8%,,,22%,5%
+England,Oldham East and Saddleworth,23%,50%,7%,3%,,,11%,5%
+England,"Oldham West, Chadderton and Royton",14%,58%,6%,4%,,,14%,4%
+England,Orpington,28%,27%,13%,8%,,,20%,4%
+England,Ossett and Denby Dale,36%,43%,3%,3%,,,11%,3%
+England,Oxford East,13%,58%,16%,13%,,,,0%
+England,Oxford West and Abingdon,20%,9%,58%,9%,,,4%,
+England,Peckham,5%,74%,10%,7%,,,4%,1%
+England,Pendle and Clitheroe,38%,45%,4%,2%,,,10%,1%
+England,Penistone and Stocksbridge,34%,46%,5%,2%,,,13%,
+England,Penrith and Solway,25%,37%,7%,7%,,,18%,6%
+England,Peterborough,26%,49%,4%,4%,,,13%,4%
+England,Plymouth Moor View,33%,41%,4%,5%,,,17%,
+England,Plymouth Sutton and Devonport,22%,56%,5%,4%,,,10%,3%
+England,"Pontefract, Castleford and Knottingley",28%,51%,4%,2%,,,12%,4%
+England,Poole,26%,27%,13%,9%,,,19%,5%
+England,Poplar and Limehouse,8%,64%,14%,5%,,,6%,2%
+England,Portsmouth North,35%,38%,5%,5%,,,17%,
+England,Portsmouth South,20%,45%,16%,13%,,,7%,0%
+England,Preston,13%,60%,8%,5%,,,11%,2%
+England,Putney,23%,53%,9%,4%,,,8%,2%
+England,Queen's Park and Maida Vale,9%,65%,13%,6%,,,6%,2%
+England,Rawmarsh and Conisbrough,23%,48%,4%,4%,,,16%,5%
+England,Rayleigh and Wickford,33%,24%,7%,10%,,,26%,
+England,Reading Central,20%,49%,9%,17%,,,5%,0%
+England,Reading West and Mid Berkshire,32%,33%,17%,8%,,,10%,
+England,Redcar,32%,47%,6%,3%,,,10%,3%
+England,Redditch,28%,33%,6%,8%,,,21%,4%
+England,Reigate,29%,19%,27%,9%,,,16%,
+England,Ribble Valley,27%,34%,7%,7%,,,19%,6%
+England,Richmond and Northallerton,29%,24%,11%,9%,,,20%,8%
+England,Richmond Park,20%,8%,53%,5%,,,10%,3%
+England,Rochdale,12%,47%,10%,5%,,,12%,14%
+England,Rochester and Strood,31%,35%,4%,4%,,,19%,7%
+England,Romford,34%,35%,4%,5%,,,18%,4%
+England,Romsey and Southampton North,34%,17%,35%,4%,,,9%,1%
+England,Rossendale and Darwen,25%,42%,6%,7%,,,17%,4%
+England,Rother Valley,34%,45%,3%,3%,,,15%,
+England,Rotherham,,51%,7%,6%,,,29%,6%
+England,Rugby,26%,38%,7%,8%,,,18%,4%
+England,"Ruislip, Northwood and Pinner",26%,33%,14%,9%,,,18%,
+England,Runcorn and Helsby,17%,54%,6%,7%,,,13%,2%
+England,Runnymede and Weybridge,32%,21%,31%,5%,,,9%,3%
+England,Rushcliffe,21%,40%,14%,6%,,,15%,5%
+England,Rutland and Stamford,28%,22%,14%,8%,,,21%,7%
+England,Salford,13%,56%,11%,11%,,,8%,
+England,Salisbury,25%,25%,18%,9%,,,18%,5%
+England,Scarborough and Whitby,24%,39%,7%,6%,,,18%,7%
+England,Scunthorpe,37%,46%,3%,2%,,,11%,
+England,Sefton Central,16%,57%,8%,5%,,,12%,3%
+England,Selby,26%,42%,6%,7%,,,18%,
+England,Sevenoaks,27%,21%,17%,8%,,,21%,6%
+England,Sheffield Brightside and Hillsborough,13%,67%,8%,9%,,,,4%
+England,Sheffield Central,7%,62%,14%,17%,,,,0%
+England,Sheffield Hallam,8%,44%,39%,6%,,,,2%
+England,Sheffield Heeley,14%,64%,11%,9%,,,,2%
+England,Sheffield South East,21%,64%,6%,4%,,,,5%
+England,Sherwood Forest,27%,36%,6%,8%,,,19%,5%
+England,Shipley,27%,47%,4%,6%,,,11%,5%
+England,Shrewsbury,22%,40%,10%,7%,,,16%,4%
+England,Sittingbourne and Sheppey,28%,27%,6%,8%,,,23%,8%
+England,Skipton and Ripon,26%,26%,15%,9%,,,18%,6%
+England,Sleaford and North Hykeham,30%,26%,7%,7%,,,21%,9%
+England,Slough,17%,58%,8%,11%,,,6%,
+England,Smethwick,14%,61%,6%,5%,,,12%,2%
+England,Solihull West and Shirley,27%,26%,14%,11%,,,18%,4%
+England,South Basildon and East Thurrock,26%,28%,4%,7%,,,25%,10%
+England,South Cambridgeshire,25%,17%,46%,4%,,,7%,
+England,South Cotswolds,29%,14%,32%,6%,,,16%,4%
+England,South Derbyshire,28%,34%,6%,8%,,,20%,4%
+England,South Devon,25%,17%,32%,6%,,,15%,4%
+England,South Dorset,26%,31%,9%,10%,,,19%,5%
+England,South East Cornwall,27%,27%,15%,7%,,,19%,6%
+England,South Holland and the Deepings,33%,21%,6%,9%,,,26%,6%
+England,South Leicestershire,31%,29%,9%,9%,,,23%,
+England,South Norfolk,25%,30%,15%,8%,,,18%,4%
+England,South Northamptonshire,28%,28%,10%,9%,,,20%,5%
+England,South Ribble,25%,43%,7%,7%,,,18%,
+England,South Shields,12%,48%,5%,8%,,,16%,11%
+England,South Shropshire,33%,19%,23%,7%,,,19%,
+England,South Suffolk,28%,27%,12%,12%,,,21%,
+England,South West Devon,28%,28%,11%,9%,,,20%,4%
+England,South West Hertfordshire,31%,29%,23%,6%,,,10%,2%
+England,South West Norfolk,29%,25%,8%,8%,,,24%,6%
+England,South West Wiltshire,26%,28%,15%,8%,,,19%,4%
+England,Southampton Itchen,27%,48%,5%,4%,,,12%,4%
+England,Southampton Test,20%,49%,10%,14%,,,7%,0%
+England,Southend East and Rochford,31%,38%,5%,4%,,,16%,6%
+England,Southend West and Leigh,32%,38%,7%,4%,,,15%,5%
+England,Southgate and Wood Green,13%,62%,9%,6%,,,8%,2%
+England,Southport,22%,41%,13%,4%,,,17%,3%
+England,Spelthorne,25%,27%,13%,9%,,,22%,4%
+England,Spen Valley,20%,37%,6%,6%,,,15%,17%
+England,St Albans,20%,10%,51%,6%,,,11%,3%
+England,St Austell and Newquay,31%,36%,8%,5%,,,14%,7%
+England,St Helens North,13%,59%,7%,8%,,,11%,2%
+England,St Helens South and Whiston,10%,63%,8%,8%,,,9%,1%
+England,St Ives,24%,11%,41%,5%,,,14%,4%
+England,St Neots and Mid Cambridgeshire,30%,21%,34%,5%,,,9%,1%
+England,Stafford,26%,37%,6%,9%,,,18%,4%
+England,Staffordshire Moorlands,29%,35%,6%,9%,,,21%,
+England,Stalybridge and Hyde,23%,53%,4%,4%,,,12%,4%
+England,Stevenage,29%,44%,5%,5%,,,13%,3%
+England,Stockport,13%,60%,8%,6%,,,11%,2%
+England,Stockton North,23%,58%,4%,2%,,,12%,
+England,Stockton West,26%,41%,6%,5%,,,18%,4%
+England,Stoke-on-Trent Central,31%,51%,3%,2%,,,12%,
+England,Stoke-on-Trent North,36%,45%,3%,2%,,,14%,1%
+England,Stoke-on-Trent South,41%,42%,3%,2%,,,12%,
+England,"Stone, Great Wyrley and Penkridge",38%,37%,8%,11%,,,,6%
+England,Stourbridge,27%,35%,6%,7%,,,20%,5%
+England,Stratford and Bow,7%,72%,8%,7%,,,5%,1%
+England,Stratford-on-Avon,30%,14%,29%,7%,,,16%,4%
+England,Streatham and Croydon North,9%,61%,16%,7%,,,6%,1%
+England,Stretford and Urmston,13%,64%,7%,5%,,,9%,2%
+England,Stroud,25%,50%,3%,8%,,,10%,4%
+England,Suffolk Coastal,27%,30%,14%,9%,,,20%,
+England,Sunderland Central,23%,55%,5%,4%,,,13%,
+England,Surrey Heath,34%,15%,34%,5%,,,10%,1%
+England,Sussex Weald,28%,22%,15%,11%,,,20%,4%
+England,Sutton and Cheam,25%,16%,37%,6%,,,14%,3%
+England,Sutton Coldfield,27%,31%,11%,8%,,,19%,4%
+England,Swindon North,32%,40%,5%,5%,,,15%,4%
+England,Swindon South,28%,48%,4%,4%,,,13%,3%
+England,Tamworth,33%,37%,4%,4%,,,15%,6%
+England,Tatton,27%,31%,15%,9%,,,18%,
+England,Taunton and Wellington,31%,13%,41%,3%,,,9%,3%
+England,Telford,27%,41%,6%,5%,,,20%,
+England,Tewkesbury,29%,17%,28%,7%,,,16%,4%
+England,The Wrekin,29%,31%,7%,8%,,,21%,4%
+England,Thirsk and Malton,28%,25%,11%,9%,,,20%,7%
+England,Thornbury and Yate,34%,15%,38%,4%,,,9%,
+England,Thurrock,30%,37%,3%,4%,,,21%,5%
+England,Tipton and Wednesbury,34%,48%,2%,3%,,,13%,
+England,Tiverton and Minehead,31%,17%,27%,7%,,,19%,
+England,Tonbridge,29%,23%,11%,13%,,,21%,4%
+England,Tooting,13%,57%,13%,6%,,,8%,2%
+England,Torbay,28%,15%,29%,6%,,,16%,5%
+England,Torridge and Tavistock,26%,24%,15%,10%,,,20%,5%
+England,Tottenham,5%,79%,6%,6%,,,3%,1%
+England,Truro and Falmouth,26%,46%,8%,5%,,,11%,4%
+England,Tunbridge Wells,32%,19%,35%,4%,,,9%,1%
+England,Twickenham,17%,10%,57%,5%,,,9%,2%
+England,Tynemouth,23%,56%,4%,4%,,,10%,3%
+England,Uxbridge and South Ruislip,29%,45%,4%,5%,,,13%,4%
+England,Vauxhall and Camberwell Green,7%,63%,18%,7%,,,4%,1%
+England,Wakefield and Rothwell,30%,50%,5%,2%,,,10%,3%
+England,Wallasey,12%,67%,5%,6%,,,9%,2%
+England,Walsall and Bloxwich,32%,53%,2%,2%,,,10%,1%
+England,Walthamstow,5%,74%,9%,6%,,,4%,1%
+England,Warrington North,24%,52%,5%,5%,,,12%,3%
+England,Warrington South,25%,53%,6%,4%,,,10%,3%
+England,Warwick and Leamington,23%,52%,6%,6%,,,9%,3%
+England,Washington and Gateshead South,21%,53%,5%,4%,,,12%,4%
+England,Watford,29%,51%,10%,3%,,,6%,0%
+England,Waveney Valley,34%,22%,6%,20%,,,13%,5%
+England,Weald of Kent,34%,23%,9%,10%,,,24%,
+England,Wellingborough and Rushden,30%,42%,4%,5%,,,15%,4%
+England,Wells and Mendip Hills,33%,16%,37%,4%,,,9%,1%
+England,Welwyn Hatfield,31%,43%,7%,5%,,,13%,
+England,West Bromwich,32%,51%,2%,2%,,,11%,1%
+England,West Dorset,35%,16%,42%,7%,,,,
+England,West Ham and Beckton,7%,73%,5%,7%,,,5%,3%
+England,West Lancashire,17%,59%,5%,5%,,,13%,
+England,West Suffolk,28%,28%,8%,9%,,,23%,4%
+England,West Worcestershire,27%,24%,16%,9%,,,19%,4%
+England,Westmorland and Lonsdale,25%,10%,43%,4%,,,13%,4%
+England,Weston-super-Mare,33%,39%,8%,5%,,,15%,
+England,Wetherby and Easingwold,31%,26%,7%,9%,,,20%,6%
+England,Whitehaven and Workington,32%,54%,2%,2%,,,10%,
+England,Widnes and Halewood,10%,70%,5%,6%,,,9%,1%
+England,Wigan,16%,54%,6%,6%,,,15%,2%
+England,Wimbledon,24%,21%,45%,4%,,,6%,0%
+England,Winchester,32%,11%,44%,4%,,,8%,0%
+England,Windsor,26%,27%,17%,8%,,,17%,6%
+England,Wirral West,25%,56%,4%,5%,,,10%,
+England,Witham,29%,25%,9%,11%,,,21%,4%
+England,Witney,34%,20%,33%,4%,,,9%,0%
+England,Woking,29%,20%,38%,4%,,,8%,1%
+England,Wokingham,33%,16%,38%,5%,,,9%,
+England,Wolverhampton North East,37%,47%,2%,2%,,,12%,
+England,Wolverhampton South East,28%,57%,3%,2%,,,10%,
+England,Wolverhampton West,32%,56%,3%,1%,,,9%,
+England,Worcester,22%,42%,7%,9%,,,16%,4%
+England,Worsley and Eccles,18%,52%,7%,6%,,,15%,3%
+England,Worthing West,31%,39%,6%,5%,,,15%,4%
+England,Wycombe,29%,51%,7%,4%,,,6%,2%
+England,Wyre Forest,29%,30%,7%,9%,,,21%,4%
+England,Wythenshawe and Sale East,14%,58%,8%,6%,,,12%,2%
+England,Yeovil,34%,13%,36%,5%,,,10%,1%
+England,York Central,15%,54%,10%,15%,,,5%,0%
+England,York Outer,22%,36%,17%,6%,,,15%,5%
+Scotland,Aberdeen North,18%,24%,7%,,47%,,,4%
+Scotland,Aberdeen South,32%,15%,6%,0%,42%,,,5%
+Scotland,Aberdeenshire North and Moray East,41%,15%,3%,0%,41%,,,
+Scotland,Airdrie and Shotts,9%,49%,2%,,37%,,,3%
+Scotland,Alloa and Grangemouth,18%,27%,5%,,46%,,,5%
+Scotland,Angus and Perthshire Glens,33%,13%,3%,0%,46%,,,5%
+Scotland,Arbroath and Broughty Ferry,22%,22%,7%,,45%,,,5%
+Scotland,"Argyll, Bute and South Lochaber",33%,14%,8%,0%,40%,,,5%
+Scotland,"Ayr, Carrick and Cumnock",33%,20%,3%,0%,39%,,,5%
+Scotland,Bathgate and Linlithgow,18%,31%,8%,,39%,,,5%
+Scotland,"Berwickshire, Roxburgh and Selkirk",40%,15%,5%,0%,34%,,,6%
+Scotland,"Caithness, Sutherland and Easter Ross",8%,11%,39%,,36%,,,5%
+Scotland,Central Ayrshire,31%,20%,3%,0%,42%,,,5%
+Scotland,Coatbridge and Bellshill,6%,50%,2%,,39%,,,4%
+Scotland,Cowdenbeath and Kirkcaldy,12%,48%,4%,,33%,,,3%
+Scotland,Cumbernauld and Kirkintilloch,8%,45%,3%,,45%,,,
+Scotland,Dumfries and Galloway,37%,17%,3%,0%,36%,,,6%
+Scotland,"Dumfriesshire, Clydesdale and Tweeddale",39%,17%,4%,0%,34%,,,6%
+Scotland,Dundee Central,8%,36%,5%,,47%,,,5%
+Scotland,Dunfermline and Dollar,11%,42%,5%,,39%,,,4%
+Scotland,East Kilbride and Strathaven,15%,33%,6%,,40%,,,5%
+Scotland,East Renfrewshire,32%,18%,4%,0%,41%,,,5%
+Scotland,Edinburgh East and Musselburgh,7%,43%,4%,,42%,,,4%
+Scotland,Edinburgh North and Leith,9%,41%,7%,,39%,,,4%
+Scotland,Edinburgh South,9%,63%,4%,,22%,,,2%
+Scotland,Edinburgh South West,18%,26%,9%,,43%,,,4%
+Scotland,Edinburgh West,8%,14%,44%,,31%,,,3%
+Scotland,Falkirk,19%,24%,6%,,46%,,,4%
+Scotland,Glasgow East,6%,48%,2%,,40%,,,4%
+Scotland,Glasgow North,4%,49%,3%,,40%,,,4%
+Scotland,Glasgow North East,5%,51%,2%,,38%,,,4%
+Scotland,Glasgow South,6%,46%,3%,,41%,,,4%
+Scotland,Glasgow South West,6%,49%,2%,,39%,,,4%
+Scotland,Glasgow West,8%,44%,4%,,40%,,,4%
+Scotland,Glenrothes and Mid Fife,8%,46%,3%,,44%,,,
+Scotland,Gordon and Buchan,42%,14%,7%,0%,37%,,,
+Scotland,Hamilton and Clyde Valley,13%,44%,2%,,37%,,,3%
+Scotland,Inverclyde and Renfrewshire West,9%,44%,3%,,40%,,,4%
+Scotland,"Inverness, Skye and West Ross-shire",17%,21%,14%,,44%,,,4%
+Scotland,Kilmarnock and Loudoun,17%,30%,4%,,43%,,,5%
+Scotland,Livingston,11%,40%,4%,,41%,,,4%
+Scotland,Lothian East,14%,49%,4%,,30%,,,4%
+Scotland,Mid Dunbartonshire,7%,15%,39%,,35%,,,5%
+Scotland,Midlothian,11%,47%,4%,,35%,,,3%
+Scotland,"Moray West, Nairn and Strathspey",35%,13%,3%,0%,42%,,,6%
+Scotland,"Motherwell, Wishaw and Carluke",11%,43%,2%,,39%,,,5%
+Scotland,Na h-Eileanan an Iar,11%,45%,2%,,38%,,,4%
+Scotland,North Ayrshire and Arran,28%,19%,3%,0%,45%,,,4%
+Scotland,North East Fife,6%,12%,44%,,38%,,,
+Scotland,Orkney and Shetland,5%,13%,49%,,33%,,,
+Scotland,Paisley and Renfrewshire North,10%,43%,4%,,43%,,,
+Scotland,Paisley and Renfrewshire South,9%,42%,3%,,41%,,,4%
+Scotland,Perth and Kinross-shire,35%,13%,5%,0%,41%,,,5%
+Scotland,Rutherglen,9%,47%,4%,,36%,,,5%
+Scotland,Stirling and Strathallan,32%,15%,4%,0%,48%,,,
+Scotland,West Aberdeenshire and Kincardine,37%,13%,7%,0%,37%,,,6%
+Scotland,West Dunbartonshire,7%,44%,2%,,41%,,,6%
+Wales,Aberafan Maesteg,12%,55%,6%,4%,,10%,11%,2%
+Wales,Alyn and Deeside,27%,48%,4%,3%,,6%,11%,1%
+Wales,Bangor Aberconwy,24%,42%,4%,3%,,18%,9%,0%
+Wales,Blaenau Gwent and Rhymney,13%,65%,7%,4%,,9%,,1%
+Wales,"Brecon, Radnor and Cwm Tawe",27%,16%,33%,4%,,6%,12%,2%
+Wales,Bridgend,28%,44%,5%,4%,,8%,11%,1%
+Wales,Caerfyrddin,24%,24%,3%,4%,,34%,12%,1%
+Wales,Caerphilly,15%,46%,4%,4%,,16%,14%,
+Wales,Cardiff East,12%,61%,11%,4%,,3%,7%,1%
+Wales,Cardiff North,19%,53%,7%,5%,,5%,11%,
+Wales,Cardiff West,16%,52%,6%,5%,,10%,10%,1%
+Wales,Ceredigion Preseli,20%,21%,10%,5%,,35%,9%,0%
+Wales,Clwyd East,30%,43%,4%,4%,,7%,12%,1%
+Wales,Clwyd North,28%,45%,3%,4%,,9%,11%,
+Wales,Dwyfor Meirionnydd,14%,24%,4%,3%,,46%,9%,0%
+Wales,Gower,25%,50%,5%,2%,,7%,9%,1%
+Wales,Llanelli,20%,43%,2%,3%,,23%,9%,0%
+Wales,Merthyr Tydfil and Aberdare,11%,53%,8%,3%,,9%,10%,6%
+Wales,Mid and South Pembrokeshire,27%,39%,5%,6%,,8%,15%,1%
+Wales,Monmouthshire,28%,35%,8%,7%,,5%,16%,1%
+Wales,Montgomeryshire and Glyndwr,29%,28%,14%,6%,,6%,17%,
+Wales,Neath and Swansea East,16%,51%,6%,4%,,11%,12%,
+Wales,Newport East,23%,52%,6%,4%,,4%,10%,0%
+Wales,Newport West and Islwyn,25%,49%,3%,4%,,7%,11%,1%
+Wales,Pontypridd,14%,47%,7%,4%,,12%,10%,5%
+Wales,Rhondda and Ogmore,9%,61%,5%,3%,,14%,8%,
+Wales,Swansea West,15%,53%,9%,5%,,7%,11%,0%
+Wales,Torfaen,24%,51%,4%,4%,,6%,11%,0%
+Wales,Vale of Glamorgan,29%,47%,3%,6%,,4%,10%,2%
+Wales,Wrexham,29%,43%,5%,4%,,8%,11%,1%
+Wales,Ynys Mon,16%,34%,2%,2%,,32%,13%,0%
