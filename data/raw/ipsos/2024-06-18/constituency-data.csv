@@ -1,0 +1,633 @@
+pcon,pcon_name,region,country,con_est,con_low,con_high,lab_est,lab_low,lab_high,ld_est,ld_low,ld_high,ref_est,ref_low,ref_high,grn_est,grn_low,grn_high,oth_est,oth_low,oth_high,pc_est,pc_low,pc_high,snp_est,snp_low,snp_high,Seat category
+E14001063,Aldershot,South East,England,31%,24%,38%,33%,25%,41%,14%,7%,24%,15%,8%,25%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001064,Aldridge-Brownhills,West Midlands,England,39%,30%,48%,35%,27%,44%,5%,2%,12%,17%,9%,27%,2%,1%,5%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001065,Altrincham and Sale West,North West,England,28%,22%,34%,55%,47%,64%,5%,2%,10%,7%,4%,13%,4%,2%,8%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001066,Amber Valley,East Midlands,England,34%,27%,42%,41%,33%,50%,3%,1%,7%,16%,8%,25%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001067,Arundel and South Downs,South East,England,37%,29%,44%,24%,18%,32%,19%,12%,28%,13%,8%,22%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001068,Ashfield,East Midlands,England,8%,3%,17%,21%,12%,35%,2%,0%,7%,59%,43%,73%,7%,2%,16%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong ref
+E14001069,Ashford,South East,England,32%,25%,39%,39%,31%,49%,7%,3%,16%,14%,7%,22%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001070,Ashton-under-Lyne,North West,England,20%,15%,25%,55%,47%,63%,3%,1%,7%,12%,7%,19%,8%,4%,15%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001071,Aylesbury,South East,England,30%,23%,36%,34%,24%,44%,17%,9%,28%,12%,6%,22%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001072,Banbury,South East,England,30%,23%,36%,40%,31%,49%,10%,5%,18%,12%,7%,21%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001073,Barking,London,England,16%,12%,20%,60%,51%,68%,3%,1%,8%,9%,5%,15%,7%,3%,14%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001074,Barnsley North,Yorkshire and The Humber,England,11%,6%,17%,55%,44%,66%,5%,2%,12%,23%,15%,34%,4%,1%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001075,Barnsley South,Yorkshire and The Humber,England,10%,5%,16%,57%,46%,68%,3%,1%,8%,25%,15%,35%,4%,1%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001076,Barrow and Furness,North West,England,28%,21%,34%,51%,44%,58%,3%,1%,6%,13%,7%,21%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001077,Basildon and Billericay,Eastern,England,33%,25%,42%,38%,30%,47%,6%,3%,13%,17%,9%,28%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001078,Basingstoke,South East,England,30%,24%,37%,43%,33%,52%,10%,5%,19%,10%,5%,18%,6%,3%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001079,Bassetlaw,East Midlands,England,31%,23%,40%,38%,30%,46%,4%,2%,9%,21%,13%,31%,5%,2%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001080,Bath,South West,England,13%,8%,18%,18%,10%,28%,55%,41%,68%,8%,4%,15%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong ld
+E14001081,Battersea,London,England,18%,14%,22%,58%,49%,66%,5%,2%,10%,9%,5%,15%,8%,4%,15%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001082,Beaconsfield,South East,England,34%,26%,42%,20%,13%,29%,24%,14%,39%,14%,7%,24%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001083,Beckenham and Penge,London,England,23%,18%,28%,53%,45%,61%,8%,4%,14%,10%,5%,16%,6%,3%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001084,Bedford,Eastern,England,21%,16%,26%,53%,45%,62%,5%,2%,11%,11%,6%,18%,7%,3%,14%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001085,Bermondsey and Old Southwark,London,England,9%,6%,13%,57%,45%,68%,18%,10%,29%,5%,2%,9%,8%,3%,18%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001086,Bethnal Green and Stepney,London,England,7%,5%,10%,68%,58%,76%,6%,3%,11%,3%,2%,6%,12%,6%,20%,3%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001087,Beverley and Holderness,Yorkshire and The Humber,England,36%,29%,42%,37%,30%,46%,10%,6%,18%,11%,6%,18%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001088,Bexhill and Battle,South East,England,37%,30%,44%,29%,22%,37%,13%,7%,22%,14%,8%,22%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001089,Bexleyheath and Crayford,London,England,37%,30%,45%,41%,32%,49%,5%,2%,12%,12%,6%,20%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001090,Bicester and Woodstock,South East,England,34%,27%,40%,30%,21%,41%,22%,12%,32%,9%,5%,16%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001091,Birkenhead,North West,England,8%,5%,11%,66%,55%,75%,3%,1%,7%,9%,5%,16%,11%,6%,21%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001092,Birmingham Edgbaston,West Midlands,England,21%,16%,26%,50%,41%,57%,6%,3%,11%,11%,7%,18%,9%,4%,15%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001093,Birmingham Erdington,West Midlands,England,23%,17%,28%,53%,45%,61%,5%,2%,10%,13%,7%,21%,4%,2%,8%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001094,Birmingham Hall Green and Moseley,West Midlands,England,11%,8%,15%,63%,55%,71%,7%,3%,12%,7%,4%,12%,7%,3%,13%,4%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001095,Birmingham Hodge Hill and Solihull North,West Midlands,England,16%,12%,20%,61%,51%,69%,4%,1%,8%,11%,6%,18%,6%,2%,12%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001096,Birmingham Ladywood,West Midlands,England,7%,5%,10%,69%,58%,78%,4%,1%,9%,4%,2%,6%,12%,5%,21%,4%,2%,8%,NA,NA,NA,NA,NA,NA, strong lab
+E14001097,Birmingham Northfield,West Midlands,England,23%,17%,29%,53%,45%,61%,4%,2%,8%,14%,8%,23%,4%,2%,8%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001098,Birmingham Perry Barr,West Midlands,England,13%,10%,17%,63%,52%,72%,4%,2%,11%,6%,3%,11%,9%,4%,18%,3%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001099,Birmingham Selly Oak,West Midlands,England,17%,12%,22%,60%,51%,69%,5%,2%,11%,8%,4%,15%,7%,3%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001100,Birmingham Yardley,West Midlands,England,17%,12%,21%,59%,48%,68%,8%,4%,17%,8%,4%,14%,5%,2%,11%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001101,Bishop Auckland,North East,England,27%,20%,36%,45%,37%,54%,4%,2%,10%,18%,10%,29%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001102,Blackburn,North West,England,15%,12%,19%,60%,50%,68%,4%,1%,8%,10%,6%,16%,7%,3%,15%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001103,Blackley and Middleton South,North West,England,16%,12%,20%,63%,55%,71%,3%,1%,7%,9%,5%,15%,7%,4%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001104,Blackpool North and Fleetwood,North West,England,30%,23%,36%,51%,43%,59%,3%,1%,6%,12%,7%,20%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001105,Blackpool South,North West,England,24%,17%,30%,49%,40%,56%,3%,1%,7%,19%,12%,29%,4%,2%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001106,Blaydon and Consett,North East,England,17%,12%,22%,53%,45%,61%,4%,2%,9%,20%,12%,30%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001107,Blyth and Ashington,North East,England,16%,11%,21%,58%,50%,65%,3%,1%,6%,19%,12%,27%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001108,Bognor Regis and Littlehampton,South East,England,33%,26%,40%,36%,29%,45%,8%,4%,15%,17%,9%,27%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001109,Bolsover,East Midlands,England,28%,21%,35%,47%,38%,55%,3%,1%,7%,17%,10%,26%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001110,Bolton North East,North West,England,25%,19%,31%,52%,44%,61%,3%,1%,8%,13%,7%,21%,4%,2%,9%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001111,Bolton South and Walkden,North West,England,16%,11%,20%,65%,57%,73%,3%,1%,7%,9%,4%,14%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001112,Bolton West,North West,England,30%,24%,37%,45%,37%,54%,5%,2%,11%,13%,7%,22%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001113,Bootle,North West,England,6%,4%,8%,72%,61%,81%,3%,1%,7%,7%,3%,12%,11%,5%,21%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001114,Boston and Skegness,East Midlands,England,34%,19%,50%,23%,14%,35%,5%,1%,13%,31%,17%,47%,4%,1%,10%,1%,0%,3%,NA,NA,NA,NA,NA,NA, toss up
+E14001115,Bournemouth East,South West,England,26%,21%,32%,42%,34%,51%,13%,7%,22%,11%,6%,19%,6%,3%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001116,Bournemouth West,South West,England,27%,21%,33%,43%,33%,52%,9%,4%,16%,12%,6%,20%,8%,4%,15%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001117,Bracknell,South East,England,32%,26%,38%,44%,35%,53%,7%,3%,13%,11%,6%,20%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001118,Bradford East,Yorkshire and The Humber,England,14%,10%,18%,56%,45%,64%,8%,4%,14%,8%,5%,14%,10%,5%,20%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001119,Bradford South,Yorkshire and The Humber,England,22%,17%,27%,51%,43%,60%,4%,1%,8%,14%,8%,22%,6%,3%,12%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001120,Bradford West,Yorkshire and The Humber,England,11%,8%,14%,64%,51%,74%,4%,2%,10%,5%,2%,9%,11%,5%,22%,4%,2%,7%,NA,NA,NA,NA,NA,NA, strong lab
+E14001121,Braintree,Eastern,England,36%,29%,44%,30%,22%,38%,10%,5%,18%,19%,11%,30%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001122,Brent East,London,England,14%,10%,17%,62%,53%,71%,5%,2%,11%,7%,3%,12%,9%,4%,16%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001123,Brent West,London,England,21%,17%,26%,59%,52%,67%,4%,2%,9%,7%,3%,12%,5%,2%,10%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001124,Brentford and Isleworth,London,England,17%,13%,20%,58%,49%,65%,10%,5%,17%,7%,4%,11%,6%,3%,10%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001125,Brentwood and Ongar,Eastern,England,36%,27%,45%,26%,19%,34%,10%,5%,18%,20%,11%,30%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001126,Bridgwater,South West,England,32%,25%,40%,36%,27%,46%,17%,10%,26%,11%,5%,19%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001127,Bridlington and The Wolds,Yorkshire and The Humber,England,36%,27%,45%,33%,26%,42%,6%,3%,13%,19%,10%,31%,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001128,Brigg and Immingham,Yorkshire and The Humber,England,38%,29%,46%,38%,29%,47%,6%,3%,12%,14%,7%,23%,3%,2%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001129,Brighton Kemptown and Peacehaven,South East,England,22%,18%,26%,57%,46%,67%,5%,2%,12%,NA,NA,NA,14%,7%,25%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001130,Brighton Pavilion,South East,England,4%,1%,10%,51%,37%,66%,3%,1%,8%,4%,1%,12%,34%,23%,48%,2%,1%,5%,NA,NA,NA,NA,NA,NA, likely lab
+E14001131,Bristol Central,South West,England,4%,1%,8%,41%,26%,55%,1%,0%,5%,4%,1%,9%,46%,31%,61%,3%,1%,7%,NA,NA,NA,NA,NA,NA, lean grn
+E14001132,Bristol East,South West,England,13%,10%,17%,66%,56%,74%,5%,2%,11%,NA,NA,NA,14%,8%,22%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001133,Bristol North East,South West,England,20%,15%,25%,54%,46%,62%,6%,2%,11%,10%,6%,17%,9%,5%,15%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001134,Bristol North West,South West,England,17%,12%,21%,57%,49%,66%,5%,2%,10%,8%,4%,15%,11%,7%,18%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001135,Bristol South,South West,England,16%,12%,20%,57%,47%,66%,5%,2%,10%,8%,4%,13%,12%,7%,21%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001136,Broadland and Fakenham,Eastern,England,33%,26%,40%,29%,22%,37%,15%,8%,24%,16%,9%,26%,6%,3%,12%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001137,Bromley and Biggin Hill,London,England,32%,25%,38%,42%,34%,51%,9%,5%,16%,12%,7%,20%,3%,1%,7%,1%,1%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001138,Bromsgrove,West Midlands,England,35%,28%,42%,40%,33%,49%,6%,3%,12%,14%,7%,23%,3%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001139,Broxbourne,Eastern,England,35%,27%,43%,34%,26%,42%,6%,3%,12%,17%,9%,28%,6%,3%,12%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001140,Broxtowe,East Midlands,England,23%,16%,29%,51%,42%,60%,3%,1%,8%,16%,9%,27%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001141,Buckingham and Bletchley,South East,England,31%,24%,37%,42%,33%,50%,8%,4%,15%,12%,6%,20%,6%,3%,14%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001142,Burnley,North West,England,22%,17%,27%,53%,44%,61%,5%,2%,11%,14%,8%,23%,4%,2%,9%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001143,Burton and Uttoxeter,West Midlands,England,31%,24%,38%,42%,34%,51%,5%,2%,12%,16%,9%,27%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001144,Bury North,North West,England,26%,20%,32%,55%,47%,62%,3%,1%,7%,11%,6%,18%,4%,2%,9%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001145,Bury South,North West,England,23%,17%,28%,52%,43%,60%,5%,2%,11%,14%,7%,23%,4%,2%,9%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001146,Bury St Edmunds and Stowmarket,Eastern,England,30%,23%,39%,31%,22%,40%,10%,5%,19%,16%,8%,26%,12%,6%,20%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001147,Calder Valley,Yorkshire and The Humber,England,29%,23%,35%,54%,47%,61%,3%,1%,7%,9%,5%,15%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001148,Camborne and Redruth,South West,England,27%,22%,33%,50%,42%,58%,6%,3%,12%,12%,6%,19%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001149,Cambridge,Eastern,England,9%,7%,13%,58%,46%,69%,16%,8%,26%,NA,NA,NA,15%,7%,26%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001150,Cannock Chase,West Midlands,England,29%,21%,37%,46%,37%,56%,2%,1%,6%,18%,10%,29%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001151,Canterbury,South East,England,22%,17%,28%,56%,48%,63%,3%,1%,7%,11%,6%,18%,6%,3%,12%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001152,Carlisle,North West,England,29%,22%,36%,49%,43%,58%,4%,2%,9%,13%,7%,22%,3%,2%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001153,Carshalton and Wallington,London,England,25%,19%,32%,23%,16%,33%,38%,25%,50%,9%,4%,16%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely ld
+E14001154,Castle Point,Eastern,England,39%,28%,48%,30%,22%,40%,5%,2%,12%,22%,12%,35%,3%,1%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean con
+E14001155,Central Devon,South West,England,31%,25%,38%,38%,30%,46%,12%,7%,19%,11%,5%,19%,7%,3%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001156,Central Suffolk and North Ipswich,Eastern,England,32%,25%,40%,37%,28%,48%,8%,3%,16%,14%,7%,23%,7%,3%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001157,Chatham and Aylesford,South East,England,38%,30%,45%,38%,30%,45%,5%,2%,11%,14%,8%,23%,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001158,Cheadle,North West,England,27%,21%,34%,20%,14%,28%,40%,30%,52%,9%,5%,15%,2%,1%,4%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001159,Chelmsford,Eastern,England,31%,23%,37%,27%,20%,35%,29%,19%,40%,9%,5%,17%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001160,Chelsea and Fulham,London,England,26%,19%,33%,43%,33%,53%,13%,6%,22%,10%,5%,19%,6%,3%,12%,2%,1%,3%,NA,NA,NA,NA,NA,NA, likely lab
+E14001161,Cheltenham,South West,England,26%,18%,34%,11%,6%,17%,60%,48%,71%,NA,NA,NA,2%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong ld
+E14001162,Chesham and Amersham,South East,England,35%,27%,42%,18%,11%,25%,33%,23%,46%,7%,4%,14%,5%,3%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001163,Chester North and Neston,North West,England,19%,15%,25%,61%,52%,68%,4%,2%,9%,10%,5%,18%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001164,Chester South and Eddisbury,North West,England,35%,28%,43%,34%,26%,43%,13%,7%,22%,11%,6%,20%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001165,Chesterfield,East Midlands,England,22%,17%,27%,52%,43%,60%,5%,2%,10%,13%,7%,20%,8%,4%,14%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001166,Chichester,South East,England,28%,21%,36%,17%,12%,24%,36%,26%,48%,12%,7%,21%,4%,2%,9%,0%,0%,0%,NA,NA,NA,NA,NA,NA, lean ld
+E14001167,Chingford and Woodford Green,London,England,36%,25%,46%,39%,28%,51%,2%,1%,8%,9%,4%,20%,5%,1%,12%,6%,3%,11%,NA,NA,NA,NA,NA,NA, toss up
+E14001168,Chippenham,South West,England,32%,25%,40%,22%,15%,31%,28%,18%,40%,13%,7%,22%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001169,Chipping Barnet,London,England,28%,22%,34%,52%,44%,60%,5%,2%,10%,8%,4%,15%,4%,2%,8%,2%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001170,Chorley,North West,England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100%,100%,100%,NA,NA,NA,NA,NA,NA, strong oth
+E14001171,Christchurch,South West,England,39%,31%,47%,27%,19%,34%,12%,6%,20%,16%,9%,26%,5%,2%,10%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely con
+E14001172,Cities of London and Westminster,London,England,25%,19%,31%,39%,28%,50%,18%,9%,29%,6%,3%,11%,9%,5%,19%,2%,1%,3%,NA,NA,NA,NA,NA,NA, likely lab
+E14001173,City of Durham,North East,England,15%,11%,21%,53%,44%,61%,8%,4%,15%,16%,9%,24%,6%,3%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001174,Clacton,Eastern,England,16%,8%,28%,24%,15%,36%,2%,1%,8%,52%,37%,66%,3%,1%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong ref
+E14001175,Clapham and Brixton Hill,London,England,10%,8%,13%,65%,55%,73%,7%,4%,13%,5%,3%,9%,10%,5%,18%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001176,Colchester,Eastern,England,27%,21%,33%,38%,28%,46%,10%,5%,18%,13%,7%,21%,10%,5%,17%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001177,Colne Valley,Yorkshire and The Humber,England,29%,23%,36%,49%,41%,58%,5%,2%,11%,11%,5%,18%,4%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001178,Congleton,North West,England,35%,28%,42%,40%,33%,49%,7%,3%,12%,13%,7%,22%,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001179,Corby and East Northamptonshire,East Midlands,England,27%,20%,33%,51%,43%,60%,2%,1%,5%,15%,8%,25%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001180,Coventry East,West Midlands,England,20%,15%,26%,55%,45%,64%,5%,2%,12%,12%,7%,20%,5%,2%,11%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001181,Coventry North West,West Midlands,England,24%,18%,30%,46%,38%,54%,8%,4%,15%,14%,8%,22%,6%,3%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001182,Coventry South,West Midlands,England,24%,19%,29%,50%,42%,58%,4%,2%,9%,11%,6%,18%,8%,4%,15%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001183,Cramlington and Killingworth,North East,England,19%,13%,25%,52%,45%,60%,3%,1%,6%,20%,13%,29%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001184,Crawley,South East,England,27%,20%,33%,43%,34%,52%,6%,2%,12%,18%,11%,28%,5%,2%,11%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001185,Crewe and Nantwich,North West,England,23%,17%,30%,51%,43%,59%,3%,1%,7%,17%,10%,27%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001186,Croydon East,London,England,24%,19%,30%,55%,46%,63%,5%,2%,10%,9%,4%,16%,6%,3%,13%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001187,Croydon South,London,England,35%,28%,43%,40%,32%,49%,6%,3%,13%,11%,6%,18%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, lean lab
+E14001188,Croydon West,London,England,12%,9%,15%,66%,57%,73%,4%,2%,9%,6%,3%,10%,9%,5%,17%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001189,Dagenham and Rainham,London,England,25%,19%,31%,49%,40%,57%,3%,1%,7%,15%,8%,24%,5%,2%,11%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001190,Darlington,North East,England,27%,21%,34%,53%,46%,62%,3%,1%,7%,12%,6%,20%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001191,Dartford,South East,England,32%,24%,39%,45%,38%,54%,5%,2%,9%,13%,7%,22%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001192,Daventry,East Midlands,England,35%,28%,42%,27%,20%,35%,14%,8%,22%,17%,10%,26%,6%,3%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean con
+E14001193,Derby North,East Midlands,England,27%,21%,33%,50%,41%,59%,3%,1%,8%,11%,6%,18%,7%,3%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001194,Derby South,East Midlands,England,19%,14%,25%,52%,43%,60%,4%,1%,8%,17%,10%,26%,6%,3%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001195,Derbyshire Dales,East Midlands,England,33%,25%,41%,38%,30%,46%,8%,4%,15%,14%,7%,25%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001196,Dewsbury and Batley,Yorkshire and The Humber,England,18%,14%,22%,55%,46%,64%,3%,1%,7%,9%,6%,16%,11%,6%,20%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001197,Didcot and Wantage,South East,England,29%,22%,36%,29%,21%,39%,27%,17%,38%,10%,5%,18%,4%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001198,Doncaster Central,Yorkshire and The Humber,England,21%,15%,28%,49%,40%,57%,5%,2%,12%,17%,9%,26%,6%,3%,11%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001199,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,England,27%,20%,36%,33%,25%,42%,5%,2%,10%,28%,18%,40%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001200,Doncaster North,Yorkshire and The Humber,England,25%,18%,33%,62%,51%,72%,6%,2%,14%,NA,NA,NA,4%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001201,Dorking and Horley,South East,England,29%,22%,36%,17%,11%,25%,41%,28%,55%,8%,4%,15%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely ld
+E14001202,Dover and Deal,South East,England,27%,20%,34%,46%,38%,55%,5%,2%,11%,16%,9%,26%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001203,Droitwich and Evesham,West Midlands,England,35%,27%,43%,28%,20%,36%,13%,8%,22%,19%,11%,29%,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001204,Dudley,West Midlands,England,32%,23%,39%,48%,38%,57%,2%,1%,6%,14%,7%,25%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001205,Dulwich and West Norwood,London,England,7%,5%,10%,63%,53%,73%,4%,2%,9%,5%,2%,9%,18%,10%,29%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001206,Dunstable and Leighton Buzzard,Eastern,England,30%,21%,37%,37%,29%,46%,10%,5%,18%,15%,8%,27%,7%,4%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001207,Ealing Central and Acton,London,England,13%,10%,17%,59%,49%,66%,8%,4%,14%,7%,4%,12%,10%,6%,18%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001208,Ealing North,London,England,19%,16%,24%,60%,51%,67%,5%,2%,10%,6%,3%,11%,6%,3%,12%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001209,Ealing Southall,London,England,15%,11%,18%,67%,57%,75%,4%,2%,10%,5%,2%,9%,7%,3%,12%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001210,Earley and Woodley,South East,England,37%,32%,43%,42%,32%,51%,12%,6%,22%,NA,NA,NA,6%,3%,13%,1%,1%,2%,NA,NA,NA,NA,NA,NA, lean lab
+E14001211,Easington,North East,England,13%,8%,19%,57%,47%,66%,5%,2%,13%,20%,12%,30%,4%,1%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001212,East Grinstead and Uckfield,South East,England,45%,37%,51%,30%,22%,40%,15%,8%,26%,NA,NA,NA,9%,4%,16%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001213,East Ham,London,England,10%,7%,13%,72%,63%,81%,3%,1%,7%,4%,2%,7%,7%,3%,13%,3%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001214,East Hampshire,South East,England,35%,28%,42%,23%,16%,31%,20%,12%,30%,13%,7%,21%,8%,4%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001215,East Surrey,South East,England,38%,31%,46%,25%,18%,34%,15%,9%,25%,15%,8%,24%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001216,East Thanet,South East,England,25%,19%,32%,46%,38%,55%,3%,1%,7%,19%,11%,29%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001217,East Wiltshire,South West,England,36%,28%,43%,32%,24%,41%,12%,6%,20%,14%,8%,24%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001218,East Worthing and Shoreham,South East,England,27%,21%,33%,48%,39%,57%,5%,2%,12%,12%,6%,20%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001219,Eastbourne,South East,England,29%,22%,36%,23%,15%,33%,33%,23%,44%,11%,6%,19%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001220,Eastleigh,South East,England,30%,24%,38%,20%,13%,29%,36%,25%,48%,9%,4%,15%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean ld
+E14001221,Edmonton and Winchmore Hill,London,England,18%,14%,23%,62%,53%,70%,4%,1%,8%,7%,3%,12%,6%,2%,12%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001222,Ellesmere Port and Bromborough,North West,England,13%,9%,17%,66%,56%,74%,4%,1%,10%,10%,5%,18%,5%,2%,12%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001223,Eltham and Chislehurst,London,England,26%,19%,32%,50%,41%,58%,4%,1%,9%,13%,7%,22%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001224,Ely and East Cambridgeshire,Eastern,England,34%,27%,41%,28%,21%,36%,19%,12%,27%,12%,7%,20%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001225,Enfield North,London,England,21%,16%,26%,56%,48%,64%,3%,1%,7%,10%,5%,16%,7%,3%,14%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001226,Epping Forest,Eastern,England,42%,34%,49%,40%,31%,52%,11%,5%,20%,NA,NA,NA,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001227,Epsom and Ewell,South East,England,30%,22%,36%,23%,15%,31%,35%,24%,48%,7%,3%,13%,4%,2%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean ld
+E14001228,Erewash,East Midlands,England,28%,22%,35%,45%,38%,53%,3%,1%,7%,16%,9%,25%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001229,Erith and Thamesmead,London,England,16%,12%,20%,60%,50%,69%,4%,1%,8%,9%,5%,15%,8%,4%,16%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001230,Esher and Walton,South East,England,28%,20%,35%,11%,6%,18%,49%,39%,61%,8%,4%,14%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong ld
+E14001231,Exeter,South West,England,14%,10%,18%,55%,44%,63%,7%,3%,14%,9%,4%,14%,14%,8%,23%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001232,Exmouth and Exeter East,South West,England,34%,26%,42%,26%,18%,36%,16%,8%,27%,16%,8%,28%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001233,Fareham and Waterlooville,South East,England,37%,30%,44%,31%,24%,40%,13%,7%,20%,13%,7%,22%,5%,2%,9%,0%,0%,0%,NA,NA,NA,NA,NA,NA, lean con
+E14001234,Farnham and Bordon,South East,England,37%,28%,45%,17%,10%,25%,31%,20%,44%,11%,5%,19%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001235,Faversham and Mid Kent,South East,England,34%,27%,41%,35%,26%,44%,10%,4%,18%,16%,9%,25%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001236,Feltham and Heston,London,England,22%,18%,27%,57%,49%,65%,5%,2%,10%,7%,4%,12%,6%,3%,11%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001237,Filton and Bradley Stoke,South West,England,26%,20%,32%,53%,45%,62%,5%,2%,10%,10%,5%,17%,5%,2%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001238,Finchley and Golders Green,London,England,29%,23%,35%,45%,36%,55%,12%,6%,20%,6%,3%,12%,5%,3%,12%,2%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001239,Folkestone and Hythe,South East,England,30%,23%,37%,43%,34%,52%,5%,2%,11%,15%,8%,24%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001240,Forest of Dean,South West,England,29%,22%,36%,40%,31%,48%,7%,3%,15%,16%,9%,26%,7%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001241,Frome and East Somerset,South West,England,28%,21%,34%,31%,24%,39%,20%,13%,29%,12%,6%,19%,8%,4%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001242,Fylde,North West,England,36%,28%,43%,42%,34%,51%,6%,2%,12%,12%,6%,21%,4%,1%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001243,Gainsborough,East Midlands,England,37%,29%,45%,33%,26%,41%,9%,5%,16%,17%,9%,26%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001244,Gateshead Central and Whickham,North East,England,14%,9%,20%,59%,49%,69%,4%,1%,8%,13%,7%,21%,8%,3%,15%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001245,Gedling,East Midlands,England,24%,17%,30%,48%,41%,57%,3%,1%,6%,17%,10%,27%,7%,3%,12%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001246,Gillingham and Rainham,South East,England,31%,24%,39%,40%,32%,48%,5%,2%,10%,18%,10%,28%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001247,Glastonbury and Somerton,South West,England,34%,27%,41%,15%,10%,21%,34%,25%,44%,11%,6%,18%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001248,Gloucester,South West,England,28%,21%,35%,46%,39%,54%,7%,4%,13%,14%,8%,22%,4%,2%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001249,Godalming and Ash,South East,England,34%,27%,41%,17%,11%,25%,33%,23%,44%,11%,5%,18%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001250,Goole and Pocklington,Yorkshire and The Humber,England,35%,27%,43%,38%,29%,47%,7%,3%,12%,14%,7%,24%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001251,Gorton and Denton,North West,England,11%,7%,14%,68%,59%,76%,4%,1%,9%,8%,4%,14%,7%,3%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001252,Gosport,South East,England,39%,32%,46%,33%,26%,42%,7%,3%,12%,14%,8%,22%,5%,3%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001253,Grantham and Bourne,East Midlands,England,36%,28%,45%,32%,25%,40%,5%,2%,10%,18%,10%,28%,7%,4%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001254,Gravesham,South East,England,33%,26%,41%,39%,30%,48%,5%,2%,12%,16%,9%,27%,5%,2%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001255,Great Grimsby and Cleethorpes,Yorkshire and The Humber,England,28%,21%,36%,44%,36%,53%,5%,2%,12%,17%,9%,28%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001256,Great Yarmouth,Eastern,England,20%,11%,34%,43%,30%,57%,2%,1%,6%,28%,15%,44%,4%,1%,11%,1%,0%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001257,Greenwich and Woolwich,London,England,12%,9%,15%,60%,51%,69%,9%,5%,17%,5%,2%,9%,10%,5%,18%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001258,Guildford,South East,England,25%,18%,31%,16%,10%,23%,39%,28%,49%,15%,8%,24%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001259,Hackney North and Stoke Newington,London,England,7%,5%,10%,62%,51%,71%,4%,2%,8%,5%,3%,9%,18%,11%,28%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001260,Hackney South and Shoreditch,London,England,6%,4%,8%,75%,66%,83%,4%,2%,7%,3%,1%,5%,10%,5%,17%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001261,Halesowen,West Midlands,England,32%,24%,39%,46%,38%,54%,2%,1%,6%,16%,8%,27%,3%,1%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001262,Halifax,Yorkshire and The Humber,England,23%,18%,28%,51%,43%,60%,6%,2%,12%,12%,7%,19%,6%,3%,12%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001263,Hamble Valley,South East,England,38%,31%,45%,24%,16%,32%,18%,10%,28%,13%,7%,21%,6%,3%,13%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely con
+E14001264,Hammersmith and Chiswick,London,England,16%,12%,20%,58%,49%,67%,8%,4%,16%,6%,3%,12%,8%,4%,15%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001265,Hampstead and Highgate,London,England,14%,10%,18%,59%,47%,68%,9%,4%,17%,5%,3%,10%,9%,4%,19%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001266,"Harborough, Oadby and Wigston",East Midlands,England,36%,29%,42%,40%,33%,49%,8%,4%,15%,10%,5%,17%,4%,2%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001267,Harlow,Eastern,England,31%,23%,39%,41%,32%,48%,4%,1%,9%,19%,10%,30%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001268,Harpenden and Berkhamsted,Eastern,England,31%,24%,38%,17%,10%,24%,37%,28%,49%,9%,5%,16%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean ld
+E14001269,Harrogate and Knaresborough,Yorkshire and The Humber,England,33%,26%,40%,18%,12%,27%,37%,27%,49%,8%,3%,15%,2%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001270,Harrow East,London,England,36%,30%,42%,48%,40%,55%,3%,1%,8%,8%,4%,15%,3%,1%,6%,2%,1%,3%,NA,NA,NA,NA,NA,NA, likely lab
+E14001271,Harrow West,London,England,20%,16%,24%,61%,54%,69%,3%,2%,8%,7%,4%,12%,5%,2%,10%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001272,Hartlepool,North East,England,13%,7%,20%,54%,44%,65%,3%,1%,8%,25%,16%,36%,3%,1%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001273,Harwich and North Essex,Eastern,England,32%,25%,39%,38%,31%,46%,7%,3%,12%,16%,10%,26%,6%,3%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001274,Hastings and Rye,South East,England,28%,22%,33%,49%,41%,57%,3%,1%,7%,12%,6%,19%,7%,3%,13%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001275,Havant,South East,England,37%,29%,45%,31%,23%,39%,9%,4%,17%,15%,8%,25%,7%,4%,14%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001276,Hayes and Harlington,London,England,22%,18%,27%,59%,50%,67%,3%,1%,7%,7%,4%,12%,5%,2%,11%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001277,Hazel Grove,North West,England,26%,19%,33%,27%,18%,37%,33%,21%,45%,9%,4%,17%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean ld
+E14001278,Hemel Hempstead,Eastern,England,29%,21%,36%,42%,33%,51%,6%,2%,12%,17%,9%,26%,6%,3%,13%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001279,Hendon,London,England,29%,23%,35%,50%,41%,58%,3%,1%,7%,9%,5%,16%,6%,3%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001280,Henley and Thame,South East,England,32%,24%,38%,14%,9%,21%,38%,28%,50%,9%,5%,16%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean ld
+E14001281,Hereford and South Herefordshire,West Midlands,England,34%,27%,41%,33%,25%,41%,11%,6%,19%,15%,9%,24%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001282,Herne Bay and Sandwich,South East,England,32%,25%,40%,35%,28%,43%,9%,4%,16%,19%,11%,29%,4%,1%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001283,Hertford and Stortford,Eastern,England,28%,21%,34%,40%,31%,49%,9%,5%,15%,15%,9%,25%,7%,4%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001284,Hertsmere,Eastern,England,34%,25%,42%,33%,25%,42%,10%,5%,19%,16%,9%,28%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001285,Hexham,North East,England,38%,31%,45%,50%,39%,59%,6%,3%,12%,NA,NA,NA,5%,2%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001286,Heywood and Middleton North,North West,England,23%,17%,30%,55%,47%,63%,4%,1%,9%,17%,10%,27%,NA,NA,NA,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001287,High Peak,East Midlands,England,23%,17%,29%,59%,51%,67%,2%,1%,5%,11%,6%,18%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001288,Hinckley and Bosworth,East Midlands,England,40%,32%,48%,28%,21%,38%,12%,6%,22%,13%,7%,22%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001289,Hitchin,Eastern,England,27%,21%,33%,36%,27%,47%,22%,13%,34%,9%,4%,17%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001290,Holborn and St Pancras,London,England,8%,6%,11%,66%,56%,76%,6%,3%,12%,6%,3%,11%,10%,4%,19%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001291,Honiton and Sidmouth,South West,England,29%,21%,38%,14%,9%,20%,42%,31%,56%,11%,5%,19%,2%,1%,5%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001292,Hornchurch and Upminster,London,England,35%,27%,44%,38%,30%,47%,4%,1%,9%,19%,10%,30%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001293,Hornsey and Friern Barnet,London,England,8%,6%,11%,64%,55%,73%,11%,6%,19%,5%,2%,9%,9%,4%,16%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001294,Horsham,South East,England,37%,31%,43%,25%,19%,33%,22%,14%,30%,10%,5%,17%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001295,Houghton and Sunderland South,North East,England,16%,11%,22%,54%,45%,63%,4%,1%,9%,20%,12%,30%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001296,Hove and Portslade,South East,England,14%,10%,18%,57%,47%,65%,6%,3%,11%,7%,4%,13%,14%,8%,24%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001297,Huddersfield,Yorkshire and The Humber,England,20%,15%,24%,58%,49%,66%,7%,3%,15%,8%,4%,13%,7%,3%,13%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001298,Huntingdon,Eastern,England,34%,26%,40%,33%,25%,41%,16%,10%,26%,11%,5%,20%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001299,Hyndburn,North West,England,25%,19%,30%,53%,44%,62%,3%,1%,6%,14%,8%,22%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001300,Ilford North,London,England,23%,17%,27%,58%,49%,66%,3%,1%,7%,8%,4%,14%,5%,2%,11%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001301,Ilford South,London,England,15%,11%,19%,63%,54%,71%,4%,2%,9%,6%,3%,11%,7%,3%,14%,4%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001302,Ipswich,Eastern,England,24%,18%,30%,46%,39%,55%,3%,1%,7%,17%,10%,27%,7%,4%,13%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001303,Isle of Wight East,South East,England,30%,22%,38%,34%,25%,44%,6%,2%,14%,17%,9%,29%,11%,5%,19%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001304,Isle of Wight West,South East,England,26%,19%,34%,39%,29%,50%,9%,4%,17%,11%,5%,20%,13%,7%,22%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001305,Islington North,London,England,6%,3%,12%,54%,39%,66%,6%,2%,14%,8%,4%,16%,11%,5%,21%,13%,8%,22%,NA,NA,NA,NA,NA,NA, strong lab
+E14001306,Islington South and Finsbury,London,England,9%,6%,11%,65%,55%,74%,8%,4%,15%,6%,3%,11%,9%,5%,17%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001307,Jarrow and Gateshead East,North East,England,12%,8%,17%,60%,50%,69%,4%,2%,9%,18%,10%,27%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001308,Keighley and Ilkley,Yorkshire and The Humber,England,28%,22%,34%,55%,47%,63%,3%,1%,7%,9%,4%,16%,4%,1%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001309,Kenilworth and Southam,West Midlands,England,36%,30%,44%,32%,25%,41%,11%,6%,19%,13%,8%,22%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001310,Kensington and Bayswater,London,England,22%,17%,27%,54%,44%,63%,7%,2%,13%,8%,4%,13%,7%,3%,15%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001311,Kettering,East Midlands,England,32%,25%,40%,44%,35%,53%,4%,1%,8%,14%,7%,24%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001312,Kingston and Surbiton,London,England,17%,12%,23%,19%,12%,28%,50%,38%,63%,8%,4%,14%,4%,2%,9%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong ld
+E14001313,Kingston upon Hull East,Yorkshire and The Humber,England,18%,12%,24%,55%,46%,65%,4%,1%,8%,16%,8%,26%,7%,3%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001314,Kingston upon Hull North and Cottingham,Yorkshire and The Humber,England,20%,15%,25%,51%,42%,59%,7%,4%,14%,12%,6%,20%,8%,4%,15%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001315,Kingston upon Hull West and Haltemprice,Yorkshire and The Humber,England,23%,16%,31%,48%,39%,58%,5%,2%,11%,17%,9%,26%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001316,Kingswinford and South Staffordshire,West Midlands,England,39%,30%,48%,30%,23%,39%,5%,2%,11%,21%,12%,34%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001317,Knowsley,North West,England,6%,4%,9%,72%,61%,80%,3%,1%,7%,8%,4%,13%,9%,4%,17%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001318,Lancaster and Wyre,North West,England,23%,17%,28%,57%,48%,66%,4%,2%,9%,9%,5%,16%,6%,3%,12%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001319,Leeds Central and Headingley,Yorkshire and The Humber,England,8%,5%,10%,62%,48%,72%,6%,2%,13%,5%,2%,9%,16%,8%,30%,3%,1%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001320,Leeds East,Yorkshire and The Humber,England,21%,16%,27%,54%,46%,61%,4%,2%,8%,13%,8%,22%,6%,3%,12%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001321,Leeds North East,Yorkshire and The Humber,England,14%,11%,18%,59%,50%,68%,10%,5%,18%,5%,2%,8%,8%,4%,15%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001322,Leeds North West,Yorkshire and The Humber,England,24%,19%,30%,52%,44%,62%,6%,3%,12%,8%,4%,14%,8%,4%,14%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001323,Leeds South,Yorkshire and The Humber,England,17%,13%,21%,59%,48%,69%,8%,3%,15%,NA,NA,NA,13%,7%,22%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001324,Leeds South West and Morley,Yorkshire and The Humber,England,26%,21%,33%,54%,46%,63%,3%,1%,7%,11%,6%,18%,4%,2%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001325,Leeds West and Pudsey,Yorkshire and The Humber,England,21%,16%,26%,62%,53%,69%,3%,1%,7%,8%,4%,15%,5%,2%,11%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001326,Leicester East,East Midlands,England,21%,12%,30%,46%,33%,59%,2%,1%,7%,10%,4%,20%,9%,3%,18%,10%,5%,17%,NA,NA,NA,NA,NA,NA, strong lab
+E14001327,Leicester South,East Midlands,England,13%,9%,16%,57%,45%,66%,4%,2%,9%,6%,3%,11%,16%,9%,27%,4%,2%,6%,NA,NA,NA,NA,NA,NA, strong lab
+E14001328,Leicester West,East Midlands,England,19%,14%,24%,51%,42%,59%,6%,3%,11%,12%,7%,20%,9%,5%,17%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001329,Leigh and Atherton,North West,England,22%,17%,28%,52%,43%,60%,4%,2%,9%,16%,9%,25%,4%,1%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001330,Lewes,South East,England,28%,22%,35%,16%,10%,23%,40%,30%,50%,9%,5%,16%,5%,3%,10%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely ld
+E14001331,Lewisham East,London,England,11%,8%,15%,58%,49%,66%,11%,6%,18%,7%,4%,11%,10%,5%,17%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001332,Lewisham North,London,England,7%,5%,9%,68%,59%,76%,5%,2%,10%,3%,2%,6%,13%,8%,22%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001333,Lewisham West and East Dulwich,London,England,8%,6%,11%,70%,60%,77%,4%,1%,8%,5%,2%,8%,11%,6%,19%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001334,Leyton and Wanstead,London,England,12%,9%,15%,64%,54%,73%,4%,2%,8%,5%,3%,9%,12%,6%,21%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001335,Lichfield,West Midlands,England,33%,24%,40%,37%,29%,46%,5%,2%,11%,20%,12%,32%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001336,Lincoln,East Midlands,England,24%,18%,30%,52%,42%,61%,4%,2%,8%,12%,7%,18%,7%,3%,14%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001337,Liverpool Garston,North West,England,8%,5%,10%,68%,55%,76%,5%,2%,11%,8%,5%,14%,9%,4%,18%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001338,Liverpool Riverside,North West,England,4%,3%,7%,69%,57%,77%,5%,2%,10%,4%,2%,8%,15%,8%,24%,3%,1%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001339,Liverpool Walton,North West,England,6%,4%,9%,74%,63%,83%,3%,1%,8%,7%,3%,13%,8%,3%,17%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001340,Liverpool Wavertree,North West,England,6%,4%,8%,70%,60%,79%,5%,2%,10%,4%,2%,8%,12%,6%,21%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001341,Liverpool West Derby,North West,England,6%,4%,9%,73%,64%,82%,3%,1%,8%,7%,4%,13%,8%,3%,16%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001342,Loughborough,East Midlands,England,27%,21%,33%,51%,42%,59%,3%,1%,7%,11%,5%,21%,7%,3%,13%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001343,Louth and Horncastle,East Midlands,England,38%,29%,47%,31%,24%,40%,5%,2%,10%,22%,13%,34%,2%,1%,5%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001344,Lowestoft,Eastern,England,27%,19%,35%,43%,35%,52%,3%,1%,7%,21%,13%,33%,5%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001345,Luton North,Eastern,England,20%,15%,25%,56%,47%,66%,5%,2%,11%,9%,4%,16%,7%,3%,15%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001346,Luton South and South Bedfordshire,Eastern,England,18%,13%,23%,52%,41%,61%,6%,2%,13%,13%,7%,21%,9%,4%,18%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001347,Macclesfield,North West,England,27%,21%,33%,50%,42%,59%,5%,2%,10%,13%,7%,21%,4%,2%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001348,Maidenhead,South East,England,43%,36%,49%,27%,20%,37%,21%,12%,32%,NA,NA,NA,7%,4%,14%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001349,Maidstone and Malling,South East,England,33%,26%,41%,37%,28%,47%,10%,4%,18%,13%,7%,22%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001350,Makerfield,North West,England,19%,13%,24%,55%,46%,64%,3%,1%,7%,16%,8%,24%,6%,3%,13%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001351,Maldon,Eastern,England,40%,30%,49%,24%,18%,32%,12%,6%,20%,19%,10%,31%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong con
+E14001352,Manchester Central,North West,England,10%,7%,13%,67%,56%,75%,4%,1%,8%,7%,4%,11%,10%,5%,18%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001353,Manchester Rusholme,North West,England,5%,3%,8%,65%,54%,75%,NA,NA,NA,4%,2%,8%,21%,12%,33%,4%,2%,7%,NA,NA,NA,NA,NA,NA, strong lab
+E14001354,Manchester Withington,North West,England,6%,4%,9%,66%,58%,75%,9%,5%,16%,4%,2%,8%,10%,6%,18%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001355,Mansfield,East Midlands,England,30%,22%,38%,42%,35%,51%,2%,1%,5%,22%,13%,34%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001356,Melksham and Devizes,South West,England,36%,29%,43%,24%,17%,32%,25%,16%,34%,10%,5%,17%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely con
+E14001357,Melton and Syston,East Midlands,England,36%,29%,44%,35%,28%,43%,7%,3%,14%,14%,7%,22%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001358,Meriden and Solihull East,West Midlands,England,36%,28%,43%,38%,30%,46%,6%,2%,11%,17%,9%,27%,3%,1%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001359,Mid Bedfordshire,Eastern,England,34%,28%,42%,35%,27%,43%,8%,4%,15%,15%,8%,24%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001360,Mid Buckinghamshire,South East,England,36%,28%,44%,26%,18%,35%,21%,12%,34%,11%,5%,20%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001361,Mid Cheshire,North West,England,22%,17%,27%,58%,51%,66%,4%,2%,8%,11%,6%,19%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001362,Mid Derbyshire,East Midlands,England,31%,24%,39%,39%,31%,47%,4%,2%,8%,18%,10%,29%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001363,Mid Dorset and North Poole,South West,England,44%,35%,52%,18%,11%,28%,34%,21%,49%,NA,NA,NA,4%,2%,8%,0%,0%,0%,NA,NA,NA,NA,NA,NA, lean con
+E14001364,Mid Leicestershire,East Midlands,England,34%,27%,41%,40%,33%,49%,4%,2%,9%,15%,9%,25%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001365,Mid Norfolk,Eastern,England,35%,26%,43%,28%,21%,36%,9%,5%,17%,22%,13%,33%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean con
+E14001366,Mid Sussex,South East,England,30%,23%,37%,28%,21%,36%,25%,17%,35%,11%,6%,19%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001367,Middlesbrough and Thornaby East,North East,England,13%,8%,17%,59%,49%,69%,4%,1%,9%,15%,8%,23%,7%,3%,15%,1%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001368,Middlesbrough South and East Cleveland,North East,England,36%,27%,43%,57%,48%,68%,3%,1%,7%,NA,NA,NA,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001369,Milton Keynes Central,South East,England,26%,20%,32%,49%,40%,58%,7%,3%,14%,10%,5%,17%,6%,2%,11%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001370,Milton Keynes North,South East,England,27%,20%,34%,46%,39%,55%,6%,3%,13%,14%,8%,24%,5%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001371,Mitcham and Morden,London,England,15%,12%,19%,60%,50%,70%,5%,2%,11%,8%,4%,14%,8%,4%,16%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001372,Morecambe and Lunesdale,North West,England,30%,23%,36%,44%,36%,51%,7%,3%,12%,15%,9%,25%,3%,2%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001373,New Forest East,South East,England,39%,31%,46%,28%,20%,37%,10%,5%,17%,13%,6%,23%,8%,4%,16%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely con
+E14001374,New Forest West,South East,England,37%,30%,45%,26%,19%,35%,12%,6%,20%,16%,9%,27%,7%,4%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001375,Newark,East Midlands,England,35%,29%,43%,40%,32%,49%,4%,2%,9%,14%,8%,23%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001376,Newbury,South East,England,34%,27%,42%,19%,12%,28%,30%,18%,43%,11%,5%,20%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001377,Newcastle upon Tyne Central and West,North East,England,13%,10%,17%,60%,50%,69%,3%,1%,7%,12%,7%,18%,9%,5%,16%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001378,Newcastle upon Tyne East and Wallsend,North East,England,10%,7%,14%,60%,51%,67%,6%,3%,12%,12%,7%,18%,10%,6%,16%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001379,Newcastle upon Tyne North,North East,England,17%,12%,21%,56%,47%,63%,11%,6%,19%,10%,5%,16%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001380,Newcastle-under-Lyme,West Midlands,England,29%,22%,36%,47%,39%,55%,4%,2%,9%,14%,8%,23%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001381,Newton Abbot,South West,England,35%,29%,42%,29%,22%,37%,18%,11%,27%,12%,7%,20%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001382,Newton Aycliffe and Spennymoor,North East,England,25%,18%,32%,50%,42%,60%,3%,1%,7%,16%,9%,26%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001383,Normanton and Hemsworth,Yorkshire and The Humber,England,15%,10%,21%,50%,41%,60%,4%,1%,8%,23%,15%,33%,7%,3%,13%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001384,North Bedfordshire,Eastern,England,35%,28%,42%,35%,28%,43%,9%,4%,16%,15%,9%,23%,5%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001385,North Cornwall,South West,England,36%,28%,44%,15%,9%,21%,33%,24%,43%,13%,7%,22%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001386,North Cotswolds,South West,England,35%,27%,42%,29%,22%,38%,16%,9%,25%,13%,7%,23%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001387,North Devon,South West,England,30%,23%,37%,15%,9%,22%,33%,24%,44%,16%,10%,25%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001388,North Dorset,South West,England,42%,34%,49%,22%,16%,30%,17%,10%,27%,13%,7%,21%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong con
+E14001389,North Durham,North East,England,17%,12%,23%,54%,45%,63%,6%,2%,13%,17%,10%,26%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001390,North East Cambridgeshire,Eastern,England,34%,25%,43%,26%,20%,35%,6%,3%,12%,26%,16%,38%,6%,3%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001391,North East Derbyshire,East Midlands,England,30%,24%,38%,48%,40%,56%,2%,1%,6%,14%,8%,23%,4%,2%,8%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely lab
+E14001392,North East Hampshire,South East,England,36%,28%,44%,19%,13%,27%,23%,15%,35%,15%,8%,25%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001393,North East Hertfordshire,Eastern,England,32%,25%,39%,38%,31%,47%,10%,5%,18%,14%,7%,23%,5%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001394,North East Somerset and Hanham,South West,England,29%,22%,36%,47%,38%,57%,7%,3%,14%,12%,6%,21%,3%,1%,7%,0%,0%,0%,NA,NA,NA,NA,NA,NA, likely lab
+E14001395,North Herefordshire,West Midlands,England,29%,18%,41%,15%,7%,25%,5%,2%,11%,13%,5%,25%,35%,24%,48%,1%,0%,3%,NA,NA,NA,NA,NA,NA, lean grn
+E14001396,North Norfolk,Eastern,England,37%,29%,45%,11%,7%,17%,35%,27%,44%,13%,7%,20%,3%,2%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001397,North Northumberland,North East,England,27%,19%,34%,41%,33%,50%,10%,6%,16%,19%,11%,30%,3%,1%,5%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001398,North Shropshire,West Midlands,England,31%,23%,39%,25%,18%,33%,21%,13%,32%,18%,10%,26%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001399,North Somerset,South West,England,32%,26%,38%,42%,33%,51%,8%,4%,15%,10%,5%,17%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001400,North Warwickshire and Bedworth,West Midlands,England,33%,25%,42%,40%,32%,49%,3%,1%,7%,20%,11%,32%,3%,1%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001401,North West Cambridgeshire,Eastern,England,32%,25%,39%,36%,28%,45%,6%,3%,13%,15%,8%,25%,9%,5%,17%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001402,North West Essex,Eastern,England,37%,29%,45%,28%,21%,36%,15%,9%,24%,13%,7%,23%,6%,3%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001403,North West Hampshire,South East,England,32%,23%,39%,27%,20%,35%,15%,8%,25%,19%,11%,31%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001404,North West Leicestershire,East Midlands,England,25%,12%,39%,29%,16%,43%,2%,0%,8%,35%,20%,51%,6%,2%,15%,1%,0%,2%,NA,NA,NA,NA,NA,NA, lean ref
+E14001405,North West Norfolk,Eastern,England,30%,23%,38%,31%,23%,39%,9%,4%,18%,24%,15%,34%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001406,Northampton North,East Midlands,England,25%,19%,31%,50%,41%,59%,5%,2%,10%,12%,6%,21%,6%,3%,13%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001407,Northampton South,East Midlands,England,30%,23%,37%,44%,35%,52%,5%,2%,10%,15%,8%,26%,4%,2%,8%,1%,1%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001408,Norwich North,Eastern,England,23%,16%,29%,51%,43%,59%,3%,1%,7%,17%,10%,26%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001409,Norwich South,Eastern,England,14%,10%,18%,61%,51%,69%,3%,1%,8%,7%,4%,13%,13%,7%,22%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001410,Nottingham East,East Midlands,England,10%,7%,13%,67%,58%,76%,3%,1%,8%,7%,4%,12%,9%,5%,16%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001411,Nottingham North and Kimberley,East Midlands,England,22%,16%,28%,51%,44%,59%,4%,2%,8%,17%,10%,26%,5%,3%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001412,Nottingham South,East Midlands,England,14%,10%,19%,50%,38%,59%,4%,1%,8%,15%,9%,23%,14%,8%,25%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001413,Nuneaton,West Midlands,England,32%,25%,39%,45%,37%,54%,2%,1%,6%,15%,8%,24%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001414,Old Bexley and Sidcup,London,England,38%,30%,46%,39%,31%,48%,7%,3%,14%,11%,5%,20%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001415,Oldham East and Saddleworth,North West,England,25%,20%,31%,51%,43%,60%,5%,2%,10%,11%,6%,19%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001416,"Oldham West, Chadderton and Royton",North West,England,18%,13%,22%,60%,50%,69%,4%,2%,10%,9%,5%,16%,6%,2%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001417,Orpington,London,England,38%,30%,46%,34%,25%,43%,11%,5%,22%,11%,6%,21%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001418,Ossett and Denby Dale,Yorkshire and The Humber,England,30%,22%,36%,46%,37%,55%,4%,2%,9%,15%,8%,25%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001419,Oxford East,South East,England,13%,10%,17%,61%,51%,71%,7%,3%,13%,NA,NA,NA,17%,10%,26%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001420,Oxford West and Abingdon,South East,England,17%,11%,23%,26%,16%,37%,43%,32%,56%,7%,3%,12%,6%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001421,Peckham,London,England,6%,4%,8%,74%,64%,81%,4%,2%,8%,4%,2%,7%,10%,5%,17%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001422,Pendle and Clitheroe,North West,England,33%,26%,40%,44%,37%,52%,5%,3%,11%,11%,6%,19%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001423,Penistone and Stocksbridge,Yorkshire and The Humber,England,33%,25%,41%,46%,37%,54%,5%,2%,10%,12%,6%,20%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001424,Penrith and Solway,North West,England,30%,22%,36%,42%,34%,50%,8%,4%,16%,14%,7%,23%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001425,Peterborough,Eastern,England,23%,18%,30%,49%,41%,58%,4%,1%,9%,17%,10%,26%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001426,Plymouth Moor View,South West,England,30%,23%,37%,49%,40%,58%,3%,1%,8%,13%,6%,23%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001427,Plymouth Sutton and Devonport,South West,England,19%,15%,23%,55%,47%,63%,4%,2%,8%,10%,6%,16%,10%,5%,17%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001428,"Pontefract, Castleford and Knottingley",Yorkshire and The Humber,England,19%,14%,26%,56%,46%,65%,4%,1%,9%,15%,8%,25%,4%,1%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001429,Poole,South West,England,34%,28%,40%,37%,29%,46%,13%,7%,20%,10%,5%,17%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001430,Poplar and Limehouse,London,England,11%,8%,14%,62%,53%,70%,8%,3%,14%,5%,3%,9%,11%,6%,19%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001431,Portsmouth North,South East,England,33%,26%,40%,41%,33%,49%,5%,2%,10%,15%,8%,24%,5%,2%,10%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001432,Portsmouth South,South East,England,17%,13%,22%,54%,45%,62%,8%,4%,15%,10%,6%,17%,8%,4%,15%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001433,Preston,North West,England,17%,12%,21%,57%,47%,66%,6%,2%,11%,10%,6%,16%,8%,3%,14%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001434,Putney,London,England,21%,16%,26%,56%,46%,64%,8%,4%,15%,6%,3%,10%,7%,3%,14%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001435,Queen's Park and Maida Vale,London,England,12%,9%,15%,65%,55%,73%,6%,3%,12%,5%,2%,8%,10%,5%,18%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001436,Rawmarsh and Conisbrough,Yorkshire and The Humber,England,18%,12%,24%,52%,43%,61%,3%,1%,7%,21%,12%,31%,5%,2%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001437,Rayleigh and Wickford,Eastern,England,36%,27%,44%,30%,21%,39%,10%,5%,20%,19%,11%,30%,4%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean con
+E14001438,Reading Central,South East,England,19%,14%,23%,52%,42%,61%,8%,4%,16%,9%,5%,15%,10%,5%,18%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001439,Reading West and Mid Berkshire,South East,England,30%,23%,37%,36%,28%,45%,13%,7%,21%,15%,8%,25%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001440,Redcar,North East,England,23%,17%,30%,53%,44%,61%,3%,1%,6%,17%,10%,27%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001441,Redditch,West Midlands,England,34%,26%,41%,42%,34%,51%,5%,2%,10%,15%,8%,24%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001442,Reigate,South East,England,34%,27%,40%,29%,21%,37%,18%,11%,27%,8%,4%,15%,10%,6%,16%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean con
+E14001443,Ribble Valley,North West,England,32%,24%,38%,43%,35%,52%,5%,2%,10%,15%,8%,25%,4%,2%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001444,Richmond and Northallerton,Yorkshire and The Humber,England,40%,32%,48%,33%,26%,43%,10%,5%,17%,11%,5%,20%,5%,2%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001445,Richmond Park,London,England,23%,16%,30%,18%,11%,27%,46%,34%,57%,9%,4%,16%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong ld
+E14001446,Rochdale,North West,England,15%,7%,26%,49%,36%,61%,4%,1%,12%,17%,8%,29%,7%,2%,15%,6%,3%,10%,NA,NA,NA,NA,NA,NA, strong lab
+E14001447,Rochester and Strood,South East,England,33%,26%,41%,41%,32%,49%,7%,3%,14%,13%,6%,22%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001448,Romford,London,England,40%,31%,47%,36%,27%,45%,4%,1%,8%,12%,6%,22%,6%,3%,14%,1%,1%,2%,NA,NA,NA,NA,NA,NA, toss up
+E14001449,Romsey and Southampton North,South East,England,39%,33%,47%,22%,15%,30%,24%,15%,35%,9%,4%,16%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001450,Rossendale and Darwen,North West,England,27%,21%,34%,52%,44%,61%,3%,1%,6%,13%,7%,22%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001451,Rother Valley,Yorkshire and The Humber,England,28%,21%,35%,48%,40%,57%,3%,1%,8%,14%,8%,22%,5%,2%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001452,Rotherham,Yorkshire and The Humber,England,NA,NA,NA,53%,42%,64%,4%,1%,10%,36%,26%,47%,5%,2%,11%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001453,Rugby,West Midlands,England,32%,25%,38%,46%,38%,54%,6%,3%,13%,11%,6%,19%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001454,"Ruislip, Northwood and Pinner",London,England,39%,32%,46%,38%,29%,47%,10%,5%,18%,9%,4%,16%,3%,1%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001455,Runcorn and Helsby,North West,England,18%,13%,23%,57%,48%,65%,4%,2%,8%,15%,8%,22%,5%,3%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001456,Runnymede and Weybridge,South East,England,34%,28%,42%,30%,21%,39%,18%,10%,29%,10%,5%,18%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001457,Rushcliffe,East Midlands,England,28%,22%,34%,51%,43%,59%,5%,2%,10%,10%,5%,17%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001458,Rutland and Stamford,East Midlands,England,38%,29%,45%,26%,18%,35%,18%,10%,29%,13%,7%,23%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001459,Salford,North West,England,11%,8%,15%,56%,44%,66%,7%,3%,14%,9%,5%,15%,14%,7%,25%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001460,Salisbury,South West,England,30%,23%,37%,32%,24%,41%,18%,11%,28%,14%,8%,24%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001461,Scarborough and Whitby,Yorkshire and The Humber,England,33%,27%,39%,44%,36%,53%,6%,3%,13%,10%,5%,17%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001462,Scunthorpe,Yorkshire and The Humber,England,28%,20%,35%,41%,33%,49%,5%,2%,11%,19%,11%,31%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001463,Sefton Central,North West,England,19%,14%,24%,57%,47%,65%,4%,2%,9%,12%,6%,19%,7%,3%,15%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001464,Selby,Yorkshire and The Humber,England,30%,23%,37%,47%,39%,56%,5%,2%,11%,14%,7%,22%,4%,1%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001465,Sevenoaks,South East,England,37%,29%,44%,25%,18%,34%,19%,11%,31%,13%,7%,21%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001466,Sheffield Brightside and Hillsborough,Yorkshire and The Humber,England,20%,15%,24%,64%,53%,72%,4%,2%,10%,NA,NA,NA,10%,4%,18%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001467,Sheffield Central,Yorkshire and The Humber,England,7%,5%,10%,66%,54%,76%,4%,2%,9%,NA,NA,NA,19%,11%,30%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001468,Sheffield Hallam,Yorkshire and The Humber,England,16%,11%,20%,45%,36%,55%,27%,19%,38%,NA,NA,NA,11%,6%,18%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001469,Sheffield Heeley,Yorkshire and The Humber,England,20%,16%,25%,52%,41%,61%,9%,4%,16%,NA,NA,NA,16%,10%,27%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001470,Sheffield South East,Yorkshire and The Humber,England,28%,21%,34%,58%,48%,68%,5%,2%,12%,NA,NA,NA,7%,3%,15%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001471,Sherwood Forest,East Midlands,England,32%,24%,39%,39%,32%,46%,5%,2%,10%,18%,11%,29%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001472,Shipley,Yorkshire and The Humber,England,29%,23%,34%,50%,41%,58%,4%,2%,9%,9%,5%,16%,6%,3%,13%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001473,Shrewsbury,West Midlands,England,27%,20%,35%,50%,42%,58%,5%,2%,10%,13%,6%,23%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001474,Sittingbourne and Sheppey,South East,England,34%,26%,42%,32%,24%,39%,6%,2%,11%,23%,14%,34%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001475,Skipton and Ripon,Yorkshire and The Humber,England,36%,29%,43%,36%,28%,45%,8%,4%,16%,12%,6%,19%,6%,3%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001476,Sleaford and North Hykeham,East Midlands,England,35%,27%,43%,32%,25%,41%,7%,3%,14%,20%,11%,33%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001477,Slough,South East,England,17%,13%,22%,56%,46%,65%,7%,3%,14%,7%,4%,13%,9%,4%,18%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001478,Smethwick,West Midlands,England,17%,13%,22%,56%,46%,65%,7%,3%,15%,11%,6%,18%,6%,2%,12%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001479,Solihull West and Shirley,West Midlands,England,39%,24%,54%,30%,19%,45%,5%,1%,13%,14%,5%,27%,8%,3%,18%,2%,1%,4%,NA,NA,NA,NA,NA,NA, lean con
+E14001480,South Basildon and East Thurrock,Eastern,England,36%,27%,44%,37%,29%,47%,5%,2%,12%,17%,9%,29%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001481,South Cambridgeshire,Eastern,England,22%,16%,29%,22%,16%,31%,42%,31%,53%,9%,5%,16%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001482,South Cotswolds,South West,England,35%,27%,43%,16%,11%,23%,32%,23%,46%,11%,5%,19%,4%,2%,8%,0%,0%,0%,NA,NA,NA,NA,NA,NA, toss up
+E14001483,South Derbyshire,East Midlands,England,31%,24%,38%,39%,32%,47%,4%,2%,9%,18%,11%,26%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001484,South Devon,South West,England,32%,26%,39%,19%,13%,27%,34%,24%,46%,9%,5%,16%,3%,1%,7%,0%,0%,0%,NA,NA,NA,NA,NA,NA, toss up
+E14001485,South Dorset,South West,England,32%,24%,39%,41%,33%,50%,7%,3%,12%,14%,7%,23%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001486,South East Cornwall,South West,England,34%,26%,40%,33%,26%,40%,12%,7%,19%,16%,9%,26%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001487,South Holland and The Deepings,East Midlands,England,40%,30%,48%,27%,20%,35%,8%,4%,15%,19%,10%,30%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001488,South Leicestershire,East Midlands,England,36%,28%,44%,32%,24%,41%,10%,5%,20%,16%,8%,27%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001489,South Norfolk,Eastern,England,33%,25%,39%,34%,26%,43%,12%,6%,21%,14%,8%,23%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001490,South Northamptonshire,East Midlands,England,34%,26%,42%,36%,27%,45%,7%,3%,14%,17%,9%,29%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001491,South Ribble,North West,England,24%,17%,31%,48%,40%,56%,4%,1%,9%,19%,12%,30%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001492,South Shields,North East,England,14%,10%,19%,56%,46%,64%,3%,1%,7%,16%,10%,25%,9%,4%,17%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001493,South Shropshire,West Midlands,England,39%,32%,47%,26%,19%,34%,15%,9%,24%,15%,8%,24%,4%,2%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely con
+E14001494,South Suffolk,Eastern,England,34%,26%,41%,32%,24%,40%,9%,5%,17%,16%,9%,27%,7%,4%,12%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001495,South West Devon,South West,England,35%,27%,42%,38%,31%,46%,9%,5%,16%,12%,7%,21%,4%,2%,8%,0%,0%,0%,NA,NA,NA,NA,NA,NA, toss up
+E14001496,South West Hertfordshire,Eastern,England,33%,26%,41%,29%,22%,39%,15%,8%,26%,15%,7%,25%,5%,2%,9%,1%,1%,2%,NA,NA,NA,NA,NA,NA, toss up
+E14001497,South West Norfolk,Eastern,England,31%,23%,39%,26%,20%,34%,8%,4%,15%,30%,19%,41%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001498,South West Wiltshire,South West,England,33%,26%,41%,32%,23%,42%,14%,7%,25%,14%,7%,24%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001499,Southampton Itchen,South East,England,25%,20%,32%,51%,42%,60%,3%,1%,8%,10%,5%,18%,7%,4%,15%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001500,Southampton Test,South East,England,18%,13%,23%,54%,45%,62%,6%,3%,12%,12%,7%,19%,8%,4%,14%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001501,Southend East and Rochford,Eastern,England,30%,22%,37%,45%,36%,54%,4%,2%,9%,14%,8%,24%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001502,Southend West and Leigh,Eastern,England,32%,25%,39%,44%,36%,52%,6%,3%,11%,14%,8%,23%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001503,Southgate and Wood Green,London,England,16%,12%,19%,52%,42%,62%,6%,3%,12%,10%,5%,17%,12%,6%,21%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001504,Southport,North West,England,27%,21%,33%,49%,41%,57%,8%,4%,15%,12%,7%,18%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001505,Spelthorne,South East,England,31%,23%,38%,30%,22%,39%,17%,9%,28%,16%,8%,27%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001506,Spen Valley,Yorkshire and The Humber,England,27%,21%,33%,48%,38%,58%,4%,2%,11%,14%,7%,22%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001507,St Albans,Eastern,England,17%,12%,22%,15%,9%,24%,56%,43%,68%,7%,3%,14%,4%,1%,8%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong ld
+E14001508,St Austell and Newquay,South West,England,32%,26%,39%,40%,31%,48%,8%,4%,16%,14%,8%,22%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001509,St Helens North,North West,England,16%,11%,21%,57%,48%,66%,6%,2%,13%,12%,7%,19%,7%,3%,13%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001510,St Helens South and Whiston,North West,England,11%,7%,15%,62%,52%,70%,3%,1%,8%,14%,8%,22%,8%,4%,17%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001511,St Ives,South West,England,27%,20%,34%,17%,11%,24%,40%,30%,51%,11%,6%,18%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001512,St Neots and Mid Cambridgeshire,Eastern,England,30%,23%,37%,32%,22%,42%,22%,13%,33%,10%,5%,18%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001513,Stafford,West Midlands,England,29%,22%,36%,45%,37%,53%,4%,2%,9%,16%,10%,26%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001514,Staffordshire Moorlands,West Midlands,England,35%,27%,43%,38%,31%,46%,5%,2%,11%,18%,10%,28%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001515,Stalybridge and Hyde,North West,England,19%,14%,25%,59%,51%,67%,3%,1%,6%,13%,7%,21%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001516,Stevenage,Eastern,England,27%,20%,32%,50%,42%,60%,6%,3%,13%,11%,6%,18%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001517,Stockport,North West,England,13%,9%,17%,62%,53%,69%,6%,3%,12%,10%,5%,16%,7%,3%,13%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001518,Stockton North,North East,England,19%,13%,25%,58%,49%,68%,3%,1%,7%,16%,9%,25%,4%,1%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001519,Stockton West,North East,England,29%,22%,37%,46%,37%,55%,5%,2%,12%,16%,9%,25%,2%,1%,5%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001520,Stoke-on-Trent Central,West Midlands,England,23%,17%,30%,51%,42%,59%,3%,1%,9%,16%,9%,27%,4%,2%,9%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001521,Stoke-on-Trent North,West Midlands,England,31%,23%,38%,48%,40%,57%,3%,1%,6%,15%,8%,23%,3%,1%,5%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001522,Stoke-on-Trent South,West Midlands,England,34%,26%,41%,42%,35%,50%,3%,1%,7%,17%,10%,27%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001523,"Stone, Great Wyrley and Penkridge",West Midlands,England,50%,42%,57%,37%,29%,46%,7%,3%,14%,NA,NA,NA,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001524,Stourbridge,West Midlands,England,33%,26%,41%,43%,36%,52%,4%,2%,8%,15%,8%,26%,3%,1%,6%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001525,Stratford and Bow,London,England,10%,7%,12%,59%,50%,68%,7%,4%,13%,5%,3%,9%,14%,8%,22%,4%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001526,Stratford-on-Avon,West Midlands,England,36%,28%,44%,18%,11%,25%,23%,15%,34%,19%,11%,29%,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely con
+E14001527,Streatham and Croydon North,London,England,12%,9%,15%,65%,56%,73%,7%,4%,13%,4%,2%,8%,9%,4%,15%,3%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001528,Stretford and Urmston,North West,England,15%,12%,19%,60%,51%,68%,6%,2%,11%,8%,4%,13%,9%,5%,16%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001529,Stroud,South West,England,21%,15%,27%,52%,44%,60%,6%,3%,12%,14%,7%,23%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001530,Suffolk Coastal,Eastern,England,34%,27%,41%,32%,24%,41%,12%,6%,20%,13%,6%,22%,8%,4%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001531,Sunderland Central,North East,England,18%,12%,23%,51%,42%,59%,6%,2%,12%,17%,10%,26%,7%,3%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001532,Surrey Heath,South East,England,35%,28%,43%,18%,11%,26%,29%,18%,41%,12%,6%,20%,4%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001533,Sussex Weald,South East,England,35%,27%,42%,26%,18%,34%,15%,8%,24%,18%,9%,28%,6%,3%,11%,0%,0%,0%,NA,NA,NA,NA,NA,NA, lean con
+E14001534,Sutton and Cheam,London,England,33%,26%,41%,25%,18%,35%,26%,17%,37%,9%,5%,17%,3%,1%,8%,1%,1%,2%,NA,NA,NA,NA,NA,NA, lean con
+E14001535,Sutton Coldfield,West Midlands,England,33%,25%,40%,39%,31%,47%,5%,2%,11%,18%,11%,29%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, lean lab
+E14001536,Swindon North,South West,England,30%,22%,37%,46%,37%,55%,4%,2%,9%,14%,8%,24%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001537,Swindon South,South West,England,28%,22%,34%,55%,47%,64%,3%,1%,7%,9%,4%,15%,3%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001538,Tamworth,West Midlands,England,37%,29%,45%,38%,30%,45%,3%,1%,8%,18%,11%,27%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001539,Tatton,North West,England,33%,26%,40%,42%,34%,52%,10%,5%,19%,10%,5%,17%,4%,2%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean lab
+E14001540,Taunton and Wellington,South West,England,31%,25%,38%,19%,13%,28%,35%,26%,45%,10%,6%,17%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001541,Telford,West Midlands,England,26%,18%,33%,45%,38%,53%,2%,1%,6%,23%,14%,36%,2%,1%,5%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001542,Tewkesbury,South West,England,33%,25%,40%,25%,18%,34%,23%,14%,34%,12%,6%,22%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001543,The Wrekin,West Midlands,England,36%,28%,43%,39%,31%,47%,6%,2%,12%,15%,8%,25%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001544,Thirsk and Malton,Yorkshire and The Humber,England,34%,26%,42%,28%,21%,36%,14%,8%,23%,16%,9%,26%,6%,3%,12%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001545,Thornbury and Yate,South West,England,36%,28%,44%,16%,10%,23%,33%,23%,43%,11%,6%,20%,3%,1%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001546,Thurrock,Eastern,England,28%,21%,35%,48%,39%,58%,4%,2%,10%,14%,7%,24%,4%,2%,9%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001547,Tipton and Wednesbury,West Midlands,England,28%,21%,34%,47%,38%,56%,3%,1%,7%,17%,9%,28%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001548,Tiverton and Minehead,South West,England,29%,22%,37%,16%,11%,22%,38%,29%,49%,12%,7%,20%,3%,1%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, lean ld
+E14001549,Tonbridge,South East,England,33%,26%,40%,34%,25%,42%,10%,5%,17%,16%,8%,26%,7%,4%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001550,Tooting,London,England,13%,10%,17%,65%,55%,74%,7%,3%,15%,5%,3%,10%,7%,3%,13%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001551,Torbay,South West,England,34%,26%,41%,21%,14%,29%,29%,20%,41%,10%,5%,18%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001552,Torridge and Tavistock,South West,England,34%,27%,41%,32%,25%,40%,17%,10%,25%,13%,7%,21%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001553,Tottenham,London,England,7%,5%,10%,69%,58%,78%,4%,1%,9%,4%,2%,8%,12%,6%,21%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001554,Truro and Falmouth,South West,England,26%,20%,31%,52%,43%,60%,7%,4%,13%,9%,5%,15%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001555,Tunbridge Wells,South East,England,34%,27%,41%,28%,21%,38%,22%,14%,33%,11%,6%,18%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001556,Twickenham,London,England,18%,12%,25%,22%,14%,33%,47%,35%,58%,8%,4%,14%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong ld
+E14001557,Tynemouth,North East,England,19%,14%,25%,61%,53%,69%,3%,1%,7%,11%,5%,18%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001558,Uxbridge and South Ruislip,London,England,30%,25%,37%,49%,40%,56%,5%,2%,10%,10%,5%,17%,4%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, likely lab
+E14001559,Vauxhall and Camberwell Green,London,England,9%,7%,12%,57%,47%,66%,10%,5%,16%,5%,2%,9%,16%,9%,25%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001560,Wakefield and Rothwell,Yorkshire and The Humber,England,21%,15%,27%,50%,41%,59%,5%,2%,12%,17%,9%,27%,4%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001561,Wallasey,North West,England,12%,9%,16%,67%,58%,75%,3%,1%,7%,8%,4%,14%,7%,3%,14%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001562,Walsall and Bloxwich,West Midlands,England,27%,20%,33%,54%,47%,63%,3%,1%,6%,11%,5%,18%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001563,Walthamstow,London,England,7%,5%,10%,70%,62%,78%,4%,1%,8%,5%,3%,9%,11%,6%,18%,2%,2%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001564,Warrington North,North West,England,21%,15%,27%,51%,41%,59%,9%,4%,18%,12%,6%,21%,5%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001565,Warrington South,North West,England,23%,17%,29%,52%,44%,59%,6%,3%,13%,13%,8%,21%,3%,1%,7%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001566,Warwick and Leamington,West Midlands,England,21%,16%,26%,57%,50%,66%,5%,2%,11%,9%,4%,15%,5%,2%,11%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001567,Washington and Gateshead South,North East,England,16%,11%,22%,58%,48%,68%,2%,1%,7%,17%,9%,28%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001568,Watford,Eastern,England,24%,19%,30%,50%,40%,59%,12%,6%,20%,7%,3%,13%,5%,2%,10%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001569,Waveney Valley,Eastern,England,23%,12%,37%,10%,5%,18%,4%,2%,10%,28%,14%,44%,33%,22%,45%,1%,0%,2%,NA,NA,NA,NA,NA,NA, toss up
+E14001570,Weald of Kent,South East,England,36%,28%,45%,25%,18%,33%,11%,6%,19%,22%,13%,33%,5%,2%,9%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely con
+E14001571,Wellingborough and Rushden,East Midlands,England,30%,21%,36%,43%,35%,51%,3%,1%,7%,19%,11%,31%,5%,2%,9%,1%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001572,Wells and Mendip Hills,South West,England,37%,30%,44%,17%,11%,24%,29%,20%,39%,10%,5%,18%,6%,3%,13%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001573,Welwyn Hatfield,Eastern,England,28%,21%,34%,47%,38%,55%,5%,2%,11%,12%,6%,21%,7%,3%,14%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001574,West Bromwich,West Midlands,England,28%,20%,34%,46%,38%,54%,4%,2%,9%,15%,8%,25%,5%,2%,10%,2%,1%,3%,NA,NA,NA,NA,NA,NA, likely lab
+E14001575,West Dorset,South West,England,35%,26%,42%,12%,7%,17%,49%,39%,62%,NA,NA,NA,4%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001576,West Ham and Beckton,London,England,10%,7%,13%,68%,59%,76%,4%,2%,8%,5%,3%,9%,9%,5%,17%,3%,2%,5%,NA,NA,NA,NA,NA,NA, strong lab
+E14001577,West Lancashire,North West,England,20%,15%,25%,58%,49%,66%,4%,1%,10%,11%,6%,19%,6%,3%,12%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001578,West Suffolk,Eastern,England,31%,24%,38%,33%,26%,41%,8%,4%,15%,21%,12%,31%,6%,3%,11%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001579,West Worcestershire,West Midlands,England,35%,27%,42%,28%,20%,37%,16%,9%,26%,16%,9%,26%,5%,2%,10%,0%,0%,1%,NA,NA,NA,NA,NA,NA, lean con
+E14001580,Westmorland and Lonsdale,North West,England,26%,20%,33%,12%,8%,19%,48%,39%,58%,9%,5%,16%,2%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong ld
+E14001581,Weston-super-Mare,South West,England,33%,27%,41%,44%,36%,53%,5%,2%,11%,10%,5%,18%,6%,3%,12%,NA,NA,NA,NA,NA,NA,NA,NA,NA, likely lab
+E14001582,Wetherby and Easingwold,Yorkshire and The Humber,England,38%,30%,45%,34%,26%,43%,7%,3%,14%,15%,9%,25%,4%,2%,8%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001583,Whitehaven and Workington,North West,England,22%,16%,28%,54%,48%,62%,2%,1%,5%,17%,10%,25%,3%,2%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001584,Widnes and Halewood,North West,England,11%,8%,15%,64%,55%,72%,5%,2%,11%,12%,7%,20%,6%,3%,12%,1%,0%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001585,Wigan,North West,England,15%,10%,20%,54%,45%,64%,5%,2%,11%,18%,11%,28%,5%,2%,12%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001586,Wimbledon,London,England,24%,18%,30%,32%,23%,43%,33%,21%,44%,6%,3%,12%,3%,1%,7%,1%,1%,2%,NA,NA,NA,NA,NA,NA, toss up
+E14001587,Winchester,South East,England,32%,25%,39%,11%,6%,18%,43%,34%,54%,7%,4%,14%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely ld
+E14001588,Windsor,South East,England,34%,27%,41%,32%,23%,43%,17%,8%,28%,10%,5%,18%,6%,2%,11%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001589,Wirral West,North West,England,23%,18%,28%,61%,53%,69%,3%,1%,7%,9%,5%,16%,4%,1%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001590,Witham,Eastern,England,32%,24%,40%,31%,24%,39%,6%,3%,10%,24%,15%,36%,6%,3%,10%,0%,0%,0%,NA,NA,NA,NA,NA,NA, toss up
+E14001591,Witney,South East,England,33%,24%,40%,19%,12%,26%,31%,22%,43%,13%,7%,21%,3%,1%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001592,Woking,South East,England,30%,24%,37%,30%,21%,41%,25%,15%,36%,9%,5%,16%,5%,2%,10%,1%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001593,Wokingham,South East,England,34%,26%,41%,20%,14%,29%,31%,22%,43%,10%,5%,17%,4%,2%,7%,NA,NA,NA,NA,NA,NA,NA,NA,NA, toss up
+E14001594,Wolverhampton North East,West Midlands,England,30%,23%,36%,52%,44%,61%,3%,1%,7%,13%,7%,20%,3%,1%,6%,NA,NA,NA,NA,NA,NA,NA,NA,NA, strong lab
+E14001595,Wolverhampton South East,West Midlands,England,24%,19%,30%,53%,46%,61%,3%,1%,8%,12%,6%,20%,4%,2%,9%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001596,Wolverhampton West,West Midlands,England,27%,21%,33%,51%,43%,58%,3%,1%,8%,13%,7%,21%,3%,1%,8%,2%,1%,3%,NA,NA,NA,NA,NA,NA, strong lab
+E14001597,Worcester,West Midlands,England,24%,18%,30%,57%,47%,65%,3%,1%,8%,11%,5%,19%,4%,1%,7%,1%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001598,Worsley and Eccles,North West,England,20%,15%,26%,52%,44%,60%,4%,1%,9%,16%,9%,24%,6%,3%,11%,1%,1%,1%,NA,NA,NA,NA,NA,NA, strong lab
+E14001599,Worthing West,South East,England,33%,27%,40%,44%,35%,52%,5%,2%,11%,12%,6%,20%,5%,2%,9%,0%,0%,1%,NA,NA,NA,NA,NA,NA, likely lab
+E14001600,Wycombe,South East,England,26%,21%,32%,48%,38%,56%,8%,4%,15%,9%,5%,16%,7%,3%,14%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001601,Wyre Forest,West Midlands,England,33%,24%,40%,37%,29%,46%,5%,2%,10%,21%,12%,32%,3%,2%,7%,0%,0%,1%,NA,NA,NA,NA,NA,NA, toss up
+E14001602,Wythenshawe and Sale East,North West,England,17%,12%,22%,57%,47%,65%,6%,2%,12%,10%,5%,19%,7%,3%,14%,2%,1%,4%,NA,NA,NA,NA,NA,NA, strong lab
+E14001603,Yeovil,South West,England,33%,25%,40%,14%,9%,21%,35%,26%,46%,13%,8%,22%,3%,1%,7%,0%,0%,0%,NA,NA,NA,NA,NA,NA, toss up
+E14001604,York Central,Yorkshire and The Humber,England,12%,9%,16%,60%,50%,68%,6%,3%,12%,7%,3%,12%,13%,7%,22%,1%,1%,2%,NA,NA,NA,NA,NA,NA, strong lab
+E14001605,York Outer,Yorkshire and The Humber,England,30%,23%,37%,51%,41%,60%,6%,3%,13%,9%,4%,16%,3%,1%,6%,0%,0%,1%,NA,NA,NA,NA,NA,NA, strong lab
+S14000006,"Ayr, Carrick and Cumnock",Scotland,Scotland,20%,15%,25%,37%,28%,47%,4%,2%,8%,4%,2%,8%,2%,1%,4%,1%,1%,2%,NA,NA,NA,32%,26%,38%, lean lab
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,Scotland,34%,29%,40%,17%,12%,23%,9%,5%,15%,3%,1%,7%,2%,1%,4%,1%,1%,2%,NA,NA,NA,32%,27%,38%, toss up
+S14000010,Central Ayrshire,Scotland,Scotland,19%,15%,24%,35%,26%,46%,4%,2%,10%,5%,2%,9%,2%,1%,5%,1%,1%,2%,NA,NA,NA,32%,26%,38%, toss up
+S14000021,East Renfrewshire,Scotland,Scotland,21%,16%,25%,36%,27%,46%,6%,3%,11%,4%,2%,8%,2%,1%,4%,1%,1%,2%,NA,NA,NA,30%,23%,36%, lean lab
+S14000027,Na h-Eileanan an Iar,Scotland,Scotland,11%,4%,20%,27%,13%,46%,2%,0%,7%,8%,2%,23%,NA,NA,NA,3%,1%,6%,NA,NA,NA,47%,29%,65%, likely snp
+S14000040,Kilmarnock and Loudoun,Scotland,Scotland,11%,8%,14%,42%,33%,52%,3%,1%,6%,6%,3%,11%,2%,1%,4%,1%,1%,2%,NA,NA,NA,34%,27%,41%, lean lab
+S14000045,Midlothian,Scotland,Scotland,12%,9%,16%,47%,37%,57%,3%,1%,7%,3%,1%,7%,NA,NA,NA,1%,1%,2%,NA,NA,NA,33%,26%,41%, likely lab
+S14000048,North Ayrshire and Arran,Scotland,Scotland,15%,12%,19%,35%,27%,45%,4%,2%,9%,5%,2%,10%,4%,2%,8%,1%,1%,2%,NA,NA,NA,34%,28%,40%, toss up
+S14000051,Orkney and Shetland,Scotland,Scotland,8%,5%,13%,15%,8%,25%,45%,31%,58%,2%,1%,7%,4%,1%,9%,NA,NA,NA,NA,NA,NA,25%,17%,32%, strong ld
+S14000058,West Aberdeenshire and Kincardine,Scotland,Scotland,28%,22%,34%,19%,13%,28%,13%,7%,22%,4%,2%,9%,2%,1%,5%,1%,1%,2%,NA,NA,NA,31%,26%,36%, toss up
+S14000060,Aberdeen North,Scotland,Scotland,13%,10%,17%,30%,23%,39%,5%,2%,9%,7%,3%,12%,3%,1%,6%,2%,1%,3%,NA,NA,NA,40%,33%,46%, lean snp
+S14000061,Aberdeen South,Scotland,Scotland,19%,15%,23%,27%,20%,35%,9%,5%,14%,4%,2%,8%,4%,2%,7%,2%,1%,3%,NA,NA,NA,34%,28%,40%, lean snp
+S14000062,Aberdeenshire North and Moray East,Scotland,Scotland,26%,19%,35%,16%,9%,27%,4%,1%,10%,11%,5%,21%,NA,NA,NA,NA,NA,NA,NA,NA,NA,41%,32%,50%, likely snp
+S14000063,Airdrie and Shotts,Scotland,Scotland,7%,5%,10%,55%,45%,64%,2%,1%,4%,4%,2%,8%,NA,NA,NA,1%,1%,2%,NA,NA,NA,31%,23%,38%, strong lab
+S14000064,Alloa and Grangemouth,Scotland,Scotland,6%,2%,12%,40%,29%,54%,1%,0%,5%,8%,3%,17%,2%,0%,5%,2%,1%,5%,NA,NA,NA,39%,28%,50%, toss up
+S14000065,Angus and Perthshire Glens,Scotland,Scotland,24%,19%,29%,19%,12%,27%,7%,4%,13%,6%,3%,12%,NA,NA,NA,1%,1%,2%,NA,NA,NA,42%,36%,48%, likely snp
+S14000066,Arbroath and Broughty Ferry,Scotland,Scotland,15%,11%,19%,35%,26%,44%,5%,2%,10%,9%,4%,15%,NA,NA,NA,1%,1%,2%,NA,NA,NA,36%,29%,42%, toss up
+S14000067,"Argyll, Bute and South Lochaber",Scotland,Scotland,21%,17%,26%,26%,20%,34%,10%,6%,16%,4%,2%,8%,NA,NA,NA,1%,1%,2%,NA,NA,NA,37%,31%,42%, likely snp
+S14000068,Bathgate and Linlithgow,Scotland,Scotland,12%,8%,15%,40%,31%,51%,7%,3%,13%,6%,3%,13%,3%,1%,7%,1%,1%,2%,NA,NA,NA,29%,23%,36%, likely lab
+S14000069,"Caithness, Sutherland and Easter Ross",Scotland,Scotland,11%,8%,15%,12%,7%,19%,42%,32%,52%,2%,1%,5%,3%,1%,6%,1%,0%,2%,NA,NA,NA,28%,21%,33%, likely ld
+S14000070,Coatbridge and Bellshill,Scotland,Scotland,5%,3%,7%,54%,46%,64%,1%,0%,3%,3%,1%,6%,3%,1%,6%,1%,1%,2%,NA,NA,NA,32%,26%,39%, strong lab
+S14000071,Cowdenbeath and Kirkcaldy,Scotland,Scotland,9%,4%,18%,41%,24%,59%,2%,1%,8%,5%,1%,14%,9%,3%,22%,3%,1%,6%,NA,NA,NA,28%,15%,43%, likely lab
+S14000072,Cumbernauld and Kirkintilloch,Scotland,Scotland,8%,6%,11%,44%,35%,53%,2%,1%,5%,4%,2%,9%,3%,1%,6%,NA,NA,NA,NA,NA,NA,38%,31%,45%, lean lab
+S14000073,Dumfries and Galloway,Scotland,Scotland,27%,21%,32%,24%,17%,33%,6%,3%,12%,5%,2%,10%,4%,2%,9%,1%,1%,2%,NA,NA,NA,32%,26%,37%, lean snp
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,Scotland,32%,26%,38%,20%,13%,27%,9%,4%,14%,3%,1%,8%,3%,1%,6%,1%,1%,2%,NA,NA,NA,31%,26%,37%, toss up
+S14000075,Dundee Central,Scotland,Scotland,5%,3%,8%,38%,29%,48%,3%,1%,7%,8%,3%,15%,NA,NA,NA,2%,1%,4%,NA,NA,NA,42%,34%,50%, toss up
+S14000076,Dunfermline and Dollar,Scotland,Scotland,10%,7%,14%,46%,36%,56%,6%,3%,12%,5%,2%,10%,3%,1%,6%,1%,1%,2%,NA,NA,NA,28%,21%,35%, likely lab
+S14000077,East Kilbride and Strathaven,Scotland,Scotland,11%,8%,14%,45%,35%,56%,3%,1%,8%,4%,2%,8%,4%,2%,8%,1%,1%,2%,NA,NA,NA,31%,24%,37%, likely lab
+S14000078,Edinburgh East and Musselburgh,Scotland,Scotland,6%,5%,8%,40%,32%,48%,3%,1%,7%,3%,2%,7%,8%,4%,14%,2%,1%,4%,NA,NA,NA,36%,29%,42%, toss up
+S14000079,Edinburgh North and Leith,Scotland,Scotland,7%,5%,9%,43%,34%,51%,7%,4%,12%,2%,1%,4%,7%,4%,12%,3%,2%,5%,NA,NA,NA,31%,25%,37%, likely lab
+S14000080,Edinburgh South,Scotland,Scotland,9%,6%,13%,51%,42%,61%,6%,3%,11%,1%,0%,4%,10%,5%,18%,2%,1%,4%,NA,NA,NA,19%,14%,25%, strong lab
+S14000081,Edinburgh South West,Scotland,Scotland,11%,8%,14%,41%,32%,50%,5%,2%,10%,4%,2%,8%,4%,2%,8%,2%,1%,3%,NA,NA,NA,32%,25%,38%, lean lab
+S14000082,Edinburgh West,Scotland,Scotland,13%,9%,17%,19%,13%,27%,38%,29%,46%,1%,0%,4%,6%,3%,10%,2%,1%,3%,NA,NA,NA,21%,15%,27%, likely ld
+S14000083,Falkirk,Scotland,Scotland,12%,9%,16%,35%,26%,45%,4%,2%,9%,5%,2%,11%,4%,2%,8%,1%,1%,2%,NA,NA,NA,37%,30%,44%, toss up
+S14000084,Glasgow East,Scotland,Scotland,5%,3%,7%,44%,35%,53%,1%,0%,3%,3%,1%,6%,6%,3%,11%,3%,1%,5%,NA,NA,NA,38%,31%,46%, lean lab
+S14000085,Glasgow North,Scotland,Scotland,4%,2%,5%,45%,37%,55%,2%,1%,4%,2%,1%,5%,8%,4%,14%,3%,2%,5%,NA,NA,NA,35%,28%,42%, likely lab
+S14000086,Glasgow North East,Scotland,Scotland,4%,3%,6%,47%,37%,57%,1%,0%,3%,3%,1%,6%,5%,2%,10%,2%,1%,5%,NA,NA,NA,36%,28%,45%, likely lab
+S14000087,Glasgow South,Scotland,Scotland,5%,3%,8%,44%,35%,53%,2%,1%,4%,3%,1%,6%,9%,5%,15%,3%,1%,4%,NA,NA,NA,34%,27%,41%, lean lab
+S14000088,Glasgow South West,Scotland,Scotland,5%,3%,8%,45%,35%,54%,1%,0%,3%,3%,1%,6%,6%,3%,12%,3%,1%,6%,NA,NA,NA,37%,30%,45%, lean lab
+S14000089,Glasgow West,Scotland,Scotland,5%,4%,8%,49%,40%,58%,2%,1%,5%,3%,1%,6%,4%,2%,7%,2%,1%,4%,NA,NA,NA,34%,27%,40%, likely lab
+S14000090,Glenrothes and Mid Fife,Scotland,Scotland,8%,5%,10%,45%,35%,56%,3%,1%,6%,6%,3%,11%,NA,NA,NA,NA,NA,NA,NA,NA,NA,38%,30%,45%, lean lab
+S14000091,Gordon and Buchan,Scotland,Scotland,32%,26%,38%,21%,14%,31%,12%,6%,21%,4%,1%,8%,NA,NA,NA,NA,NA,NA,NA,NA,NA,30%,25%,36%, toss up
+S14000092,Hamilton and Clyde Valley,Scotland,Scotland,11%,8%,14%,51%,42%,61%,2%,1%,5%,5%,2%,9%,NA,NA,NA,1%,1%,2%,NA,NA,NA,30%,23%,36%, strong lab
+S14000093,Inverclyde and Renfrewshire West,Scotland,Scotland,8%,5%,10%,47%,38%,57%,2%,1%,6%,5%,2%,10%,3%,1%,6%,1%,1%,2%,NA,NA,NA,34%,27%,41%, likely lab
+S14000094,"Inverness, Skye and West Ross-shire",Scotland,Scotland,11%,8%,14%,25%,18%,33%,20%,13%,28%,5%,2%,9%,2%,1%,4%,1%,1%,2%,NA,NA,NA,35%,29%,41%, likely snp
+S14000095,Livingston,Scotland,Scotland,10%,7%,13%,44%,35%,55%,4%,1%,8%,7%,3%,14%,3%,1%,6%,1%,1%,2%,NA,NA,NA,30%,24%,37%, likely lab
+S14000096,Lothian East,Scotland,Scotland,10%,4%,19%,54%,38%,69%,2%,0%,6%,3%,1%,10%,3%,1%,9%,2%,1%,5%,NA,NA,NA,24%,14%,36%, strong lab
+S14000097,Mid Dunbartonshire,Scotland,Scotland,11%,8%,16%,21%,14%,30%,36%,27%,47%,2%,1%,5%,5%,2%,10%,1%,1%,2%,NA,NA,NA,23%,17%,29%, likely ld
+S14000098,"Moray West, Nairn and Strathspey",Scotland,Scotland,26%,20%,31%,18%,12%,27%,8%,3%,14%,6%,3%,11%,3%,2%,6%,1%,1%,2%,NA,NA,NA,37%,32%,43%, likely snp
+S14000099,"Motherwell, Wishaw and Carluke",Scotland,Scotland,9%,6%,12%,46%,36%,57%,3%,1%,8%,5%,2%,12%,2%,1%,5%,1%,1%,2%,NA,NA,NA,32%,25%,39%, likely lab
+S14000100,North East Fife,Scotland,Scotland,9%,6%,12%,14%,9%,22%,42%,33%,51%,2%,1%,4%,3%,1%,7%,NA,NA,NA,NA,NA,NA,29%,22%,35%, likely ld
+S14000101,Paisley and Renfrewshire North,Scotland,Scotland,8%,6%,11%,49%,41%,59%,2%,1%,5%,3%,1%,7%,3%,1%,6%,NA,NA,NA,NA,NA,NA,33%,26%,40%, likely lab
+S14000102,Paisley and Renfrewshire South,Scotland,Scotland,8%,6%,11%,44%,35%,53%,3%,1%,6%,4%,2%,9%,2%,1%,5%,1%,1%,2%,NA,NA,NA,37%,30%,44%, lean lab
+S14000103,Perth and Kinross-shire,Scotland,Scotland,26%,21%,31%,24%,17%,31%,8%,4%,14%,5%,2%,9%,NA,NA,NA,1%,1%,2%,NA,NA,NA,35%,30%,40%, lean snp
+S14000104,Rutherglen,Scotland,Scotland,8%,5%,11%,54%,46%,63%,3%,1%,7%,3%,1%,6%,NA,NA,NA,2%,1%,2%,NA,NA,NA,31%,24%,38%, strong lab
+S14000105,Stirling and Strathallan,Scotland,Scotland,17%,13%,22%,32%,24%,41%,5%,2%,9%,7%,4%,13%,3%,1%,6%,NA,NA,NA,NA,NA,NA,36%,30%,41%, toss up
+S14000106,West Dunbartonshire,Scotland,Scotland,5%,3%,8%,51%,41%,61%,1%,0%,3%,3%,1%,7%,4%,2%,9%,1%,1%,3%,NA,NA,NA,33%,25%,41%, likely lab
+W07000081,Aberafan Maesteg,Wales,Wales,13%,9%,18%,50%,40%,59%,3%,1%,7%,13%,7%,20%,6%,3%,12%,1%,0%,1%,13%,8%,21%,NA,NA,NA, strong lab
+W07000082,Alyn and Deeside,Wales,Wales,26%,20%,32%,43%,34%,51%,4%,1%,8%,11%,6%,19%,7%,3%,16%,1%,0%,1%,7%,4%,12%,NA,NA,NA, likely lab
+W07000083,Bangor Aberconwy,Wales,Wales,21%,15%,27%,42%,33%,51%,3%,1%,7%,11%,6%,19%,4%,1%,8%,1%,0%,1%,17%,11%,25%,NA,NA,NA, strong lab
+W07000084,Blaenau Gwent and Rhymney,Wales,Wales,16%,11%,22%,61%,50%,70%,3%,1%,9%,NA,NA,NA,4%,2%,9%,1%,0%,2%,13%,6%,24%,NA,NA,NA, strong lab
+W07000085,"Brecon, Radnor and Cwm Tawe",Wales,Wales,27%,21%,34%,24%,16%,32%,23%,15%,33%,11%,5%,19%,3%,1%,7%,0%,0%,1%,11%,5%,19%,NA,NA,NA, toss up
+W07000086,Bridgend,Wales,Wales,25%,19%,30%,49%,41%,56%,3%,1%,6%,14%,8%,21%,3%,1%,7%,1%,0%,1%,6%,3%,10%,NA,NA,NA, strong lab
+W07000087,Caerfyrddin,Wales,Wales,19%,14%,26%,25%,17%,34%,4%,2%,10%,10%,4%,17%,5%,2%,11%,1%,0%,1%,35%,26%,44%,NA,NA,NA, likely pc
+W07000088,Caerphilly,Wales,Wales,15%,10%,20%,50%,41%,60%,2%,1%,5%,15%,9%,24%,4%,1%,9%,NA,NA,NA,13%,7%,21%,NA,NA,NA, strong lab
+W07000089,Cardiff East,Wales,Wales,14%,10%,18%,58%,48%,66%,8%,4%,14%,7%,4%,12%,7%,3%,14%,2%,1%,4%,4%,1%,8%,NA,NA,NA, strong lab
+W07000090,Cardiff North,Wales,Wales,20%,15%,25%,58%,50%,66%,5%,2%,10%,9%,4%,15%,4%,2%,9%,NA,NA,NA,3%,1%,7%,NA,NA,NA, strong lab
+W07000091,Cardiff South and Penarth,Wales,Wales,16%,12%,20%,55%,45%,65%,6%,2%,13%,8%,4%,14%,8%,3%,15%,NA,NA,NA,6%,3%,11%,NA,NA,NA, strong lab
+W07000092,Cardiff West,Wales,Wales,17%,12%,21%,52%,42%,61%,4%,1%,9%,10%,6%,17%,7%,3%,15%,1%,1%,2%,7%,4%,12%,NA,NA,NA, strong lab
+W07000093,Ceredigion Preseli,Wales,Wales,14%,9%,19%,22%,14%,32%,10%,5%,17%,10%,5%,16%,4%,2%,9%,1%,0%,1%,39%,28%,50%,NA,NA,NA, likely pc
+W07000094,Clwyd East,Wales,Wales,30%,18%,42%,41%,30%,54%,1%,0%,5%,10%,4%,20%,3%,1%,8%,1%,0%,2%,12%,5%,25%,NA,NA,NA, likely lab
+W07000095,Clwyd North,Wales,Wales,26%,21%,32%,50%,42%,58%,2%,1%,5%,10%,5%,16%,3%,1%,7%,NA,NA,NA,8%,4%,13%,NA,NA,NA, strong lab
+W07000096,Dwyfor Meirionnydd,Wales,Wales,12%,7%,19%,24%,16%,34%,4%,1%,9%,9%,5%,16%,4%,2%,11%,1%,0%,1%,44%,33%,55%,NA,NA,NA, strong pc
+W07000097,Gower,Wales,Wales,20%,13%,26%,49%,41%,57%,3%,1%,7%,17%,10%,26%,3%,1%,8%,0%,0%,1%,6%,3%,11%,NA,NA,NA, strong lab
+W07000098,Llanelli,Wales,Wales,15%,11%,21%,36%,27%,45%,3%,1%,7%,14%,8%,22%,3%,1%,8%,1%,0%,1%,26%,19%,37%,NA,NA,NA, likely lab
+W07000099,Merthyr Tydfil and Aberdare,Wales,Wales,13%,8%,18%,54%,44%,63%,3%,1%,7%,15%,9%,24%,4%,1%,9%,1%,0%,2%,10%,5%,16%,NA,NA,NA, strong lab
+W07000100,Mid and South Pembrokeshire,Wales,Wales,30%,24%,37%,43%,35%,51%,5%,2%,11%,8%,4%,16%,2%,1%,5%,0%,0%,1%,10%,5%,16%,NA,NA,NA, likely lab
+W07000101,Monmouthshire,Wales,Wales,29%,23%,36%,45%,37%,53%,4%,2%,9%,11%,6%,19%,3%,1%,7%,0%,0%,1%,6%,3%,10%,NA,NA,NA, likely lab
+W07000102,Montgomeryshire and Glyndwr,Wales,Wales,33%,26%,40%,33%,26%,41%,9%,5%,15%,10%,5%,18%,4%,2%,8%,NA,NA,NA,9%,4%,16%,NA,NA,NA, toss up
+W07000103,Neath and Swansea East,Wales,Wales,18%,13%,24%,49%,40%,57%,3%,1%,7%,13%,8%,21%,5%,2%,11%,NA,NA,NA,11%,6%,17%,NA,NA,NA, strong lab
+W07000104,Newport East,Wales,Wales,23%,18%,28%,51%,42%,59%,5%,2%,10%,10%,5%,16%,6%,2%,12%,1%,1%,2%,4%,2%,8%,NA,NA,NA, strong lab
+W07000105,Newport West and Islwyn,Wales,Wales,21%,14%,27%,49%,40%,59%,3%,1%,8%,15%,8%,25%,5%,2%,10%,1%,0%,1%,6%,3%,9%,NA,NA,NA, strong lab
+W07000106,Pontypridd,Wales,Wales,17%,12%,22%,50%,41%,59%,3%,1%,6%,14%,8%,22%,4%,1%,9%,1%,0%,2%,10%,5%,16%,NA,NA,NA, strong lab
+W07000107,Rhondda and Ogmore,Wales,Wales,10%,7%,15%,55%,45%,65%,3%,1%,6%,13%,8%,20%,5%,2%,10%,NA,NA,NA,13%,7%,21%,NA,NA,NA, strong lab
+W07000108,Swansea West,Wales,Wales,14%,10%,19%,50%,41%,59%,5%,2%,10%,13%,7%,20%,8%,3%,15%,1%,1%,2%,8%,4%,13%,NA,NA,NA, strong lab
+W07000109,Torfaen,Wales,Wales,18%,13%,23%,48%,39%,58%,3%,1%,6%,15%,9%,23%,4%,2%,10%,1%,0%,1%,10%,4%,17%,NA,NA,NA, strong lab
+W07000110,Vale of Glamorgan,Wales,Wales,25%,18%,31%,53%,44%,61%,2%,1%,6%,11%,5%,20%,5%,2%,10%,0%,0%,1%,3%,1%,6%,NA,NA,NA, strong lab
+W07000111,Wrexham,Wales,Wales,24%,19%,31%,46%,40%,54%,2%,1%,6%,16%,10%,23%,3%,1%,7%,1%,0%,1%,6%,3%,10%,NA,NA,NA, strong lab
+W07000112,Ynys MÃ´n,Wales,Wales,18%,13%,25%,28%,19%,39%,3%,1%,7%,12%,6%,21%,5%,2%,11%,1%,0%,1%,33%,22%,43%,NA,NA,NA, lean pc

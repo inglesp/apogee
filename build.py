@@ -21,6 +21,7 @@ model_map = {
     "economist": "Economist",
     "electoralcalculus": "Electoral Calculus",
     "ft": "FT",
+    "ipsos": "Ipsos",
     "moreincommon": "More in Common",
     "survation": "Survation",
     "yougov": "YouGov",
