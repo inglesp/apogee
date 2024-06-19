@@ -37,6 +37,7 @@ def main():
 
     code_to_name = {c["code"]: c["name"] for c in constituencies}
     code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
+    code_to_dc_id = {c["code"]: c["dc_ballot_paper_id"] for c in constituencies}
 
     data = None
 
@@ -116,6 +117,7 @@ def main():
 
         ctx = {
             "name": code_to_name[code],
+            "dc_ballot_paper_id": code_to_dc_id[code],
             "constituency_details": df_to_list_of_lists(constituency_details),
         }
         dirpath = Path(f"outputs/constituencies/{code}")

@@ -1,633 +1,633 @@
-code,name,2019
-E14001063,Aldershot,con
-E14001064,Aldridge-Brownhills,con
-E14001065,Altrincham and Sale West,con
-E14001066,Amber Valley,con
-E14001067,Arundel and South Downs,con
-E14001068,Ashfield,con
-E14001069,Ashford,con
-E14001070,Ashton-under-Lyne,lab
-E14001071,Aylesbury,con
-E14001072,Banbury,con
-E14001073,Barking,lab
-E14001074,Barnsley North,lab
-E14001075,Barnsley South,lab
-E14001076,Barrow and Furness,con
-E14001077,Basildon and Billericay,con
-E14001078,Basingstoke,con
-E14001079,Bassetlaw,con
-E14001080,Bath,lib
-E14001081,Battersea,lab
-E14001082,Beaconsfield,con
-E14001083,Beckenham and Penge,lab
-E14001084,Bedford,lab
-E14001085,Bermondsey and Old Southwark,lab
-E14001086,Bethnal Green and Stepney,lab
-E14001087,Beverley and Holderness,con
-E14001088,Bexhill and Battle,con
-E14001089,Bexleyheath and Crayford,con
-E14001090,Bicester and Woodstock,con
-E14001091,Birkenhead,lab
-E14001092,Birmingham Edgbaston,lab
-E14001093,Birmingham Erdington,lab
-E14001094,Birmingham Hall Green and Moseley,lab
-E14001095,Birmingham Hodge Hill and Solihull North,lab
-E14001096,Birmingham Ladywood,lab
-E14001097,Birmingham Northfield,con
-E14001098,Birmingham Perry Barr,lab
-E14001099,Birmingham Selly Oak,lab
-E14001100,Birmingham Yardley,lab
-E14001101,Bishop Auckland,con
-E14001102,Blackburn,lab
-E14001103,Blackley and Middleton South,lab
-E14001104,Blackpool North and Fleetwood,con
-E14001105,Blackpool South,con
-E14001106,Blaydon and Consett,lab
-E14001107,Blyth and Ashington,lab
-E14001108,Bognor Regis and Littlehampton,con
-E14001109,Bolsover,con
-E14001110,Bolton North East,con
-E14001111,Bolton South and Walkden,lab
-E14001112,Bolton West,con
-E14001113,Bootle,lab
-E14001114,Boston and Skegness,con
-E14001115,Bournemouth East,con
-E14001116,Bournemouth West,con
-E14001117,Bracknell,con
-E14001118,Bradford East,lab
-E14001119,Bradford South,lab
-E14001120,Bradford West,lab
-E14001121,Braintree,con
-E14001122,Brent East,lab
-E14001123,Brent West,lab
-E14001124,Brentford and Isleworth,lab
-E14001125,Brentwood and Ongar,con
-E14001126,Bridgwater,con
-E14001127,Bridlington and the Wolds,con
-E14001128,Brigg and Immingham,con
-E14001129,Brighton Kemptown and Peacehaven,lab
-E14001130,Brighton Pavilion,grn
-E14001131,Bristol Central,lab
-E14001132,Bristol East,lab
-E14001133,Bristol North East,lab
-E14001134,Bristol North West,lab
-E14001135,Bristol South,lab
-E14001136,Broadland and Fakenham,con
-E14001137,Bromley and Biggin Hill,con
-E14001138,Bromsgrove,con
-E14001139,Broxbourne,con
-E14001140,Broxtowe,con
-E14001141,Buckingham and Bletchley,con
-E14001142,Burnley,con
-E14001143,Burton and Uttoxeter,con
-E14001144,Bury North,con
-E14001145,Bury South,con
-E14001146,Bury St Edmunds and Stowmarket,con
-E14001147,Calder Valley,con
-E14001148,Camborne and Redruth,con
-E14001149,Cambridge,lab
-E14001150,Cannock Chase,con
-E14001151,Canterbury,lab
-E14001152,Carlisle,con
-E14001153,Carshalton and Wallington,con
-E14001154,Castle Point,con
-E14001155,Central Devon,con
-E14001156,Central Suffolk and North Ipswich,con
-E14001157,Chatham and Aylesford,con
-E14001158,Cheadle,con
-E14001159,Chelmsford,con
-E14001160,Chelsea and Fulham,con
-E14001161,Cheltenham,con
-E14001162,Chesham and Amersham,con
-E14001163,Chester North and Neston,lab
-E14001164,Chester South and Eddisbury,con
-E14001165,Chesterfield,lab
-E14001166,Chichester,con
-E14001167,Chingford and Woodford Green,con
-E14001168,Chippenham,con
-E14001169,Chipping Barnet,con
-E14001170,Chorley,oth
-E14001171,Christchurch,con
-E14001172,Cities of London and Westminster,con
-E14001173,City of Durham,lab
-E14001174,Clacton,con
-E14001175,Clapham and Brixton Hill,lab
-E14001176,Colchester,con
-E14001177,Colne Valley,con
-E14001178,Congleton,con
-E14001179,Corby and East Northamptonshire,con
-E14001180,Coventry East,lab
-E14001181,Coventry North West,lab
-E14001182,Coventry South,lab
-E14001183,Cramlington and Killingworth,lab
-E14001184,Crawley,con
-E14001185,Crewe and Nantwich,con
-E14001186,Croydon East,lab
-E14001187,Croydon South,con
-E14001188,Croydon West,lab
-E14001189,Dagenham and Rainham,lab
-E14001190,Darlington,con
-E14001191,Dartford,con
-E14001192,Daventry,con
-E14001193,Derby North,con
-E14001194,Derby South,lab
-E14001195,Derbyshire Dales,con
-E14001196,Dewsbury and Batley,lab
-E14001197,Didcot and Wantage,con
-E14001198,Doncaster Central,lab
-E14001199,Doncaster East and the Isle of Axholme,con
-E14001200,Doncaster North,lab
-E14001201,Dorking and Horley,con
-E14001202,Dover and Deal,con
-E14001203,Droitwich and Evesham,con
-E14001204,Dudley,con
-E14001205,Dulwich and West Norwood,lab
-E14001206,Dunstable and Leighton Buzzard,con
-E14001207,Ealing Central and Acton,lab
-E14001208,Ealing North,lab
-E14001209,Ealing Southall,lab
-E14001210,Earley and Woodley,con
-E14001211,Easington,lab
-E14001212,East Grinstead and Uckfield,con
-E14001213,East Ham,lab
-E14001214,East Hampshire,con
-E14001215,East Surrey,con
-E14001216,East Thanet,con
-E14001217,East Wiltshire,con
-E14001218,East Worthing and Shoreham,con
-E14001219,Eastbourne,con
-E14001220,Eastleigh,con
-E14001221,Edmonton and Winchmore Hill,lab
-E14001222,Ellesmere Port and Bromborough,lab
-E14001223,Eltham and Chislehurst,con
-E14001224,Ely and East Cambridgeshire,con
-E14001225,Enfield North,lab
-E14001226,Epping Forest,con
-E14001227,Epsom and Ewell,con
-E14001228,Erewash,con
-E14001229,Erith and Thamesmead,lab
-E14001230,Esher and Walton,con
-E14001231,Exeter,lab
-E14001232,Exmouth and Exeter East,con
-E14001233,Fareham and Waterlooville,con
-E14001234,Farnham and Bordon,con
-E14001235,Faversham and Mid Kent,con
-E14001236,Feltham and Heston,lab
-E14001237,Filton and Bradley Stoke,con
-E14001238,Finchley and Golders Green,con
-E14001239,Folkestone and Hythe,con
-E14001240,Forest of Dean,con
-E14001241,Frome and East Somerset,con
-E14001242,Fylde,con
-E14001243,Gainsborough,con
-E14001244,Gateshead Central and Whickham,lab
-E14001245,Gedling,con
-E14001246,Gillingham and Rainham,con
-E14001247,Glastonbury and Somerton,con
-E14001248,Gloucester,con
-E14001249,Godalming and Ash,con
-E14001250,Goole and Pocklington,con
-E14001251,Gorton and Denton,lab
-E14001252,Gosport,con
-E14001253,Grantham and Bourne,con
-E14001254,Gravesham,con
-E14001255,Great Grimsby and Cleethorpes,con
-E14001256,Great Yarmouth,con
-E14001257,Greenwich and Woolwich,lab
-E14001258,Guildford,con
-E14001259,Hackney North and Stoke Newington,lab
-E14001260,Hackney South and Shoreditch,lab
-E14001261,Halesowen,con
-E14001262,Halifax,lab
-E14001263,Hamble Valley,con
-E14001264,Hammersmith and Chiswick,lab
-E14001265,Hampstead and Highgate,lab
-E14001266,"Harborough, Oadby and Wigston",con
-E14001267,Harlow,con
-E14001268,Harpenden and Berkhamsted,con
-E14001269,Harrogate and Knaresborough,con
-E14001270,Harrow East,con
-E14001271,Harrow West,lab
-E14001272,Hartlepool,lab
-E14001273,Harwich and North Essex,con
-E14001274,Hastings and Rye,con
-E14001275,Havant,con
-E14001276,Hayes and Harlington,lab
-E14001277,Hazel Grove,con
-E14001278,Hemel Hempstead,con
-E14001279,Hendon,con
-E14001280,Henley and Thame,con
-E14001281,Hereford and South Herefordshire,con
-E14001282,Herne Bay and Sandwich,con
-E14001283,Hertford and Stortford,con
-E14001284,Hertsmere,con
-E14001285,Hexham,con
-E14001286,Heywood and Middleton North,lab
-E14001287,High Peak,con
-E14001288,Hinckley and Bosworth,con
-E14001289,Hitchin,con
-E14001290,Holborn and St Pancras,lab
-E14001291,Honiton and Sidmouth,con
-E14001292,Hornchurch and Upminster,con
-E14001293,Hornsey and Friern Barnet,lab
-E14001294,Horsham,con
-E14001295,Houghton and Sunderland South,lab
-E14001296,Hove and Portslade,lab
-E14001297,Huddersfield,lab
-E14001298,Huntingdon,con
-E14001299,Hyndburn,con
-E14001300,Ilford North,lab
-E14001301,Ilford South,lab
-E14001302,Ipswich,con
-E14001303,Isle of Wight East,con
-E14001304,Isle of Wight West,con
-E14001305,Islington North,lab
-E14001306,Islington South and Finsbury,lab
-E14001307,Jarrow and Gateshead East,lab
-E14001308,Keighley and Ilkley,con
-E14001309,Kenilworth and Southam,con
-E14001310,Kensington and Bayswater,lab
-E14001311,Kettering,con
-E14001312,Kingston and Surbiton,lib
-E14001313,Kingston upon Hull East,lab
-E14001314,Kingston upon Hull North and Cottingham,lab
-E14001315,Kingston upon Hull West and Haltemprice,con
-E14001316,Kingswinford and South Staffordshire,con
-E14001317,Knowsley,lab
-E14001318,Lancaster and Wyre,con
-E14001319,Leeds Central and Headingley,lab
-E14001320,Leeds East,lab
-E14001321,Leeds North East,lab
-E14001322,Leeds North West,con
-E14001323,Leeds South,lab
-E14001324,Leeds South West and Morley,con
-E14001325,Leeds West and Pudsey,lab
-E14001326,Leicester East,lab
-E14001327,Leicester South,lab
-E14001328,Leicester West,lab
-E14001329,Leigh and Atherton,con
-E14001330,Lewes,con
-E14001331,Lewisham East,lab
-E14001332,Lewisham North,lab
-E14001333,Lewisham West and East Dulwich,lab
-E14001334,Leyton and Wanstead,lab
-E14001335,Lichfield,con
-E14001336,Lincoln,con
-E14001337,Liverpool Garston,lab
-E14001338,Liverpool Riverside,lab
-E14001339,Liverpool Walton,lab
-E14001340,Liverpool Wavertree,lab
-E14001341,Liverpool West Derby,lab
-E14001342,Loughborough,con
-E14001343,Louth and Horncastle,con
-E14001344,Lowestoft,con
-E14001345,Luton North,lab
-E14001346,Luton South and South Bedfordshire,lab
-E14001347,Macclesfield,con
-E14001348,Maidenhead,con
-E14001349,Maidstone and Malling,con
-E14001350,Makerfield,lab
-E14001351,Maldon,con
-E14001352,Manchester Central,lab
-E14001353,Manchester Rusholme,lab
-E14001354,Manchester Withington,lab
-E14001355,Mansfield,con
-E14001356,Melksham and Devizes,con
-E14001357,Melton and Syston,con
-E14001358,Meriden and Solihull East,con
-E14001359,Mid Bedfordshire,con
-E14001360,Mid Buckinghamshire,con
-E14001361,Mid Cheshire,con
-E14001362,Mid Derbyshire,con
-E14001363,Mid Dorset and North Poole,con
-E14001364,Mid Leicestershire,con
-E14001365,Mid Norfolk,con
-E14001366,Mid Sussex,con
-E14001367,Middlesbrough and Thornaby East,lab
-E14001368,Middlesbrough South and East Cleveland,con
-E14001369,Milton Keynes Central,con
-E14001370,Milton Keynes North,con
-E14001371,Mitcham and Morden,lab
-E14001372,Morecambe and Lunesdale,con
-E14001373,New Forest East,con
-E14001374,New Forest West,con
-E14001375,Newark,con
-E14001376,Newbury,con
-E14001377,Newcastle upon Tyne Central and West,lab
-E14001378,Newcastle upon Tyne East and Wallsend,lab
-E14001379,Newcastle upon Tyne North,lab
-E14001380,Newcastle-under-Lyme,con
-E14001381,Newton Abbot,con
-E14001382,Newton Aycliffe and Spennymoor,con
-E14001383,Normanton and Hemsworth,lab
-E14001384,North Bedfordshire,con
-E14001385,North Cornwall,con
-E14001386,North Cotswolds,con
-E14001387,North Devon,con
-E14001388,North Dorset,con
-E14001389,North Durham,lab
-E14001390,North East Cambridgeshire,con
-E14001391,North East Derbyshire,con
-E14001392,North East Hampshire,con
-E14001393,North East Hertfordshire,con
-E14001394,North East Somerset and Hanham,con
-E14001395,North Herefordshire,con
-E14001396,North Norfolk,con
-E14001397,North Northumberland,con
-E14001398,North Shropshire,con
-E14001399,North Somerset,con
-E14001400,North Warwickshire and Bedworth,con
-E14001401,North West Cambridgeshire,con
-E14001402,North West Essex,con
-E14001403,North West Hampshire,con
-E14001404,North West Leicestershire,con
-E14001405,North West Norfolk,con
-E14001406,Northampton North,con
-E14001407,Northampton South,con
-E14001408,Norwich North,con
-E14001409,Norwich South,lab
-E14001410,Nottingham East,lab
-E14001411,Nottingham North and Kimberley,lab
-E14001412,Nottingham South,lab
-E14001413,Nuneaton,con
-E14001414,Old Bexley and Sidcup,con
-E14001415,Oldham East and Saddleworth,lab
-E14001416,"Oldham West, Chadderton and Royton",lab
-E14001417,Orpington,con
-E14001418,Ossett and Denby Dale,con
-E14001419,Oxford East,lab
-E14001420,Oxford West and Abingdon,lib
-E14001421,Peckham,lab
-E14001422,Pendle and Clitheroe,con
-E14001423,Penistone and Stocksbridge,con
-E14001424,Penrith and Solway,con
-E14001425,Peterborough,con
-E14001426,Plymouth Moor View,con
-E14001427,Plymouth Sutton and Devonport,lab
-E14001428,"Pontefract, Castleford and Knottingley",lab
-E14001429,Poole,con
-E14001430,Poplar and Limehouse,lab
-E14001431,Portsmouth North,con
-E14001432,Portsmouth South,lab
-E14001433,Preston,lab
-E14001434,Putney,lab
-E14001435,Queen's Park and Maida Vale,lab
-E14001436,Rawmarsh and Conisbrough,lab
-E14001437,Rayleigh and Wickford,con
-E14001438,Reading Central,lab
-E14001439,Reading West and Mid Berkshire,con
-E14001440,Redcar,con
-E14001441,Redditch,con
-E14001442,Reigate,con
-E14001443,Ribble Valley,con
-E14001444,Richmond and Northallerton,con
-E14001445,Richmond Park,lib
-E14001446,Rochdale,lab
-E14001447,Rochester and Strood,con
-E14001448,Romford,con
-E14001449,Romsey and Southampton North,con
-E14001450,Rossendale and Darwen,con
-E14001451,Rother Valley,con
-E14001452,Rotherham,lab
-E14001453,Rugby,con
-E14001454,"Ruislip, Northwood and Pinner",con
-E14001455,Runcorn and Helsby,lab
-E14001456,Runnymede and Weybridge,con
-E14001457,Rushcliffe,con
-E14001458,Rutland and Stamford,con
-E14001459,Salford,lab
-E14001460,Salisbury,con
-E14001461,Scarborough and Whitby,con
-E14001462,Scunthorpe,con
-E14001463,Sefton Central,lab
-E14001464,Selby,con
-E14001465,Sevenoaks,con
-E14001466,Sheffield Brightside and Hillsborough,lab
-E14001467,Sheffield Central,lab
-E14001468,Sheffield Hallam,lab
-E14001469,Sheffield Heeley,lab
-E14001470,Sheffield South East,lab
-E14001471,Sherwood Forest,con
-E14001472,Shipley,con
-E14001473,Shrewsbury,con
-E14001474,Sittingbourne and Sheppey,con
-E14001475,Skipton and Ripon,con
-E14001476,Sleaford and North Hykeham,con
-E14001477,Slough,lab
-E14001478,Smethwick,lab
-E14001479,Solihull West and Shirley,con
-E14001480,South Basildon and East Thurrock,con
-E14001481,South Cambridgeshire,con
-E14001482,South Cotswolds,con
-E14001483,South Derbyshire,con
-E14001484,South Devon,con
-E14001485,South Dorset,con
-E14001486,South East Cornwall,con
-E14001487,South Holland and the Deepings,con
-E14001488,South Leicestershire,con
-E14001489,South Norfolk,con
-E14001490,South Northamptonshire,con
-E14001491,South Ribble,con
-E14001492,South Shields,lab
-E14001493,South Shropshire,con
-E14001494,South Suffolk,con
-E14001495,South West Devon,con
-E14001496,South West Hertfordshire,con
-E14001497,South West Norfolk,con
-E14001498,South West Wiltshire,con
-E14001499,Southampton Itchen,con
-E14001500,Southampton Test,lab
-E14001501,Southend East and Rochford,con
-E14001502,Southend West and Leigh,con
-E14001503,Southgate and Wood Green,lab
-E14001504,Southport,con
-E14001505,Spelthorne,con
-E14001506,Spen Valley,con
-E14001507,St Albans,lib
-E14001508,St Austell and Newquay,con
-E14001509,St Helens North,lab
-E14001510,St Helens South and Whiston,lab
-E14001511,St Ives,con
-E14001512,St Neots and Mid Cambridgeshire,con
-E14001513,Stafford,con
-E14001514,Staffordshire Moorlands,con
-E14001515,Stalybridge and Hyde,lab
-E14001516,Stevenage,con
-E14001517,Stockport,lab
-E14001518,Stockton North,lab
-E14001519,Stockton West,con
-E14001520,Stoke-on-Trent Central,con
-E14001521,Stoke-on-Trent North,con
-E14001522,Stoke-on-Trent South,con
-E14001523,"Stone, Great Wyrley and Penkridge",con
-E14001524,Stourbridge,con
-E14001525,Stratford and Bow,lab
-E14001526,Stratford-on-Avon,con
-E14001527,Streatham and Croydon North,lab
-E14001528,Stretford and Urmston,lab
-E14001529,Stroud,con
-E14001530,Suffolk Coastal,con
-E14001531,Sunderland Central,lab
-E14001532,Surrey Heath,con
-E14001533,Sussex Weald,con
-E14001534,Sutton and Cheam,con
-E14001535,Sutton Coldfield,con
-E14001536,Swindon North,con
-E14001537,Swindon South,con
-E14001538,Tamworth,con
-E14001539,Tatton,con
-E14001540,Taunton and Wellington,con
-E14001541,Telford,con
-E14001542,Tewkesbury,con
-E14001543,The Wrekin,con
-E14001544,Thirsk and Malton,con
-E14001545,Thornbury and Yate,con
-E14001546,Thurrock,con
-E14001547,Tipton and Wednesbury,con
-E14001548,Tiverton and Minehead,con
-E14001549,Tonbridge,con
-E14001550,Tooting,lab
-E14001551,Torbay,con
-E14001552,Torridge and Tavistock,con
-E14001553,Tottenham,lab
-E14001554,Truro and Falmouth,con
-E14001555,Tunbridge Wells,con
-E14001556,Twickenham,lib
-E14001557,Tynemouth,lab
-E14001558,Uxbridge and South Ruislip,con
-E14001559,Vauxhall and Camberwell Green,lab
-E14001560,Wakefield and Rothwell,con
-E14001561,Wallasey,lab
-E14001562,Walsall and Bloxwich,con
-E14001563,Walthamstow,lab
-E14001564,Warrington North,lab
-E14001565,Warrington South,lab
-E14001566,Warwick and Leamington,lab
-E14001567,Washington and Gateshead South,lab
-E14001568,Watford,con
-E14001569,Waveney Valley,con
-E14001570,Weald of Kent,con
-E14001571,Wellingborough and Rushden,con
-E14001572,Wells and Mendip Hills,con
-E14001573,Welwyn Hatfield,con
-E14001574,West Bromwich,con
-E14001575,West Dorset,con
-E14001576,West Ham and Beckton,lab
-E14001577,West Lancashire,lab
-E14001578,West Suffolk,con
-E14001579,West Worcestershire,con
-E14001580,Westmorland and Lonsdale,con
-E14001581,Weston-super-Mare,con
-E14001582,Wetherby and Easingwold,con
-E14001583,Whitehaven and Workington,con
-E14001584,Widnes and Halewood,lab
-E14001585,Wigan,lab
-E14001586,Wimbledon,con
-E14001587,Winchester,con
-E14001588,Windsor,con
-E14001589,Wirral West,lab
-E14001590,Witham,con
-E14001591,Witney,con
-E14001592,Woking,con
-E14001593,Wokingham,con
-E14001594,Wolverhampton North East,con
-E14001595,Wolverhampton South East,lab
-E14001596,Wolverhampton West,con
-E14001597,Worcester,con
-E14001598,Worsley and Eccles,lab
-E14001599,Worthing West,con
-E14001600,Wycombe,con
-E14001601,Wyre Forest,con
-E14001602,Wythenshawe and Sale East,lab
-E14001603,Yeovil,con
-E14001604,York Central,lab
-E14001605,York Outer,con
-S14000006,"Ayr, Carrick and Cumnock",snp
-S14000008,"Berwickshire, Roxburgh and Selkirk",con
-S14000010,Central Ayrshire,snp
-S14000021,East Renfrewshire,snp
-S14000027,Na h-Eileanan an Iar,snp
-S14000040,Kilmarnock and Loudoun,snp
-S14000045,Midlothian,snp
-S14000048,North Ayrshire and Arran,snp
-S14000051,Orkney and Shetland,lib
-S14000058,West Aberdeenshire and Kincardine,con
-S14000060,Aberdeen North,snp
-S14000061,Aberdeen South,snp
-S14000062,Aberdeenshire North and Moray East,con
-S14000063,Airdrie and Shotts,snp
-S14000064,Alloa and Grangemouth,snp
-S14000065,Angus and Perthshire Glens,snp
-S14000066,Arbroath and Broughty Ferry,snp
-S14000067,"Argyll, Bute and South Lochaber",snp
-S14000068,Bathgate and Linlithgow,snp
-S14000069,"Caithness, Sutherland and Easter Ross",snp
-S14000070,Coatbridge and Bellshill,snp
-S14000071,Cowdenbeath and Kirkcaldy,snp
-S14000072,Cumbernauld and Kirkintilloch,snp
-S14000073,Dumfries and Galloway,con
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con
-S14000075,Dundee Central,snp
-S14000076,Dunfermline and Dollar,snp
-S14000077,East Kilbride and Strathaven,snp
-S14000078,Edinburgh East and Musselburgh,snp
-S14000079,Edinburgh North and Leith,snp
-S14000080,Edinburgh South,lab
-S14000081,Edinburgh South West,snp
-S14000082,Edinburgh West,lib
-S14000083,Falkirk,snp
-S14000084,Glasgow East,snp
-S14000085,Glasgow North,snp
-S14000086,Glasgow North East,snp
-S14000087,Glasgow South,snp
-S14000088,Glasgow South West,snp
-S14000089,Glasgow West,snp
-S14000090,Glenrothes and Mid Fife,snp
-S14000091,Gordon and Buchan,con
-S14000092,Hamilton and Clyde Valley,snp
-S14000093,Inverclyde and Renfrewshire West,snp
-S14000094,"Inverness, Skye and West Ross-shire",snp
-S14000095,Livingston,snp
-S14000096,Lothian East,snp
-S14000097,Mid Dunbartonshire,snp
-S14000098,"Moray West, Nairn and Strathspey",snp
-S14000099,"Motherwell, Wishaw and Carluke",snp
-S14000100,North East Fife,snp
-S14000101,Paisley and Renfrewshire North,snp
-S14000102,Paisley and Renfrewshire South,snp
-S14000103,Perth and Kinross-shire,snp
-S14000104,Rutherglen,snp
-S14000105,Stirling and Strathallan,snp
-S14000106,West Dunbartonshire,snp
-W07000081,Aberafan Maesteg,lab
-W07000082,Alyn and Deeside,lab
-W07000083,Bangor Aberconwy,con
-W07000084,Blaenau Gwent and Rhymney,lab
-W07000085,"Brecon, Radnor and Cwm Tawe",con
-W07000086,Bridgend,con
-W07000087,Caerfyrddin,con
-W07000088,Caerphilly,lab
-W07000089,Cardiff East,lab
-W07000090,Cardiff North,lab
-W07000091,Cardiff South and Penarth,lab
-W07000092,Cardiff West,lab
-W07000093,Ceredigion Preseli,pc
-W07000094,Clwyd East,con
-W07000095,Clwyd North,con
-W07000096,Dwyfor Meirionnydd,pc
-W07000097,Gower,lab
-W07000098,Llanelli,lab
-W07000099,Merthyr Tydfil and Aberdare,lab
-W07000100,Mid and South Pembrokeshire,con
-W07000101,Monmouthshire,con
-W07000102,Montgomeryshire and Glyndwr,con
-W07000103,Neath and Swansea East,lab
-W07000104,Newport East,lab
-W07000105,Newport West and Islwyn,lab
-W07000106,Pontypridd,lab
-W07000107,Rhondda and Ogmore,lab
-W07000108,Swansea West,lab
-W07000109,Torfaen,lab
-W07000110,Vale of Glamorgan,con
-W07000111,Wrexham,con
-W07000112,Ynys Môn,con
+code,name,2019,dc_ballot_paper_id
+E14001063,Aldershot,con,parl.aldershot.2024-07-04
+E14001064,Aldridge-Brownhills,con,parl.aldridge-brownhills.2024-07-04
+E14001065,Altrincham and Sale West,con,parl.altrincham-and-sale-west.2024-07-04
+E14001066,Amber Valley,con,parl.amber-valley.2024-07-04
+E14001067,Arundel and South Downs,con,parl.arundel-and-south-downs.2024-07-04
+E14001068,Ashfield,con,parl.ashfield.2024-07-04
+E14001069,Ashford,con,parl.ashford.2024-07-04
+E14001070,Ashton-under-Lyne,lab,parl.ashton-under-lyne.2024-07-04
+E14001071,Aylesbury,con,parl.aylesbury.2024-07-04
+E14001072,Banbury,con,parl.banbury.2024-07-04
+E14001073,Barking,lab,parl.barking.2024-07-04
+E14001074,Barnsley North,lab,parl.barnsley-north.2024-07-04
+E14001075,Barnsley South,lab,parl.barnsley-south.2024-07-04
+E14001076,Barrow and Furness,con,parl.barrow-and-furness.2024-07-04
+E14001077,Basildon and Billericay,con,parl.basildon-and-billericay.2024-07-04
+E14001078,Basingstoke,con,parl.basingstoke.2024-07-04
+E14001079,Bassetlaw,con,parl.bassetlaw.2024-07-04
+E14001080,Bath,lib,parl.bath.2024-07-04
+E14001081,Battersea,lab,parl.battersea.2024-07-04
+E14001082,Beaconsfield,con,parl.beaconsfield.2024-07-04
+E14001083,Beckenham and Penge,lab,parl.beckenham-and-penge.2024-07-04
+E14001084,Bedford,lab,parl.bedford.2024-07-04
+E14001085,Bermondsey and Old Southwark,lab,parl.bermondsey-and-old-southwark.2024-07-04
+E14001086,Bethnal Green and Stepney,lab,parl.bethnal-green-and-stepney.2024-07-04
+E14001087,Beverley and Holderness,con,parl.beverley-and-holderness.2024-07-04
+E14001088,Bexhill and Battle,con,parl.bexhill-and-battle.2024-07-04
+E14001089,Bexleyheath and Crayford,con,parl.bexleyheath-and-crayford.2024-07-04
+E14001090,Bicester and Woodstock,con,parl.bicester-and-woodstock.2024-07-04
+E14001091,Birkenhead,lab,parl.birkenhead.2024-07-04
+E14001092,Birmingham Edgbaston,lab,parl.birmingham-edgbaston.2024-07-04
+E14001093,Birmingham Erdington,lab,parl.birmingham-erdington.2024-07-04
+E14001094,Birmingham Hall Green and Moseley,lab,parl.birmingham-hall-green-and-moseley.2024-07-04
+E14001095,Birmingham Hodge Hill and Solihull North,lab,parl.birmingham-hodge-hill-and-solihull-north.2024-07-04
+E14001096,Birmingham Ladywood,lab,parl.birmingham-ladywood.2024-07-04
+E14001097,Birmingham Northfield,con,parl.birmingham-northfield.2024-07-04
+E14001098,Birmingham Perry Barr,lab,parl.birmingham-perry-barr.2024-07-04
+E14001099,Birmingham Selly Oak,lab,parl.birmingham-selly-oak.2024-07-04
+E14001100,Birmingham Yardley,lab,parl.birmingham-yardley.2024-07-04
+E14001101,Bishop Auckland,con,parl.bishop-auckland.2024-07-04
+E14001102,Blackburn,lab,parl.blackburn.2024-07-04
+E14001103,Blackley and Middleton South,lab,parl.blackley-and-middleton-south.2024-07-04
+E14001104,Blackpool North and Fleetwood,con,parl.blackpool-north-and-fleetwood.2024-07-04
+E14001105,Blackpool South,con,parl.blackpool-south.2024-07-04
+E14001106,Blaydon and Consett,lab,parl.blaydon-and-consett.2024-07-04
+E14001107,Blyth and Ashington,lab,parl.blyth-and-ashington.2024-07-04
+E14001108,Bognor Regis and Littlehampton,con,parl.bognor-regis-and-littlehampton.2024-07-04
+E14001109,Bolsover,con,parl.bolsover.2024-07-04
+E14001110,Bolton North East,con,parl.bolton-north-east.2024-07-04
+E14001111,Bolton South and Walkden,lab,parl.bolton-south-and-walkden.2024-07-04
+E14001112,Bolton West,con,parl.bolton-west.2024-07-04
+E14001113,Bootle,lab,parl.bootle.2024-07-04
+E14001114,Boston and Skegness,con,parl.boston-and-skegness.2024-07-04
+E14001115,Bournemouth East,con,parl.bournemouth-east.2024-07-04
+E14001116,Bournemouth West,con,parl.bournemouth-west.2024-07-04
+E14001117,Bracknell,con,parl.bracknell.2024-07-04
+E14001118,Bradford East,lab,parl.bradford-east.2024-07-04
+E14001119,Bradford South,lab,parl.bradford-south.2024-07-04
+E14001120,Bradford West,lab,parl.bradford-west.2024-07-04
+E14001121,Braintree,con,parl.braintree.2024-07-04
+E14001122,Brent East,lab,parl.brent-east.2024-07-04
+E14001123,Brent West,lab,parl.brent-west.2024-07-04
+E14001124,Brentford and Isleworth,lab,parl.brentford-and-isleworth.2024-07-04
+E14001125,Brentwood and Ongar,con,parl.brentwood-and-ongar.2024-07-04
+E14001126,Bridgwater,con,parl.bridgwater.2024-07-04
+E14001127,Bridlington and the Wolds,con,parl.bridlington-and-the-wolds.2024-07-04
+E14001128,Brigg and Immingham,con,parl.brigg-and-immingham.2024-07-04
+E14001129,Brighton Kemptown and Peacehaven,lab,parl.brighton-kemptown-and-peacehaven.2024-07-04
+E14001130,Brighton Pavilion,grn,parl.brighton-pavilion.2024-07-04
+E14001131,Bristol Central,lab,parl.bristol-central.2024-07-04
+E14001132,Bristol East,lab,parl.bristol-east.2024-07-04
+E14001133,Bristol North East,lab,parl.bristol-north-east.2024-07-04
+E14001134,Bristol North West,lab,parl.bristol-north-west.2024-07-04
+E14001135,Bristol South,lab,parl.bristol-south.2024-07-04
+E14001136,Broadland and Fakenham,con,parl.broadland-and-fakenham.2024-07-04
+E14001137,Bromley and Biggin Hill,con,parl.bromley-and-biggin-hill.2024-07-04
+E14001138,Bromsgrove,con,parl.bromsgrove.2024-07-04
+E14001139,Broxbourne,con,parl.broxbourne.2024-07-04
+E14001140,Broxtowe,con,parl.broxtowe.2024-07-04
+E14001141,Buckingham and Bletchley,con,parl.buckingham-and-bletchley.2024-07-04
+E14001142,Burnley,con,parl.burnley.2024-07-04
+E14001143,Burton and Uttoxeter,con,parl.burton-and-uttoxeter.2024-07-04
+E14001144,Bury North,con,parl.bury-north.2024-07-04
+E14001145,Bury South,con,parl.bury-south.2024-07-04
+E14001146,Bury St Edmunds and Stowmarket,con,parl.bury-st-edmunds-and-stowmarket.2024-07-04
+E14001147,Calder Valley,con,parl.calder-valley.2024-07-04
+E14001148,Camborne and Redruth,con,parl.camborne-and-redruth.2024-07-04
+E14001149,Cambridge,lab,parl.cambridge.2024-07-04
+E14001150,Cannock Chase,con,parl.cannock-chase.2024-07-04
+E14001151,Canterbury,lab,parl.canterbury.2024-07-04
+E14001152,Carlisle,con,parl.carlisle.2024-07-04
+E14001153,Carshalton and Wallington,con,parl.carshalton-and-wallington.2024-07-04
+E14001154,Castle Point,con,parl.castle-point.2024-07-04
+E14001155,Central Devon,con,parl.central-devon.2024-07-04
+E14001156,Central Suffolk and North Ipswich,con,parl.central-suffolk-and-north-ipswich.2024-07-04
+E14001157,Chatham and Aylesford,con,parl.chatham-and-aylesford.2024-07-04
+E14001158,Cheadle,con,parl.cheadle.2024-07-04
+E14001159,Chelmsford,con,parl.chelmsford.2024-07-04
+E14001160,Chelsea and Fulham,con,parl.chelsea-and-fulham.2024-07-04
+E14001161,Cheltenham,con,parl.cheltenham.2024-07-04
+E14001162,Chesham and Amersham,con,parl.chesham-and-amersham.2024-07-04
+E14001163,Chester North and Neston,lab,parl.chester-north-and-neston.2024-07-04
+E14001164,Chester South and Eddisbury,con,parl.chester-south-and-eddisbury.2024-07-04
+E14001165,Chesterfield,lab,parl.chesterfield.2024-07-04
+E14001166,Chichester,con,parl.chichester.2024-07-04
+E14001167,Chingford and Woodford Green,con,parl.chingford-and-woodford-green.2024-07-04
+E14001168,Chippenham,con,parl.chippenham.2024-07-04
+E14001169,Chipping Barnet,con,parl.chipping-barnet.2024-07-04
+E14001170,Chorley,oth,parl.chorley.2024-07-04
+E14001171,Christchurch,con,parl.christchurch.2024-07-04
+E14001172,Cities of London and Westminster,con,parl.cities-of-london-and-westminster.2024-07-04
+E14001173,City of Durham,lab,parl.city-of-durham.2024-07-04
+E14001174,Clacton,con,parl.clacton.2024-07-04
+E14001175,Clapham and Brixton Hill,lab,parl.clapham-and-brixton-hill.2024-07-04
+E14001176,Colchester,con,parl.colchester.2024-07-04
+E14001177,Colne Valley,con,parl.colne-valley.2024-07-04
+E14001178,Congleton,con,parl.congleton.2024-07-04
+E14001179,Corby and East Northamptonshire,con,parl.corby-and-east-northamptonshire.2024-07-04
+E14001180,Coventry East,lab,parl.coventry-east.2024-07-04
+E14001181,Coventry North West,lab,parl.coventry-north-west.2024-07-04
+E14001182,Coventry South,lab,parl.coventry-south.2024-07-04
+E14001183,Cramlington and Killingworth,lab,parl.cramlington-and-killingworth.2024-07-04
+E14001184,Crawley,con,parl.crawley.2024-07-04
+E14001185,Crewe and Nantwich,con,parl.crewe-and-nantwich.2024-07-04
+E14001186,Croydon East,lab,parl.croydon-east.2024-07-04
+E14001187,Croydon South,con,parl.croydon-south.2024-07-04
+E14001188,Croydon West,lab,parl.croydon-west.2024-07-04
+E14001189,Dagenham and Rainham,lab,parl.dagenham-and-rainham.2024-07-04
+E14001190,Darlington,con,parl.darlington.2024-07-04
+E14001191,Dartford,con,parl.dartford.2024-07-04
+E14001192,Daventry,con,parl.daventry.2024-07-04
+E14001193,Derby North,con,parl.derby-north.2024-07-04
+E14001194,Derby South,lab,parl.derby-south.2024-07-04
+E14001195,Derbyshire Dales,con,parl.derbyshire-dales.2024-07-04
+E14001196,Dewsbury and Batley,lab,parl.dewsbury-and-batley.2024-07-04
+E14001197,Didcot and Wantage,con,parl.didcot-and-wantage.2024-07-04
+E14001198,Doncaster Central,lab,parl.doncaster-central.2024-07-04
+E14001199,Doncaster East and the Isle of Axholme,con,parl.doncaster-east-and-the-isle-of-axholme.2024-07-04
+E14001200,Doncaster North,lab,parl.doncaster-north.2024-07-04
+E14001201,Dorking and Horley,con,parl.dorking-and-horley.2024-07-04
+E14001202,Dover and Deal,con,parl.dover-and-deal.2024-07-04
+E14001203,Droitwich and Evesham,con,parl.droitwich-and-evesham.2024-07-04
+E14001204,Dudley,con,parl.dudley.2024-07-04
+E14001205,Dulwich and West Norwood,lab,parl.dulwich-and-west-norwood.2024-07-04
+E14001206,Dunstable and Leighton Buzzard,con,parl.dunstable-and-leighton-buzzard.2024-07-04
+E14001207,Ealing Central and Acton,lab,parl.ealing-central-and-acton.2024-07-04
+E14001208,Ealing North,lab,parl.ealing-north.2024-07-04
+E14001209,Ealing Southall,lab,parl.ealing-southall.2024-07-04
+E14001210,Earley and Woodley,con,parl.earley-and-woodley.2024-07-04
+E14001211,Easington,lab,parl.easington.2024-07-04
+E14001212,East Grinstead and Uckfield,con,parl.east-grinstead-and-uckfield.2024-07-04
+E14001213,East Ham,lab,parl.east-ham.2024-07-04
+E14001214,East Hampshire,con,parl.east-hampshire.2024-07-04
+E14001215,East Surrey,con,parl.east-surrey.2024-07-04
+E14001216,East Thanet,con,parl.east-thanet.2024-07-04
+E14001217,East Wiltshire,con,parl.east-wiltshire.2024-07-04
+E14001218,East Worthing and Shoreham,con,parl.east-worthing-and-shoreham.2024-07-04
+E14001219,Eastbourne,con,parl.eastbourne.2024-07-04
+E14001220,Eastleigh,con,parl.eastleigh.2024-07-04
+E14001221,Edmonton and Winchmore Hill,lab,parl.edmonton-and-winchmore-hill.2024-07-04
+E14001222,Ellesmere Port and Bromborough,lab,parl.ellesmere-port-and-bromborough.2024-07-04
+E14001223,Eltham and Chislehurst,con,parl.eltham-and-chislehurst.2024-07-04
+E14001224,Ely and East Cambridgeshire,con,parl.ely-and-east-cambridgeshire.2024-07-04
+E14001225,Enfield North,lab,parl.enfield-north.2024-07-04
+E14001226,Epping Forest,con,parl.epping-forest.2024-07-04
+E14001227,Epsom and Ewell,con,parl.epsom-and-ewell.2024-07-04
+E14001228,Erewash,con,parl.erewash.2024-07-04
+E14001229,Erith and Thamesmead,lab,parl.erith-and-thamesmead.2024-07-04
+E14001230,Esher and Walton,con,parl.esher-and-walton.2024-07-04
+E14001231,Exeter,lab,parl.exeter.2024-07-04
+E14001232,Exmouth and Exeter East,con,parl.exmouth-and-exeter-east.2024-07-04
+E14001233,Fareham and Waterlooville,con,parl.fareham-and-waterlooville.2024-07-04
+E14001234,Farnham and Bordon,con,parl.farnham-and-bordon.2024-07-04
+E14001235,Faversham and Mid Kent,con,parl.faversham-and-mid-kent.2024-07-04
+E14001236,Feltham and Heston,lab,parl.feltham-and-heston.2024-07-04
+E14001237,Filton and Bradley Stoke,con,parl.filton-and-bradley-stoke.2024-07-04
+E14001238,Finchley and Golders Green,con,parl.finchley-and-golders-green.2024-07-04
+E14001239,Folkestone and Hythe,con,parl.folkestone-and-hythe.2024-07-04
+E14001240,Forest of Dean,con,parl.forest-of-dean.2024-07-04
+E14001241,Frome and East Somerset,con,parl.frome-and-east-somerset.2024-07-04
+E14001242,Fylde,con,parl.fylde.2024-07-04
+E14001243,Gainsborough,con,parl.gainsborough.2024-07-04
+E14001244,Gateshead Central and Whickham,lab,parl.gateshead-central-and-whickham.2024-07-04
+E14001245,Gedling,con,parl.gedling.2024-07-04
+E14001246,Gillingham and Rainham,con,parl.gillingham-and-rainham.2024-07-04
+E14001247,Glastonbury and Somerton,con,parl.glastonbury-and-somerton.2024-07-04
+E14001248,Gloucester,con,parl.gloucester.2024-07-04
+E14001249,Godalming and Ash,con,parl.godalming-and-ash.2024-07-04
+E14001250,Goole and Pocklington,con,parl.goole-and-pocklington.2024-07-04
+E14001251,Gorton and Denton,lab,parl.gorton-and-denton.2024-07-04
+E14001252,Gosport,con,parl.gosport.2024-07-04
+E14001253,Grantham and Bourne,con,parl.grantham-and-bourne.2024-07-04
+E14001254,Gravesham,con,parl.gravesham.2024-07-04
+E14001255,Great Grimsby and Cleethorpes,con,parl.great-grimsby-and-cleethorpes.2024-07-04
+E14001256,Great Yarmouth,con,parl.great-yarmouth.2024-07-04
+E14001257,Greenwich and Woolwich,lab,parl.greenwich-and-woolwich.2024-07-04
+E14001258,Guildford,con,parl.guildford.2024-07-04
+E14001259,Hackney North and Stoke Newington,lab,parl.hackney-north-and-stoke-newington.2024-07-04
+E14001260,Hackney South and Shoreditch,lab,parl.hackney-south-and-shoreditch.2024-07-04
+E14001261,Halesowen,con,parl.halesowen.2024-07-04
+E14001262,Halifax,lab,parl.halifax.2024-07-04
+E14001263,Hamble Valley,con,parl.hamble-valley.2024-07-04
+E14001264,Hammersmith and Chiswick,lab,parl.hammersmith-and-chiswick.2024-07-04
+E14001265,Hampstead and Highgate,lab,parl.hampstead-and-highgate.2024-07-04
+E14001266,"Harborough, Oadby and Wigston",con,parl.harborough-oadby-and-wigston.2024-07-04
+E14001267,Harlow,con,parl.harlow.2024-07-04
+E14001268,Harpenden and Berkhamsted,con,parl.harpenden-and-berkhamsted.2024-07-04
+E14001269,Harrogate and Knaresborough,con,parl.harrogate-and-knaresborough.2024-07-04
+E14001270,Harrow East,con,parl.harrow-east.2024-07-04
+E14001271,Harrow West,lab,parl.harrow-west.2024-07-04
+E14001272,Hartlepool,lab,parl.hartlepool.2024-07-04
+E14001273,Harwich and North Essex,con,parl.harwich-and-north-essex.2024-07-04
+E14001274,Hastings and Rye,con,parl.hastings-and-rye.2024-07-04
+E14001275,Havant,con,parl.havant.2024-07-04
+E14001276,Hayes and Harlington,lab,parl.hayes-and-harlington.2024-07-04
+E14001277,Hazel Grove,con,parl.hazel-grove.2024-07-04
+E14001278,Hemel Hempstead,con,parl.hemel-hempstead.2024-07-04
+E14001279,Hendon,con,parl.hendon.2024-07-04
+E14001280,Henley and Thame,con,parl.henley-and-thame.2024-07-04
+E14001281,Hereford and South Herefordshire,con,parl.hereford-and-south-herefordshire.2024-07-04
+E14001282,Herne Bay and Sandwich,con,parl.herne-bay-and-sandwich.2024-07-04
+E14001283,Hertford and Stortford,con,parl.hertford-and-stortford.2024-07-04
+E14001284,Hertsmere,con,parl.hertsmere.2024-07-04
+E14001285,Hexham,con,parl.hexham.2024-07-04
+E14001286,Heywood and Middleton North,lab,parl.heywood-and-middleton-north.2024-07-04
+E14001287,High Peak,con,parl.high-peak.2024-07-04
+E14001288,Hinckley and Bosworth,con,parl.hinckley-and-bosworth.2024-07-04
+E14001289,Hitchin,con,parl.hitchin.2024-07-04
+E14001290,Holborn and St Pancras,lab,parl.holborn-and-st-pancras.2024-07-04
+E14001291,Honiton and Sidmouth,con,parl.honiton-and-sidmouth.2024-07-04
+E14001292,Hornchurch and Upminster,con,parl.hornchurch-and-upminster.2024-07-04
+E14001293,Hornsey and Friern Barnet,lab,parl.hornsey-and-friern-barnet.2024-07-04
+E14001294,Horsham,con,parl.horsham.2024-07-04
+E14001295,Houghton and Sunderland South,lab,parl.houghton-and-sunderland-south.2024-07-04
+E14001296,Hove and Portslade,lab,parl.hove-and-portslade.2024-07-04
+E14001297,Huddersfield,lab,parl.huddersfield.2024-07-04
+E14001298,Huntingdon,con,parl.huntingdon.2024-07-04
+E14001299,Hyndburn,con,parl.hyndburn.2024-07-04
+E14001300,Ilford North,lab,parl.ilford-north.2024-07-04
+E14001301,Ilford South,lab,parl.ilford-south.2024-07-04
+E14001302,Ipswich,con,parl.ipswich.2024-07-04
+E14001303,Isle of Wight East,con,parl.isle-of-wight-east.2024-07-04
+E14001304,Isle of Wight West,con,parl.isle-of-wight-west.2024-07-04
+E14001305,Islington North,lab,parl.islington-north.2024-07-04
+E14001306,Islington South and Finsbury,lab,parl.islington-south-and-finsbury.2024-07-04
+E14001307,Jarrow and Gateshead East,lab,parl.jarrow-and-gateshead-east.2024-07-04
+E14001308,Keighley and Ilkley,con,parl.keighley-and-ilkley.2024-07-04
+E14001309,Kenilworth and Southam,con,parl.kenilworth-and-southam.2024-07-04
+E14001310,Kensington and Bayswater,lab,parl.kensington-and-bayswater.2024-07-04
+E14001311,Kettering,con,parl.kettering.2024-07-04
+E14001312,Kingston and Surbiton,lib,parl.kingston-and-surbiton.2024-07-04
+E14001313,Kingston upon Hull East,lab,parl.kingston-upon-hull-east.2024-07-04
+E14001314,Kingston upon Hull North and Cottingham,lab,parl.kingston-upon-hull-north-and-cottingham.2024-07-04
+E14001315,Kingston upon Hull West and Haltemprice,con,parl.kingston-upon-hull-west-and-haltemprice.2024-07-04
+E14001316,Kingswinford and South Staffordshire,con,parl.kingswinford-and-south-staffordshire.2024-07-04
+E14001317,Knowsley,lab,parl.knowsley.2024-07-04
+E14001318,Lancaster and Wyre,con,parl.lancaster-and-wyre.2024-07-04
+E14001319,Leeds Central and Headingley,lab,parl.leeds-central-and-headingley.2024-07-04
+E14001320,Leeds East,lab,parl.leeds-east.2024-07-04
+E14001321,Leeds North East,lab,parl.leeds-north-east.2024-07-04
+E14001322,Leeds North West,con,parl.leeds-north-west.2024-07-04
+E14001323,Leeds South,lab,parl.leeds-south.2024-07-04
+E14001324,Leeds South West and Morley,con,parl.leeds-south-west-and-morley.2024-07-04
+E14001325,Leeds West and Pudsey,lab,parl.leeds-west-and-pudsey.2024-07-04
+E14001326,Leicester East,lab,parl.leicester-east.2024-07-04
+E14001327,Leicester South,lab,parl.leicester-south.2024-07-04
+E14001328,Leicester West,lab,parl.leicester-west.2024-07-04
+E14001329,Leigh and Atherton,con,parl.leigh-and-atherton.2024-07-04
+E14001330,Lewes,con,parl.lewes.2024-07-04
+E14001331,Lewisham East,lab,parl.lewisham-east.2024-07-04
+E14001332,Lewisham North,lab,parl.lewisham-north.2024-07-04
+E14001333,Lewisham West and East Dulwich,lab,parl.lewisham-west-and-east-dulwich.2024-07-04
+E14001334,Leyton and Wanstead,lab,parl.leyton-and-wanstead.2024-07-04
+E14001335,Lichfield,con,parl.lichfield.2024-07-04
+E14001336,Lincoln,con,parl.lincoln.2024-07-04
+E14001337,Liverpool Garston,lab,parl.liverpool-garston.2024-07-04
+E14001338,Liverpool Riverside,lab,parl.liverpool-riverside.2024-07-04
+E14001339,Liverpool Walton,lab,parl.liverpool-walton.2024-07-04
+E14001340,Liverpool Wavertree,lab,parl.liverpool-wavertree.2024-07-04
+E14001341,Liverpool West Derby,lab,parl.liverpool-west-derby.2024-07-04
+E14001342,Loughborough,con,parl.loughborough.2024-07-04
+E14001343,Louth and Horncastle,con,parl.louth-and-horncastle.2024-07-04
+E14001344,Lowestoft,con,parl.lowestoft.2024-07-04
+E14001345,Luton North,lab,parl.luton-north.2024-07-04
+E14001346,Luton South and South Bedfordshire,lab,parl.luton-south-and-south-bedfordshire.2024-07-04
+E14001347,Macclesfield,con,parl.macclesfield.2024-07-04
+E14001348,Maidenhead,con,parl.maidenhead.2024-07-04
+E14001349,Maidstone and Malling,con,parl.maidstone-and-malling.2024-07-04
+E14001350,Makerfield,lab,parl.makerfield.2024-07-04
+E14001351,Maldon,con,parl.maldon.2024-07-04
+E14001352,Manchester Central,lab,parl.manchester-central.2024-07-04
+E14001353,Manchester Rusholme,lab,parl.manchester-rusholme.2024-07-04
+E14001354,Manchester Withington,lab,parl.manchester-withington.2024-07-04
+E14001355,Mansfield,con,parl.mansfield.2024-07-04
+E14001356,Melksham and Devizes,con,parl.melksham-and-devizes.2024-07-04
+E14001357,Melton and Syston,con,parl.melton-and-syston.2024-07-04
+E14001358,Meriden and Solihull East,con,parl.meriden-and-solihull-east.2024-07-04
+E14001359,Mid Bedfordshire,con,parl.mid-bedfordshire.2024-07-04
+E14001360,Mid Buckinghamshire,con,parl.mid-buckinghamshire.2024-07-04
+E14001361,Mid Cheshire,con,parl.mid-cheshire.2024-07-04
+E14001362,Mid Derbyshire,con,parl.mid-derbyshire.2024-07-04
+E14001363,Mid Dorset and North Poole,con,parl.mid-dorset-and-north-poole.2024-07-04
+E14001364,Mid Leicestershire,con,parl.mid-leicestershire.2024-07-04
+E14001365,Mid Norfolk,con,parl.mid-norfolk.2024-07-04
+E14001366,Mid Sussex,con,parl.mid-sussex.2024-07-04
+E14001367,Middlesbrough and Thornaby East,lab,parl.middlesbrough-and-thornaby-east.2024-07-04
+E14001368,Middlesbrough South and East Cleveland,con,parl.middlesbrough-south-and-east-cleveland.2024-07-04
+E14001369,Milton Keynes Central,con,parl.milton-keynes-central.2024-07-04
+E14001370,Milton Keynes North,con,parl.milton-keynes-north.2024-07-04
+E14001371,Mitcham and Morden,lab,parl.mitcham-and-morden.2024-07-04
+E14001372,Morecambe and Lunesdale,con,parl.morecambe-and-lunesdale.2024-07-04
+E14001373,New Forest East,con,parl.new-forest-east.2024-07-04
+E14001374,New Forest West,con,parl.new-forest-west.2024-07-04
+E14001375,Newark,con,parl.newark.2024-07-04
+E14001376,Newbury,con,parl.newbury.2024-07-04
+E14001377,Newcastle upon Tyne Central and West,lab,parl.newcastle-upon-tyne-central-and-west.2024-07-04
+E14001378,Newcastle upon Tyne East and Wallsend,lab,parl.newcastle-upon-tyne-east-and-wallsend.2024-07-04
+E14001379,Newcastle upon Tyne North,lab,parl.newcastle-upon-tyne-north.2024-07-04
+E14001380,Newcastle-under-Lyme,con,parl.newcastle-under-lyme.2024-07-04
+E14001381,Newton Abbot,con,parl.newton-abbot.2024-07-04
+E14001382,Newton Aycliffe and Spennymoor,con,parl.newton-aycliffe-and-spennymoor.2024-07-04
+E14001383,Normanton and Hemsworth,lab,parl.normanton-and-hemsworth.2024-07-04
+E14001384,North Bedfordshire,con,parl.north-bedfordshire.2024-07-04
+E14001385,North Cornwall,con,parl.north-cornwall.2024-07-04
+E14001386,North Cotswolds,con,parl.north-cotswolds.2024-07-04
+E14001387,North Devon,con,parl.north-devon.2024-07-04
+E14001388,North Dorset,con,parl.north-dorset.2024-07-04
+E14001389,North Durham,lab,parl.north-durham.2024-07-04
+E14001390,North East Cambridgeshire,con,parl.north-east-cambridgeshire.2024-07-04
+E14001391,North East Derbyshire,con,parl.north-east-derbyshire.2024-07-04
+E14001392,North East Hampshire,con,parl.north-east-hampshire.2024-07-04
+E14001393,North East Hertfordshire,con,parl.north-east-hertfordshire.2024-07-04
+E14001394,North East Somerset and Hanham,con,parl.north-east-somerset-and-hanham.2024-07-04
+E14001395,North Herefordshire,con,parl.north-herefordshire.2024-07-04
+E14001396,North Norfolk,con,parl.north-norfolk.2024-07-04
+E14001397,North Northumberland,con,parl.north-northumberland.2024-07-04
+E14001398,North Shropshire,con,parl.north-shropshire.2024-07-04
+E14001399,North Somerset,con,parl.north-somerset.2024-07-04
+E14001400,North Warwickshire and Bedworth,con,parl.north-warwickshire-and-bedworth.2024-07-04
+E14001401,North West Cambridgeshire,con,parl.north-west-cambridgeshire.2024-07-04
+E14001402,North West Essex,con,parl.north-west-essex.2024-07-04
+E14001403,North West Hampshire,con,parl.north-west-hampshire.2024-07-04
+E14001404,North West Leicestershire,con,parl.north-west-leicestershire.2024-07-04
+E14001405,North West Norfolk,con,parl.north-west-norfolk.2024-07-04
+E14001406,Northampton North,con,parl.northampton-north.2024-07-04
+E14001407,Northampton South,con,parl.northampton-south.2024-07-04
+E14001408,Norwich North,con,parl.norwich-north.2024-07-04
+E14001409,Norwich South,lab,parl.norwich-south.2024-07-04
+E14001410,Nottingham East,lab,parl.nottingham-east.2024-07-04
+E14001411,Nottingham North and Kimberley,lab,parl.nottingham-north-and-kimberley.2024-07-04
+E14001412,Nottingham South,lab,parl.nottingham-south.2024-07-04
+E14001413,Nuneaton,con,parl.nuneaton.2024-07-04
+E14001414,Old Bexley and Sidcup,con,parl.old-bexley-and-sidcup.2024-07-04
+E14001415,Oldham East and Saddleworth,lab,parl.oldham-east-and-saddleworth.2024-07-04
+E14001416,"Oldham West, Chadderton and Royton",lab,parl.oldham-west-chadderton-and-royton.2024-07-04
+E14001417,Orpington,con,parl.orpington.2024-07-04
+E14001418,Ossett and Denby Dale,con,parl.ossett-and-denby-dale.2024-07-04
+E14001419,Oxford East,lab,parl.oxford-east.2024-07-04
+E14001420,Oxford West and Abingdon,lib,parl.oxford-west-and-abingdon.2024-07-04
+E14001421,Peckham,lab,parl.peckham.2024-07-04
+E14001422,Pendle and Clitheroe,con,parl.pendle-and-clitheroe.2024-07-04
+E14001423,Penistone and Stocksbridge,con,parl.penistone-and-stocksbridge.2024-07-04
+E14001424,Penrith and Solway,con,parl.penrith-and-solway.2024-07-04
+E14001425,Peterborough,con,parl.peterborough.2024-07-04
+E14001426,Plymouth Moor View,con,parl.plymouth-moor-view.2024-07-04
+E14001427,Plymouth Sutton and Devonport,lab,parl.plymouth-sutton-and-devonport.2024-07-04
+E14001428,"Pontefract, Castleford and Knottingley",lab,parl.pontefract-castleford-and-knottingley.2024-07-04
+E14001429,Poole,con,parl.poole.2024-07-04
+E14001430,Poplar and Limehouse,lab,parl.poplar-and-limehouse.2024-07-04
+E14001431,Portsmouth North,con,parl.portsmouth-north.2024-07-04
+E14001432,Portsmouth South,lab,parl.portsmouth-south.2024-07-04
+E14001433,Preston,lab,parl.preston.2024-07-04
+E14001434,Putney,lab,parl.putney.2024-07-04
+E14001435,Queen's Park and Maida Vale,lab,parl.queens-park-and-maida-vale.2024-07-04
+E14001436,Rawmarsh and Conisbrough,lab,parl.rawmarsh-and-conisbrough.2024-07-04
+E14001437,Rayleigh and Wickford,con,parl.rayleigh-and-wickford.2024-07-04
+E14001438,Reading Central,lab,parl.reading-central.2024-07-04
+E14001439,Reading West and Mid Berkshire,con,parl.reading-west-and-mid-berkshire.2024-07-04
+E14001440,Redcar,con,parl.redcar.2024-07-04
+E14001441,Redditch,con,parl.redditch.2024-07-04
+E14001442,Reigate,con,parl.reigate.2024-07-04
+E14001443,Ribble Valley,con,parl.ribble-valley.2024-07-04
+E14001444,Richmond and Northallerton,con,parl.richmond-and-northallerton.2024-07-04
+E14001445,Richmond Park,lib,parl.richmond-park.2024-07-04
+E14001446,Rochdale,lab,parl.rochdale.2024-07-04
+E14001447,Rochester and Strood,con,parl.rochester-and-strood.2024-07-04
+E14001448,Romford,con,parl.romford.2024-07-04
+E14001449,Romsey and Southampton North,con,parl.romsey-and-southampton-north.2024-07-04
+E14001450,Rossendale and Darwen,con,parl.rossendale-and-darwen.2024-07-04
+E14001451,Rother Valley,con,parl.rother-valley.2024-07-04
+E14001452,Rotherham,lab,parl.rotherham.2024-07-04
+E14001453,Rugby,con,parl.rugby.2024-07-04
+E14001454,"Ruislip, Northwood and Pinner",con,parl.ruislip-northwood-and-pinner.2024-07-04
+E14001455,Runcorn and Helsby,lab,parl.runcorn-and-helsby.2024-07-04
+E14001456,Runnymede and Weybridge,con,parl.runnymede-and-weybridge.2024-07-04
+E14001457,Rushcliffe,con,parl.rushcliffe.2024-07-04
+E14001458,Rutland and Stamford,con,parl.rutland-and-stamford.2024-07-04
+E14001459,Salford,lab,parl.salford.2024-07-04
+E14001460,Salisbury,con,parl.salisbury.2024-07-04
+E14001461,Scarborough and Whitby,con,parl.scarborough-and-whitby.2024-07-04
+E14001462,Scunthorpe,con,parl.scunthorpe.2024-07-04
+E14001463,Sefton Central,lab,parl.sefton-central.2024-07-04
+E14001464,Selby,con,parl.selby.2024-07-04
+E14001465,Sevenoaks,con,parl.sevenoaks.2024-07-04
+E14001466,Sheffield Brightside and Hillsborough,lab,parl.sheffield-brightside-and-hillsborough.2024-07-04
+E14001467,Sheffield Central,lab,parl.sheffield-central.2024-07-04
+E14001468,Sheffield Hallam,lab,parl.sheffield-hallam.2024-07-04
+E14001469,Sheffield Heeley,lab,parl.sheffield-heeley.2024-07-04
+E14001470,Sheffield South East,lab,parl.sheffield-south-east.2024-07-04
+E14001471,Sherwood Forest,con,parl.sherwood-forest.2024-07-04
+E14001472,Shipley,con,parl.shipley.2024-07-04
+E14001473,Shrewsbury,con,parl.shrewsbury.2024-07-04
+E14001474,Sittingbourne and Sheppey,con,parl.sittingbourne-and-sheppey.2024-07-04
+E14001475,Skipton and Ripon,con,parl.skipton-and-ripon.2024-07-04
+E14001476,Sleaford and North Hykeham,con,parl.sleaford-and-north-hykeham.2024-07-04
+E14001477,Slough,lab,parl.slough.2024-07-04
+E14001478,Smethwick,lab,parl.smethwick.2024-07-04
+E14001479,Solihull West and Shirley,con,parl.solihull-west-and-shirley.2024-07-04
+E14001480,South Basildon and East Thurrock,con,parl.south-basildon-and-east-thurrock.2024-07-04
+E14001481,South Cambridgeshire,con,parl.south-cambridgeshire.2024-07-04
+E14001482,South Cotswolds,con,parl.south-cotswolds.2024-07-04
+E14001483,South Derbyshire,con,parl.south-derbyshire.2024-07-04
+E14001484,South Devon,con,parl.south-devon.2024-07-04
+E14001485,South Dorset,con,parl.south-dorset.2024-07-04
+E14001486,South East Cornwall,con,parl.south-east-cornwall.2024-07-04
+E14001487,South Holland and the Deepings,con,parl.south-holland-and-the-deepings.2024-07-04
+E14001488,South Leicestershire,con,parl.south-leicestershire.2024-07-04
+E14001489,South Norfolk,con,parl.south-norfolk.2024-07-04
+E14001490,South Northamptonshire,con,parl.south-northamptonshire.2024-07-04
+E14001491,South Ribble,con,parl.south-ribble.2024-07-04
+E14001492,South Shields,lab,parl.south-shields.2024-07-04
+E14001493,South Shropshire,con,parl.south-shropshire.2024-07-04
+E14001494,South Suffolk,con,parl.south-suffolk.2024-07-04
+E14001495,South West Devon,con,parl.south-west-devon.2024-07-04
+E14001496,South West Hertfordshire,con,parl.south-west-hertfordshire.2024-07-04
+E14001497,South West Norfolk,con,parl.south-west-norfolk.2024-07-04
+E14001498,South West Wiltshire,con,parl.south-west-wiltshire.2024-07-04
+E14001499,Southampton Itchen,con,parl.southampton-itchen.2024-07-04
+E14001500,Southampton Test,lab,parl.southampton-test.2024-07-04
+E14001501,Southend East and Rochford,con,parl.southend-east-and-rochford.2024-07-04
+E14001502,Southend West and Leigh,con,parl.southend-west-and-leigh.2024-07-04
+E14001503,Southgate and Wood Green,lab,parl.southgate-and-wood-green.2024-07-04
+E14001504,Southport,con,parl.southport.2024-07-04
+E14001505,Spelthorne,con,parl.spelthorne.2024-07-04
+E14001506,Spen Valley,con,parl.spen-valley.2024-07-04
+E14001507,St Albans,lib,parl.st-albans.2024-07-04
+E14001508,St Austell and Newquay,con,parl.st-austell-and-newquay.2024-07-04
+E14001509,St Helens North,lab,parl.st-helens-north.2024-07-04
+E14001510,St Helens South and Whiston,lab,parl.st-helens-south-and-whiston.2024-07-04
+E14001511,St Ives,con,parl.st-ives.2024-07-04
+E14001512,St Neots and Mid Cambridgeshire,con,parl.st-neots-and-mid-cambridgeshire.2024-07-04
+E14001513,Stafford,con,parl.stafford.2024-07-04
+E14001514,Staffordshire Moorlands,con,parl.staffordshire-moorlands.2024-07-04
+E14001515,Stalybridge and Hyde,lab,parl.stalybridge-and-hyde.2024-07-04
+E14001516,Stevenage,con,parl.stevenage.2024-07-04
+E14001517,Stockport,lab,parl.stockport.2024-07-04
+E14001518,Stockton North,lab,parl.stockton-north.2024-07-04
+E14001519,Stockton West,con,parl.stockton-west.2024-07-04
+E14001520,Stoke-on-Trent Central,con,parl.stoke-on-trent-central.2024-07-04
+E14001521,Stoke-on-Trent North,con,parl.stoke-on-trent-north.2024-07-04
+E14001522,Stoke-on-Trent South,con,parl.stoke-on-trent-south.2024-07-04
+E14001523,"Stone, Great Wyrley and Penkridge",con,parl.stone-great-wyrley-and-penkridge.2024-07-04
+E14001524,Stourbridge,con,parl.stourbridge.2024-07-04
+E14001525,Stratford and Bow,lab,parl.stratford-and-bow.2024-07-04
+E14001526,Stratford-on-Avon,con,parl.stratford-on-avon.2024-07-04
+E14001527,Streatham and Croydon North,lab,parl.streatham-and-croydon-north.2024-07-04
+E14001528,Stretford and Urmston,lab,parl.stretford-and-urmston.2024-07-04
+E14001529,Stroud,con,parl.stroud.2024-07-04
+E14001530,Suffolk Coastal,con,parl.suffolk-coastal.2024-07-04
+E14001531,Sunderland Central,lab,parl.sunderland-central.2024-07-04
+E14001532,Surrey Heath,con,parl.surrey-heath.2024-07-04
+E14001533,Sussex Weald,con,parl.sussex-weald.2024-07-04
+E14001534,Sutton and Cheam,con,parl.sutton-and-cheam.2024-07-04
+E14001535,Sutton Coldfield,con,parl.sutton-coldfield.2024-07-04
+E14001536,Swindon North,con,parl.swindon-north.2024-07-04
+E14001537,Swindon South,con,parl.swindon-south.2024-07-04
+E14001538,Tamworth,con,parl.tamworth.2024-07-04
+E14001539,Tatton,con,parl.tatton.2024-07-04
+E14001540,Taunton and Wellington,con,parl.taunton-and-wellington.2024-07-04
+E14001541,Telford,con,parl.telford.2024-07-04
+E14001542,Tewkesbury,con,parl.tewkesbury.2024-07-04
+E14001543,The Wrekin,con,parl.the-wrekin.2024-07-04
+E14001544,Thirsk and Malton,con,parl.thirsk-and-malton.2024-07-04
+E14001545,Thornbury and Yate,con,parl.thornbury-and-yate.2024-07-04
+E14001546,Thurrock,con,parl.thurrock.2024-07-04
+E14001547,Tipton and Wednesbury,con,parl.tipton-and-wednesbury.2024-07-04
+E14001548,Tiverton and Minehead,con,parl.tiverton-and-minehead.2024-07-04
+E14001549,Tonbridge,con,parl.tonbridge.2024-07-04
+E14001550,Tooting,lab,parl.tooting.2024-07-04
+E14001551,Torbay,con,parl.torbay.2024-07-04
+E14001552,Torridge and Tavistock,con,parl.torridge-and-tavistock.2024-07-04
+E14001553,Tottenham,lab,parl.tottenham.2024-07-04
+E14001554,Truro and Falmouth,con,parl.truro-and-falmouth.2024-07-04
+E14001555,Tunbridge Wells,con,parl.tunbridge-wells.2024-07-04
+E14001556,Twickenham,lib,parl.twickenham.2024-07-04
+E14001557,Tynemouth,lab,parl.tynemouth.2024-07-04
+E14001558,Uxbridge and South Ruislip,con,parl.uxbridge-and-south-ruislip.2024-07-04
+E14001559,Vauxhall and Camberwell Green,lab,parl.vauxhall-and-camberwell-green.2024-07-04
+E14001560,Wakefield and Rothwell,con,parl.wakefield-and-rothwell.2024-07-04
+E14001561,Wallasey,lab,parl.wallasey.2024-07-04
+E14001562,Walsall and Bloxwich,con,parl.walsall-and-bloxwich.2024-07-04
+E14001563,Walthamstow,lab,parl.walthamstow.2024-07-04
+E14001564,Warrington North,lab,parl.warrington-north.2024-07-04
+E14001565,Warrington South,lab,parl.warrington-south.2024-07-04
+E14001566,Warwick and Leamington,lab,parl.warwick-and-leamington.2024-07-04
+E14001567,Washington and Gateshead South,lab,parl.washington-and-gateshead-south.2024-07-04
+E14001568,Watford,con,parl.watford.2024-07-04
+E14001569,Waveney Valley,con,parl.waveney-valley.2024-07-04
+E14001570,Weald of Kent,con,parl.weald-of-kent.2024-07-04
+E14001571,Wellingborough and Rushden,con,parl.wellingborough-and-rushden.2024-07-04
+E14001572,Wells and Mendip Hills,con,parl.wells-and-mendip-hills.2024-07-04
+E14001573,Welwyn Hatfield,con,parl.welwyn-hatfield.2024-07-04
+E14001574,West Bromwich,con,parl.west-bromwich.2024-07-04
+E14001575,West Dorset,con,parl.west-dorset.2024-07-04
+E14001576,West Ham and Beckton,lab,parl.west-ham-and-beckton.2024-07-04
+E14001577,West Lancashire,lab,parl.west-lancashire.2024-07-04
+E14001578,West Suffolk,con,parl.west-suffolk.2024-07-04
+E14001579,West Worcestershire,con,parl.west-worcestershire.2024-07-04
+E14001580,Westmorland and Lonsdale,con,parl.westmorland-and-lonsdale.2024-07-04
+E14001581,Weston-super-Mare,con,parl.weston-super-mare.2024-07-04
+E14001582,Wetherby and Easingwold,con,parl.wetherby-and-easingwold.2024-07-04
+E14001583,Whitehaven and Workington,con,parl.whitehaven-and-workington.2024-07-04
+E14001584,Widnes and Halewood,lab,parl.widnes-and-halewood.2024-07-04
+E14001585,Wigan,lab,parl.wigan.2024-07-04
+E14001586,Wimbledon,con,parl.wimbledon.2024-07-04
+E14001587,Winchester,con,parl.winchester.2024-07-04
+E14001588,Windsor,con,parl.windsor.2024-07-04
+E14001589,Wirral West,lab,parl.wirral-west.2024-07-04
+E14001590,Witham,con,parl.witham.2024-07-04
+E14001591,Witney,con,parl.witney.2024-07-04
+E14001592,Woking,con,parl.woking.2024-07-04
+E14001593,Wokingham,con,parl.wokingham.2024-07-04
+E14001594,Wolverhampton North East,con,parl.wolverhampton-north-east.2024-07-04
+E14001595,Wolverhampton South East,lab,parl.wolverhampton-south-east.2024-07-04
+E14001596,Wolverhampton West,con,parl.wolverhampton-west.2024-07-04
+E14001597,Worcester,con,parl.worcester.2024-07-04
+E14001598,Worsley and Eccles,lab,parl.worsley-and-eccles.2024-07-04
+E14001599,Worthing West,con,parl.worthing-west.2024-07-04
+E14001600,Wycombe,con,parl.wycombe.2024-07-04
+E14001601,Wyre Forest,con,parl.wyre-forest.2024-07-04
+E14001602,Wythenshawe and Sale East,lab,parl.wythenshawe-and-sale-east.2024-07-04
+E14001603,Yeovil,con,parl.yeovil.2024-07-04
+E14001604,York Central,lab,parl.york-central.2024-07-04
+E14001605,York Outer,con,parl.york-outer.2024-07-04
+S14000006,"Ayr, Carrick and Cumnock",snp,parl.ayr-carrick-and-cumnock.2024-07-04
+S14000008,"Berwickshire, Roxburgh and Selkirk",con,parl.berwickshire-roxburgh-and-selkirk.2024-07-04
+S14000010,Central Ayrshire,snp,parl.central-ayrshire.2024-07-04
+S14000021,East Renfrewshire,snp,parl.east-renfrewshire.2024-07-04
+S14000027,Na h-Eileanan an Iar,snp,parl.na-h-eileanan-an-iar.2024-07-04
+S14000040,Kilmarnock and Loudoun,snp,parl.kilmarnock-and-loudoun.2024-07-04
+S14000045,Midlothian,snp,parl.midlothian.2024-07-04
+S14000048,North Ayrshire and Arran,snp,parl.north-ayrshire-and-arran.2024-07-04
+S14000051,Orkney and Shetland,lib,parl.orkney-and-shetland.2024-07-04
+S14000058,West Aberdeenshire and Kincardine,con,parl.west-aberdeenshire-and-kincardine.2024-07-04
+S14000060,Aberdeen North,snp,parl.aberdeen-north.2024-07-04
+S14000061,Aberdeen South,snp,parl.aberdeen-south.2024-07-04
+S14000062,Aberdeenshire North and Moray East,con,parl.aberdeenshire-north-and-moray-east.2024-07-04
+S14000063,Airdrie and Shotts,snp,parl.airdrie-and-shotts.2024-07-04
+S14000064,Alloa and Grangemouth,snp,parl.alloa-and-grangemouth.2024-07-04
+S14000065,Angus and Perthshire Glens,snp,parl.angus-and-perthshire-glens.2024-07-04
+S14000066,Arbroath and Broughty Ferry,snp,parl.arbroath-and-broughty-ferry.2024-07-04
+S14000067,"Argyll, Bute and South Lochaber",snp,parl.argyll-bute-and-south-lochaber.2024-07-04
+S14000068,Bathgate and Linlithgow,snp,parl.bathgate-and-linlithgow.2024-07-04
+S14000069,"Caithness, Sutherland and Easter Ross",snp,parl.caithness-sutherland-and-easter-ross.2024-07-04
+S14000070,Coatbridge and Bellshill,snp,parl.coatbridge-and-bellshill.2024-07-04
+S14000071,Cowdenbeath and Kirkcaldy,snp,parl.cowdenbeath-and-kirkcaldy.2024-07-04
+S14000072,Cumbernauld and Kirkintilloch,snp,parl.cumbernauld-and-kirkintilloch.2024-07-04
+S14000073,Dumfries and Galloway,con,parl.dumfries-and-galloway.2024-07-04
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",con,parl.dumfriesshire-clydesdale-and-tweeddale.2024-07-04
+S14000075,Dundee Central,snp,parl.dundee-central.2024-07-04
+S14000076,Dunfermline and Dollar,snp,parl.dunfermline-and-dollar.2024-07-04
+S14000077,East Kilbride and Strathaven,snp,parl.east-kilbride-and-strathaven.2024-07-04
+S14000078,Edinburgh East and Musselburgh,snp,parl.edinburgh-east-and-musselburgh.2024-07-04
+S14000079,Edinburgh North and Leith,snp,parl.edinburgh-north-and-leith.2024-07-04
+S14000080,Edinburgh South,lab,parl.edinburgh-south.2024-07-04
+S14000081,Edinburgh South West,snp,parl.edinburgh-south-west.2024-07-04
+S14000082,Edinburgh West,lib,parl.edinburgh-west.2024-07-04
+S14000083,Falkirk,snp,parl.falkirk.2024-07-04
+S14000084,Glasgow East,snp,parl.glasgow-east.2024-07-04
+S14000085,Glasgow North,snp,parl.glasgow-north.2024-07-04
+S14000086,Glasgow North East,snp,parl.glasgow-north-east.2024-07-04
+S14000087,Glasgow South,snp,parl.glasgow-south.2024-07-04
+S14000088,Glasgow South West,snp,parl.glasgow-south-west.2024-07-04
+S14000089,Glasgow West,snp,parl.glasgow-west.2024-07-04
+S14000090,Glenrothes and Mid Fife,snp,parl.glenrothes-and-mid-fife.2024-07-04
+S14000091,Gordon and Buchan,con,parl.gordon-and-buchan.2024-07-04
+S14000092,Hamilton and Clyde Valley,snp,parl.hamilton-and-clyde-valley.2024-07-04
+S14000093,Inverclyde and Renfrewshire West,snp,parl.inverclyde-and-renfrewshire-west.2024-07-04
+S14000094,"Inverness, Skye and West Ross-shire",snp,parl.inverness-skye-and-west-ross-shire.2024-07-04
+S14000095,Livingston,snp,parl.livingston.2024-07-04
+S14000096,Lothian East,snp,parl.lothian-east.2024-07-04
+S14000097,Mid Dunbartonshire,snp,parl.mid-dunbartonshire.2024-07-04
+S14000098,"Moray West, Nairn and Strathspey",snp,parl.moray-west-nairn-and-strathspey.2024-07-04
+S14000099,"Motherwell, Wishaw and Carluke",snp,parl.motherwell-wishaw-and-carluke.2024-07-04
+S14000100,North East Fife,snp,parl.north-east-fife.2024-07-04
+S14000101,Paisley and Renfrewshire North,snp,parl.paisley-and-renfrewshire-north.2024-07-04
+S14000102,Paisley and Renfrewshire South,snp,parl.paisley-and-renfrewshire-south.2024-07-04
+S14000103,Perth and Kinross-shire,snp,parl.perth-and-kinross-shire.2024-07-04
+S14000104,Rutherglen,snp,parl.rutherglen.2024-07-04
+S14000105,Stirling and Strathallan,snp,parl.stirling-and-strathallan.2024-07-04
+S14000106,West Dunbartonshire,snp,parl.west-dunbartonshire.2024-07-04
+W07000081,Aberafan Maesteg,lab,parl.aberafan-maesteg.2024-07-04
+W07000082,Alyn and Deeside,lab,parl.alyn-and-deeside.2024-07-04
+W07000083,Bangor Aberconwy,con,parl.bangor-aberconwy.2024-07-04
+W07000084,Blaenau Gwent and Rhymney,lab,parl.blaenau-gwent-and-rhymney.2024-07-04
+W07000085,"Brecon, Radnor and Cwm Tawe",con,parl.brecon-radnor-and-cwm-tawe.2024-07-04
+W07000086,Bridgend,con,parl.bridgend.2024-07-04
+W07000087,Caerfyrddin,con,parl.caerfyrddin.2024-07-04
+W07000088,Caerphilly,lab,parl.caerphilly.2024-07-04
+W07000089,Cardiff East,lab,parl.cardiff-east.2024-07-04
+W07000090,Cardiff North,lab,parl.cardiff-north.2024-07-04
+W07000091,Cardiff South and Penarth,lab,parl.cardiff-south-and-penarth.2024-07-04
+W07000092,Cardiff West,lab,parl.cardiff-west.2024-07-04
+W07000093,Ceredigion Preseli,pc,parl.ceredigion-preseli.2024-07-04
+W07000094,Clwyd East,con,parl.clwyd-east.2024-07-04
+W07000095,Clwyd North,con,parl.clwyd-north.2024-07-04
+W07000096,Dwyfor Meirionnydd,pc,parl.dwyfor-meirionnydd.2024-07-04
+W07000097,Gower,lab,parl.gower.2024-07-04
+W07000098,Llanelli,lab,parl.llanelli.2024-07-04
+W07000099,Merthyr Tydfil and Aberdare,lab,parl.merthyr-tydfil-and-aberdare.2024-07-04
+W07000100,Mid and South Pembrokeshire,con,parl.mid-and-south-pembrokeshire.2024-07-04
+W07000101,Monmouthshire,con,parl.monmouthshire.2024-07-04
+W07000102,Montgomeryshire and Glyndwr,con,parl.montgomeryshire-and-glyndwr.2024-07-04
+W07000103,Neath and Swansea East,lab,parl.neath-and-swansea-east.2024-07-04
+W07000104,Newport East,lab,parl.newport-east.2024-07-04
+W07000105,Newport West and Islwyn,lab,parl.newport-west-and-islwyn.2024-07-04
+W07000106,Pontypridd,lab,parl.pontypridd.2024-07-04
+W07000107,Rhondda and Ogmore,lab,parl.rhondda-and-ogmore.2024-07-04
+W07000108,Swansea West,lab,parl.swansea-west.2024-07-04
+W07000109,Torfaen,lab,parl.torfaen.2024-07-04
+W07000110,Vale of Glamorgan,con,parl.vale-of-glamorgan.2024-07-04
+W07000111,Wrexham,con,parl.wrexham.2024-07-04
+W07000112,Ynys Môn,con,parl.ynys-mon.2024-07-04
