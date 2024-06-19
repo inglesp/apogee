@@ -13,7 +13,7 @@ def parse_one(r):
         "code": r["Constituency Code"],
         "name": r["Constituency"],
         "con": r["Conservative"].rstrip("%"),
-        "grn": r["Green Party"].rstrip("%"),
+        "grn": r["The Green Party"].rstrip("%"),
         "lab": r["Labour"].rstrip("%"),
         "lib": r["Liberal Democrat"].rstrip("%"),
         "oth": r["Other"].rstrip("%"),
