@@ -23,6 +23,7 @@ model_map = {
     "ft": "FT",
     "ipsos": "Ipsos",
     "moreincommon": "More in Common",
+    "savanta": "Savanta",
     "survation": "Survation",
     "yougov": "YouGov",
 }
