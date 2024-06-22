@@ -16,28 +16,42 @@ parties = [
     "ref",
 ]
 
-model_map = {
-    "britainpredicts": "Britain Predicts",
-    "economist": "Economist",
-    "electoralcalculus": "Electoral Calculus",
-    "ft": "FT",
-    "ipsos": "Ipsos",
-    "moreincommon": "More in Common",
-    "savanta": "Savanta",
-    "survation": "Survation",
-    "yougov": "YouGov",
-}
+with open("data/constituencies.csv") as f:
+    constituencies = list(csv.DictReader(f))
 
-models = sorted(model_map)
+code_to_name = {c["code"]: c["name"] for c in constituencies}
+code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
+code_to_demo_club_code = {c["code"]: c["demo_club_code"] for c in constituencies}
 
 
 def main():
-    with open("data/constituencies.csv") as f:
-        constituencies = list(csv.DictReader(f))
+    build_predictions()
+    build_recommendations()
 
-    code_to_name = {c["code"]: c["name"] for c in constituencies}
-    code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
-    code_to_dc_id = {c["code"]: c["dc_ballot_paper_id"] for c in constituencies}
+
+def build_predictions():
+    model_map = {
+        "britainpredicts": "Britain Predicts",
+        "economist": "Economist",
+        "electoralcalculus": "Electoral Calculus",
+        "ft": "FT",
+        "ipsos": "Ipsos",
+        "moreincommon": "More in Common",
+        "savanta": "Savanta",
+        "survation": "Survation",
+        "yougov": "YouGov",
+    }
+    models = sorted(model_map)
+
+    def df_to_list_of_lists(df):
+        df = df.rename(
+            {"code": "", "name": "Constituency", "2019": "2019 (nominal)"} | model_map,
+            axis=1,
+        )
+        rv = [[""] + list(df.columns)]
+        for ix, row in df.iterrows():
+            rv.append([ix] + list(row))
+        return rv
 
     data = None
 
@@ -117,7 +131,7 @@ def main():
 
         ctx = {
             "name": code_to_name[code],
-            "dc_ballot_paper_id": code_to_dc_id[code],
+            "demo_club_code": code_to_demo_club_code[code],
             "constituency_details": df_to_list_of_lists(constituency_details),
         }
         dirpath = Path(f"outputs/constituencies/{code}")
@@ -125,15 +139,67 @@ def main():
         (dirpath / "index.html").write_text(tpl.render(ctx))
 
 
-def df_to_list_of_lists(df):
-    df = df.rename(
-        {"code": "", "name": "Constituency", "2019": "2019 (nominal)"} | model_map,
-        axis=1,
-    )
-    rv = [[""] + list(df.columns)]
-    for ix, row in df.iterrows():
-        rv.append([ix] + list(row))
-    return rv
+def build_recommendations():
+    recommender_map = {
+        "getvoting": "GetVoting",
+        "stopthetories": "StopTheTories",
+        "tacticalvote": "tactical.vote",
+    }
+    recommenders = sorted(recommender_map)
+
+    def df_to_list_of_lists(df):
+        df = df.rename(
+            {"code": "", "name": "Constituency"} | recommender_map,
+            axis=1,
+        )
+        rv = [[""] + list(df.columns)]
+        for ix, row in df.iterrows():
+            rv.append([ix] + list(row))
+        return rv
+
+    data = None
+
+    for recommender in recommenders:
+        path = sorted(Path(f"data/processed/{recommender}").glob("*/data.csv"))[-1]
+        recommender_data = pd.read_csv(path)
+        recommender_data["recommender"] = recommender
+        if data is None:
+            data = recommender_data
+        else:
+            data = pd.concat([data, recommender_data])
+
+    data = data.drop("name", axis=1)
+    recommendations = data.pivot(index="code", columns="recommender").fillna("")
+    recommendations.columns = recommendations.columns.droplevel(0)
+    recommendations.columns.name = None
+    recommendations["name"] = recommendations.index.map(code_to_name)
+    recommendations["2019"] = recommendations.index.map(code_to_2019)
+
+    def is_interesting(row):
+        recommendations = set(row[recommenders]) - {""}
+        if len(recommendations) > 1:
+            return True
+        if len(recommendations) == 1:
+            if (list(recommendations)[0] != row["2019"]) and (row["2019"] != "con"):
+                return True
+        return False
+
+    recommendations["interesting"] = recommendations.apply(
+        is_interesting, axis=1
+    ).astype(int)
+    recommendations = recommendations.sort_values("name")
+    recommendations = recommendations[["name", "2019", *recommenders, "interesting"]]
+
+    recommendations.to_csv("outputs/data/recommendations.csv")
+
+    env = Environment(loader=FileSystemLoader("."))
+
+    tpl = env.get_template("templates/tactical-voting.html")
+    ctx = {
+        "recommendations": df_to_list_of_lists(recommendations),
+    }
+    with open("outputs/tactical-voting/index.html", "w") as f:
+        f.write(tpl.render(ctx))
 
 
 if __name__ == "__main__":

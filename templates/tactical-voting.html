@@ -1,0 +1,129 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Tactical Voting Recommendations for the General Election{% endblock %}
+
+{% block extracss %}
+<style>
+table#constituencies th:nth-child(n+3),
+table#constituencies td:nth-child(n+3) {
+    width: 15%;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="alert alert-danger mt-3" role="alert">Please don't share this yet!</div>
+
+<h1 class="my-3">Aggregating *Tactical Voting Recommendations* for the General Election</h1>
+
+<div class="mt-3">
+    <input type="checkbox" class="btn-check" id="filter-toggle">
+    <label class="btn btn-outline-secondary" for="filter-toggle">Hide Boring</label>
+</div>
+
+<div class="row my-3">
+    <div class="col">
+        <input class="form-control" id="filter-search" placeholder="Search">
+    </div>
+</div>
+
+<table id="constituencies" class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            {% for header in recommendations[0][1:-1] %}
+            <th class="text-center">{{ header }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in recommendations[1:] %}
+	<tr data-interesting={{ row[-1] }}>
+            <td>{{ row[0] }}</td>
+            <td><a href="../constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
+            <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
+            {% for item in row[3:-1] %}
+            <td class="text-center party-{{ item }}">{{ item }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+
+{% block extrajs %}
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const inputSearch = document.getElementById('filter-search');
+        const checkboxToggle = document.getElementById('filter-toggle');
+        const checkboxToggleLabel = document.querySelector('label[for="filter-toggle"]');
+        const tableRows = document.querySelectorAll('table#constituencies > tbody > tr');
+
+        function loadState() {
+            const url = new URL(window.location);
+            inputSearch.value = url.searchParams.get('search');
+            checkboxToggle.checked = url.searchParams.get('hide-boring') == 'yes';
+        }
+
+        function update() {
+            let state = {
+                'search': inputSearch.value.toLowerCase(),
+                'hide-boring': checkboxToggle.checked,
+            };
+
+			if (checkboxToggle.checked) {
+					checkboxToggleLabel.textContent = "Show Boring";
+				} else {
+					checkboxToggleLabel.textContent = "Hide Boring";
+				}
+            console.log(state);
+
+            tableRows.forEach((tr) => {
+                tr.style.display = showRow(tr, state) ? '' : 'none';
+            })
+
+            let newUrl = new URL(window.location);
+
+            if (state['search'] == '') {
+                newUrl.searchParams.delete('search');
+                if (newUrl.toString() != window.location) {
+                    window.history.replaceState({}, '', newUrl);
+                }
+            } else if (state['search'] != (newUrl.searchParams.get('search') | '')) {
+                newUrl.searchParams.set('search', state['search']);
+                window.history.replaceState({}, '', newUrl);
+            }
+
+            if (state['hide-boring']) {
+                newUrl.searchParams.set('hide-boring', 'yes');
+                window.history.replaceState({}, '', newUrl);
+            } else {
+                newUrl.searchParams.delete('hide-boring');
+                window.history.replaceState({}, '', newUrl);
+            }
+        }
+
+        function showRow(tr, state) {
+            if (state['search'] != '') {
+                const code = tr.getElementsByTagName('td')[0].textContent.toLowerCase();
+                const name = tr.getElementsByTagName('td')[1].textContent.toLowerCase();
+                if (!code.includes(state['search']) & !(name.includes(state['search']))) {
+                    return false;
+                }
+            }
+            if (state['hide-boring']) {
+                if (tr.dataset['interesting'] == '0') {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        inputSearch.addEventListener('keyup', update);
+        checkboxToggle.addEventListener('click', update);
+
+        loadState();
+        update();
+    });
+</script>
+{% endblock %}
