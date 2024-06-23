@@ -144,6 +144,7 @@ def build_recommendations():
         "getvoting": "GetVoting",
         "stopthetories": "StopTheTories",
         "tacticalvote": "tactical.vote",
+        "tacticalvotecouk": "Tactical Vote",
     }
     recommenders = sorted(recommender_map)
 
@@ -219,11 +220,16 @@ def build_tv_url(recommender, code):
     if recommender == "getvoting":
         return f"https://www.getvoting.org/constituency/{code}"
     if recommender == "stopthetories":
-        slug = code_to_demo_club_code[code].split('.')[1]
+        slug = code_to_demo_club_code[code].split(".")[1]
         return f"https://stopthetories.vote/parl/{slug}"
     if recommender == "tacticalvote":
-        slug = code_to_demo_club_code[code].split('.')[1]
+        slug = code_to_demo_club_code[code].split(".")[1]
         return f"https://tactical.vote/{slug}/"
+    if recommender == "tacticalvotecouk":
+        name = code_to_name[code]
+        name = name.replace(" and ", "")
+        slug = "".join([c for c in name if c.isalpha() and c.isascii()])
+        return f"https://tacticalvote.co.uk/#{slug}"
     assert False, recommender
 
 
