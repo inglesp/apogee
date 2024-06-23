@@ -20,6 +20,7 @@ def parse(path):
                 "SNP": "snp",
                 "Heart": "",
                 "None": "?",
+                "ToughToCall": "?",
                 "": "?",
             }[r["TV Advice"]]
 

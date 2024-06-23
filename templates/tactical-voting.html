@@ -16,6 +16,32 @@ table#constituencies td:nth-child(n+3) {
 
 <h1 class="my-3">Aggregating *Tactical Voting Recommendations* for the General Election</h1>
 
+<p><a href="../..">Back to predictions</a></p>
+
+<p>This page aggregates constituency-level recommendations for tactical voting in the 2024 British general election.</p>
+
+<p>
+    A number of websites make recommendations about how to vote tactically in a constituency in order to elect a non-Conservative MP.
+    These sites don't always agree!
+    This page shows recommendations, and indicates where there is disagreement.
+</p>
+
+<p>
+    You can click "Hide Boring" to show only the seats where (a) there is disagreement about which party has the best chance of keeping the Tories out, or (b) the recommended party differs from the party that currently holds the seat.
+</p>
+
+<p>
+    An empty cell means that the website makes no recommendation in a particular constitency.
+    A question mark indicates that the website isn't yet sure what to recommend.
+</p>
+
+<p>Data is taken from:</p>
+<ul>
+    <li><a href="https://www.getvoting.org/">GetVoting (Best for Britain)</a> (before 21 June)</li>
+    <li><a href="https://stopthetories.vote/">StopTheTories</a> (22 June)</li>
+    <li><a href="https://tactical.vote/">tactical.vote</a> (before 22 June)</li>
+</ul>
+
 <div class="mt-3">
     <input type="checkbox" class="btn-check" id="filter-toggle">
     <label class="btn btn-outline-secondary" for="filter-toggle">Hide Boring</label>
@@ -31,19 +57,21 @@ table#constituencies td:nth-child(n+3) {
     <thead>
         <tr>
             <th></th>
-            {% for header in recommendations[0][1:-1] %}
+            {% for header in headers[1:] %}
             <th class="text-center">{{ header }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
-        {% for row in recommendations[1:] %}
-	<tr data-interesting={{ row[-1] }}>
-            <td>{{ row[0] }}</td>
-            <td><a href="../constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
-            <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
-            {% for item in row[3:-1] %}
-            <td class="text-center party-{{ item }}">{{ item }}</td>
+        {% for row in body %}
+	<tr data-interesting={{ row.interesting }}>
+            <td>{{ row.code }}</td>
+            <td><a href="../constituencies/{{ row.code }}">{{ row.name }}</a></td>
+            <td class="text-center border-end party-{{ row['2019'] }}">{{ row['2019'] }}</td>
+            {% for item in row.recommendations %}
+            <td class="text-center {{ item.css_class }}">
+                <a href="{{ item.url }}" target="_blank" class="d-block text-decoration-none">{{ item.party }}</a>
+            </td>
             {% endfor %}
         </tr>
         {% endfor %}

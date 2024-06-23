@@ -474,7 +474,7 @@ E14001455,Runcorn and Helsby,lab,,lab,lab,0
 E14001456,Runnymede and Weybridge,con,lab,?,lib,1
 E14001457,Rushcliffe,con,lab,lab,lab,0
 S14000104,Rutherglen,snp,lab,,,1
-E14001458,Rutland and Stamford,con,lab,lab,lab,0
+E14001458,Rutland and Stamford,con,lab,?,lab,1
 E14001459,Salford,lab,,,,0
 E14001460,Salisbury,con,lab,?,?,1
 E14001461,Scarborough and Whitby,con,lab,lab,lab,0
@@ -509,7 +509,7 @@ E14001489,South Norfolk,con,lab,lab,lab,0
 E14001490,South Northamptonshire,con,lab,lab,lab,0
 E14001491,South Ribble,con,lab,lab,lab,0
 E14001492,South Shields,lab,,lab,lab,0
-E14001493,South Shropshire,con,lab,lab,?,1
+E14001493,South Shropshire,con,lab,?,?,1
 E14001494,South Suffolk,con,lab,lab,lab,0
 E14001495,South West Devon,con,lab,lab,lab,0
 E14001496,South West Hertfordshire,con,lib,?,lab,1

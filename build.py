@@ -147,16 +147,6 @@ def build_recommendations():
     }
     recommenders = sorted(recommender_map)
 
-    def df_to_list_of_lists(df):
-        df = df.rename(
-            {"code": "", "name": "Constituency"} | recommender_map,
-            axis=1,
-        )
-        rv = [[""] + list(df.columns)]
-        for ix, row in df.iterrows():
-            rv.append([ix] + list(row))
-        return rv
-
     data = None
 
     for recommender in recommenders:
@@ -192,14 +182,49 @@ def build_recommendations():
 
     recommendations.to_csv("outputs/data/recommendations.csv")
 
+    headers = ["", "Constituency", "2019"] + [recommender_map[r] for r in recommenders]
+    body = []
+    for code, row in recommendations.iterrows():
+        body.append(
+            {
+                "code": code,
+                "name": row["name"],
+                "2019": row["2019"],
+                "recommendations": [
+                    {
+                        "party": row[r] or "&nbsp;",
+                        "css_class": f"party-{row[r]}"
+                        if row[r] in parties
+                        else "party-none",
+                        "url": build_tv_url(r, code),
+                    }
+                    for r in recommenders
+                ],
+                "interesting": row["interesting"],
+            }
+        )
+
     env = Environment(loader=FileSystemLoader("."))
 
     tpl = env.get_template("templates/tactical-voting.html")
     ctx = {
-        "recommendations": df_to_list_of_lists(recommendations),
+        "headers": headers,
+        "body": body,
     }
     with open("outputs/tactical-voting/index.html", "w") as f:
         f.write(tpl.render(ctx))
+
+
+def build_tv_url(recommender, code):
+    if recommender == "getvoting":
+        return f"https://www.getvoting.org/constituency/{code}"
+    if recommender == "stopthetories":
+        slug = code_to_demo_club_code[code].split('.')[1]
+        return f"https://stopthetories.vote/parl/{slug}"
+    if recommender == "tacticalvote":
+        slug = code_to_demo_club_code[code].split('.')[1]
+        return f"https://tactical.vote/{slug}/"
+    assert False, recommender
 
 
 if __name__ == "__main__":
