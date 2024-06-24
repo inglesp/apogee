@@ -23,26 +23,27 @@ code_to_name = {c["code"]: c["name"] for c in constituencies}
 code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
 code_to_demo_club_code = {c["code"]: c["demo_club_code"] for c in constituencies}
 
+model_map = {
+    "britainpredicts": "Britain Predicts",
+    "economist": "Economist",
+    "electoralcalculus": "Electoral Calculus",
+    "ft": "FT",
+    "ipsos": "Ipsos",
+    "moreincommon": "More in Common",
+    "savanta": "Savanta",
+    "survation": "Survation",
+    "yougov": "YouGov",
+}
+models = sorted(model_map)
+
 
 def main():
     build_predictions()
+    build_predictions_all()
     build_recommendations()
 
 
 def build_predictions():
-    model_map = {
-        "britainpredicts": "Britain Predicts",
-        "economist": "Economist",
-        "electoralcalculus": "Electoral Calculus",
-        "ft": "FT",
-        "ipsos": "Ipsos",
-        "moreincommon": "More in Common",
-        "savanta": "Savanta",
-        "survation": "Survation",
-        "yougov": "YouGov",
-    }
-    models = sorted(model_map)
-
     def df_to_list_of_lists(df):
         df = df.rename(
             {"code": "", "name": "Constituency", "2019": "2019 (nominal)"} | model_map,
@@ -137,6 +138,32 @@ def build_predictions():
         dirpath = Path(f"outputs/constituencies/{code}")
         dirpath.mkdir(parents=True, exist_ok=True)
         (dirpath / "index.html").write_text(tpl.render(ctx))
+
+
+def build_predictions_all():
+    data = None
+
+    for path in sorted(Path("data/processed").glob("*/*/data.csv")):
+        if path.parts[2] not in models:
+            continue
+        model_data = pd.read_csv(path)
+        model_data["model"] = path.parts[2]
+        model_data["scrape_date"] = path.parts[3]
+        if data is None:
+            data = model_data
+        else:
+            data = pd.concat([data, model_data])
+
+    data = data.drop("name", axis=1)
+    data = pd.melt(
+        data,
+        id_vars=["model", "scrape_date", "code"],
+        value_vars=parties,
+        var_name="party",
+        value_name="prediction",
+    )
+
+    data.to_csv("outputs/data/predictions-all.csv", index=False)
 
 
 def build_recommendations():
