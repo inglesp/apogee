@@ -27,6 +27,7 @@ model_map = {
     "britainpredicts": "Britain Predicts",
     "economist": "Economist",
     "electoralcalculus": "Electoral Calculus",
+    "focaldata": "Focaldata",
     "ft": "FT",
     "ipsos": "Ipsos",
     "moreincommon": "More in Common",
