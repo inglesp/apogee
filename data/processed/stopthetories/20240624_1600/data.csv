@@ -1,0 +1,632 @@
+code,name,recommendation
+E14001063,Aldershot,lab
+E14001064,Aldridge-Brownhills,lab
+E14001065,Altrincham and Sale West,lab
+E14001066,Amber Valley,lab
+E14001067,Arundel and South Downs,?
+E14001068,Ashfield,lab
+E14001069,Ashford,lab
+E14001070,Ashton-under-Lyne,lab
+E14001071,Aylesbury,?
+E14001072,Banbury,lab
+E14001073,Barking,
+E14001074,Barnsley North,lab
+E14001075,Barnsley South,lab
+E14001076,Barrow and Furness,lab
+E14001077,Basildon and Billericay,lab
+E14001078,Basingstoke,lab
+E14001079,Bassetlaw,lab
+E14001080,Bath,
+E14001081,Battersea,lab
+E14001082,Beaconsfield,?
+E14001083,Beckenham and Penge,lab
+E14001084,Bedford,lab
+E14001085,Bermondsey and Old Southwark,
+E14001086,Bethnal Green and Stepney,
+E14001087,Beverley and Holderness,lab
+E14001088,Bexhill and Battle,lab
+E14001089,Bexleyheath and Crayford,lab
+E14001090,Bicester and Woodstock,lib
+E14001091,Birkenhead,
+E14001092,Birmingham Edgbaston,lab
+E14001093,Birmingham Erdington,lab
+E14001094,Birmingham Hall Green and Moseley,
+E14001095,Birmingham Hodge Hill and Solihull North,
+E14001096,Birmingham Ladywood,
+E14001097,Birmingham Northfield,lab
+E14001098,Birmingham Perry Barr,
+E14001099,Birmingham Selly Oak,
+E14001100,Birmingham Yardley,lab
+E14001101,Bishop Auckland,lab
+E14001102,Blackburn,
+E14001103,Blackley and Middleton South,
+E14001104,Blackpool North and Fleetwood,lab
+E14001105,Blackpool South,lab
+E14001106,Blaydon and Consett,lab
+E14001107,Blyth and Ashington,lab
+E14001108,Bognor Regis and Littlehampton,lab
+E14001109,Bolsover,lab
+E14001110,Bolton North East,lab
+E14001111,Bolton South and Walkden,
+E14001112,Bolton West,lab
+E14001113,Bootle,
+E14001114,Boston and Skegness,lab
+E14001115,Bournemouth East,lab
+E14001116,Bournemouth West,lab
+E14001117,Bracknell,lab
+E14001118,Bradford East,
+E14001119,Bradford South,lab
+E14001120,Bradford West,
+E14001121,Braintree,lab
+E14001122,Brent East,
+E14001123,Brent West,lab
+E14001124,Brentford and Isleworth,lab
+E14001125,Brentwood and Ongar,lab
+E14001126,Bridgwater,lab
+E14001127,Bridlington and The Wolds,lab
+E14001128,Brigg and Immingham,lab
+E14001129,Brighton Kemptown and Peacehaven,
+E14001130,Brighton Pavilion,
+E14001131,Bristol Central,
+E14001132,Bristol East,
+E14001133,Bristol North East,lab
+E14001134,Bristol North West,lab
+E14001135,Bristol South,
+E14001136,Broadland and Fakenham,lab
+E14001137,Bromley and Biggin Hill,lab
+E14001138,Bromsgrove,lab
+E14001139,Broxbourne,lab
+E14001140,Broxtowe,lab
+E14001141,Buckingham and Bletchley,lab
+E14001142,Burnley,lab
+E14001143,Burton and Uttoxeter,lab
+E14001144,Bury North,lab
+E14001145,Bury South,lab
+E14001146,Bury St Edmunds and Stowmarket,lab
+E14001147,Calder Valley,lab
+E14001148,Camborne and Redruth,lab
+E14001149,Cambridge,
+E14001150,Cannock Chase,lab
+E14001151,Canterbury,lab
+E14001152,Carlisle,lab
+E14001153,Carshalton and Wallington,lib
+E14001154,Castle Point,lab
+E14001155,Central Devon,lab
+E14001156,Central Suffolk and North Ipswich,lab
+E14001157,Chatham and Aylesford,lab
+E14001158,Cheadle,lib
+E14001159,Chelmsford,lib
+E14001160,Chelsea and Fulham,lab
+E14001161,Cheltenham,lib
+E14001162,Chesham and Amersham,lib
+E14001163,Chester North and Neston,
+E14001164,Chester South and Eddisbury,lab
+E14001165,Chesterfield,lab
+E14001166,Chichester,lib
+E14001167,Chingford and Woodford Green,lab
+E14001168,Chippenham,lib
+E14001169,Chipping Barnet,lab
+E14001171,Christchurch,?
+E14001172,Cities of London and Westminster,lab
+E14001173,City of Durham,lab
+E14001174,Clacton,lab
+E14001175,Clapham and Brixton Hill,
+E14001176,Colchester,lab
+E14001177,Colne Valley,lab
+E14001178,Congleton,lab
+E14001179,Corby and East Northamptonshire,lab
+E14001180,Coventry East,lab
+E14001181,Coventry North West,lab
+E14001182,Coventry South,lab
+E14001183,Cramlington and Killingworth,lab
+E14001184,Crawley,lab
+E14001185,Crewe and Nantwich,lab
+E14001186,Croydon East,lab
+E14001187,Croydon South,lab
+E14001188,Croydon West,
+E14001189,Dagenham and Rainham,lab
+E14001190,Darlington,lab
+E14001191,Dartford,lab
+E14001192,Daventry,lab
+E14001193,Derby North,lab
+E14001194,Derby South,lab
+E14001195,Derbyshire Dales,lab
+E14001196,Dewsbury and Batley,lab
+E14001197,Didcot and Wantage,lib
+E14001198,Doncaster Central,lab
+E14001199,Doncaster East and the Isle of Axholme,lab
+E14001200,Doncaster North,lab
+E14001201,Dorking and Horley,lib
+E14001202,Dover and Deal,lab
+E14001203,Droitwich and Evesham,lab
+E14001204,Dudley,lab
+E14001205,Dulwich and West Norwood,
+E14001206,Dunstable and Leighton Buzzard,lab
+E14001207,Ealing Central and Acton,
+E14001208,Ealing North,
+E14001209,Ealing Southall,
+E14001210,Earley and Woodley,lab
+E14001211,Easington,lab
+E14001212,East Grinstead and Uckfield,?
+E14001213,East Ham,
+E14001214,East Hampshire,lib
+E14001215,East Surrey,?
+E14001216,East Thanet,lab
+E14001217,East Wiltshire,lab
+E14001218,East Worthing and Shoreham,lab
+E14001219,Eastbourne,lib
+E14001220,Eastleigh,lib
+E14001221,Edmonton and Winchmore Hill,
+E14001222,Ellesmere Port and Bromborough,
+E14001223,Eltham and Chislehurst,lab
+E14001224,Ely and East Cambridgeshire,lib
+E14001225,Enfield North,lab
+E14001226,Epping Forest,lab
+E14001227,Epsom and Ewell,lib
+E14001228,Erewash,lab
+E14001229,Erith and Thamesmead,
+E14001230,Esher and Walton,lib
+E14001231,Exeter,lab
+E14001232,Exmouth and Exeter East,?
+E14001233,Fareham and Waterlooville,?
+E14001234,Farnham and Bordon,lib
+E14001235,Faversham and Mid Kent,lab
+E14001236,Feltham and Heston,lab
+E14001237,Filton and Bradley Stoke,lab
+E14001238,Finchley and Golders Green,lab
+E14001239,Folkestone and Hythe,lab
+E14001240,Forest of Dean,lab
+E14001241,Frome and East Somerset,lib
+E14001242,Fylde,lab
+E14001243,Gainsborough,lab
+E14001244,Gateshead Central and Whickham,lab
+E14001245,Gedling,lab
+E14001246,Gillingham and Rainham,lab
+E14001247,Glastonbury and Somerton,lib
+E14001248,Gloucester,lab
+E14001249,Godalming and Ash,lib
+E14001250,Goole and Pocklington,lab
+E14001251,Gorton and Denton,
+E14001252,Gosport,lab
+E14001253,Grantham and Bourne,lab
+E14001254,Gravesham,lab
+E14001255,Great Grimsby and Cleethorpes,lab
+E14001256,Great Yarmouth,lab
+E14001257,Greenwich and Woolwich,
+E14001258,Guildford,lib
+E14001259,Hackney North and Stoke Newington,
+E14001260,Hackney South and Shoreditch,
+E14001261,Halesowen,lab
+E14001262,Halifax,lab
+E14001263,Hamble Valley,?
+E14001264,Hammersmith and Chiswick,
+E14001265,Hampstead and Highgate,
+E14001266,"Harborough, Oadby and Wigston",lab
+E14001267,Harlow,lab
+E14001268,Harpenden and Berkhamsted,lib
+E14001269,Harrogate and Knaresborough,lib
+E14001270,Harrow East,lab
+E14001271,Harrow West,lab
+E14001272,Hartlepool,lab
+E14001273,Harwich and North Essex,lab
+E14001274,Hastings and Rye,lab
+E14001275,Havant,lab
+E14001276,Hayes and Harlington,
+E14001277,Hazel Grove,lib
+E14001278,Hemel Hempstead,lab
+E14001279,Hendon,lab
+E14001280,Henley and Thame,lib
+E14001281,Hereford and South Herefordshire,lab
+E14001282,Herne Bay and Sandwich,lab
+E14001283,Hertford and Stortford,lab
+E14001284,Hertsmere,lab
+E14001285,Hexham,lab
+E14001286,Heywood and Middleton North,lab
+E14001287,High Peak,lab
+E14001288,Hinckley and Bosworth,?
+E14001289,Hitchin,lab
+E14001290,Holborn and St Pancras,
+E14001291,Honiton and Sidmouth,lib
+E14001292,Hornchurch and Upminster,lab
+E14001293,Hornsey and Friern Barnet,
+E14001294,Horsham,lib
+E14001295,Houghton and Sunderland South,lab
+E14001296,Hove and Portslade,
+E14001297,Huddersfield,lab
+E14001298,Huntingdon,lab
+E14001299,Hyndburn,lab
+E14001300,Ilford North,lab
+E14001301,Ilford South,
+E14001302,Ipswich,lab
+E14001303,Isle of Wight East,?
+E14001304,Isle of Wight West,lab
+E14001305,Islington North,
+E14001306,Islington South and Finsbury,
+E14001307,Jarrow and Gateshead East,lab
+E14001308,Keighley and Ilkley,lab
+E14001309,Kenilworth and Southam,?
+E14001310,Kensington and Bayswater,lab
+E14001311,Kettering,lab
+E14001312,Kingston and Surbiton,
+E14001313,Kingston upon Hull East,lab
+E14001314,Kingston upon Hull North and Cottingham,lab
+E14001315,Kingston upon Hull West and Haltemprice,lab
+E14001316,Kingswinford and South Staffordshire,lab
+E14001317,Knowsley,
+E14001318,Lancaster and Wyre,lab
+E14001319,Leeds Central and Headingley,
+E14001320,Leeds East,lab
+E14001321,Leeds North East,
+E14001322,Leeds North West,lab
+E14001323,Leeds South,
+E14001324,Leeds South West and Morley,lab
+E14001325,Leeds West and Pudsey,lab
+E14001326,Leicester East,lab
+E14001327,Leicester South,
+E14001328,Leicester West,lab
+E14001329,Leigh and Atherton,lab
+E14001330,Lewes,lib
+E14001331,Lewisham East,
+E14001332,Lewisham North,
+E14001333,Lewisham West and East Dulwich,
+E14001334,Leyton and Wanstead,
+E14001335,Lichfield,lab
+E14001336,Lincoln,lab
+E14001337,Liverpool Garston,
+E14001338,Liverpool Riverside,
+E14001339,Liverpool Walton,
+E14001340,Liverpool Wavertree,
+E14001341,Liverpool West Derby,
+E14001342,Loughborough,lab
+E14001343,Louth and Horncastle,lab
+E14001344,Lowestoft,lab
+E14001345,Luton North,lab
+E14001346,Luton South and South Bedfordshire,lab
+E14001347,Macclesfield,lab
+E14001348,Maidenhead,lib
+E14001349,Maidstone and Malling,lab
+E14001350,Makerfield,lab
+E14001351,Maldon,lab
+E14001352,Manchester Central,
+E14001353,Manchester Rusholme,
+E14001354,Manchester Withington,
+E14001355,Mansfield,lab
+E14001356,Melksham and Devizes,lib
+E14001357,Melton and Syston,lab
+E14001358,Meriden and Solihull East,lab
+E14001359,Mid Bedfordshire,lab
+E14001360,Mid Buckinghamshire,?
+E14001361,Mid Cheshire,lab
+E14001362,Mid Derbyshire,lab
+E14001363,Mid Dorset and North Poole,lib
+E14001364,Mid Leicestershire,lab
+E14001365,Mid Norfolk,lab
+E14001366,Mid Sussex,lib
+E14001367,Middlesbrough and Thornaby East,lab
+E14001368,Middlesbrough South and East Cleveland,lab
+E14001369,Milton Keynes Central,lab
+E14001370,Milton Keynes North,lab
+E14001371,Mitcham and Morden,
+E14001372,Morecambe and Lunesdale,lab
+E14001373,New Forest East,lab
+E14001374,New Forest West,?
+E14001375,Newark,lab
+E14001376,Newbury,lib
+E14001377,Newcastle upon Tyne Central and West,
+E14001378,Newcastle upon Tyne East and Wallsend,
+E14001379,Newcastle upon Tyne North,
+E14001380,Newcastle-under-Lyme,lab
+E14001381,Newton Abbot,?
+E14001382,Newton Aycliffe and Spennymoor,lab
+E14001383,Normanton and Hemsworth,lab
+E14001384,North Bedfordshire,lab
+E14001385,North Cornwall,lib
+E14001386,North Cotswolds,?
+E14001387,North Devon,lib
+E14001388,North Dorset,lib
+E14001389,North Durham,lab
+E14001390,North East Cambridgeshire,lab
+E14001391,North East Derbyshire,lab
+E14001392,North East Hampshire,lib
+E14001393,North East Hertfordshire,lab
+E14001394,North East Somerset and Hanham,lab
+E14001395,North Herefordshire,grn
+E14001396,North Norfolk,lib
+E14001397,North Northumberland,lab
+E14001398,North Shropshire,lib
+E14001399,North Somerset,lab
+E14001400,North Warwickshire and Bedworth,lab
+E14001401,North West Cambridgeshire,lab
+E14001402,North West Essex,lab
+E14001403,North West Hampshire,?
+E14001404,North West Leicestershire,lab
+E14001405,North West Norfolk,lab
+E14001406,Northampton North,lab
+E14001407,Northampton South,lab
+E14001408,Norwich North,lab
+E14001409,Norwich South,
+E14001410,Nottingham East,
+E14001411,Nottingham North and Kimberley,lab
+E14001412,Nottingham South,lab
+E14001413,Nuneaton,lab
+E14001414,Old Bexley and Sidcup,lab
+E14001415,Oldham East and Saddleworth,lab
+E14001416,"Oldham West, Chadderton and Royton",
+E14001417,Orpington,lab
+E14001418,Ossett and Denby Dale,lab
+E14001419,Oxford East,
+E14001420,Oxford West and Abingdon,lib
+E14001421,Peckham,
+E14001422,Pendle and Clitheroe,lab
+E14001423,Penistone and Stocksbridge,lab
+E14001424,Penrith and Solway,lab
+E14001425,Peterborough,lab
+E14001426,Plymouth Moor View,lab
+E14001427,Plymouth Sutton and Devonport,lab
+E14001428,"Pontefract, Castleford and Knottingley",lab
+E14001429,Poole,lab
+E14001430,Poplar and Limehouse,
+E14001431,Portsmouth North,lab
+E14001432,Portsmouth South,lab
+E14001433,Preston,
+E14001434,Putney,lab
+E14001435,Queen's Park and Maida Vale,
+E14001436,Rawmarsh and Conisbrough,lab
+E14001437,Rayleigh and Wickford,lab
+E14001438,Reading Central,lab
+E14001439,Reading West and Mid Berkshire,lab
+E14001440,Redcar,lab
+E14001441,Redditch,lab
+E14001442,Reigate,lab
+E14001443,Ribble Valley,lab
+E14001444,Richmond and Northallerton,lab
+E14001445,Richmond Park,
+E14001446,Rochdale,lab
+E14001447,Rochester and Strood,lab
+E14001448,Romford,lab
+E14001449,Romsey and Southampton North,lib
+E14001450,Rossendale and Darwen,lab
+E14001451,Rother Valley,lab
+E14001452,Rotherham,lab
+E14001453,Rugby,lab
+E14001454,"Ruislip, Northwood and Pinner",lab
+E14001455,Runcorn and Helsby,lab
+E14001456,Runnymede and Weybridge,?
+E14001457,Rushcliffe,lab
+E14001458,Rutland and Stamford,?
+E14001459,Salford,
+E14001460,Salisbury,?
+E14001461,Scarborough and Whitby,lab
+E14001462,Scunthorpe,lab
+E14001463,Sefton Central,
+E14001464,Selby,lab
+E14001465,Sevenoaks,lib
+E14001466,Sheffield Brightside and Hillsborough,
+E14001467,Sheffield Central,
+E14001468,Sheffield Hallam,
+E14001469,Sheffield Heeley,
+E14001470,Sheffield South East,lab
+E14001471,Sherwood Forest,lab
+E14001472,Shipley,lab
+E14001473,Shrewsbury,lab
+E14001474,Sittingbourne and Sheppey,lab
+E14001475,Skipton and Ripon,lab
+E14001476,Sleaford and North Hykeham,lab
+E14001477,Slough,lab
+E14001478,Smethwick,lab
+E14001479,Solihull West and Shirley,lab
+E14001480,South Basildon and East Thurrock,lab
+E14001481,South Cambridgeshire,lib
+E14001482,South Cotswolds,lib
+E14001483,South Derbyshire,lab
+E14001484,South Devon,lib
+E14001485,South Dorset,lab
+E14001486,South East Cornwall,lab
+E14001487,South Holland and The Deepings,lab
+E14001488,South Leicestershire,lab
+E14001489,South Norfolk,lab
+E14001490,South Northamptonshire,lab
+E14001491,South Ribble,lab
+E14001492,South Shields,lab
+E14001493,South Shropshire,?
+E14001494,South Suffolk,lab
+E14001495,South West Devon,lab
+E14001496,South West Hertfordshire,?
+E14001497,South West Norfolk,lab
+E14001498,South West Wiltshire,lab
+E14001499,Southampton Itchen,lab
+E14001500,Southampton Test,lab
+E14001501,Southend East and Rochford,lab
+E14001502,Southend West and Leigh,lab
+E14001503,Southgate and Wood Green,
+E14001504,Southport,lab
+E14001505,Spelthorne,lab
+E14001506,Spen Valley,lab
+E14001507,St Albans,lib
+E14001508,St Austell and Newquay,lab
+E14001509,St Helens North,
+E14001510,St Helens South and Whiston,
+E14001511,St Ives,lib
+E14001512,St Neots and Mid Cambridgeshire,lib
+E14001513,Stafford,lab
+E14001514,Staffordshire Moorlands,lab
+E14001515,Stalybridge and Hyde,lab
+E14001516,Stevenage,lab
+E14001517,Stockport,
+E14001518,Stockton North,lab
+E14001519,Stockton West,lab
+E14001520,Stoke-on-Trent Central,lab
+E14001521,Stoke-on-Trent North,lab
+E14001522,Stoke-on-Trent South,lab
+E14001523,"Stone, Great Wyrley and Penkridge",lab
+E14001524,Stourbridge,lab
+E14001525,Stratford and Bow,
+E14001526,Stratford-on-Avon,lib
+E14001527,Streatham and Croydon North,
+E14001528,Stretford and Urmston,
+E14001529,Stroud,lab
+E14001530,Suffolk Coastal,lab
+E14001531,Sunderland Central,lab
+E14001532,Surrey Heath,lib
+E14001533,Sussex Weald,?
+E14001534,Sutton and Cheam,lib
+E14001535,Sutton Coldfield,lab
+E14001536,Swindon North,lab
+E14001537,Swindon South,lab
+E14001538,Tamworth,lab
+E14001539,Tatton,lab
+E14001540,Taunton and Wellington,lib
+E14001541,Telford,lab
+E14001542,Tewkesbury,lib
+E14001543,The Wrekin,lab
+E14001544,Thirsk and Malton,lab
+E14001545,Thornbury and Yate,lib
+E14001546,Thurrock,lab
+E14001547,Tipton and Wednesbury,lab
+E14001548,Tiverton and Minehead,lib
+E14001549,Tonbridge,lab
+E14001550,Tooting,
+E14001551,Torbay,lib
+E14001552,Torridge and Tavistock,?
+E14001553,Tottenham,
+E14001554,Truro and Falmouth,lab
+E14001555,Tunbridge Wells,lib
+E14001556,Twickenham,
+E14001557,Tynemouth,lab
+E14001558,Uxbridge and South Ruislip,lab
+E14001559,Vauxhall and Camberwell Green,
+E14001560,Wakefield and Rothwell,lab
+E14001561,Wallasey,
+E14001562,Walsall and Bloxwich,lab
+E14001563,Walthamstow,
+E14001564,Warrington North,lab
+E14001565,Warrington South,lab
+E14001566,Warwick and Leamington,lab
+E14001567,Washington and Gateshead South,lab
+E14001568,Watford,lab
+E14001569,Waveney Valley,grn
+E14001570,Weald of Kent,lab
+E14001571,Wellingborough and Rushden,lab
+E14001572,Wells and Mendip Hills,lib
+E14001573,Welwyn Hatfield,lab
+E14001574,West Bromwich,lab
+E14001575,West Dorset,lib
+E14001576,West Ham and Beckton,
+E14001577,West Lancashire,
+E14001578,West Suffolk,lab
+E14001579,West Worcestershire,?
+E14001580,Westmorland and Lonsdale,lib
+E14001581,Weston-super-Mare,lab
+E14001582,Wetherby and Easingwold,lab
+E14001583,Whitehaven and Workington,lab
+E14001584,Widnes and Halewood,
+E14001585,Wigan,lab
+E14001586,Wimbledon,lib
+E14001587,Winchester,lib
+E14001588,Windsor,lab
+E14001589,Wirral West,lab
+E14001590,Witham,lab
+E14001591,Witney,lib
+E14001592,Woking,lib
+E14001593,Wokingham,lib
+E14001594,Wolverhampton North East,lab
+E14001595,Wolverhampton South East,lab
+E14001596,Wolverhampton West,lab
+E14001597,Worcester,lab
+E14001598,Worsley and Eccles,lab
+E14001599,Worthing West,lab
+E14001600,Wycombe,lab
+E14001601,Wyre Forest,lab
+E14001602,Wythenshawe and Sale East,
+E14001603,Yeovil,lib
+E14001604,York Central,
+E14001605,York Outer,lab
+S14000006,"Ayr, Carrick and Cumnock",snp
+S14000008,"Berwickshire, Roxburgh and Selkirk",snp
+S14000010,Central Ayrshire,snp
+S14000021,East Renfrewshire,
+S14000027,Na h-Eileanan an Iar,snp
+S14000040,Kilmarnock and Loudoun,
+S14000045,Midlothian,
+S14000048,North Ayrshire and Arran,snp
+S14000051,Orkney and Shetland,
+S14000058,West Aberdeenshire and Kincardine,snp
+S14000060,Aberdeen North,snp
+S14000061,Aberdeen South,snp
+S14000062,Aberdeenshire North and Moray East,snp
+S14000063,Airdrie and Shotts,
+S14000064,Alloa and Grangemouth,snp
+S14000065,Angus and Perthshire Glens,snp
+S14000066,Arbroath and Broughty Ferry,snp
+S14000067,"Argyll, Bute and South Lochaber",snp
+S14000068,Bathgate and Linlithgow,
+S14000069,"Caithness, Sutherland and Easter Ross",
+S14000070,Coatbridge and Bellshill,
+S14000071,Cowdenbeath and Kirkcaldy,
+S14000072,Cumbernauld and Kirkintilloch,
+S14000073,Dumfries and Galloway,snp
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",snp
+S14000075,Dundee Central,
+S14000076,Dunfermline and Dollar,
+S14000077,East Kilbride and Strathaven,
+S14000078,Edinburgh East and Musselburgh,
+S14000079,Edinburgh North and Leith,
+S14000080,Edinburgh South,
+S14000081,Edinburgh South West,snp
+S14000082,Edinburgh West,lib
+S14000083,Falkirk,
+S14000084,Glasgow East,
+S14000085,Glasgow North,
+S14000086,Glasgow North East,
+S14000087,Glasgow South,
+S14000088,Glasgow South West,
+S14000089,Glasgow West,
+S14000090,Glenrothes and Mid Fife,
+S14000091,Gordon and Buchan,snp
+S14000092,Hamilton and Clyde Valley,
+S14000093,Inverclyde and Renfrewshire West,
+S14000094,"Inverness, Skye and West Ross-shire",
+S14000095,Livingston,
+S14000096,Lothian East,
+S14000097,Mid Dunbartonshire,
+S14000098,"Moray West, Nairn and Strathspey",snp
+S14000099,"Motherwell, Wishaw and Carluke",
+S14000100,North East Fife,
+S14000101,Paisley and Renfrewshire North,
+S14000102,Paisley and Renfrewshire South,
+S14000103,Perth and Kinross-shire,snp
+S14000104,Rutherglen,
+S14000105,Stirling and Strathallan,snp
+S14000106,West Dunbartonshire,
+W07000081,Aberafan Maesteg,lab
+W07000082,Alyn and Deeside,lab
+W07000083,Bangor Aberconwy,lab
+W07000084,Blaenau Gwent and Rhymney,
+W07000085,"Brecon, Radnor and Cwm Tawe",lib
+W07000086,Bridgend,lab
+W07000087,Caerfyrddin,pc
+W07000088,Caerphilly,lab
+W07000089,Cardiff East,
+W07000090,Cardiff North,lab
+W07000091,Cardiff South and Penarth,
+W07000092,Cardiff West,lab
+W07000093,Ceredigion Preseli,pc
+W07000094,Clwyd East,lab
+W07000095,Clwyd North,lab
+W07000096,Dwyfor Meirionnydd,pc
+W07000097,Gower,lab
+W07000098,Llanelli,lab
+W07000099,Merthyr Tydfil and Aberdare,lab
+W07000100,Mid and South Pembrokeshire,lab
+W07000101,Monmouthshire,lab
+W07000102,Montgomeryshire and Glyndŵr,lab
+W07000103,Neath and Swansea East,lab
+W07000104,Newport East,lab
+W07000105,Newport West and Islwyn,lab
+W07000106,Pontypridd,lab
+W07000107,Rhondda and Ogmore,
+W07000108,Swansea West,lab
+W07000109,Torfaen,lab
+W07000110,Vale of Glamorgan,lab
+W07000111,Wrexham,lab
+W07000112,Ynys Môn,

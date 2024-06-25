@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
@@ -24,16 +25,49 @@ code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
 code_to_demo_club_code = {c["code"]: c["demo_club_code"] for c in constituencies}
 
 model_map = {
-    "britainpredicts": "Britain Predicts",
-    "economist": "Economist",
-    "electoralcalculus": "Electoral Calculus",
-    "focaldata": "Focaldata",
-    "ft": "FT",
-    "ipsos": "Ipsos",
-    "moreincommon": "More in Common",
-    "savanta": "Savanta",
-    "survation": "Survation",
-    "yougov": "YouGov",
+    "britainpredicts": {
+        "title": "Britain Predicts",
+        "full_title": "Britain Predicts (New Statesman)",
+        "url": "https://sotn.newstatesman.com/2024/05/britainpredicts",
+    },
+    "economist": {
+        "title": "Economist",
+        "full_title": "The Economist",
+        "url": "https://www.economist.com/interactive/uk-general-election/forecast",
+    },
+    "electoralcalculus": {
+        "title": "Electoral Calculus",
+        "url": "https://www.electoralcalculus.co.uk/dynamicmap.html",
+    },
+    "focaldata": {
+        "title": "Focaldata",
+        "url": "https://www.focaldata.com/blog/focaldata-prolific-uk-general-election-mrp",
+    },
+    "ft": {
+        "title": "FT",
+        "full_title": "The FT",
+        "url": "https://ig.ft.com/uk-general-election/2024/projection/",
+    },
+    "ipsos": {
+        "title": "Ipsos",
+        "url": "https://www.ipsos.com/en-uk/uk-opinion-polls/ipsos-election-mrp",
+    },
+    "moreincommon": {
+        "title": "More in Common",
+        "url": "https://www.moreincommon.org.uk/general-election-2024/mrp/",
+    },
+    "savanta": {
+        "title": "Savanta",
+        "url": "https://savanta.com/knowledge-centre/press-and-polls/mrp-model-daily-telegraph-19-june-2024/",
+    },
+    "survation": {
+        "title": "Survation",
+        "url": "https://www.survation.com/survation-mrp-labour-set-for-record-breaking-majority/",
+    },
+    "yougov": {
+        "title": "YouGov",
+        "url": "https://yougov.co.uk/politics/articles/49809",
+    },
 }
 models = sorted(model_map)
 
@@ -47,7 +81,8 @@ def main():
 def build_predictions():
     def df_to_list_of_lists(df):
         df = df.rename(
-            {"code": "", "name": "Constituency", "2019": "2019 (nominal)"} | model_map,
+            {"code": "", "name": "Constituency", "2019": "2019 (nominal)"}
+            | {k: v["title"] for k, v in model_map.items()},
             axis=1,
         )
         rv = [[""] + list(df.columns)]
@@ -59,6 +94,7 @@ def build_predictions():
 
     for model in models:
         path = sorted(Path(f"data/processed/{model}").glob("*/data.csv"))[-1]
+        model_map[model]["date"] = datetime.strptime(path.parts[-2], "%Y-%m-%d")
         model_data = pd.read_csv(path)
         model_data["model"] = model
         if data is None:
@@ -112,6 +148,7 @@ def build_predictions():
 
     tpl = env.get_template("templates/index.html")
     ctx = {
+        "models": model_map.values(),
         "parties": parties,
         "summary": df_to_list_of_lists(summary),
         "predictions": df_to_list_of_lists(predictions),
@@ -169,10 +206,23 @@ def build_predictions_all():
 
 def build_recommendations():
     recommender_map = {
-        "getvoting": "GetVoting",
-        "stopthetories": "StopTheTories",
-        "tacticalvote": "tactical.vote",
-        "tacticalvotecouk": "Tactical Vote",
+        "getvoting": {
+            "title": "GetVoting",
+            "full_title": "GetVoting (Best for Britain)",
+            "url": "https://www.getvoting.org/",
+        },
+        "stopthetories": {
+            "title": "StopTheTories",
+            "url": "https://stopthetories.vote/",
+        },
+        "tacticalvote": {
+            "title": "tactical.vote",
+            "url": "https://tactical.vote/",
+        },
+        "tacticalvotecouk": {
+            "title": "Tactical Vote",
+            "url": "https://tacticalvote.co.uk/",
+        },
     }
     recommenders = sorted(recommender_map)
 
@@ -180,6 +230,14 @@ def build_recommendations():
 
     for recommender in recommenders:
         path = sorted(Path(f"data/processed/{recommender}").glob("*/data.csv"))[-1]
+        if recommender == "stopthetories":
+            recommender_map[recommender]["date"] = datetime.strptime(
+                path.parts[-2][:8], "%Y%m%d"
+            )
+        else:
+            recommender_map[recommender]["date"] = datetime.strptime(
+                path.parts[-2], "%Y-%m-%d"
+            )
         recommender_data = pd.read_csv(path)
         recommender_data["recommender"] = recommender
         if data is None:
@@ -211,7 +269,9 @@ def build_recommendations():
 
     recommendations.to_csv("outputs/data/recommendations.csv")
 
-    headers = ["", "Constituency", "2019"] + [recommender_map[r] for r in recommenders]
+    headers = ["", "Constituency", "2019"] + [
+        recommender_map[r]["title"] for r in recommenders
+    ]
     body = []
     for code, row in recommendations.iterrows():
         body.append(
@@ -237,6 +297,7 @@ def build_recommendations():
 
     tpl = env.get_template("templates/tactical-voting.html")
     ctx = {
+        "recommenders": recommender_map.values(),
         "headers": headers,
         "body": body,
     }

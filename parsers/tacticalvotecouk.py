@@ -18,8 +18,10 @@ def parse(path):
                 "Lib Dem": "lib",
                 "Plaid Cymru": "pc",
                 "SNP": "snp",
-                "TBC Labour or Plaid Cymru": "?",
+                "Labour or Plaid Cymru": "?",
                 "TBC": "?",
+                "Not sure": "?",
+                "Not Sure": "?",
             }[r["Vote For"]]
 
             yield {

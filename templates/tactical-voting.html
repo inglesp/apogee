@@ -35,10 +35,9 @@ table#constituencies td:nth-child(n+3) {
 
 <p>Data is taken from:</p>
 <ul>
-    <li><a href="https://www.getvoting.org/">GetVoting (Best for Britain)</a> (before 21 June)</li>
-    <li><a href="https://stopthetories.vote/">StopTheTories</a> (22 June)</li>
-    <li><a href="https://tactical.vote/">tactical.vote</a> (before 22 June)</li>
-    <li><a href="https://tacticalvote.co.uk/">Tactical Vote</a> (19 June)</li>
+    {% for r in recommenders %}
+    <li><a href="{{ r['url'] }}">{{ r['full_title'] or r['title'] }}</a> ({{ r['date'].strftime('%d %B') }})</li>
+    {% endfor %}
 </ul>
 
 <div class="mt-4">
