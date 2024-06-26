@@ -54,7 +54,7 @@ table#constituencies td:nth-child(n+3) {
         {% for row in summary[1:] %}
         <tr>
             {% for item in row %}
-            <td class="text-center party-{{ row[0] }}">{{ item }}</td>
+            <td class="text-center {% if loop.index0 == 1 %}border-end {% endif %}party-{{ row[0] }}">{{ item }}</td>
             {% endfor %}
         </tr>
         {% endfor %}
