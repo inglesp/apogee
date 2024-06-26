@@ -116,8 +116,6 @@ def build_predictions():
     predictions = predictions.sort_values("name")
     predictions = predictions[["name", "2019", *models, "disagreement"]]
 
-    predictions.to_csv("outputs/data/predictions.csv")
-
     summary = (
         pd.DataFrame(
             {model: predictions[model].value_counts() for model in ["2019", *models]}
@@ -129,8 +127,6 @@ def build_predictions():
     summary = summary.sort_values("total", ascending=False)
     summary = summary[["2019", *models]]
 
-    summary.to_csv("outputs/data/summary.csv")
-
     details = (
         data.drop("prediction", axis=1)
         .melt(id_vars=["code", "model"], value_vars=parties, var_name="party")
@@ -141,8 +137,6 @@ def build_predictions():
     details["name"] = details["code"].map(code_to_name)
     details["2019"] = details["code"].map(code_to_2019)
     details = details[["code", "name", "2019", "party", *models]]
-
-    details.to_csv("outputs/data/details.csv", index=False)
 
     env = Environment(loader=FileSystemLoader("."))
 
@@ -266,8 +260,6 @@ def build_recommendations():
     ).astype(int)
     recommendations = recommendations.sort_values("name")
     recommendations = recommendations[["name", "2019", *recommenders, "interesting"]]
-
-    recommendations.to_csv("outputs/data/recommendations.csv")
 
     headers = ["", "Constituency", "2019"] + [
         recommender_map[r]["title"] for r in recommenders
