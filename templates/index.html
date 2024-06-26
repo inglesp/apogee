@@ -112,7 +112,7 @@ table#constituencies td:nth-child(n+3) {
     <thead>
         <tr>
             <th></th>
-            {% for header in predictions[0][1:-1] %}
+            {% for header in predictions[0][1:] %}
             <th class="text-center">{{ header }}</th>
             {% endfor %}
         </tr>
@@ -123,7 +123,7 @@ table#constituencies td:nth-child(n+3) {
             <td>{{ row[0] }}</td>
             <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
             <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
-            {% for item in row[3:-1] %}
+            {% for item in row[3:] %}
             <td class="text-center party-{{ item }}">{{ item }}</td>
             {% endfor %}
         </tr>

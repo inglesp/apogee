@@ -64,6 +64,10 @@ model_map = {
         "title": "Survation",
         "url": "https://www.survation.com/survation-mrp-labour-set-for-record-breaking-majority/",
     },
+    "wethink": {
+        "title": "WeThink",
+        "url": "https://wethink.report/news-hub/news/we-think-mrp-historical-low-for-the-conservatives/",
+    },
     "yougov": {
         "title": "YouGov",
         "url": "https://yougov.co.uk/politics/articles/49809",
