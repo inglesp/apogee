@@ -1,6 +1,14 @@
 {% extends "templates/base.html" %}
 
 {% block title %}Aggregating Predictions for the General Election: {{ name }}{% endblock %}
+{% block extracss %}
+<style>
+table th:nth-child(n+1),
+table td:nth-child(n+1) {
+    width: 10%;
+}
+</style>
+{% endblock %}
 
 {% block content %}
 <h1 class="my-3">{{ name }}</h1>
@@ -10,7 +18,7 @@
 <table class="table table-sm">
     <thead>
         <tr>
-            <th>Party</th>
+            <th class="text-center">Party</th>
 	    {% for header in constituency_details[0][1:] %}
             <th class="text-center">{{ header }}</th>
             {% endfor %}
@@ -19,7 +27,7 @@
     <tbody>
         {% for row in constituency_details[1:] %}
         <tr>
-            <td class="party-{{ row[0] }}">{{ row[0] }}</td>
+            <td class="party-{{ row[0] }} text-center">{{ row[0] }}</td>
             {% for item in row[1:] %}
             <td class="text-center">{{ item|round|int }}%</td>
             {% endfor %}
