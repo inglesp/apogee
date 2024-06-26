@@ -112,9 +112,8 @@ def build_predictions():
     predictions.columns.name = None
     predictions["name"] = predictions.index.map(code_to_name)
     predictions["2019"] = predictions.index.map(code_to_2019)
-    predictions["disagreement"] = (predictions[models].nunique(axis=1) > 1).astype(int)
     predictions = predictions.sort_values("name")
-    predictions = predictions[["name", "2019", *models, "disagreement"]]
+    predictions = predictions[["name", "2019", *models]]
 
     summary = (
         pd.DataFrame(
