@@ -16,6 +16,7 @@ def parse(path):
                 "Green": "grn",
                 "Labour": "lab",
                 "Liberal Democrat": "lib",
+                "Lib Dem": "lib",
                 "None": "",
                 "Not needed": "",
                 "Not sure": "?",
