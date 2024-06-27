@@ -35,6 +35,10 @@ model_map = {
         "full_title": "The Economist",
         "url": "https://www.economist.com/interactive/uk-general-election/forecast",
     },
+    "electionmaps": {
+        "title": "electionmaps",
+        "url": "https://electionmaps.uk/nowcast",
+    },
     "electoralcalculus": {
         "title": "Electoral Calculus",
         "url": "https://www.electoralcalculus.co.uk/dynamicmap.html",
