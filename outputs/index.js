@@ -1,4 +1,3 @@
-console.log("hello");
 document.addEventListener('DOMContentLoaded', (event) => {
         const parties = ["con", "grn", "lab", "lib", "oth", "pc", "snp", "ref"];
         const inputSearch = document.getElementById('filter-search');
