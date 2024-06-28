@@ -1,4 +1,5 @@
 import csv
+import shutil
 from datetime import datetime
 from pathlib import Path
 
@@ -156,6 +157,8 @@ def build_predictions():
     }
     with open("outputs/index.html", "w") as f:
         f.write(tpl.render(ctx))
+
+    shutil.copyfile("templates/index.js", "outputs/index.js")
 
     tpl = env.get_template("templates/constituency.html")
     for code in details["code"].unique():

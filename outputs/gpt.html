@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Button Group with Select</title>
+  <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <style>
+    .btn-group .form-select {
+      width: auto;
+      display: inline-block;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container mt-5">
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-primary">Button 1</button>
+    <button type="button" class="btn btn-primary">Button 2</button>
+
+    <select class="form-select btn-primary">
+      <option selected>Choose...</option>
+      <option value="1">Action 1</option>
+      <option value="2">Action 2</option>
+      <option value="3">Action 3</option>
+    </select>
+  </div>
+</div>
+
+<!-- Bootstrap JS (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>

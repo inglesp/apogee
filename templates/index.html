@@ -4,6 +4,9 @@
 
 {% block extracss %}
 <style>
+.btn {
+  padding: 0.25rem 0.5rem;
+}
 table#summary th:nth-child(n+1),
 table#summary td:nth-child(n+1) {
     width: 10%;
@@ -87,14 +90,35 @@ table#constituencies td:nth-child(n+3) {
             </div>
 
             <div class="btn-group" role="group">
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-all" checked>
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-all" value="all" checked>
                 <label class="btn btn-outline-secondary" for="prediction-type-all">All</label>
 
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-any">
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-any" value="any">
                 <label class="btn btn-outline-secondary" for="prediction-type-any">Any</label>
 
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-none">
+                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-none" value="none">
                 <label class="btn btn-outline-secondary" for="prediction-type-none">None</label>
+
+                <input type="radio" class="d-none" name="prediction-type" id="prediction-type-at-least">
+
+                <div class="btn-group" role="group">
+                    <button id="prediction-type-at-least-button" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                        At least...
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="prediction-type-at-least-button">
+                        <li><a class="dropdown-item">1</a></li>
+                        <li><a class="dropdown-item">2</a></li>
+                        <li><a class="dropdown-item">3</a></li>
+                        <li><a class="dropdown-item">4</a></li>
+                        <li><a class="dropdown-item">5</a></li>
+                        <li><a class="dropdown-item">6</a></li>
+                        <li><a class="dropdown-item">7</a></li>
+                        <li><a class="dropdown-item">8</a></li>
+                        <li><a class="dropdown-item">9</a></li>
+                        <li><a class="dropdown-item">10</a></li>
+                        <li><a class="dropdown-item">11</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -119,7 +143,7 @@ table#constituencies td:nth-child(n+3) {
     </thead>
     <tbody>
         {% for row in predictions[1:] %}
-        <tr data-2019="{{ row[2] }}" data-2024="{{ row[3:]|unique|sort|join(',') }}">
+        <tr data-2019="{{ row[2] }}" data-2024="{{ row[3:]|join(',') }}">
             <td>{{ row[0] }}</td>
             <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
             <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
@@ -133,168 +157,5 @@ table#constituencies td:nth-child(n+3) {
 {% endblock %}
 
 {% block extrajs %}
-<script>
-    // forgive my javascript: I am in a tent with no access to StackOverflow
-
-    document.addEventListener('DOMContentLoaded', (event) => {
-        const parties = {{ parties|tojson }};
-        const inputSearch = document.getElementById('filter-search');
-        const checkboxes2019 = document.querySelectorAll('.filter-2019');
-        const checkboxes2024 = document.querySelectorAll('.filter-2024');
-        const radiosPredictionType = document.querySelectorAll('.filter-prediction-type');
-        const tableRows = document.querySelectorAll('table#constituencies > tbody > tr');
-
-        function loadState() {
-            const url = new URL(window.location);
-
-            if (url.searchParams.get('search')) {
-                inputSearch.value = url.searchParams.get('search');
-            }
-
-            if (url.searchParams.get('2019')) {
-                const params2019 = url.searchParams.get('2019').split(',');
-                for (let i = 0; i < parties.length; i++) {
-                    if (params2019.includes(parties[i])) {
-                        checkboxes2019[i].checked = true;
-                    }
-                }
-            }
-            if (url.searchParams.get('2024')) {
-                const params2024 = url.searchParams.get('2024').split(',');
-                for (let i = 0; i < parties.length; i++) {
-                    if (params2024.includes(parties[i])) {
-                        checkboxes2024[i].checked = true;
-                    }
-                }
-            }
-            if (url.searchParams.get('prediction-type')) {
-                if (url.searchParams.get('prediction-type') == 'all') {
-                    document.getElementById('prediction-type-all').checked = true;
-                } else if (url.searchParams.get('prediction-type') == 'any') {
-                    document.getElementById('prediction-type-any').checked = true;
-                } else {
-                    document.getElementById('prediction-type-none').checked = true;
-                }
-            }
-        }
-
-        function update() {
-            let state = {
-                'search': inputSearch.value.toLowerCase(),
-                '2019': [],
-                '2024': [],
-                'predictionType': document.getElementById('prediction-type-all').checked ? 'all' : (document.getElementById('prediction-type-any').checked ? 'any' : 'none'),
-            };
-            for (let i = 0; i < parties.length; i++) {
-                if (checkboxes2019[i].checked) {
-                    state['2019'].push(parties[i]);
-                }
-                if (checkboxes2024[i].checked) {
-                    state['2024'].push(parties[i]);
-                }
-            }
-
-            tableRows.forEach((tr) => {
-                tr.style.display = showRow(tr, state) ? '' : 'none';
-            })
-
-            const nRows = tableRows.length;
-            let nRowsShown = 0;
-            for (let i = 0; i < tableRows.length; i++) {
-                if (tableRows[i].style.display == '') {
-                    nRowsShown++;
-                }
-            }
-
-            if (nRowsShown == nRows) {
-                document.getElementById('constituencies-summary').textContent = `all ${nRows} constituencies`;
-            } else if (nRowsShown == 1) {
-                document.getElementById('constituencies-summary').textContent = '1 matching constituency';
-            } else {
-                document.getElementById('constituencies-summary').textContent = `${nRowsShown} matching constituencies`;
-            }
-
-            let newUrl = new URL(window.location);
-
-            if (state['search'] == '') {
-                newUrl.searchParams.delete('search');
-                if (newUrl.toString() != window.location) {
-                    window.history.replaceState({}, '', newUrl);
-                }
-            } else if (state['search'] != (newUrl.searchParams.get('search') | '')) {
-                newUrl.searchParams.set('search', state['search']);
-                window.history.replaceState({}, '', newUrl);
-            }
-
-            if (state['2019'].length > 0) {
-                newUrl.searchParams.set('2019', state['2019'].join(','));
-            } else {
-                newUrl.searchParams.delete('2019');
-            }
-            if (state['2024'].length > 0) {
-                newUrl.searchParams.set('2024', state['2024'].join(','));
-            } else {
-                newUrl.searchParams.delete('2024');
-            }
-            if (state['predictionType'] == 'all') {
-                newUrl.searchParams.delete('prediction-type');
-            } else {
-                newUrl.searchParams.set('prediction-type', state['predictionType']);
-            }
-            if (newUrl.toString() != window.location) {
-                window.history.pushState({}, '', newUrl);
-            }
-        }
-
-        function showRow(tr, state) {
-            const dataset = tr.dataset;
-            const parties2019 = state['2019'];
-            const parties2024 = state['2024'];
-
-            if (state['search'] != '') {
-                const code = tr.getElementsByTagName('td')[0].textContent.toLowerCase();
-                const name = tr.getElementsByTagName('td')[1].textContent.toLowerCase();
-                if (!code.includes(state['search']) & !(name.includes(state['search']))) {
-                    return false;
-                }
-            }
-
-            if (parties2019.length > 0) {
-                if (!parties2019.includes(dataset['2019'])) {
-                    return false;
-                }
-            }
-            if (parties2024.length > 0) {
-                if (state['predictionType'] == 'all') {
-                    if (parties2024.join(',') != dataset['2024']) {
-                        return false;
-                    }
-                } else if (state['predictionType'] == 'any') {
-                    if (!parties2024.every(party => dataset['2024'].split(',').includes(party))) {
-                        return false;
-                    }
-                } else {
-                    if (parties2024.some(party => dataset['2024'].split(',').includes(party))) {
-                        return false;
-                    }
-                }
-            }
-            return true;
-        }
-
-        inputSearch.addEventListener('keyup', update);
-        checkboxes2019.forEach(cb => {
-            cb.addEventListener('change', update);
-        });
-        checkboxes2024.forEach(cb => {
-            cb.addEventListener('change', update);
-        });
-        radiosPredictionType.forEach(r => {
-            r.addEventListener('change', update);
-        });
-
-        loadState();
-        update();
-    });
-</script>
+<script src="index.js"></script>
 {% endblock %}
