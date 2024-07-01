@@ -211,13 +211,25 @@ def build_predictions():
 
     tpl = env.get_template("templates/constituency.html")
     for code in codes:
-        rows = [
-            [party]
-            + [predictions[f"vote-share-{party}"][model][code] for model in models]
-            for party in parties
+        cols = [
+            [
+                {
+                    "share": predictions[f"vote-share-{party}"][model][code],
+                    "party": party,
+                }
+                for party in parties
+            ]
+            for model in models
         ]
-        rows = [r for r in rows if sum(r[1:]) > 0]
-        rows.sort(key=lambda r: sum(r[1:]), reverse=True)
+        for col in cols:
+            shares = [item["share"] for item in col]
+            one, two = sorted(set(shares), reverse=True)[:2]
+            for item in col:
+                if item["share"] == one:
+                    item["class"] = f"party-{item['party']}"
+        rows = list(zip(*cols))
+        rows = [r for r in rows if sum(i["share"] for i in r)]
+        rows.sort(key=lambda r: r[0]["share"], reverse=True)
 
         ctx = {
             "name": code_to_name[code],
