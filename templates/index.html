@@ -34,7 +34,7 @@ table#constituencies th:nth-child(n+2) {
 <ul>
     {% for m in models %}
     <li>
-        <a href="{{ model_map[m]['url'] }}">{{ model_map[m]['full_title'] or model_map[m]['title'] }}</a>
+        <a href="{{ model_map[m]['url'] }}" target="_blank">{{ model_map[m]['full_title'] or model_map[m]['title'] }}</a>
         {% if m == '2019' %}
         (Data from Colin Rallings and Michael Thrasher)
         {% else %}
