@@ -35,11 +35,11 @@ table#constituencies th:nth-child(n+2) {
     {% for m in models %}
     <li>
         <a href="{{ model_map[m]['url'] }}">{{ model_map[m]['full_title'] or model_map[m]['title'] }}</a>
-	{% if m == '2019' %}
-	(Data from Colin Rallings and Michael Thrasher)
-	{% else %}
+        {% if m == '2019' %}
+        (Data from Colin Rallings and Michael Thrasher)
+        {% else %}
         ({{ model_map[m]['date'].strftime('%d %B') }})
-	{% endif %}
+        {% endif %}
     </li>
     {% endfor %}
 </ul>
@@ -91,7 +91,7 @@ table#constituencies th:nth-child(n+2) {
 
         <div id="show-parties" class="btn-group d-none" role="group">
         {% for party in parties %}
-	<input type="radio" class="btn-check" name="show-party" id="show-{{ party }}" value="{{ party }}"{% if party == 'con' %} checked {% endif %}>
+        <input type="radio" class="btn-check" name="show-party" id="show-{{ party }}" value="{{ party }}"{% if party == 'con' %} checked {% endif %}>
             <label class="btn btn-outline-secondary" for="show-{{ party }}">{{ party }}</label>
         {% endfor %}
         </div>
@@ -170,7 +170,7 @@ table#constituencies th:nth-child(n+2) {
             <th></th>
             <th class="text-center">Constituency</th>
             {% for m in models %}
-	    <th class="text-center" data-model="{{ m }}">{{ model_map[m]['title'] }}</th>
+            <th class="text-center" data-model="{{ m }}">{{ model_map[m]['title'] }}</th>
             {% endfor %}
         </tr>
     </thead>
@@ -178,9 +178,9 @@ table#constituencies th:nth-child(n+2) {
         {% for code in codes %}
         <tr data-constituency="{{ code }}">
             <td>{{ code }}</td>
-	    <td><a href="constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
+            <td><a href="constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
             {% for m in models %}
-	    <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
+            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             {% endfor %}
         </tr>
         {% endfor %}
