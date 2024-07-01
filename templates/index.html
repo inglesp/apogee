@@ -138,17 +138,9 @@ table#constituencies th:nth-child(n+2) {
                         At least...
                     </button>
                     <ul class="dropdown-menu" aria-labelledby="prediction-type-at-least-button">
-                        <li><a class="dropdown-item">1</a></li>
-                        <li><a class="dropdown-item">2</a></li>
-                        <li><a class="dropdown-item">3</a></li>
-                        <li><a class="dropdown-item">4</a></li>
-                        <li><a class="dropdown-item">5</a></li>
-                        <li><a class="dropdown-item">6</a></li>
-                        <li><a class="dropdown-item">7</a></li>
-                        <li><a class="dropdown-item">8</a></li>
-                        <li><a class="dropdown-item">9</a></li>
-                        <li><a class="dropdown-item">10</a></li>
-                        <li><a class="dropdown-item">11</a></li>
+                        {% for i in range(2, models|length - 1) %}
+                        <li><a class="dropdown-item">{{ i }}</a></li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>
