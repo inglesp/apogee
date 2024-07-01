@@ -139,7 +139,9 @@ def build_predictions():
 
     data = data.drop("name", axis=1)
     data = data[["code", "model", *parties]]
-    data["winner"] = data[parties].idxmax(axis=1)
+    winner = data[parties].idxmax(axis=1)
+    winner[data[parties].eq(data[parties].max(axis=1), axis=0).sum(axis=1) > 1] = "tie"
+    data["winner"] = winner
 
     def get_two_largest(row):
         largest = row.nlargest(2)
