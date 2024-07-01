@@ -9,11 +9,14 @@
 }
 table#summary th:nth-child(n+1),
 table#summary td:nth-child(n+1) {
-    width: 10%;
+    width: 10px;
 }
 table#constituencies th:nth-child(n+3),
 table#constituencies td:nth-child(n+3) {
-    width: 10%;
+    width: 10px;
+}
+table#constituencies th:nth-child(n+2) {
+    cursor: pointer;
 }
 </style>
 {% endblock %}
@@ -25,16 +28,21 @@ table#constituencies td:nth-child(n+3) {
 
 <p>This site aggregates constituency-level predictions for the 2024 British general election.</p>
 
+<p>Thrown together by <a href="https://twitter.com/inglesp">Peter Inglesby</a>.  Drop me a line: <a href="mailto:peter.inglesby@gmail.com">peter.inglesby@gmail.com</a>! Source code <a href="https://github.com/inglesp/apogee">on GitHub</a>.</p>
+
 <p>Data is taken from:<p>
 <ul>
     {% for m in models %}
-    <li><a href="{{ m['url'] }}">{{ m['full_title'] or m['title'] }}</a> ({{ m['date'].strftime('%d %B') }})</li>
+    <li>
+        <a href="{{ model_map[m]['url'] }}">{{ model_map[m]['full_title'] or model_map[m]['title'] }}</a>
+	{% if m == '2019' %}
+	(Data from Colin Rallings and Michael Thrasher)
+	{% else %}
+        ({{ model_map[m]['date'].strftime('%d %B') }})
+	{% endif %}
+    </li>
     {% endfor %}
 </ul>
-
-<p>Source code <a href="https://github.com/inglesp/apogee">on GitHub</a>.</p>
-
-<p>Thrown together by <a href="https://twitter.com/inglesp">Peter Inglesby</a>.  Drop me a line: <a href="mailto:peter.inglesby@gmail.com">peter.inglesby@gmail.com</a>!</p>
 
 <h2 class="mt-5">Summary</h2>
 
@@ -67,6 +75,30 @@ table#constituencies td:nth-child(n+3) {
 <h2 class="mt-5">Constituencies</h2>
 
 <div class="row mb-3">
+    <div class="col">
+        <div>Show predicted...</div>
+
+        <div class="btn-group" role="group">
+            <input type="radio" class="btn-check" name="show" id="show-winner" value="winner" checked>
+            <label class="btn btn-outline-secondary" for="show-winner">winner</label>
+
+            <input type="radio" class="btn-check" name="show" id="show-vote-share" value="vote-share">
+            <label class="btn btn-outline-secondary" for="show-vote-share">vote share</label>
+
+            <input type="radio" class="btn-check" name="show" id="show-majority" value="majority">
+            <label class="btn btn-outline-secondary" for="show-majority">majority</label>
+        </div>
+
+        <div id="show-parties" class="btn-group d-none" role="group">
+        {% for party in parties %}
+	<input type="radio" class="btn-check" name="show-party" id="show-{{ party }}" value="{{ party }}"{% if party == 'con' %} checked {% endif %}>
+            <label class="btn btn-outline-secondary" for="show-{{ party }}">{{ party }}</label>
+        {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
     <div class="col-12 col-lg-6">
         <div>Filter by 2019</div>
 
@@ -90,13 +122,13 @@ table#constituencies td:nth-child(n+3) {
             </div>
 
             <div class="btn-group" role="group">
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-all" value="all" checked>
+                <input type="radio" class="btn-check" name="prediction-type" id="prediction-type-all" value="all" checked>
                 <label class="btn btn-outline-secondary" for="prediction-type-all">All</label>
 
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-any" value="any">
+                <input type="radio" class="btn-check" name="prediction-type" id="prediction-type-any" value="any">
                 <label class="btn btn-outline-secondary" for="prediction-type-any">Any</label>
 
-                <input type="radio" class="btn-check filter-prediction-type" name="prediction-type" id="prediction-type-none" value="none">
+                <input type="radio" class="btn-check" name="prediction-type" id="prediction-type-none" value="none">
                 <label class="btn btn-outline-secondary" for="prediction-type-none">None</label>
 
                 <input type="radio" class="d-none" name="prediction-type" id="prediction-type-at-least">
@@ -130,25 +162,25 @@ table#constituencies td:nth-child(n+3) {
     </div>
 </div>
 
-<p class="mb-0">Showing <span id="constituencies-summary">all constituencies</span></p>
+<p id="rubric" class="mb-2">Showing <span id="show">predicted winner</span> for <span id="count">all constituencies</span></p>
 
 <table id="constituencies" class="table table-sm">
     <thead>
         <tr>
             <th></th>
-            {% for header in predictions[0][1:] %}
-            <th class="text-center">{{ header }}</th>
+            <th class="text-center">Constituency</th>
+            {% for m in models %}
+	    <th class="text-center" data-model="{{ m }}">{{ model_map[m]['title'] }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
-        {% for row in predictions[1:] %}
-        <tr data-2019="{{ row[2] }}" data-2024="{{ row[3:]|join(',') }}">
-            <td>{{ row[0] }}</td>
-            <td><a href="constituencies/{{ row[0] }}">{{ row[1] }}</a></td>
-            <td class="text-center border-end party-{{ row[2] }}">{{ row[2] }}</td>
-            {% for item in row[3:] %}
-            <td class="text-center party-{{ item }}">{{ item }}</td>
+        {% for code in codes %}
+        <tr data-constituency="{{ code }}">
+            <td>{{ code }}</td>
+	    <td><a href="constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
+            {% for m in models %}
+	    <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             {% endfor %}
         </tr>
         {% endfor %}
@@ -157,5 +189,11 @@ table#constituencies td:nth-child(n+3) {
 {% endblock %}
 
 {% block extrajs %}
+<script>
+const models = {{ json_data["models"] }};
+const parties = {{ json_data["parties"] }};
+const codeToName = {{ json_data["code_to_name"] }};
+const predictions = {{ json_data["predictions"] }};
+</script>
 <script src="index.js"></script>
 {% endblock %}

@@ -19,13 +19,13 @@ table td:nth-child(n+1) {
     <thead>
         <tr>
             <th class="text-center">Party</th>
-	    {% for header in constituency_details[0][1:] %}
-            <th class="text-center">{{ header }}</th>
+            {% for m in models %}
+	    <th class="text-center">{{ model_map[m]['title'] }}</th>
             {% endfor %}
         </tr>
     </thead>
     <tbody>
-        {% for row in constituency_details[1:] %}
+        {% for row in rows %}
         <tr>
             <td class="party-{{ row[0] }} text-center">{{ row[0] }}</td>
             {% for item in row[1:] %}

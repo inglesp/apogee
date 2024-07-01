@@ -1,5 +1,7 @@
 import csv
+import json
 import shutil
+from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
@@ -19,13 +21,20 @@ parties = [
 ]
 
 with open("data/constituencies.csv") as f:
-    constituencies = list(csv.DictReader(f))
+    constituencies = [
+        c for c in csv.DictReader(f) if c["code"] != "E14001170"
+    ]  # Chorley
 
+codes = {c["code"] for c in constituencies}
 code_to_name = {c["code"]: c["name"] for c in constituencies}
 code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
 code_to_demo_club_code = {c["code"]: c["demo_club_code"] for c in constituencies}
 
 model_map = {
+    "2019": {
+        "title": "2019 (notional)",
+        "url": "https://downloads.bbc.co.uk/news/nol/shared/spl/xls_spreadsheets/results_spreadsheet.ods",
+    },
     "britainpredicts": {
         "title": "Britain Predicts",
         "full_title": "Britain Predicts (New Statesman)",
@@ -81,6 +90,19 @@ model_map = {
 models = sorted(model_map)
 
 
+class TruncateFloatEncoder(json.JSONEncoder):
+    def encode(self, obj):
+        if isinstance(obj, float):
+            return format(obj, ".1f")
+        elif isinstance(obj, list):
+            return "[" + ", ".join(self.encode(el) for el in obj) + "]"
+        elif isinstance(obj, dict):
+            items = (self.encode(k) + ": " + self.encode(v) for k, v in obj.items())
+            return "{" + ", ".join(items) + "}"
+        else:
+            return json.JSONEncoder.encode(self, obj)
+
+
 def main():
     build_predictions()
     build_predictions_all()
@@ -112,48 +134,70 @@ def build_predictions():
             data = pd.concat([data, model_data])
 
     data = data.drop("name", axis=1)
-    data["prediction"] = data[parties].idxmax(axis=1)
+    data = data[["code", "model", *parties]]
+    data["winner"] = data[parties].idxmax(axis=1)
 
-    predictions = data[["code", "model", "prediction"]].pivot(
-        index="code", columns="model"
-    )
-    predictions.columns = predictions.columns.droplevel(0)
-    predictions.columns.name = None
-    predictions["name"] = predictions.index.map(code_to_name)
-    predictions["2019"] = predictions.index.map(code_to_2019)
-    predictions = predictions.sort_values("name")
-    predictions = predictions[["name", "2019", *models]]
+    def get_two_largest(row):
+        largest = row.nlargest(2)
+        return pd.Series({0: largest.iloc[0], 1: largest.iloc[1]})
+
+    two_largest = data[parties].apply(get_two_largest, axis=1)
+    data["votes0"] = two_largest[0]
+    data["votes1"] = two_largest[1]
+
+    def get_majority(party, row):
+        if party == row["winner"]:
+            return row[party] - row["votes1"]
+        else:
+            return row[party] - row["votes0"]
+
+    for party in parties:
+        data[f"majority-{party}"] = data.apply(
+            lambda row: get_majority(party, row), axis=1
+        )
+
+    data = data.drop(["votes0", "votes1"], axis=1)
+    data = data.pivot(index="code", columns="model")
+
+    predictions = {
+        key: {
+            model: {code: data[key][model][code] for code in codes} for model in models
+        }
+        for key in data.columns.levels[0]
+    }
+    for party in parties:
+        predictions[f"vote-share-{party}"] = predictions[party]
+        del predictions[party]
 
     summary = (
         pd.DataFrame(
-            {model: predictions[model].value_counts() for model in ["2019", *models]}
+            {model: Counter(predictions["winner"][model].values()) for model in models}
         )
         .fillna(0)
         .astype(int)
     )
     summary["total"] = summary[models].sum(axis=1)
     summary = summary.sort_values("total", ascending=False)
-    summary = summary[["2019", *models]]
-
-    details = (
-        data.drop("prediction", axis=1)
-        .melt(id_vars=["code", "model"], value_vars=parties, var_name="party")
-        .pivot_table(index=["code", "party"], columns="model")
-        .reset_index()
-    )
-    details.columns = ["code", "party"] + models
-    details["name"] = details["code"].map(code_to_name)
-    details["2019"] = details["code"].map(code_to_2019)
-    details = details[["code", "name", "2019", "party", *models]]
+    # summary = summary[["2019", *models]]
+    summary = summary[[*models]]
 
     env = Environment(loader=FileSystemLoader("."))
 
     tpl = env.get_template("templates/index.html")
     ctx = {
-        "models": model_map.values(),
+        "models": models,
+        "model_map": model_map,
         "parties": parties,
+        "code_to_name": code_to_name,
+        "codes": sorted(codes, key=lambda c: code_to_name[c]),
+        "predictions": predictions,
         "summary": df_to_list_of_lists(summary),
-        "predictions": df_to_list_of_lists(predictions),
+        "json_data": {
+            "parties": json.dumps(parties),
+            "models": json.dumps(models),
+            "code_to_name": json.dumps(code_to_name),
+            "predictions": json.dumps(predictions, cls=TruncateFloatEncoder),
+        },
     }
     with open("outputs/index.html", "w") as f:
         f.write(tpl.render(ctx))
@@ -161,21 +205,21 @@ def build_predictions():
     shutil.copyfile("templates/index.js", "outputs/index.js")
 
     tpl = env.get_template("templates/constituency.html")
-    for code in details["code"].unique():
-        constituency_details = details[details["code"] == code].set_index("party")
-        constituency_details["total"] = constituency_details[models].sum(axis=1)
-        constituency_details = constituency_details.sort_values(
-            "total", ascending=False
-        )
-        constituency_details = constituency_details[models]
-        constituency_details = constituency_details[
-            constituency_details.sum(axis=1) > 0
+    for code in codes:
+        rows = [
+            [party]
+            + [predictions[f"vote-share-{party}"][model][code] for model in models]
+            for party in parties
         ]
+        rows = [r for r in rows if sum(r[1:]) > 0]
+        rows.sort(key=lambda r: sum(r[1:]), reverse=True)
 
         ctx = {
             "name": code_to_name[code],
             "demo_club_code": code_to_demo_club_code[code],
-            "constituency_details": df_to_list_of_lists(constituency_details),
+            "models": models,
+            "model_map": model_map,
+            "rows": rows,
         }
         dirpath = Path(f"outputs/constituencies/{code}")
         dirpath.mkdir(parents=True, exist_ok=True)
