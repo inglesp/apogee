@@ -184,7 +184,6 @@ def build_predictions():
     )
     summary["total"] = summary[models].sum(axis=1)
     summary = summary.sort_values("total", ascending=False)
-    # summary = summary[["2019", *models]]
     summary = summary[[*models]]
 
     env = Environment(loader=FileSystemLoader("."))
