@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
+	const predictiveModels = models.slice(1);  // excluding 2019
+
         const rubric = document.getElementById('rubric');
         const radiosShow = document.querySelectorAll('input[name="show"]');
         const radiosShowParty = document.querySelectorAll('input[name="show-party"]');
@@ -203,22 +205,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
                 if (filter2024.size > 0) {
                         if (state['predictionType'] == 'all') {
-                                const predictions2024 = new Set(models.map(m => predictions['winner'][m][code]));
+                                const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (!setEq(filter2024, predictions2024)) {
                                         return false;
                                 }
                         } else if (state['predictionType'] == 'any') {
-                                const predictions2024 = new Set(models.map(m => predictions['winner'][m][code]));
+                                const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (!isSubset(filter2024, predictions2024)) {
                                         return false;
                                 }
                         } else if (state['predictionType'] == 'none') {
-                                const predictions2024 = new Set(models.map(m => predictions['winner'][m][code]));
+                                const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (setInt(filter2024, predictions2024).size > 0) {
                                         return false;
                                 }
                         } else {
-                                const predictions2024 = models.map(m => predictions['winner'][m][code]);
+                                const predictions2024 = predictiveModels.map(m => predictions['winner'][m][code]);
                                 const minCount = parseInt(state['predictionType'], 10);
                                 for (p of filter2024) {
                                         let c = 0;
