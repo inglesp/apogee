@@ -1,0 +1,632 @@
+gss_code,name,region,Conservative,Labour,Liberal Democrat,Green Party,Reform UK,Scottish National Party,Plaid Cymru,Other,Winner,Runner Up,Difference,Outcome,winner_2019
+E14001063,Aldershot,SE,27%,30%,17%,6%,19%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001064,Aldridge-Brownhills,WM,32%,31%,8%,3%,24%,,,,Conservative,Labour,1%,Marginal,Conservative
+E14001065,Altrincham and Sale West,NW,28%,38%,11%,4%,18%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001066,Amber Valley,EM,29%,38%,6%,5%,21%,,,,Labour,Conservative,9%,Lean Labour,Conservative
+E14001067,Arundel and South Downs,SE,29%,24%,21%,8%,17%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001068,Ashfield,EM,17%,34%,5%,4%,36%,,,4%,Reform UK,Labour,2%,Marginal,Conservative
+E14001069,Ashford,SE,27%,34%,14%,6%,19%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001070,Ashton-under-Lyne,NW,15%,53%,6%,5%,20%,,,1%,Labour,Reform UK,33%,Safe Labour,Labour
+E14001071,Aylesbury,SE,30%,24%,21%,4%,19%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001072,Banbury,SE,26%,30%,22%,5%,16%,,,1%,Labour,Conservative,4%,Marginal,Conservative
+E14001073,Barking,GL,16%,53%,6%,7%,16%,,,2%,Labour,Conservative,36%,Safe Labour,Labour
+E14001074,Barnsley North,YH,12%,43%,6%,7%,30%,,,2%,Labour,Reform UK,12%,Likely Labour,Labour
+E14001075,Barnsley South,YH,12%,50%,6%,5%,25%,,,2%,Labour,Reform UK,25%,Safe Labour,Labour
+E14001076,Barrow and Furness,NW,23%,44%,6%,4%,23%,,,1%,Labour,Reform UK,21%,Safe Labour,Conservative
+E14001077,Basildon and Billericay,EE,29%,31%,9%,5%,25%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001078,Basingstoke,SE,24%,36%,14%,6%,19%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001079,Bassetlaw,EM,29%,38%,6%,2%,23%,,,,Labour,Conservative,9%,Lean Labour,Conservative
+E14001080,Bath,SW,18%,19%,47%,5%,10%,,,0%,Liberal Democrat,Labour,29%,Safe Liberal Democrat,Liberal Democrat
+E14001081,Battersea,GL,18%,50%,12%,6%,11%,,,3%,Labour,Conservative,31%,Safe Labour,Labour
+E14001082,Beaconsfield,SE,36%,26%,9%,5%,21%,,,4%,Conservative,Labour,11%,Likely Conservative,Conservative
+E14001083,Beckenham and Penge,GL,21%,41%,12%,6%,18%,,,,Labour,Conservative,21%,Safe Labour,Labour
+E14001084,Bedford,EE,22%,45%,11%,5%,16%,,,2%,Labour,Conservative,22%,Safe Labour,Labour
+E14001085,Bermondsey and Old Southwark,GL,12%,45%,29%,6%,7%,,,2%,Labour,Liberal Democrat,16%,Safe Labour,Labour
+E14001086,Bethnal Green and Stepney,GL,7%,64%,10%,6%,9%,,,3%,Labour,Liberal Democrat,54%,Safe Labour,Labour
+E14001087,Beverley and Holderness,YH,32%,33%,10%,6%,18%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001088,Bexhill and Battle,SE,33%,27%,14%,5%,20%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001089,Bexleyheath and Crayford,GL,27%,34%,9%,5%,23%,,,,Labour,Conservative,7%,Lean Labour,Conservative
+E14001090,Bicester and Woodstock,SE,26%,24%,24%,5%,20%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001091,Birkenhead,NW,9%,57%,7%,9%,17%,,,1%,Labour,Reform UK,40%,Safe Labour,Labour
+E14001092,Birmingham Edgbaston,WM,23%,45%,8%,6%,15%,,,2%,Labour,Conservative,22%,Safe Labour,Labour
+E14001093,Birmingham Erdington,WM,23%,46%,6%,4%,19%,,,1%,Labour,Conservative,23%,Safe Labour,Labour
+E14001094,Birmingham Hall Green and Moseley,WM,10%,60%,8%,8%,12%,,,3%,Labour,Reform UK,48%,Safe Labour,Labour
+E14001095,Birmingham Hodge Hill and Solihull North,WM,15%,48%,6%,7%,21%,,,2%,Labour,Reform UK,27%,Safe Labour,Labour
+E14001096,Birmingham Ladywood,WM,7%,68%,6%,7%,10%,,,2%,Labour,Reform UK,59%,Safe Labour,Labour
+E14001097,Birmingham Northfield,WM,23%,44%,7%,5%,20%,,,1%,Labour,Conservative,21%,Safe Labour,Conservative
+E14001098,Birmingham Perry Barr,WM,13%,58%,8%,7%,12%,,,2%,Labour,Conservative,44%,Safe Labour,Labour
+E14001099,Birmingham Selly Oak,WM,18%,50%,8%,6%,16%,,,2%,Labour,Conservative,32%,Safe Labour,Labour
+E14001100,Birmingham Yardley,WM,15%,51%,9%,5%,18%,,,3%,Labour,Reform UK,33%,Safe Labour,Labour
+E14001101,Bishop Auckland,NE,22%,41%,5%,4%,26%,,,1%,Labour,Reform UK,15%,Safe Labour,Conservative
+E14001102,Blackburn,NW,14%,57%,5%,4%,18%,,,2%,Labour,Reform UK,39%,Safe Labour,Labour
+E14001103,Blackley and Middleton South,NW,18%,56%,5%,4%,16%,,,,Labour,Conservative,38%,Safe Labour,Labour
+E14001104,Blackpool North and Fleetwood,NW,22%,47%,5%,4%,20%,,,1%,Labour,Conservative,25%,Safe Labour,Conservative
+E14001105,Blackpool South,NW,23%,42%,6%,3%,26%,,,1%,Labour,Reform UK,16%,Safe Labour,Conservative
+E14001106,Blaydon and Consett,NE,15%,48%,7%,7%,22%,,,1%,Labour,Reform UK,26%,Safe Labour,Labour
+E14001107,Blyth and Ashington,NE,19%,49%,7%,4%,19%,,,,Labour,Reform UK,30%,Safe Labour,Labour
+E14001108,Bognor Regis and Littlehampton,SE,32%,28%,13%,4%,23%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001109,Bolsover,EM,25%,40%,5%,4%,25%,,,,Labour,Reform UK,15%,Likely Labour,Conservative
+E14001110,Bolton North East,NW,25%,43%,6%,4%,22%,,,1%,Labour,Conservative,19%,Safe Labour,Conservative
+E14001111,Bolton South and Walkden,NW,17%,56%,5%,4%,16%,,,2%,Labour,Conservative,39%,Safe Labour,Labour
+E14001112,Bolton West,NW,27%,40%,7%,4%,21%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001113,Bootle,NW,5%,73%,5%,5%,11%,,,1%,Labour,Reform UK,62%,Safe Labour,Labour
+E14001114,Boston and Skegness,EM,37%,22%,5%,2%,32%,,,1%,Conservative,Reform UK,5%,Lean Conservative,Conservative
+E14001115,Bournemouth East,SW,28%,35%,13%,5%,17%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001116,Bournemouth West,SW,25%,34%,12%,7%,20%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001117,Bracknell,SE,23%,34%,14%,6%,22%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001118,Bradford East,YH,16%,53%,10%,5%,15%,,,2%,Labour,Conservative,37%,Safe Labour,Labour
+E14001119,Bradford South,YH,20%,46%,7%,7%,18%,,,2%,Labour,Conservative,25%,Safe Labour,Labour
+E14001120,Bradford West,YH,11%,59%,6%,7%,13%,,,4%,Labour,Reform UK,47%,Safe Labour,Labour
+E14001121,Braintree,EE,33%,28%,12%,3%,23%,,,1%,Conservative,Labour,5%,Marginal,Conservative
+E14001122,Brent East,GL,17%,54%,10%,9%,9%,,,2%,Labour,Conservative,37%,Safe Labour,Labour
+E14001123,Brent West,GL,22%,48%,10%,6%,12%,,,2%,Labour,Conservative,25%,Safe Labour,Labour
+E14001124,Brentford and Isleworth,GL,19%,47%,14%,7%,11%,,,2%,Labour,Conservative,28%,Safe Labour,Labour
+E14001125,Brentwood and Ongar,EE,33%,26%,14%,5%,22%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001126,Bridgwater,SW,26%,31%,17%,4%,21%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001127,Bridlington and The Wolds,YH,32%,29%,10%,5%,23%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001128,Brigg and Immingham,YH,35%,28%,8%,4%,24%,,,,Conservative,Labour,8%,Lean Conservative,Conservative
+E14001129,Brighton Kemptown and Peacehaven,SE,25%,53%,11%,10%,,,,1%,Labour,Conservative,27%,Safe Labour,Labour
+E14001130,Brighton Pavilion,SE,12%,10%,6%,58%,11%,,,2%,Green Party,Conservative,46%,Other,Green Party
+E14001131,Bristol Central,SW,9%,47%,6%,29%,7%,,,3%,Labour,Green Party,18%,Safe Labour,Labour
+E14001132,Bristol East,SW,19%,55%,10%,14%,,,,2%,Labour,Conservative,36%,Safe Labour,Labour
+E14001133,Bristol North East,SW,17%,50%,7%,9%,15%,,,2%,Labour,Conservative,32%,Safe Labour,Labour
+E14001134,Bristol North West,SW,21%,47%,9%,10%,12%,,,1%,Labour,Conservative,26%,Safe Labour,Labour
+E14001135,Bristol South,SW,14%,50%,8%,9%,18%,,,1%,Labour,Reform UK,32%,Safe Labour,Labour
+E14001136,Broadland and Fakenham,EE,29%,31%,13%,4%,22%,,,,Labour,Conservative,1%,Marginal,Conservative
+E14001137,Bromley and Biggin Hill,GL,27%,33%,17%,5%,17%,,,1%,Labour,Conservative,6%,Lean Labour,Conservative
+E14001138,Bromsgrove,WM,28%,29%,15%,5%,22%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001139,Broxbourne,EE,29%,30%,11%,4%,24%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001140,Broxtowe,EM,26%,37%,4%,5%,26%,,,2%,Labour,Reform UK,10%,Likely Labour,Conservative
+E14001141,Buckingham and Bletchley,SE,28%,31%,16%,4%,20%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001142,Burnley,NW,20%,45%,9%,3%,22%,,,2%,Labour,Reform UK,24%,Safe Labour,Conservative
+E14001143,Burton and Uttoxeter,WM,28%,36%,8%,5%,21%,,,2%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001144,Bury North,NW,23%,49%,6%,3%,19%,,,1%,Labour,Conservative,26%,Safe Labour,Conservative
+E14001145,Bury South,NW,26%,41%,8%,4%,19%,,,1%,Labour,Conservative,14%,Likely Labour,Conservative
+E14001146,Bury St Edmunds and Stowmarket,EE,30%,28%,6%,12%,24%,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001147,Calder Valley,YH,26%,42%,7%,5%,18%,,,1%,Labour,Conservative,17%,Safe Labour,Conservative
+E14001148,Camborne and Redruth,SW,24%,38%,10%,6%,21%,,,1%,Labour,Conservative,14%,Likely Labour,Conservative
+E14001149,Cambridge,EE,12%,53%,26%,8%,,,,1%,Labour,Liberal Democrat,27%,Safe Labour,Labour
+E14001150,Cannock Chase,WM,32%,32%,4%,6%,24%,,,,Conservative,Labour,0%,Marginal,Conservative
+E14001151,Canterbury,SE,25%,44%,9%,5%,16%,,,1%,Labour,Conservative,19%,Safe Labour,Labour
+E14001152,Carlisle,NW,28%,40%,8%,3%,20%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001153,Carshalton and Wallington,GL,18%,21%,41%,4%,15%,,,1%,Liberal Democrat,Labour,21%,Safe Liberal Democrat,Conservative
+E14001154,Castle Point,EE,37%,28%,7%,2%,25%,,,,Conservative,Labour,9%,Lean Conservative,Conservative
+E14001155,Central Devon,SW,29%,31%,15%,6%,18%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001156,Central Suffolk and North Ipswich,EE,29%,32%,10%,7%,22%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001157,Chatham and Aylesford,SE,30%,33%,9%,4%,23%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001158,Cheadle,NW,23%,20%,40%,2%,14%,,,1%,Liberal Democrat,Conservative,18%,Safe Liberal Democrat,Conservative
+E14001159,Chelmsford,EE,27%,26%,27%,4%,17%,,,1%,Liberal Democrat,Conservative,0%,Marginal,Conservative
+E14001160,Chelsea and Fulham,GL,28%,32%,22%,4%,12%,,,2%,Labour,Conservative,4%,Marginal,Conservative
+E14001161,Cheltenham,SW,28%,14%,53%,5%,,,,0%,Liberal Democrat,Conservative,25%,Safe Liberal Democrat,Conservative
+E14001162,Chesham and Amersham,SE,24%,20%,31%,5%,18%,,,1%,Liberal Democrat,Conservative,7%,Lean Liberal Democrat,Conservative
+E14001163,Chester North and Neston,NW,22%,48%,9%,4%,16%,,,1%,Labour,Conservative,25%,Safe Labour,Labour
+E14001164,Chester South and Eddisbury,NW,30%,33%,15%,4%,18%,,,,Labour,Conservative,3%,Marginal,Conservative
+E14001165,Chesterfield,EM,20%,44%,8%,5%,22%,,,1%,Labour,Reform UK,22%,Safe Labour,Labour
+E14001166,Chichester,SE,32%,22%,24%,6%,15%,,,1%,Conservative,Liberal Democrat,9%,Lean Conservative,Conservative
+E14001167,Chingford and Woodford Green,GL,27%,42%,7%,4%,16%,,,3%,Labour,Conservative,15%,Safe Labour,Conservative
+E14001168,Chippenham,SW,26%,19%,34%,4%,18%,,,1%,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001169,Chipping Barnet,GL,28%,41%,11%,4%,13%,,,3%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001171,Christchurch,SW,29%,21%,25%,4%,21%,,,1%,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001172,Cities of London and Westminster,GL,28%,32%,26%,4%,9%,,,2%,Labour,Conservative,4%,Marginal,Conservative
+E14001173,City of Durham,NE,20%,38%,15%,6%,20%,,,1%,Labour,Reform UK,18%,Safe Labour,Labour
+E14001174,Clacton,EE,29%,22%,7%,3%,37%,,,1%,Reform UK,Conservative,8%,Lean Reform UK,Conservative
+E14001175,Clapham and Brixton Hill,GL,13%,51%,15%,9%,9%,,,2%,Labour,Liberal Democrat,36%,Safe Labour,Labour
+E14001176,Colchester,EE,27%,35%,14%,6%,17%,,,1%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001177,Colne Valley,YH,24%,43%,8%,5%,18%,,,1%,Labour,Conservative,19%,Safe Labour,Conservative
+E14001178,Congleton,NW,30%,35%,10%,4%,19%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001179,Corby and East Northamptonshire,EM,25%,43%,8%,3%,20%,,,1%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001180,Coventry East,WM,16%,53%,7%,5%,17%,,,2%,Labour,Reform UK,36%,Safe Labour,Labour
+E14001181,Coventry North West,WM,19%,47%,8%,6%,18%,,,2%,Labour,Conservative,28%,Safe Labour,Labour
+E14001182,Coventry South,WM,26%,41%,9%,6%,16%,,,2%,Labour,Conservative,15%,Safe Labour,Labour
+E14001183,Cramlington and Killingworth,NE,20%,49%,7%,4%,19%,,,1%,Labour,Conservative,29%,Safe Labour,Labour
+E14001184,Crawley,SE,24%,38%,9%,5%,21%,,,2%,Labour,Conservative,15%,Likely Labour,Conservative
+E14001185,Crewe and Nantwich,NW,24%,41%,8%,4%,22%,,,1%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001186,Croydon East,GL,24%,45%,9%,6%,15%,,,,Labour,Conservative,21%,Safe Labour,Labour
+E14001187,Croydon South,GL,29%,31%,18%,6%,16%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001188,Croydon West,GL,15%,57%,8%,9%,10%,,,1%,Labour,Conservative,42%,Safe Labour,Labour
+E14001189,Dagenham and Rainham,GL,20%,46%,7%,6%,18%,,,3%,Labour,Conservative,26%,Safe Labour,Labour
+E14001190,Darlington,NE,26%,41%,7%,4%,21%,,,,Labour,Conservative,15%,Likely Labour,Conservative
+E14001191,Dartford,SE,29%,34%,10%,5%,21%,,,,Labour,Conservative,5%,Marginal,Conservative
+E14001192,Daventry,EM,33%,28%,13%,6%,19%,,,,Conservative,Labour,4%,Marginal,Conservative
+E14001193,Derby North,EM,27%,42%,8%,4%,18%,,,,Labour,Conservative,15%,Likely Labour,Conservative
+E14001194,Derby South,EM,25%,46%,7%,4%,16%,,,2%,Labour,Conservative,21%,Safe Labour,Labour
+E14001195,Derbyshire Dales,EM,35%,32%,11%,5%,16%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001196,Dewsbury and Batley,YH,14%,54%,5%,6%,19%,,,3%,Labour,Reform UK,36%,Safe Labour,Labour
+E14001197,Didcot and Wantage,SE,22%,23%,32%,4%,18%,,,1%,Liberal Democrat,Labour,8%,Lean Liberal Democrat,Conservative
+E14001198,Doncaster Central,YH,21%,37%,6%,4%,30%,,,2%,Labour,Reform UK,7%,Lean Labour,Labour
+E14001199,Doncaster East and the Isle of Axholme,YH,25%,37%,6%,5%,26%,,,1%,Labour,Reform UK,11%,Likely Labour,Conservative
+E14001200,Doncaster North,YH,29%,48%,11%,10%,,,,2%,Labour,Conservative,19%,Safe Labour,Labour
+E14001201,Dorking and Horley,SE,28%,18%,29%,6%,18%,,,,Liberal Democrat,Conservative,1%,Marginal,Conservative
+E14001202,Dover and Deal,SE,29%,35%,9%,4%,23%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001203,Droitwich and Evesham,WM,33%,27%,12%,6%,20%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001204,Dudley,WM,33%,33%,6%,5%,22%,,,1%,Conservative,Labour,0%,Marginal,Conservative
+E14001205,Dulwich and West Norwood,GL,9%,56%,4%,21%,8%,,,2%,Labour,Green Party,36%,Safe Labour,Labour
+E14001206,Dunstable and Leighton Buzzard,EE,25%,34%,13%,5%,22%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001207,Ealing Central and Acton,GL,16%,50%,16%,8%,8%,,,2%,Labour,Conservative,34%,Safe Labour,Labour
+E14001208,Ealing North,GL,21%,51%,8%,7%,11%,,,2%,Labour,Conservative,30%,Safe Labour,Labour
+E14001209,Ealing Southall,GL,17%,54%,11%,7%,10%,,,2%,Labour,Conservative,37%,Safe Labour,Labour
+E14001210,Earley and Woodley,SE,32%,38%,22%,8%,,,,1%,Labour,Conservative,6%,Lean Labour,Conservative
+E14001211,Easington,NE,13%,51%,7%,3%,24%,,,1%,Labour,Reform UK,27%,Safe Labour,Labour
+E14001212,East Grinstead and Uckfield,SE,32%,26%,32%,9%,,,,1%,Liberal Democrat,Conservative,1%,Marginal,Conservative
+E14001213,East Ham,GL,11%,62%,6%,8%,11%,,,3%,Labour,Conservative,51%,Safe Labour,Labour
+E14001214,East Hampshire,SE,28%,22%,26%,6%,17%,,,1%,Conservative,Liberal Democrat,2%,Marginal,Conservative
+E14001215,East Surrey,SE,30%,20%,23%,6%,20%,,,1%,Conservative,Liberal Democrat,7%,Lean Conservative,Conservative
+E14001216,East Thanet,SE,26%,41%,7%,5%,20%,,,1%,Labour,Conservative,15%,Likely Labour,Conservative
+E14001217,East Wiltshire,SW,33%,25%,16%,5%,20%,,,1%,Conservative,Labour,8%,Lean Conservative,Conservative
+E14001218,East Worthing and Shoreham,SE,23%,42%,8%,6%,20%,,,1%,Labour,Conservative,20%,Safe Labour,Conservative
+E14001219,Eastbourne,SE,22%,14%,46%,2%,15%,,,0%,Liberal Democrat,Conservative,23%,Safe Liberal Democrat,Conservative
+E14001220,Eastleigh,SE,28%,18%,32%,4%,18%,,,1%,Liberal Democrat,Conservative,4%,Marginal,Conservative
+E14001221,Edmonton and Winchmore Hill,GL,24%,50%,7%,6%,11%,,,1%,Labour,Conservative,26%,Safe Labour,Labour
+E14001222,Ellesmere Port and Bromborough,NW,14%,56%,9%,4%,16%,,,1%,Labour,Reform UK,40%,Safe Labour,Labour
+E14001223,Eltham and Chislehurst,GL,25%,41%,9%,5%,19%,,,1%,Labour,Conservative,15%,Safe Labour,Conservative
+E14001224,Ely and East Cambridgeshire,EE,26%,22%,31%,3%,17%,,,1%,Liberal Democrat,Conservative,5%,Marginal,Conservative
+E14001225,Enfield North,GL,22%,51%,7%,7%,11%,,,1%,Labour,Conservative,30%,Safe Labour,Labour
+E14001226,Epping Forest,EE,39%,33%,19%,8%,,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001227,Epsom and Ewell,SE,28%,22%,24%,5%,20%,,,1%,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001228,Erewash,EM,28%,40%,6%,4%,21%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001229,Erith and Thamesmead,GL,16%,55%,8%,7%,13%,,,1%,Labour,Conservative,39%,Safe Labour,Labour
+E14001230,Esher and Walton,SE,24%,13%,40%,4%,18%,,,1%,Liberal Democrat,Conservative,17%,Safe Liberal Democrat,Conservative
+E14001231,Exeter,SW,16%,51%,5%,11%,15%,,,1%,Labour,Conservative,34%,Safe Labour,Labour
+E14001232,Exmouth and Exeter East,SW,31%,27%,10%,4%,26%,,,2%,Conservative,Labour,3%,Marginal,Conservative
+E14001233,Fareham and Waterlooville,SE,28%,24%,21%,7%,20%,,,1%,Conservative,Labour,5%,Marginal,Conservative
+E14001234,Farnham and Bordon,SE,27%,15%,36%,4%,17%,,,1%,Liberal Democrat,Conservative,9%,Lean Liberal Democrat,Conservative
+E14001235,Faversham and Mid Kent,SE,31%,27%,12%,5%,23%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001236,Feltham and Heston,GL,20%,51%,8%,5%,12%,,,4%,Labour,Conservative,31%,Safe Labour,Labour
+E14001237,Filton and Bradley Stoke,SW,27%,38%,11%,6%,18%,,,,Labour,Conservative,11%,Likely Labour,Conservative
+E14001238,Finchley and Golders Green,GL,29%,30%,27%,3%,10%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001239,Folkestone and Hythe,SE,24%,33%,12%,6%,24%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001240,Forest of Dean,SW,26%,36%,5%,10%,23%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001241,Frome and East Somerset,SW,22%,31%,21%,10%,15%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001242,Fylde,NW,31%,36%,9%,4%,19%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001243,Gainsborough,EM,39%,29%,9%,3%,20%,,,1%,Conservative,Labour,10%,Lean Conservative,Conservative
+E14001244,Gateshead Central and Whickham,NE,15%,50%,11%,5%,19%,,,1%,Labour,Reform UK,31%,Safe Labour,Labour
+E14001245,Gedling,EM,23%,46%,6%,4%,20%,,,1%,Labour,Conservative,23%,Safe Labour,Conservative
+E14001246,Gillingham and Rainham,SE,29%,33%,8%,4%,24%,,,1%,Labour,Conservative,4%,Marginal,Conservative
+E14001247,Glastonbury and Somerton,SW,28%,18%,34%,4%,15%,,,,Liberal Democrat,Conservative,7%,Lean Liberal Democrat,Conservative
+E14001248,Gloucester,SW,25%,37%,10%,5%,22%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001249,Godalming and Ash,SE,26%,16%,38%,3%,17%,,,1%,Liberal Democrat,Conservative,12%,Likely Liberal Democrat,Conservative
+E14001250,Goole and Pocklington,YH,32%,30%,11%,6%,19%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001251,Gorton and Denton,NW,12%,60%,8%,5%,14%,,,1%,Labour,Reform UK,46%,Safe Labour,Labour
+E14001252,Gosport,SE,30%,26%,14%,5%,24%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001253,Grantham and Bourne,EM,34%,28%,10%,5%,22%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001254,Gravesham,SE,30%,34%,8%,4%,23%,,,,Labour,Conservative,3%,Marginal,Conservative
+E14001255,Great Grimsby and Cleethorpes,YH,29%,37%,6%,4%,23%,,,1%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001256,Great Yarmouth,EE,32%,31%,7%,3%,27%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001257,Greenwich and Woolwich,GL,14%,52%,14%,9%,9%,,,2%,Labour,Conservative,38%,Safe Labour,Labour
+E14001258,Guildford,SE,21%,17%,44%,3%,14%,,,1%,Liberal Democrat,Conservative,24%,Safe Liberal Democrat,Conservative
+E14001259,Hackney North and Stoke Newington,GL,9%,59%,9%,13%,8%,,,2%,Labour,Green Party,46%,Safe Labour,Labour
+E14001260,Hackney South and Shoreditch,GL,7%,61%,8%,13%,8%,,,2%,Labour,Green Party,48%,Safe Labour,Labour
+E14001261,Halesowen,WM,30%,37%,6%,4%,22%,,,,Labour,Conservative,7%,Lean Labour,Conservative
+E14001262,Halifax,YH,19%,47%,7%,7%,19%,,,2%,Labour,Conservative,27%,Safe Labour,Labour
+E14001263,Hamble Valley,SE,28%,21%,25%,5%,20%,,,1%,Conservative,Liberal Democrat,3%,Marginal,Conservative
+E14001264,Hammersmith and Chiswick,GL,18%,46%,16%,9%,10%,,,2%,Labour,Conservative,28%,Safe Labour,Labour
+E14001265,Hampstead and Highgate,GL,16%,45%,23%,6%,8%,,,2%,Labour,Liberal Democrat,22%,Safe Labour,Labour
+E14001266,"Harborough, Oadby and Wigston",EM,28%,34%,15%,5%,17%,,,1%,Labour,Conservative,6%,Lean Labour,Conservative
+E14001267,Harlow,EE,30%,36%,9%,3%,22%,,,1%,Labour,Conservative,5%,Lean Labour,Conservative
+E14001268,Harpenden and Berkhamsted,EE,30%,22%,28%,4%,15%,,,1%,Conservative,Liberal Democrat,2%,Marginal,Conservative
+E14001269,Harrogate and Knaresborough,YH,30%,17%,36%,3%,15%,,,1%,Liberal Democrat,Conservative,6%,Lean Liberal Democrat,Conservative
+E14001270,Harrow East,GL,28%,37%,11%,5%,16%,,,3%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001271,Harrow West,GL,21%,47%,10%,7%,13%,,,2%,Labour,Conservative,26%,Safe Labour,Labour
+E14001272,Hartlepool,NE,15%,45%,6%,3%,29%,,,2%,Labour,Reform UK,17%,Safe Labour,Labour
+E14001273,Harwich and North Essex,EE,28%,37%,11%,5%,19%,,,,Labour,Conservative,9%,Lean Labour,Conservative
+E14001274,Hastings and Rye,SE,27%,41%,8%,3%,20%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001275,Havant,SE,32%,26%,13%,4%,25%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001276,Hayes and Harlington,GL,21%,51%,7%,6%,12%,,,3%,Labour,Conservative,31%,Safe Labour,Labour
+E14001277,Hazel Grove,NW,23%,23%,36%,2%,15%,,,1%,Liberal Democrat,Conservative,13%,Likely Liberal Democrat,Conservative
+E14001278,Hemel Hempstead,EE,29%,32%,12%,5%,21%,,,,Labour,Conservative,3%,Marginal,Conservative
+E14001279,Hendon,GL,33%,38%,9%,4%,14%,,,2%,Labour,Conservative,5%,Marginal,Conservative
+E14001280,Henley and Thame,SE,28%,17%,32%,5%,18%,,,1%,Liberal Democrat,Conservative,4%,Marginal,Conservative
+E14001281,Hereford and South Herefordshire,WM,28%,30%,17%,6%,18%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001282,Herne Bay and Sandwich,SE,32%,29%,11%,5%,22%,,,,Conservative,Labour,3%,Marginal,Conservative
+E14001283,Hertford and Stortford,EE,27%,32%,13%,5%,22%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001284,Hertsmere,EE,33%,29%,11%,4%,21%,,,1%,Conservative,Labour,5%,Marginal,Conservative
+E14001285,Hexham,NE,40%,38%,13%,8%,,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001286,Heywood and Middleton North,NW,21%,48%,7%,,23%,,,1%,Labour,Reform UK,25%,Safe Labour,Labour
+E14001287,High Peak,EM,23%,47%,6%,5%,18%,,,,Labour,Conservative,25%,Safe Labour,Conservative
+E14001288,Hinckley and Bosworth,EM,30%,25%,20%,5%,19%,,,1%,Conservative,Labour,5%,Lean Conservative,Conservative
+E14001289,Hitchin,EE,22%,33%,22%,5%,17%,,,1%,Labour,Liberal Democrat,11%,Likely Labour,Conservative
+E14001290,Holborn and St Pancras,GL,9%,61%,12%,7%,10%,,,2%,Labour,Liberal Democrat,50%,Safe Labour,Labour
+E14001291,Honiton and Sidmouth,SW,32%,18%,25%,4%,20%,,,1%,Conservative,Liberal Democrat,6%,Lean Conservative,Conservative
+E14001292,Hornchurch and Upminster,GL,26%,34%,12%,6%,21%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001293,Hornsey and Friern Barnet,GL,7%,55%,20%,7%,8%,,,2%,Labour,Liberal Democrat,35%,Safe Labour,Labour
+E14001294,Horsham,SE,30%,21%,26%,5%,18%,,,1%,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001295,Houghton and Sunderland South,NE,16%,48%,7%,4%,24%,,,,Labour,Reform UK,24%,Safe Labour,Labour
+E14001296,Hove and Portslade,SE,16%,58%,7%,7%,11%,,,1%,Labour,Conservative,42%,Safe Labour,Labour
+E14001297,Huddersfield,YH,21%,43%,7%,10%,18%,,,,Labour,Conservative,21%,Safe Labour,Labour
+E14001298,Huntingdon,EE,29%,31%,14%,6%,20%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001299,Hyndburn,NW,24%,44%,5%,4%,22%,,,,Labour,Conservative,20%,Safe Labour,Conservative
+E14001300,Ilford North,GL,19%,47%,8%,6%,16%,,,3%,Labour,Conservative,28%,Safe Labour,Labour
+E14001301,Ilford South,GL,16%,55%,6%,7%,13%,,,3%,Labour,Conservative,39%,Safe Labour,Labour
+E14001302,Ipswich,EE,26%,40%,6%,4%,22%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001303,Isle of Wight East,SE,29%,28%,7%,11%,25%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001304,Isle of Wight West,SE,26%,31%,5%,12%,25%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001305,Islington North,GL,5%,61%,13%,10%,8%,,,2%,Labour,Liberal Democrat,47%,Safe Labour,Labour
+E14001306,Islington South and Finsbury,GL,11%,54%,15%,7%,10%,,,2%,Labour,Liberal Democrat,39%,Safe Labour,Labour
+E14001307,Jarrow and Gateshead East,NE,12%,52%,8%,7%,20%,,,1%,Labour,Reform UK,31%,Safe Labour,Labour
+E14001308,Keighley and Ilkley,YH,28%,40%,7%,5%,17%,,,2%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001309,Kenilworth and Southam,WM,30%,26%,19%,5%,19%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001310,Kensington and Bayswater,GL,28%,35%,17%,4%,12%,,,3%,Labour,Conservative,8%,Lean Labour,Labour
+E14001311,Kettering,EM,26%,37%,9%,5%,22%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001312,Kingston and Surbiton,GL,17%,18%,50%,4%,10%,,,1%,Liberal Democrat,Labour,32%,Safe Liberal Democrat,Liberal Democrat
+E14001313,Kingston upon Hull East,YH,18%,48%,7%,5%,21%,,,,Labour,Reform UK,27%,Safe Labour,Labour
+E14001314,Kingston upon Hull North and Cottingham,YH,18%,45%,7%,9%,19%,,,1%,Labour,Reform UK,27%,Safe Labour,Labour
+E14001315,Kingston upon Hull West and Haltemprice,YH,21%,45%,7%,4%,21%,,,2%,Labour,Reform UK,23%,Safe Labour,Conservative
+E14001316,Kingswinford and South Staffordshire,WM,36%,30%,8%,5%,20%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001317,Knowsley,NW,4%,75%,4%,5%,11%,,,1%,Labour,Reform UK,63%,Safe Labour,Labour
+E14001318,Lancaster and Wyre,NW,23%,44%,8%,7%,17%,,,,Labour,Conservative,22%,Safe Labour,Conservative
+E14001319,Leeds Central and Headingley,YH,11%,56%,13%,10%,9%,,,1%,Labour,Liberal Democrat,43%,Safe Labour,Labour
+E14001320,Leeds East,YH,22%,45%,6%,5%,21%,,,1%,Labour,Conservative,23%,Safe Labour,Labour
+E14001321,Leeds North East,YH,14%,56%,10%,9%,11%,,,2%,Labour,Conservative,42%,Safe Labour,Labour
+E14001322,Leeds North West,YH,24%,39%,14%,4%,17%,,,1%,Labour,Conservative,16%,Safe Labour,Conservative
+E14001323,Leeds South,YH,25%,52%,10%,11%,,,,1%,Labour,Conservative,28%,Safe Labour,Labour
+E14001324,Leeds South West and Morley,YH,25%,38%,6%,6%,23%,,,2%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001325,Leeds West and Pudsey,YH,22%,45%,6%,6%,20%,,,2%,Labour,Conservative,23%,Safe Labour,Labour
+E14001326,Leicester East,EM,22%,48%,8%,5%,15%,,,3%,Labour,Conservative,26%,Safe Labour,Labour
+E14001327,Leicester South,EM,14%,56%,5%,12%,12%,,,2%,Labour,Conservative,42%,Safe Labour,Labour
+E14001328,Leicester West,EM,21%,48%,7%,7%,15%,,,2%,Labour,Conservative,27%,Safe Labour,Labour
+E14001329,Leigh and Atherton,NW,20%,45%,8%,3%,23%,,,1%,Labour,Reform UK,23%,Safe Labour,Conservative
+E14001330,Lewes,SE,29%,14%,39%,3%,15%,,,0%,Liberal Democrat,Conservative,10%,Likely Liberal Democrat,Conservative
+E14001331,Lewisham East,GL,12%,58%,9%,10%,10%,,,1%,Labour,Conservative,46%,Safe Labour,Labour
+E14001332,Lewisham North,GL,7%,62%,8%,13%,8%,,,2%,Labour,Green Party,49%,Safe Labour,Labour
+E14001333,Lewisham West and East Dulwich,GL,8%,60%,10%,13%,8%,,,1%,Labour,Green Party,47%,Safe Labour,Labour
+E14001334,Leyton and Wanstead,GL,13%,60%,9%,8%,9%,,,2%,Labour,Conservative,47%,Safe Labour,Labour
+E14001335,Lichfield,WM,33%,32%,10%,5%,19%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001336,Lincoln,EM,28%,43%,6%,4%,18%,,,1%,Labour,Conservative,15%,Likely Labour,Conservative
+E14001337,Liverpool Garston,NW,7%,60%,12%,5%,14%,,,1%,Labour,Reform UK,46%,Safe Labour,Labour
+E14001338,Liverpool Riverside,NW,5%,74%,5%,5%,10%,,,1%,Labour,Reform UK,64%,Safe Labour,Labour
+E14001339,Liverpool Walton,NW,5%,75%,4%,4%,11%,,,1%,Labour,Reform UK,64%,Safe Labour,Labour
+E14001340,Liverpool Wavertree,NW,7%,64%,9%,9%,11%,,,1%,Labour,Reform UK,53%,Safe Labour,Labour
+E14001341,Liverpool West Derby,NW,5%,70%,5%,5%,14%,,,1%,Labour,Reform UK,56%,Safe Labour,Labour
+E14001342,Loughborough,EM,28%,41%,9%,6%,15%,,,,Labour,Conservative,13%,Likely Labour,Conservative
+E14001343,Louth and Horncastle,EM,42%,27%,6%,2%,21%,,,1%,Conservative,Labour,15%,Likely Conservative,Conservative
+E14001344,Lowestoft,EE,27%,37%,7%,6%,23%,,,,Labour,Conservative,10%,Lean Labour,Conservative
+E14001345,Luton North,EE,19%,48%,6%,7%,17%,,,2%,Labour,Conservative,29%,Safe Labour,Labour
+E14001346,Luton South and South Bedfordshire,EE,19%,47%,4%,6%,21%,,,2%,Labour,Reform UK,26%,Safe Labour,Labour
+E14001347,Macclesfield,NW,28%,40%,10%,5%,17%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001348,Maidenhead,SE,35%,23%,34%,8%,,,,1%,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001349,Maidstone and Malling,SE,29%,25%,20%,7%,18%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001350,Makerfield,NW,15%,50%,6%,4%,23%,,,1%,Labour,Reform UK,27%,Safe Labour,Labour
+E14001351,Maldon,EE,30%,25%,14%,5%,25%,,,,Conservative,Reform UK,5%,Marginal,Conservative
+E14001352,Manchester Central,NW,11%,60%,8%,6%,12%,,,2%,Labour,Reform UK,48%,Safe Labour,Labour
+E14001353,Manchester Rusholme,NW,8%,73%,,9%,8%,,,2%,Labour,Green Party,64%,Safe Labour,Labour
+E14001354,Manchester Withington,NW,7%,62%,15%,7%,7%,,,1%,Labour,Liberal Democrat,48%,Safe Labour,Labour
+E14001355,Mansfield,EM,31%,33%,6%,2%,26%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001356,Melksham and Devizes,SW,29%,18%,28%,4%,21%,,,,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001357,Melton and Syston,EM,32%,30%,8%,6%,22%,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001358,Meriden and Solihull East,WM,32%,27%,14%,4%,23%,,,,Conservative,Labour,5%,Marginal,Conservative
+E14001359,Mid Bedfordshire,EE,27%,29%,13%,5%,25%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001360,Mid Buckinghamshire,SE,30%,21%,25%,5%,19%,,,1%,Conservative,Liberal Democrat,5%,Lean Conservative,Conservative
+E14001361,Mid Cheshire,NW,23%,42%,9%,4%,22%,,,1%,Labour,Conservative,19%,Safe Labour,Conservative
+E14001362,Mid Derbyshire,EM,32%,33%,10%,5%,19%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001363,Mid Dorset and North Poole,SW,25%,17%,34%,5%,18%,,,1%,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001364,Mid Leicestershire,EM,40%,38%,12%,9%,,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001365,Mid Norfolk,EE,29%,34%,10%,3%,23%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001366,Mid Sussex,SE,25%,27%,25%,5%,17%,,,,Labour,Conservative,2%,Marginal,Conservative
+E14001367,Middlesbrough and Thornaby East,NE,16%,55%,6%,,22%,,,2%,Labour,Reform UK,32%,Safe Labour,Labour
+E14001368,Middlesbrough South and East Cleveland,NE,29%,37%,6%,4%,23%,,,,Labour,Conservative,8%,Lean Labour,Conservative
+E14001369,Milton Keynes Central,SE,28%,37%,11%,6%,17%,,,2%,Labour,Conservative,10%,Lean Labour,Conservative
+E14001370,Milton Keynes North,SE,24%,41%,9%,6%,19%,,,,Labour,Conservative,16%,Safe Labour,Conservative
+E14001371,Mitcham and Morden,GL,13%,57%,10%,7%,11%,,,2%,Labour,Conservative,44%,Safe Labour,Labour
+E14001372,Morecambe and Lunesdale,NW,29%,37%,13%,3%,17%,,,,Labour,Conservative,8%,Lean Labour,Conservative
+E14001373,New Forest East,SE,32%,22%,15%,6%,23%,,,1%,Conservative,Reform UK,9%,Lean Conservative,Conservative
+E14001374,New Forest West,SE,31%,21%,19%,6%,23%,,,1%,Conservative,Reform UK,8%,Lean Conservative,Conservative
+E14001375,Newark,EM,33%,31%,11%,5%,19%,,,,Conservative,Labour,2%,Marginal,Conservative
+E14001376,Newbury,SE,27%,17%,35%,5%,16%,,,1%,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001377,Newcastle upon Tyne Central and West,NE,15%,54%,6%,6%,18%,,,1%,Labour,Reform UK,36%,Safe Labour,Labour
+E14001378,Newcastle upon Tyne East and Wallsend,NE,12%,57%,10%,6%,13%,,,1%,Labour,Reform UK,44%,Safe Labour,Labour
+E14001379,Newcastle upon Tyne North,NE,19%,46%,15%,6%,14%,,,1%,Labour,Conservative,27%,Safe Labour,Labour
+E14001380,Newcastle-under-Lyme,WM,27%,40%,7%,4%,21%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001381,Newton Abbot,SW,32%,24%,19%,5%,19%,,,1%,Conservative,Labour,7%,Lean Conservative,Conservative
+E14001382,Newton Aycliffe and Spennymoor,NE,27%,39%,7%,3%,23%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001383,Normanton and Hemsworth,YH,15%,42%,7%,5%,30%,,,,Labour,Reform UK,12%,Likely Labour,Labour
+E14001384,North Bedfordshire,EE,29%,30%,14%,6%,21%,,,1%,Labour,Conservative,0%,Marginal,Conservative
+E14001385,North Cornwall,SW,30%,18%,29%,3%,19%,,,1%,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001386,North Cotswolds,SW,27%,23%,23%,6%,19%,,,,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001387,North Devon,SW,24%,19%,33%,5%,18%,,,1%,Liberal Democrat,Conservative,9%,Lean Liberal Democrat,Conservative
+E14001388,North Dorset,SW,29%,20%,25%,5%,21%,,,1%,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001389,North Durham,NE,16%,45%,8%,5%,23%,,,2%,Labour,Reform UK,22%,Safe Labour,Labour
+E14001390,North East Cambridgeshire,EE,38%,25%,8%,4%,25%,,,1%,Conservative,Labour,12%,Likely Conservative,Conservative
+E14001391,North East Derbyshire,EM,28%,42%,6%,4%,19%,,,1%,Labour,Conservative,14%,Likely Labour,Conservative
+E14001392,North East Hampshire,SE,29%,18%,29%,5%,18%,,,1%,Liberal Democrat,Conservative,0%,Marginal,Conservative
+E14001393,North East Hertfordshire,EE,25%,34%,17%,6%,18%,,,,Labour,Conservative,9%,Lean Labour,Conservative
+E14001394,North East Somerset and Hanham,SW,29%,31%,12%,4%,22%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001395,North Herefordshire,WM,29%,25%,15%,9%,21%,,,,Conservative,Labour,4%,Marginal,Conservative
+E14001396,North Norfolk,EE,30%,18%,27%,3%,22%,,,1%,Conservative,Liberal Democrat,3%,Marginal,Conservative
+E14001397,North Northumberland,NE,28%,32%,15%,5%,18%,,,1%,Labour,Conservative,4%,Marginal,Conservative
+E14001398,North Shropshire,WM,30%,16%,29%,5%,20%,,,,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001399,North Somerset,SW,27%,32%,17%,6%,18%,,,1%,Labour,Conservative,6%,Lean Labour,Conservative
+E14001400,North Warwickshire and Bedworth,WM,33%,33%,6%,4%,22%,,,1%,Labour,Conservative,0%,Marginal,Conservative
+E14001401,North West Cambridgeshire,EE,26%,34%,12%,7%,20%,,,1%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001402,North West Essex,EE,26%,25%,20%,6%,22%,,,,Conservative,Labour,1%,Marginal,Conservative
+E14001403,North West Hampshire,SE,30%,25%,19%,6%,19%,,,,Conservative,Labour,5%,Lean Conservative,Conservative
+E14001404,North West Leicestershire,EM,27%,35%,9%,6%,22%,,,1%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001405,North West Norfolk,EE,29%,31%,9%,4%,26%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001406,Northampton North,EM,28%,40%,7%,6%,17%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001407,Northampton South,EM,31%,35%,9%,5%,20%,,,,Labour,Conservative,4%,Marginal,Conservative
+E14001408,Norwich North,EE,23%,45%,8%,5%,19%,,,1%,Labour,Conservative,21%,Safe Labour,Conservative
+E14001409,Norwich South,EE,18%,50%,10%,8%,14%,,,1%,Labour,Conservative,32%,Safe Labour,Labour
+E14001410,Nottingham East,EM,15%,56%,6%,7%,14%,,,2%,Labour,Conservative,41%,Safe Labour,Labour
+E14001411,Nottingham North and Kimberley,EM,21%,44%,5%,6%,22%,,,,Labour,Reform UK,23%,Safe Labour,Labour
+E14001412,Nottingham South,EM,17%,52%,8%,6%,15%,,,1%,Labour,Conservative,35%,Safe Labour,Labour
+E14001413,Nuneaton,WM,27%,36%,6%,5%,25%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001414,Old Bexley and Sidcup,GL,26%,33%,16%,4%,19%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001415,Oldham East and Saddleworth,NW,21%,42%,7%,4%,25%,,,2%,Labour,Reform UK,18%,Safe Labour,Labour
+E14001416,"Oldham West, Chadderton and Royton",NW,17%,52%,5%,4%,20%,,,2%,Labour,Reform UK,32%,Safe Labour,Labour
+E14001417,Orpington,GL,30%,28%,17%,4%,20%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001418,Ossett and Denby Dale,YH,27%,37%,8%,5%,23%,,,1%,Labour,Conservative,10%,Likely Labour,Conservative
+E14001419,Oxford East,SE,18%,54%,16%,10%,,,,1%,Labour,Conservative,36%,Safe Labour,Labour
+E14001420,Oxford West and Abingdon,SE,18%,19%,48%,5%,9%,,,1%,Liberal Democrat,Labour,29%,Safe Liberal Democrat,Liberal Democrat
+E14001421,Peckham,GL,8%,63%,8%,12%,8%,,,2%,Labour,Green Party,51%,Safe Labour,Labour
+E14001422,Pendle and Clitheroe,NW,31%,36%,8%,3%,21%,,,1%,Labour,Conservative,5%,Lean Labour,Conservative
+E14001423,Penistone and Stocksbridge,YH,27%,39%,9%,4%,21%,,,,Labour,Conservative,12%,Likely Labour,Conservative
+E14001424,Penrith and Solway,NW,29%,37%,8%,4%,21%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001425,Peterborough,EE,25%,43%,7%,4%,20%,,,1%,Labour,Conservative,17%,Safe Labour,Conservative
+E14001426,Plymouth Moor View,SW,30%,37%,7%,4%,21%,,,,Labour,Conservative,7%,Lean Labour,Conservative
+E14001427,Plymouth Sutton and Devonport,SW,18%,51%,7%,7%,15%,,,1%,Labour,Conservative,33%,Safe Labour,Labour
+E14001428,"Pontefract, Castleford and Knottingley",YH,18%,42%,8%,4%,26%,,,2%,Labour,Reform UK,15%,Safe Labour,Labour
+E14001429,Poole,SW,26%,31%,18%,5%,19%,,,1%,Labour,Conservative,5%,Marginal,Conservative
+E14001430,Poplar and Limehouse,GL,12%,53%,16%,7%,9%,,,3%,Labour,Liberal Democrat,37%,Safe Labour,Labour
+E14001431,Portsmouth North,SE,28%,32%,9%,4%,24%,,,,Labour,Conservative,4%,Marginal,Conservative
+E14001432,Portsmouth South,SE,20%,49%,13%,5%,13%,,,1%,Labour,Conservative,29%,Safe Labour,Labour
+E14001433,Preston,NW,18%,52%,8%,5%,16%,,,2%,Labour,Conservative,35%,Safe Labour,Labour
+E14001434,Putney,GL,21%,41%,19%,6%,11%,,,3%,Labour,Conservative,20%,Safe Labour,Labour
+E14001435,Queen's Park and Maida Vale,GL,12%,59%,12%,7%,8%,,,2%,Labour,Conservative,47%,Safe Labour,Labour
+E14001436,Rawmarsh and Conisbrough,YH,19%,43%,6%,4%,27%,,,1%,Labour,Reform UK,16%,Safe Labour,Labour
+E14001437,Rayleigh and Wickford,EE,32%,28%,9%,4%,26%,,,,Conservative,Labour,4%,Marginal,Conservative
+E14001438,Reading Central,SE,21%,50%,9%,7%,12%,,,2%,Labour,Conservative,29%,Safe Labour,Labour
+E14001439,Reading West and Mid Berkshire,SE,25%,32%,20%,5%,17%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001440,Redcar,NE,27%,40%,6%,3%,23%,,,1%,Labour,Conservative,14%,Likely Labour,Conservative
+E14001441,Redditch,WM,28%,31%,9%,5%,25%,,,2%,Labour,Conservative,3%,Marginal,Conservative
+E14001442,Reigate,SE,26%,27%,24%,6%,17%,,,,Labour,Conservative,1%,Marginal,Conservative
+E14001443,Ribble Valley,NW,27%,36%,10%,4%,22%,,,1%,Labour,Conservative,8%,Lean Labour,Conservative
+E14001444,Richmond and Northallerton,YH,34%,26%,14%,5%,19%,,,1%,Conservative,Labour,8%,Lean Conservative,Conservative
+E14001445,Richmond Park,GL,24%,13%,48%,3%,12%,,,1%,Liberal Democrat,Conservative,23%,Safe Liberal Democrat,Liberal Democrat
+E14001446,Rochdale,NW,17%,50%,8%,5%,18%,,,2%,Labour,Reform UK,32%,Safe Labour,Labour
+E14001447,Rochester and Strood,SE,28%,33%,10%,5%,23%,,,1%,Labour,Conservative,5%,Lean Labour,Conservative
+E14001448,Romford,GL,31%,32%,10%,5%,19%,,,2%,Labour,Conservative,1%,Marginal,Conservative
+E14001449,Romsey and Southampton North,SE,31%,18%,32%,3%,15%,,,1%,Liberal Democrat,Conservative,1%,Marginal,Conservative
+E14001450,Rossendale and Darwen,NW,28%,38%,7%,5%,21%,,,1%,Labour,Conservative,9%,Lean Labour,Conservative
+E14001451,Rother Valley,YH,22%,41%,6%,5%,25%,,,,Labour,Reform UK,16%,Safe Labour,Conservative
+E14001452,Rotherham,YH,,52%,8%,4%,35%,,,2%,Labour,Reform UK,17%,Safe Labour,Labour
+E14001453,Rugby,WM,26%,38%,9%,6%,19%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001454,"Ruislip, Northwood and Pinner",GL,33%,28%,16%,4%,15%,,,,Conservative,Labour,5%,Marginal,Conservative
+E14001455,Runcorn and Helsby,NW,19%,47%,7%,4%,21%,,,1%,Labour,Reform UK,26%,Safe Labour,Labour
+E14001456,Runnymede and Weybridge,SE,28%,24%,25%,5%,17%,,,1%,Conservative,Liberal Democrat,3%,Marginal,Conservative
+E14001457,Rushcliffe,EM,24%,41%,12%,3%,19%,,,1%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001458,Rutland and Stamford,EM,34%,27%,14%,5%,19%,,,1%,Conservative,Labour,7%,Lean Conservative,Conservative
+E14001459,Salford,NW,12%,55%,9%,7%,15%,,,2%,Labour,Reform UK,39%,Safe Labour,Labour
+E14001460,Salisbury,SW,28%,25%,24%,5%,17%,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001461,Scarborough and Whitby,YH,30%,37%,8%,3%,22%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001462,Scunthorpe,YH,30%,37%,5%,4%,23%,,,1%,Labour,Conservative,7%,Lean Labour,Conservative
+E14001463,Sefton Central,NW,17%,53%,7%,5%,17%,,,1%,Labour,Reform UK,36%,Safe Labour,Labour
+E14001464,Selby,YH,28%,38%,8%,6%,19%,,,,Labour,Conservative,10%,Likely Labour,Conservative
+E14001465,Sevenoaks,SE,29%,22%,24%,5%,20%,,,1%,Conservative,Liberal Democrat,5%,Marginal,Conservative
+E14001466,Sheffield Brightside and Hillsborough,YH,22%,56%,9%,11%,,,,2%,Labour,Conservative,33%,Safe Labour,Labour
+E14001467,Sheffield Central,YH,11%,60%,10%,17%,,,,2%,Labour,Green Party,43%,Safe Labour,Labour
+E14001468,Sheffield Hallam,YH,24%,38%,28%,9%,,,,1%,Labour,Liberal Democrat,10%,Lean Labour,Labour
+E14001469,Sheffield Heeley,YH,24%,54%,11%,10%,,,,1%,Labour,Conservative,30%,Safe Labour,Labour
+E14001470,Sheffield South East,YH,27%,50%,11%,10%,,,,2%,Labour,Conservative,23%,Safe Labour,Labour
+E14001471,Sherwood Forest,EM,27%,40%,6%,4%,22%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001472,Shipley,YH,24%,44%,8%,5%,18%,,,1%,Labour,Conservative,21%,Safe Labour,Conservative
+E14001473,Shrewsbury,WM,27%,38%,12%,5%,17%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001474,Sittingbourne and Sheppey,SE,33%,29%,9%,4%,23%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001475,Skipton and Ripon,YH,29%,31%,16%,6%,17%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001476,Sleaford and North Hykeham,EM,33%,28%,12%,5%,21%,,,1%,Conservative,Labour,5%,Lean Conservative,Conservative
+E14001477,Slough,SE,18%,51%,10%,6%,12%,,,3%,Labour,Conservative,33%,Safe Labour,Labour
+E14001478,Smethwick,WM,15%,56%,6%,5%,15%,,,2%,Labour,Reform UK,41%,Safe Labour,Labour
+E14001479,Solihull West and Shirley,WM,30%,28%,18%,5%,18%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001480,South Basildon and East Thurrock,EE,28%,33%,6%,3%,28%,,,1%,Labour,Reform UK,4%,Marginal,Conservative
+E14001481,South Cambridgeshire,EE,18%,23%,42%,3%,12%,,,1%,Liberal Democrat,Labour,19%,Safe Liberal Democrat,Conservative
+E14001482,South Cotswolds,SW,27%,19%,29%,5%,18%,,,1%,Liberal Democrat,Conservative,2%,Marginal,Conservative
+E14001483,South Derbyshire,EM,29%,33%,10%,5%,22%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001484,South Devon,SW,28%,23%,28%,3%,18%,,,1%,Liberal Democrat,Conservative,0%,Marginal,Conservative
+E14001485,South Dorset,SW,31%,28%,13%,5%,22%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001486,South East Cornwall,SW,31%,29%,15%,4%,19%,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001487,South Holland and The Deepings,EM,37%,24%,7%,4%,25%,,,1%,Conservative,Reform UK,12%,Likely Conservative,Conservative
+E14001488,South Leicestershire,EM,30%,31%,9%,5%,24%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001489,South Norfolk,EE,26%,31%,16%,5%,20%,,,1%,Labour,Conservative,5%,Lean Labour,Conservative
+E14001490,South Northamptonshire,EM,31%,28%,11%,6%,23%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001491,South Ribble,NW,27%,40%,8%,4%,21%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001492,South Shields,NE,16%,43%,6%,5%,28%,,,2%,Labour,Reform UK,15%,Safe Labour,Labour
+E14001493,South Shropshire,WM,32%,26%,14%,6%,21%,,,,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001494,South Suffolk,EE,27%,30%,13%,8%,21%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001495,South West Devon,SW,26%,30%,12%,6%,25%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001496,South West Hertfordshire,EE,28%,26%,15%,4%,25%,,,1%,Conservative,Labour,2%,Marginal,Conservative
+E14001497,South West Norfolk,EE,35%,27%,8%,4%,25%,,,,Conservative,Labour,8%,Lean Conservative,Conservative
+E14001498,South West Wiltshire,SW,26%,28%,19%,6%,21%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001499,Southampton Itchen,SE,27%,41%,8%,5%,17%,,,,Labour,Conservative,14%,Likely Labour,Conservative
+E14001500,Southampton Test,SE,21%,47%,11%,7%,13%,,,,Labour,Conservative,26%,Safe Labour,Labour
+E14001501,Southend East and Rochford,EE,30%,35%,7%,3%,24%,,,1%,Labour,Conservative,5%,Lean Labour,Conservative
+E14001502,Southend West and Leigh,EE,25%,36%,11%,5%,21%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001503,Southgate and Wood Green,GL,20%,49%,13%,6%,11%,,,2%,Labour,Conservative,29%,Safe Labour,Labour
+E14001504,Southport,NW,26%,39%,12%,3%,19%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001505,Spelthorne,SE,28%,27%,18%,5%,21%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001506,Spen Valley,YH,26%,35%,7%,5%,26%,,,2%,Labour,Conservative,10%,Lean Labour,Conservative
+E14001507,St Albans,EE,15%,18%,50%,4%,12%,,,0%,Liberal Democrat,Labour,32%,Safe Liberal Democrat,Liberal Democrat
+E14001508,St Austell and Newquay,SW,25%,33%,11%,6%,24%,,,,Labour,Conservative,8%,Lean Labour,Conservative
+E14001509,St Helens North,NW,12%,53%,7%,6%,20%,,,1%,Labour,Reform UK,33%,Safe Labour,Labour
+E14001510,St Helens South and Whiston,NW,10%,58%,7%,6%,18%,,,1%,Labour,Reform UK,40%,Safe Labour,Labour
+E14001511,St Ives,SW,29%,16%,33%,3%,18%,,,1%,Liberal Democrat,Conservative,4%,Marginal,Conservative
+E14001512,St Neots and Mid Cambridgeshire,EE,23%,30%,24%,5%,17%,,,1%,Labour,Liberal Democrat,6%,Lean Labour,Conservative
+E14001513,Stafford,WM,28%,39%,8%,6%,18%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001514,Staffordshire Moorlands,WM,26%,40%,7%,5%,21%,,,1%,Labour,Conservative,15%,Likely Labour,Conservative
+E14001515,Stalybridge and Hyde,NW,17%,43%,7%,5%,27%,,,,Labour,Reform UK,16%,Safe Labour,Labour
+E14001516,Stevenage,EE,25%,37%,10%,6%,21%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001517,Stockport,NW,12%,53%,8%,6%,19%,,,1%,Labour,Reform UK,35%,Safe Labour,Labour
+E14001518,Stockton North,NE,19%,49%,6%,3%,21%,,,,Labour,Reform UK,29%,Safe Labour,Labour
+E14001519,Stockton West,NE,23%,40%,7%,4%,25%,,,1%,Labour,Reform UK,16%,Safe Labour,Conservative
+E14001520,Stoke-on-Trent Central,WM,24%,46%,6%,4%,18%,,,2%,Labour,Conservative,21%,Safe Labour,Conservative
+E14001521,Stoke-on-Trent North,WM,27%,38%,6%,3%,25%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001522,Stoke-on-Trent South,WM,30%,33%,8%,4%,24%,,,1%,Labour,Conservative,3%,Marginal,Conservative
+E14001523,"Stone, Great Wyrley and Penkridge",WM,39%,36%,14%,9%,,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001524,Stourbridge,WM,29%,32%,10%,3%,24%,,,1%,Labour,Conservative,4%,Marginal,Conservative
+E14001525,Stratford and Bow,GL,11%,58%,13%,7%,9%,,,2%,Labour,Liberal Democrat,45%,Safe Labour,Labour
+E14001526,Stratford-on-Avon,WM,30%,23%,22%,5%,18%,,,1%,Conservative,Labour,8%,Lean Conservative,Conservative
+E14001527,Streatham and Croydon North,GL,12%,53%,15%,10%,8%,,,2%,Labour,Liberal Democrat,37%,Safe Labour,Labour
+E14001528,Stretford and Urmston,NW,14%,58%,7%,5%,15%,,,1%,Labour,Reform UK,42%,Safe Labour,Labour
+E14001529,Stroud,SW,24%,41%,6%,8%,21%,,,1%,Labour,Conservative,17%,Safe Labour,Conservative
+E14001530,Suffolk Coastal,EE,28%,29%,17%,7%,18%,,,,Labour,Conservative,1%,Marginal,Conservative
+E14001531,Sunderland Central,NE,19%,47%,9%,4%,20%,,,,Labour,Reform UK,27%,Safe Labour,Labour
+E14001532,Surrey Heath,SE,27%,18%,31%,6%,18%,,,1%,Liberal Democrat,Conservative,4%,Marginal,Conservative
+E14001533,Sussex Weald,SE,32%,22%,20%,5%,19%,,,1%,Conservative,Labour,10%,Likely Conservative,Conservative
+E14001534,Sutton and Cheam,GL,28%,21%,31%,3%,15%,,,1%,Liberal Democrat,Conservative,3%,Marginal,Conservative
+E14001535,Sutton Coldfield,WM,28%,30%,14%,5%,22%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001536,Swindon North,SW,24%,35%,9%,5%,25%,,,1%,Labour,Reform UK,11%,Likely Labour,Conservative
+E14001537,Swindon South,SW,24%,42%,10%,4%,19%,,,1%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001538,Tamworth,WM,28%,32%,7%,4%,28%,,,2%,Labour,Conservative,4%,Marginal,Conservative
+E14001539,Tatton,NW,27%,35%,14%,4%,19%,,,,Labour,Conservative,8%,Lean Labour,Conservative
+E14001540,Taunton and Wellington,SW,29%,15%,37%,2%,16%,,,1%,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001541,Telford,WM,29%,42%,7%,3%,18%,,,,Labour,Conservative,13%,Likely Labour,Conservative
+E14001542,Tewkesbury,SW,29%,22%,25%,5%,18%,,,1%,Conservative,Liberal Democrat,4%,Marginal,Conservative
+E14001543,The Wrekin,WM,33%,31%,10%,5%,20%,,,1%,Conservative,Labour,1%,Marginal,Conservative
+E14001544,Thirsk and Malton,YH,32%,29%,12%,7%,19%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001545,Thornbury and Yate,SW,25%,19%,35%,3%,18%,,,,Liberal Democrat,Conservative,10%,Likely Liberal Democrat,Conservative
+E14001546,Thurrock,EE,26%,39%,6%,5%,24%,,,1%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001547,Tipton and Wednesbury,WM,25%,41%,6%,4%,22%,,,2%,Labour,Conservative,16%,Safe Labour,Conservative
+E14001548,Tiverton and Minehead,SW,31%,18%,27%,6%,17%,,,,Conservative,Liberal Democrat,3%,Marginal,Conservative
+E14001549,Tonbridge,SE,32%,26%,14%,9%,18%,,,1%,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001550,Tooting,GL,14%,51%,15%,9%,9%,,,2%,Labour,Liberal Democrat,36%,Safe Labour,Labour
+E14001551,Torbay,SW,28%,20%,27%,3%,21%,,,1%,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001552,Torridge and Tavistock,SW,29%,26%,19%,5%,20%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001553,Tottenham,GL,8%,66%,8%,9%,7%,,,2%,Labour,Green Party,58%,Safe Labour,Labour
+E14001554,Truro and Falmouth,SW,27%,39%,12%,6%,15%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001555,Tunbridge Wells,SE,29%,20%,30%,3%,17%,,,1%,Liberal Democrat,Conservative,1%,Marginal,Conservative
+E14001556,Twickenham,GL,15%,15%,58%,3%,9%,,,1%,Liberal Democrat,Labour,43%,Safe Liberal Democrat,Liberal Democrat
+E14001557,Tynemouth,NE,24%,44%,7%,4%,19%,,,1%,Labour,Conservative,20%,Safe Labour,Labour
+E14001558,Uxbridge and South Ruislip,GL,26%,39%,11%,6%,16%,,,2%,Labour,Conservative,13%,Likely Labour,Conservative
+E14001559,Vauxhall and Camberwell Green,GL,10%,53%,15%,13%,8%,,,2%,Labour,Liberal Democrat,39%,Safe Labour,Labour
+E14001560,Wakefield and Rothwell,YH,24%,42%,10%,4%,19%,,,2%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001561,Wallasey,NW,12%,62%,6%,5%,15%,,,1%,Labour,Reform UK,47%,Safe Labour,Labour
+E14001562,Walsall and Bloxwich,WM,26%,43%,5%,4%,20%,,,2%,Labour,Conservative,17%,Safe Labour,Conservative
+E14001563,Walthamstow,GL,7%,65%,7%,10%,9%,,,2%,Labour,Green Party,55%,Safe Labour,Labour
+E14001564,Warrington North,NW,18%,44%,8%,4%,24%,,,1%,Labour,Reform UK,21%,Safe Labour,Labour
+E14001565,Warrington South,NW,20%,47%,11%,3%,18%,,,1%,Labour,Conservative,27%,Safe Labour,Labour
+E14001566,Warwick and Leamington,WM,25%,44%,11%,6%,12%,,,1%,Labour,Conservative,19%,Safe Labour,Labour
+E14001567,Washington and Gateshead South,NE,17%,45%,6%,5%,25%,,,1%,Labour,Reform UK,21%,Safe Labour,Labour
+E14001568,Watford,EE,20%,41%,19%,4%,15%,,,1%,Labour,Conservative,21%,Safe Labour,Conservative
+E14001569,Waveney Valley,EE,28%,29%,10%,12%,20%,,,1%,Labour,Conservative,0%,Marginal,Conservative
+E14001570,Weald of Kent,SE,37%,24%,13%,5%,20%,,,,Conservative,Labour,13%,Likely Conservative,Conservative
+E14001571,Wellingborough and Rushden,EM,32%,33%,7%,4%,22%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001572,Wells and Mendip Hills,SW,27%,18%,31%,4%,19%,,,1%,Liberal Democrat,Conservative,4%,Marginal,Conservative
+E14001573,Welwyn Hatfield,EE,26%,38%,12%,6%,17%,,,,Labour,Conservative,11%,Likely Labour,Conservative
+E14001574,West Bromwich,WM,24%,44%,6%,4%,20%,,,2%,Labour,Conservative,20%,Safe Labour,Conservative
+E14001575,West Dorset,SW,33%,19%,41%,7%,,,,0%,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001576,West Ham and Beckton,GL,11%,59%,9%,9%,10%,,,2%,Labour,Conservative,49%,Safe Labour,Labour
+E14001577,West Lancashire,NW,18%,50%,6%,5%,20%,,,,Labour,Reform UK,30%,Safe Labour,Labour
+E14001578,West Suffolk,EE,30%,32%,9%,5%,24%,,,1%,Labour,Conservative,2%,Marginal,Conservative
+E14001579,West Worcestershire,WM,31%,26%,19%,7%,17%,,,,Conservative,Labour,6%,Lean Conservative,Conservative
+E14001580,Westmorland and Lonsdale,NW,25%,17%,39%,2%,16%,,,1%,Liberal Democrat,Conservative,14%,Likely Liberal Democrat,Conservative
+E14001581,Weston-super-Mare,SW,24%,35%,13%,5%,22%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+E14001582,Wetherby and Easingwold,YH,35%,30%,10%,6%,18%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001583,Whitehaven and Workington,NW,22%,49%,6%,3%,20%,,,,Labour,Conservative,27%,Safe Labour,Conservative
+E14001584,Widnes and Halewood,NW,9%,64%,5%,6%,14%,,,1%,Labour,Reform UK,50%,Safe Labour,Labour
+E14001585,Wigan,NW,15%,48%,7%,4%,24%,,,1%,Labour,Reform UK,24%,Safe Labour,Labour
+E14001586,Wimbledon,GL,22%,27%,35%,3%,11%,,,1%,Liberal Democrat,Labour,9%,Lean Liberal Democrat,Conservative
+E14001587,Winchester,SE,27%,13%,43%,3%,15%,,,1%,Liberal Democrat,Conservative,16%,Safe Liberal Democrat,Conservative
+E14001588,Windsor,SE,28%,25%,22%,6%,17%,,,1%,Conservative,Labour,3%,Marginal,Conservative
+E14001589,Wirral West,NW,24%,41%,9%,5%,20%,,,,Labour,Conservative,16%,Safe Labour,Labour
+E14001590,Witham,EE,31%,28%,12%,6%,22%,,,1%,Conservative,Labour,4%,Marginal,Conservative
+E14001591,Witney,SE,28%,20%,30%,4%,17%,,,1%,Liberal Democrat,Conservative,1%,Marginal,Conservative
+E14001592,Woking,SE,24%,19%,38%,4%,15%,,,1%,Liberal Democrat,Conservative,15%,Likely Liberal Democrat,Conservative
+E14001593,Wokingham,SE,25%,17%,33%,4%,21%,,,,Liberal Democrat,Conservative,8%,Lean Liberal Democrat,Conservative
+E14001594,Wolverhampton North East,WM,27%,40%,6%,4%,22%,,,,Labour,Conservative,14%,Likely Labour,Conservative
+E14001595,Wolverhampton South East,WM,19%,47%,7%,5%,21%,,,2%,Labour,Reform UK,26%,Safe Labour,Labour
+E14001596,Wolverhampton West,WM,24%,48%,6%,5%,16%,,,2%,Labour,Conservative,24%,Safe Labour,Conservative
+E14001597,Worcester,WM,24%,42%,10%,6%,17%,,,1%,Labour,Conservative,18%,Safe Labour,Conservative
+E14001598,Worsley and Eccles,NW,20%,47%,8%,5%,19%,,,1%,Labour,Conservative,27%,Safe Labour,Labour
+E14001599,Worthing West,SE,26%,37%,13%,5%,19%,,,1%,Labour,Conservative,12%,Likely Labour,Conservative
+E14001600,Wycombe,SE,25%,39%,14%,6%,15%,,,1%,Labour,Conservative,14%,Likely Labour,Conservative
+E14001601,Wyre Forest,WM,30%,31%,9%,5%,24%,,,1%,Labour,Conservative,1%,Marginal,Conservative
+E14001602,Wythenshawe and Sale East,NW,17%,53%,8%,5%,16%,,,1%,Labour,Conservative,37%,Safe Labour,Labour
+E14001603,Yeovil,SW,32%,14%,30%,5%,19%,,,1%,Conservative,Liberal Democrat,1%,Marginal,Conservative
+E14001604,York Central,YH,15%,57%,10%,9%,9%,,,1%,Labour,Conservative,42%,Safe Labour,Labour
+E14001605,York Outer,YH,25%,36%,19%,4%,16%,,,1%,Labour,Conservative,11%,Likely Labour,Conservative
+S14000006,"Ayr, Carrick and Cumnock",SC,17%,32%,7%,2%,11%,29%,,1%,Labour,Scottish National Party,3%,Marginal,Scottish National Party
+S14000008,"Berwickshire, Roxburgh and Selkirk",SC,25%,19%,10%,2%,16%,25%,,4%,Scottish National Party,Conservative,1%,Marginal,Conservative
+S14000010,Central Ayrshire,SC,14%,35%,10%,2%,10%,28%,,1%,Labour,Scottish National Party,6%,Lean Labour,Scottish National Party
+S14000021,East Renfrewshire,SC,16%,38%,8%,2%,12%,23%,,1%,Labour,Scottish National Party,15%,Safe Labour,Scottish National Party
+S14000027,Na h-Eileanan an Iar,SC,9%,42%,6%,,9%,33%,,1%,Labour,Scottish National Party,10%,Lean Labour,Scottish National Party
+S14000040,Kilmarnock and Loudoun,SC,11%,38%,7%,2%,8%,34%,,1%,Labour,Scottish National Party,3%,Marginal,Scottish National Party
+S14000045,Midlothian,SC,9%,41%,7%,3%,7%,33%,,1%,Labour,Scottish National Party,8%,Lean Labour,Scottish National Party
+S14000048,North Ayrshire and Arran,SC,13%,32%,6%,3%,10%,35%,,1%,Scottish National Party,Labour,3%,Marginal,Scottish National Party
+S14000051,Orkney and Shetland,SC,4%,17%,42%,3%,8%,26%,,,Liberal Democrat,Scottish National Party,16%,Safe Liberal Democrat,Liberal Democrat
+S14000058,West Aberdeenshire and Kincardine,SC,24%,18%,12%,2%,10%,32%,,1%,Scottish National Party,Conservative,7%,Lean Scottish National Party,Conservative
+S14000060,Aberdeen North,SC,11%,32%,8%,3%,10%,36%,,1%,Scottish National Party,Labour,4%,Marginal,Scottish National Party
+S14000061,Aberdeen South,SC,15%,27%,10%,,9%,39%,,,Scottish National Party,Labour,12%,Likely Scottish National Party,Scottish National Party
+S14000062,Aberdeenshire North and Moray East,SC,28%,19%,8%,1%,11%,32%,,2%,Scottish National Party,Conservative,5%,Marginal,Conservative
+S14000063,Airdrie and Shotts,SC,9%,50%,5%,,7%,29%,,1%,Labour,Scottish National Party,21%,Safe Labour,Scottish National Party
+S14000064,Alloa and Grangemouth,SC,14%,33%,8%,2%,11%,31%,,1%,Labour,Scottish National Party,2%,Marginal,Scottish National Party
+S14000065,Angus and Perthshire Glens,SC,15%,29%,7%,,10%,38%,,1%,Scottish National Party,Labour,9%,Lean Scottish National Party,Scottish National Party
+S14000066,Arbroath and Broughty Ferry,SC,13%,39%,8%,,9%,31%,,1%,Labour,Scottish National Party,8%,Lean Labour,Scottish National Party
+S14000067,"Argyll, Bute and South Lochaber",SC,16%,24%,14%,,14%,32%,,1%,Scottish National Party,Labour,8%,Lean Scottish National Party,Scottish National Party
+S14000068,Bathgate and Linlithgow,SC,10%,37%,8%,2%,9%,33%,,1%,Labour,Scottish National Party,4%,Marginal,Scottish National Party
+S14000069,"Caithness, Sutherland and Easter Ross",SC,7%,19%,35%,2%,10%,26%,,1%,Liberal Democrat,Scottish National Party,9%,Lean Liberal Democrat,Scottish National Party
+S14000070,Coatbridge and Bellshill,SC,6%,50%,5%,3%,7%,29%,,1%,Labour,Scottish National Party,20%,Safe Labour,Scottish National Party
+S14000071,Cowdenbeath and Kirkcaldy,SC,9%,49%,6%,4%,9%,23%,,1%,Labour,Scottish National Party,26%,Safe Labour,Scottish National Party
+S14000072,Cumbernauld and Kirkintilloch,SC,6%,50%,7%,2%,7%,27%,,,Labour,Scottish National Party,23%,Safe Labour,Scottish National Party
+S14000073,Dumfries and Galloway,SC,21%,20%,7%,1%,15%,35%,,1%,Scottish National Party,Conservative,15%,Likely Scottish National Party,Conservative
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",SC,31%,22%,8%,2%,10%,25%,,2%,Conservative,Scottish National Party,6%,Lean Conservative,Conservative
+S14000075,Dundee Central,SC,9%,43%,7%,,9%,31%,,1%,Labour,Scottish National Party,12%,Likely Labour,Scottish National Party
+S14000076,Dunfermline and Dollar,SC,10%,40%,8%,4%,8%,29%,,1%,Labour,Scottish National Party,12%,Likely Labour,Scottish National Party
+S14000077,East Kilbride and Strathaven,SC,9%,42%,7%,3%,8%,30%,,1%,Labour,Scottish National Party,12%,Likely Labour,Scottish National Party
+S14000078,Edinburgh East and Musselburgh,SC,9%,46%,8%,4%,7%,26%,,1%,Labour,Scottish National Party,20%,Safe Labour,Scottish National Party
+S14000079,Edinburgh North and Leith,SC,9%,33%,13%,4%,7%,33%,,1%,Scottish National Party,Labour,0%,Marginal,Scottish National Party
+S14000080,Edinburgh South,SC,8%,52%,9%,5%,8%,16%,,1%,Labour,Scottish National Party,36%,Safe Labour,Labour
+S14000081,Edinburgh South West,SC,15%,32%,10%,3%,11%,29%,,1%,Labour,Scottish National Party,3%,Marginal,Scottish National Party
+S14000082,Edinburgh West,SC,8%,19%,36%,3%,8%,25%,,1%,Liberal Democrat,Scottish National Party,11%,Likely Liberal Democrat,Liberal Democrat
+S14000083,Falkirk,SC,10%,39%,8%,3%,9%,32%,,1%,Labour,Scottish National Party,7%,Lean Labour,Scottish National Party
+S14000084,Glasgow East,SC,7%,44%,5%,4%,9%,31%,,1%,Labour,Scottish National Party,13%,Likely Labour,Scottish National Party
+S14000085,Glasgow North,SC,7%,47%,6%,4%,7%,29%,,1%,Labour,Scottish National Party,18%,Safe Labour,Scottish National Party
+S14000086,Glasgow North East,SC,8%,47%,4%,3%,9%,28%,,1%,Labour,Scottish National Party,19%,Safe Labour,Scottish National Party
+S14000087,Glasgow South,SC,6%,40%,6%,3%,8%,35%,,2%,Labour,Scottish National Party,5%,Lean Labour,Scottish National Party
+S14000088,Glasgow South West,SC,6%,44%,5%,3%,9%,32%,,1%,Labour,Scottish National Party,12%,Likely Labour,Scottish National Party
+S14000089,Glasgow West,SC,8%,42%,6%,3%,7%,34%,,1%,Labour,Scottish National Party,8%,Lean Labour,Scottish National Party
+S14000090,Glenrothes and Mid Fife,SC,7%,51%,7%,,8%,26%,,,Labour,Scottish National Party,24%,Safe Labour,Scottish National Party
+S14000091,Gordon and Buchan,SC,26%,20%,10%,,11%,33%,,,Scottish National Party,Conservative,7%,Lean Scottish National Party,Conservative
+S14000092,Hamilton and Clyde Valley,SC,11%,45%,7%,,9%,28%,,1%,Labour,Scottish National Party,17%,Safe Labour,Scottish National Party
+S14000093,Inverclyde and Renfrewshire West,SC,8%,44%,7%,2%,8%,30%,,1%,Labour,Scottish National Party,14%,Likely Labour,Scottish National Party
+S14000094,"Inverness, Skye and West Ross-shire",SC,11%,26%,16%,3%,11%,33%,,1%,Scottish National Party,Labour,8%,Lean Scottish National Party,Scottish National Party
+S14000095,Livingston,SC,9%,38%,7%,4%,8%,32%,,1%,Labour,Scottish National Party,5%,Lean Labour,Scottish National Party
+S14000096,Lothian East,SC,12%,40%,8%,2%,8%,29%,,1%,Labour,Scottish National Party,11%,Likely Labour,Scottish National Party
+S14000097,Mid Dunbartonshire,SC,11%,29%,33%,4%,,22%,,1%,Liberal Democrat,Labour,4%,Marginal,Scottish National Party
+S14000098,"Moray West, Nairn and Strathspey",SC,18%,21%,9%,2%,15%,34%,,1%,Scottish National Party,Labour,13%,Likely Scottish National Party,Scottish National Party
+S14000099,"Motherwell, Wishaw and Carluke",SC,9%,44%,5%,2%,9%,30%,,1%,Labour,Scottish National Party,14%,Likely Labour,Scottish National Party
+S14000100,North East Fife,SC,7%,19%,35%,2%,7%,29%,,1%,Liberal Democrat,Scottish National Party,6%,Lean Liberal Democrat,Scottish National Party
+S14000101,Paisley and Renfrewshire North,SC,9%,39%,7%,2%,8%,35%,,,Labour,Scottish National Party,4%,Marginal,Scottish National Party
+S14000102,Paisley and Renfrewshire South,SC,8%,40%,7%,2%,8%,35%,,1%,Labour,Scottish National Party,5%,Marginal,Scottish National Party
+S14000103,Perth and Kinross-shire,SC,17%,25%,8%,,10%,39%,,1%,Scottish National Party,Labour,14%,Likely Scottish National Party,Scottish National Party
+S14000104,Rutherglen,SC,7%,54%,6%,,7%,26%,,1%,Labour,Scottish National Party,28%,Safe Labour,Scottish National Party
+S14000105,Stirling and Strathallan,SC,14%,28%,8%,2%,10%,36%,,1%,Scottish National Party,Labour,8%,Lean Scottish National Party,Scottish National Party
+S14000106,West Dunbartonshire,SC,6%,41%,4%,2%,7%,39%,,1%,Labour,Scottish National Party,2%,Marginal,Scottish National Party
+W07000081,Aberafan Maesteg,WA,11%,55%,6%,4%,14%,,9%,1%,Labour,Reform UK,41%,Safe Labour,Labour
+W07000082,Alyn and Deeside,WA,19%,44%,8%,3%,20%,,3%,1%,Labour,Reform UK,24%,Safe Labour,Labour
+W07000083,Bangor Aberconwy,WA,23%,41%,8%,3%,14%,,9%,1%,Labour,Conservative,18%,Safe Labour,Conservative
+W07000084,Blaenau Gwent and Rhymney,WA,14%,52%,7%,5%,,,21%,1%,Labour,Plaid Cymru,31%,Safe Labour,Labour
+W07000085,"Brecon, Radnor and Cwm Tawe",WA,24%,26%,26%,3%,16%,,3%,1%,Liberal Democrat,Labour,0%,Marginal,Conservative
+W07000086,Bridgend,WA,19%,42%,7%,4%,20%,,7%,1%,Labour,Reform UK,23%,Safe Labour,Conservative
+W07000087,Caerfyrddin,WA,15%,29%,3%,1%,15%,,36%,1%,Plaid Cymru,Labour,7%,Lean Plaid Cymru,Conservative
+W07000088,Caerphilly,WA,12%,48%,4%,3%,19%,,13%,,Labour,Reform UK,28%,Safe Labour,Labour
+W07000089,Cardiff East,WA,15%,52%,12%,5%,13%,,2%,1%,Labour,Conservative,37%,Safe Labour,Labour
+W07000090,Cardiff North,WA,20%,49%,8%,5%,13%,,3%,,Labour,Conservative,29%,Safe Labour,Labour
+W07000091,Cardiff South and Penarth,WA,16%,55%,9%,6%,9%,,3%,,Labour,Conservative,38%,Safe Labour,Labour
+W07000092,Cardiff West,WA,16%,48%,7%,4%,15%,,9%,1%,Labour,Conservative,32%,Safe Labour,Labour
+W07000093,Ceredigion Preseli,WA,14%,24%,10%,4%,11%,,37%,1%,Plaid Cymru,Labour,12%,Likely Plaid Cymru,Plaid Cymru
+W07000094,Clwyd East,WA,26%,41%,6%,3%,19%,,4%,1%,Labour,Conservative,15%,Safe Labour,Conservative
+W07000095,Clwyd North,WA,21%,44%,8%,3%,18%,,6%,,Labour,Conservative,23%,Safe Labour,Conservative
+W07000096,Dwyfor Meirionnydd,WA,10%,24%,3%,3%,10%,,49%,1%,Plaid Cymru,Labour,24%,Safe Plaid Cymru,Plaid Cymru
+W07000097,Gower,WA,18%,52%,6%,3%,16%,,3%,1%,Labour,Conservative,33%,Safe Labour,Labour
+W07000098,Llanelli,WA,11%,34%,3%,2%,18%,,30%,1%,Labour,Plaid Cymru,4%,Marginal,Labour
+W07000099,Merthyr Tydfil and Aberdare,WA,11%,48%,6%,4%,19%,,11%,1%,Labour,Reform UK,29%,Safe Labour,Labour
+W07000100,Mid and South Pembrokeshire,WA,26%,42%,6%,4%,17%,,4%,1%,Labour,Conservative,16%,Safe Labour,Conservative
+W07000101,Monmouthshire,WA,28%,38%,9%,4%,16%,,4%,1%,Labour,Conservative,10%,Likely Labour,Conservative
+W07000102,Montgomeryshire and Glyndwr,WA,26%,34%,14%,4%,18%,,3%,,Labour,Conservative,9%,Lean Labour,Conservative
+W07000103,Neath and Swansea East,WA,15%,48%,6%,4%,19%,,7%,,Labour,Reform UK,29%,Safe Labour,Labour
+W07000104,Newport East,WA,18%,48%,7%,4%,19%,,3%,2%,Labour,Reform UK,29%,Safe Labour,Labour
+W07000105,Newport West and Islwyn,WA,19%,43%,6%,4%,22%,,4%,1%,Labour,Reform UK,20%,Safe Labour,Labour
+W07000106,Pontypridd,WA,13%,45%,5%,3%,18%,,13%,1%,Labour,Reform UK,27%,Safe Labour,Labour
+W07000107,Rhondda and Ogmore,WA,7%,57%,5%,3%,14%,,12%,,Labour,Reform UK,44%,Safe Labour,Labour
+W07000108,Swansea West,WA,16%,52%,8%,5%,13%,,5%,1%,Labour,Conservative,36%,Safe Labour,Labour
+W07000109,Torfaen,WA,15%,45%,8%,5%,22%,,4%,1%,Labour,Reform UK,23%,Safe Labour,Labour
+W07000110,Vale of Glamorgan,WA,23%,46%,4%,6%,19%,,1%,1%,Labour,Conservative,23%,Safe Labour,Conservative
+W07000111,Wrexham,WA,18%,40%,7%,3%,17%,,15%,1%,Labour,Conservative,22%,Safe Labour,Conservative
+W07000112,Ynys Mon,WA,15%,36%,3%,3%,18%,,24%,1%,Labour,Plaid Cymru,12%,Likely Labour,Conservative

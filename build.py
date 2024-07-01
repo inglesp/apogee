@@ -66,6 +66,10 @@ model_map = {
         "title": "Ipsos",
         "url": "https://www.ipsos.com/en-uk/uk-opinion-polls/ipsos-election-mrp",
     },
+    "jlp": {
+        "title": "JLP",
+        "url": "https://jlpartners.co.uk/first-jl-partners-srp-model-shows-labour-on-course-for-a-landslide",
+    },
     "moreincommon": {
         "title": "More in Common",
         "url": "https://www.moreincommon.org.uk/general-election-2024/mrp/",
