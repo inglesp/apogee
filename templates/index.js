@@ -261,20 +261,19 @@ document.addEventListener('DOMContentLoaded', (event) => {
 				v2 = predictions[key][heading][code2];
 			}
 
+			if (v1 == '?') {
+				v1 = -1;
+			}
+			if (v2 == '?') {
+				v2 = -1;
+			}
+
 			let rv = 0;
                         if (v1 < v2) {
                                 rv = ascending ? -1 : 1;
                         } else if (v2 < v1) {
                                 rv = ascending ? 1 : -1;
                         }
-
-			console.log(code1, code2, v1, v2, rv);
-			// if ((code1 == 'E14001113') && (code2 == 'E14001113')) {
-			// }
-
-			// if ((model == undefined) || (key == 'winner')) {
-			// 	rv = -rv;
-			// }
 
 			return rv;
                 });

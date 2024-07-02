@@ -29,7 +29,7 @@ table td:nth-child(n+1) {
         <tr>
             <td class="party-{{ row[0]['party'] }} text-center">{{ row[0]['party'] }}</td>
             {% for item in row %}
-            <td class="text-center{% if item['class'] %} {{ item['class'] }}{% endif %}">{{ item['share']|round(1) }}%</td>
+	    <td class="text-center{% if item['class'] %} {{ item['class'] }}{% endif %}">{% if item['share'] == '?' %}?{% else %}{{ item['share']|round(1) }}%{% endif %}</td>
             {% endfor %}
         </tr>
         {% endfor %}

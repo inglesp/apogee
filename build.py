@@ -141,6 +141,7 @@ def build_predictions():
     data = data[["code", "model", *parties]]
     winner = data[parties].idxmax(axis=1)
     winner[data[parties].eq(data[parties].max(axis=1), axis=0).sum(axis=1) > 1] = "tie"
+    winner[data[parties].sum(axis=1) == 0] = "?"
     data["winner"] = winner
 
     def get_two_largest(row):
@@ -162,6 +163,8 @@ def build_predictions():
             lambda row: get_majority(party, row), axis=1
         )
 
+    data = data.drop(["votes0", "votes1"], axis=1)
+
     corr_coeff = {}
     for c in codes:
         df = data[(data["code"] == c) & (data["model"] != "2019")]
@@ -179,7 +182,6 @@ def build_predictions():
             / (len(models) - 2)
         )
 
-    data = data.drop(["votes0", "votes1"], axis=1)
     data = data.pivot(index="code", columns="model")
 
     predictions = {
@@ -191,6 +193,14 @@ def build_predictions():
     for party in parties:
         predictions[f"vote-share-{party}"] = predictions[party]
         del predictions[party]
+
+    for model in predictions["winner"]:
+        for code in predictions["winner"][model]:
+            if predictions["winner"][model][code] == "?":
+                for key in predictions:
+                    if key == "winner":
+                        continue
+                    predictions[key][model][code] = "?"
 
     summary = (
         pd.DataFrame(
@@ -242,12 +252,15 @@ def build_predictions():
         ]
         for col in cols:
             shares = [item["share"] for item in col]
+            if len(set(shares)) == 1:
+                assert set(shares) == {"?"}
+                continue
             one, two = sorted(set(shares), reverse=True)[:2]
             for item in col:
                 if item["share"] == one:
                     item["class"] = f"party-{item['party']}"
         rows = list(zip(*cols))
-        rows = [r for r in rows if sum(i["share"] for i in r)]
+        rows = [r for r in rows if not set(i["share"] for i in r) <= {0, "?"}]
         rows.sort(key=lambda r: r[0]["share"], reverse=True)
 
         ctx = {
