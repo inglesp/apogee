@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 	const sortState = {
 		'key': null,
-		'model': null,
+		'heading': null,
 		'ascending': false,
 	}
 
@@ -240,22 +240,25 @@ document.addEventListener('DOMContentLoaded', (event) => {
         }
 
         function sort() {
+		const heading = sortState['heading'];
 		const key = sortState['key'];
-		const model = sortState['model'];
 		const ascending = sortState['ascending'];
-		console.log('sort', model, key, ascending);
+		console.log('sort', heading, key, ascending);
                 const rows = Array.from(tableRows)
                 rows.sort((r1, r2)=> {
                         const code1 = r1.dataset['constituency'];
                         const code2 = r2.dataset['constituency'];
 
 			let v1, v2;
-			if (model) {
-				v1 = predictions[key][model][code1];
-				v2 = predictions[key][model][code2];
-			} else {
+			if (heading == 'constituency') {
 				v1 = codeToName[code1];
 				v2 = codeToName[code2];
+			} else if (heading == 'corr-coeff') {
+				v1 = corrCoeff[code1];
+				v2 = corrCoeff[code2];
+			} else {
+				v1 = predictions[key][heading][code1];
+				v2 = predictions[key][heading][code2];
 			}
 
 			let rv = 0;
@@ -265,9 +268,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
                                 rv = ascending ? 1 : -1;
                         }
 
-			if ((model == undefined) || (key == 'winner')) {
-				rv = -rv;
-			}
+			console.log(code1, code2, v1, v2, rv);
+			// if ((code1 == 'E14001113') && (code2 == 'E14001113')) {
+			// }
+
+			// if ((model == undefined) || (key == 'winner')) {
+			// 	rv = -rv;
+			// }
 
 			return rv;
                 });
@@ -296,9 +303,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
         function handleTableHeaderClick(e) {
                 const th = e.target;
-		console.log(th);
-		console.log(th.dataset);
-		console.log(th.dataset['model']);
 		th.classList.add('table-active');
                 tableHeaders.forEach(th1 => {
                         if (th1 != th) {
@@ -309,7 +313,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 		if (sortState['model'] == th.dataset['model']) {
 			sortState['ascending'] = !sortState['ascending'];
 		}
-		sortState['model'] = th.dataset['model'];
+		sortState['heading'] = th.dataset['heading'];
                 sort();
         }
 

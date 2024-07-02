@@ -162,6 +162,23 @@ def build_predictions():
             lambda row: get_majority(party, row), axis=1
         )
 
+    corr_coeff = {}
+    for c in codes:
+        df = data[(data["code"] == c) & (data["model"] != "2019")]
+        corr_coeff[c] = (
+            (
+                df[["model", *parties]]
+                .set_index("model")
+                .transpose()
+                .corr()
+                .sum()
+                .sum()
+                - (len(models) - 1)
+            )
+            / (len(models) - 1)
+            / (len(models) - 2)
+        )
+
     data = data.drop(["votes0", "votes1"], axis=1)
     data = data.pivot(index="code", columns="model")
 
@@ -196,12 +213,14 @@ def build_predictions():
         "code_to_name": code_to_name,
         "codes": sorted(codes, key=lambda c: code_to_name[c]),
         "predictions": predictions,
+        "corr_coeff": corr_coeff,
         "summary": df_to_list_of_lists(summary),
         "json_data": {
             "parties": json.dumps(parties),
             "models": json.dumps(models),
             "code_to_name": json.dumps(code_to_name),
             "predictions": json.dumps(predictions, cls=TruncateFloatEncoder),
+            "corr_coeff": json.dumps(corr_coeff),
         },
     }
     with open("outputs/index.html", "w") as f:
