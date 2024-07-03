@@ -80,7 +80,7 @@ model_map = {
     },
     "survation": {
         "title": "Survation",
-        "url": "https://www.survation.com/survation-mrp-labour-set-for-record-breaking-majority/",
+        "url": "https://www.survation.com/survation-mrp-labour-99-certain-to-win-more-seats-than-in-1997/",
     },
     "wethink": {
         "title": "WeThink",
