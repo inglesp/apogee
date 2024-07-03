@@ -72,7 +72,7 @@ model_map = {
     },
     "moreincommon": {
         "title": "More in Common",
-        "url": "https://www.moreincommon.org.uk/general-election-2024/mrp/",
+        "url": "https://www.moreincommon.org.uk/general-election-2024/mrp-3-july/",
     },
     "savanta": {
         "title": "Savanta",
