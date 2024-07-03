@@ -80,7 +80,7 @@ model_map = {
     },
     "survation": {
         "title": "Survation",
-        "url": "https://www.survation.com/survation-mrp-update-labour-set-to-become-the-largest-party-in-scotland/",
+        "url": "https://www.survation.com/survation-mrp-labour-set-for-record-breaking-majority/",
     },
     "wethink": {
         "title": "WeThink",
