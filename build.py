@@ -55,7 +55,7 @@ model_map = {
     },
     "focaldata": {
         "title": "Focaldata",
-        "url": "https://www.focaldata.com/blog/focaldata-prolific-uk-general-election-mrp",
+        "url": "https://www.focaldata.com/blog/focaldata-prolific-uk-general-election-mrp-final-call",
     },
     "ft": {
         "title": "FT",
