@@ -165,6 +165,20 @@ def build_predictions():
 
     data = data.drop(["votes0", "votes1"], axis=1)
 
+    def get_margin(row):
+        winner = row["winner"]
+        if winner not in parties:
+            return "unknown"
+        majority = row[f"majority-{row['winner']}"]
+        if majority > 10:
+            return "comfortable"
+        elif majority > 5:
+            return "close"
+        else:
+            return "very-close"
+
+    data["margin"] = data.apply(get_margin, axis=1)
+
     corr_coeff = {}
     for c in codes:
         df = data[(data["code"] == c) & (data["model"] != "2019")]

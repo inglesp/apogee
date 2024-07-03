@@ -172,7 +172,7 @@ table#constituencies th:nth-child(n+2) {
             {% for m in models %}
             <th class="text-center" data-heading="{{ m }}">{{ model_map[m]['title'] }}</th>
             {% endfor %}
-	    <th class="text-center" data-heading="corr-coeff">Agreement</th>
+            <th class="text-center" data-heading="corr-coeff">Agreement</th>
         </tr>
     </thead>
     <tbody>
@@ -181,9 +181,9 @@ table#constituencies th:nth-child(n+2) {
             <td>{{ code }}</td>
             <td><a href="constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
             {% for m in models %}
-            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
+            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }} margin-{{ predictions["margin"][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             {% endfor %}
-	    <td class="text-center">{{ corr_coeff[code].round(2) }}</td>
+            <td class="text-center">{{ corr_coeff[code].round(2) }}</td>
         </tr>
         {% endfor %}
     </tbody>
