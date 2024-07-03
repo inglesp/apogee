@@ -1,0 +1,632 @@
+code,name,con,grn,lab,lib,oth,pc,ref,snp
+E14001063,Aldershot,28,6,33,10,1,0,22,0
+E14001064,Aldridge-Brownhills,39,5,31,5,0,0,20,0
+E14001065,Altrincham and Sale West,27,9,43,9,1,0,11,0
+E14001066,Amber Valley,29,5,34,6,0,0,25,0
+E14001067,Arundel and South Downs,41,6,21,17,0,0,15,0
+E14001068,Ashfield,11,5,31,4,16,0,33,0
+E14001069,Ashford,31,8,31,9,1,0,20,0
+E14001070,Ashton-under-Lyne,14,8,52,6,1,0,18,0
+E14001071,Aylesbury,30,5,34,20,0,0,11,0
+E14001072,Banbury,30,6,37,10,0,0,17,0
+E14001073,Barking,11,9,51,5,6,0,17,0
+E14001074,Barnsley North,9,6,42,5,2,0,36,0
+E14001075,Barnsley South,7,4,52,4,1,0,32,0
+E14001076,Barrow and Furness,29,7,44,4,1,0,15,0
+E14001077,Basildon and Billericay,25,6,33,5,1,0,29,0
+E14001078,Basingstoke,28,5,42,10,0,0,15,0
+E14001079,Bassetlaw,30,2,42,6,0,0,20,0
+E14001080,Bath,12,7,11,58,4,0,9,0
+E14001081,Battersea,17,7,59,9,1,0,8,0
+E14001082,Beaconsfield,33,5,23,21,1,0,17,0
+E14001083,Beckenham and Penge,19,7,47,15,0,0,12,0
+E14001084,Bedford,20,9,49,9,0,0,13,0
+E14001085,Bermondsey and Old Southwark,7,8,47,26,3,0,9,0
+E14001086,Bethnal Green and Stepney,6,14,51,10,13,0,6,0
+E14001087,Beverley and Holderness,33,3,35,8,1,0,20,0
+E14001088,Bexhill and Battle,32,6,30,8,6,0,17,0
+E14001089,Bexleyheath and Crayford,31,5,36,6,0,0,22,0
+E14001090,Bicester and Woodstock,25,3,14,45,0,0,14,0
+E14001091,Birkenhead,6,16,54,9,1,0,15,0
+E14001092,Birmingham Edgbaston,16,9,47,7,6,0,14,0
+E14001093,Birmingham Erdington,18,7,51,5,2,0,18,0
+E14001094,Birmingham Hall Green and Moseley,12,8,54,12,8,0,7,0
+E14001095,Birmingham Hodge Hill and Solihull North,14,11,48,6,8,0,14,0
+E14001096,Birmingham Ladywood,7,13,59,4,11,0,6,0
+E14001097,Birmingham Northfield,24,7,52,4,0,0,14,0
+E14001098,Birmingham Perry Barr,12,9,51,6,15,0,8,0
+E14001099,Birmingham Selly Oak,13,10,57,5,0,0,15,0
+E14001100,Birmingham Yardley,15,7,46,11,6,0,15,0
+E14001101,Bishop Auckland,23,3,48,4,0,0,21,0
+E14001102,Blackburn,13,7,45,5,16,0,14,0
+E14001103,Blackley and Middleton South,10,6,61,5,0,0,17,0
+E14001104,Blackpool North and Fleetwood,26,3,40,5,0,0,25,0
+E14001105,Blackpool South,17,4,47,5,1,0,26,0
+E14001106,Blaydon and Consett,15,8,50,9,0,0,18,0
+E14001107,Blyth and Ashington,10,5,59,4,0,0,22,0
+E14001108,Bognor Regis and Littlehampton,32,5,31,10,0,0,21,0
+E14001109,Bolsover,20,5,43,4,0,0,28,0
+E14001110,Bolton North East,21,4,45,5,1,0,23,0
+E14001111,Bolton South and Walkden,14,9,53,5,0,0,19,0
+E14001112,Bolton West,32,4,41,4,1,0,17,0
+E14001113,Bootle,3,15,63,5,0,0,13,0
+E14001114,Boston and Skegness,35,3,23,4,1,0,34,0
+E14001115,Bournemouth East,25,6,47,7,0,0,15,0
+E14001116,Bournemouth West,25,7,42,7,1,0,18,0
+E14001117,Bracknell,32,6,35,12,0,0,14,0
+E14001118,Bradford East,12,8,46,7,11,0,15,0
+E14001119,Bradford South,20,11,39,6,4,0,20,0
+E14001120,Bradford West,11,10,44,9,19,0,7,0
+E14001121,Braintree,36,4,31,6,0,0,23,0
+E14001122,Brent East,11,8,66,7,1,0,8,0
+E14001123,Brent West,20,9,43,15,2,0,11,0
+E14001124,Brentford and Isleworth,15,10,45,16,3,0,12,0
+E14001125,Brentwood and Ongar,39,5,25,11,1,0,18,0
+E14001126,Bridgwater,25,4,30,16,0,0,24,0
+E14001127,Bridlington and The Wolds,34,4,31,6,0,0,26,0
+E14001128,Brigg and Immingham,40,4,30,5,0,0,20,0
+E14001129,Brighton Kemptown and Peacehaven,17,14,58,7,3,0,0,0
+E14001130,Brighton Pavilion,5,55,27,5,3,0,5,0
+E14001131,Bristol Central,5,52,34,3,4,0,2,0
+E14001132,Bristol East,10,27,52,6,5,0,0,0
+E14001133,Bristol North East,16,13,45,4,4,0,17,0
+E14001134,Bristol North West,16,16,51,7,0,0,11,0
+E14001135,Bristol South,13,19,49,6,0,0,14,0
+E14001136,Broadland and Fakenham,35,4,37,8,0,0,16,0
+E14001137,Bromley and Biggin Hill,30,6,38,11,0,0,16,0
+E14001138,Bromsgrove,29,4,27,12,2,0,26,0
+E14001139,Broxbourne,34,5,32,8,0,0,21,0
+E14001140,Broxtowe,20,8,43,7,0,0,22,0
+E14001141,Buckingham and Bletchley,28,5,36,9,0,0,23,0
+E14001142,Burnley,23,8,46,7,1,0,16,0
+E14001143,Burton and Uttoxeter,31,6,31,7,1,0,24,0
+E14001144,Bury North,28,5,52,3,0,0,12,0
+E14001145,Bury South,20,8,46,6,1,0,19,0
+E14001146,Bury St Edmunds and Stowmarket,34,10,34,5,1,0,16,0
+E14001147,Calder Valley,24,7,45,4,1,0,19,0
+E14001148,Camborne and Redruth,25,5,45,8,0,0,18,0
+E14001149,Cambridge,8,14,48,29,1,0,0,0
+E14001150,Cannock Chase,27,6,37,3,0,0,27,0
+E14001151,Canterbury,21,8,53,7,0,0,11,0
+E14001152,Carlisle,28,5,37,7,2,0,21,0
+E14001153,Carshalton and Wallington,23,4,12,45,1,0,15,0
+E14001154,Castle Point,41,3,24,5,0,0,28,0
+E14001155,Central Devon,33,5,37,13,1,0,12,0
+E14001156,Central Suffolk and North Ipswich,32,6,33,8,0,0,21,0
+E14001157,Chatham and Aylesford,29,4,35,6,1,0,25,0
+E14001158,Cheadle,29,3,11,49,0,0,8,0
+E14001159,Chelmsford,26,3,14,40,0,0,17,0
+E14001160,Chelsea and Fulham,31,5,44,11,0,0,8,0
+E14001161,Cheltenham,27,3,6,61,3,0,0,0
+E14001162,Chesham and Amersham,30,3,9,48,0,0,10,0
+E14001163,Chester North and Neston,16,7,53,6,0,0,18,0
+E14001164,Chester South and Eddisbury,36,4,38,11,1,0,11,0
+E14001165,Chesterfield,16,8,53,6,1,0,15,0
+E14001166,Chichester,27,3,8,47,0,0,14,0
+E14001167,Chingford and Woodford Green,26,5,35,4,23,0,8,0
+E14001168,Chippenham,24,3,7,52,0,0,13,0
+E14001169,Chipping Barnet,30,6,44,7,1,0,12,0
+E14001171,Christchurch,36,4,16,19,1,0,25,0
+E14001172,Cities of London and Westminster,28,7,39,18,1,0,7,0
+E14001173,City of Durham,14,6,56,13,0,0,11,0
+E14001174,Clacton,30,6,19,5,1,0,40,0
+E14001175,Clapham and Brixton Hill,9,12,57,17,1,0,6,0
+E14001176,Colchester,22,4,50,9,1,0,14,0
+E14001177,Colne Valley,25,4,53,4,0,0,14,0
+E14001178,Congleton,36,4,42,4,0,0,13,0
+E14001179,Corby and East Northamptonshire,26,4,46,5,1,0,18,0
+E14001180,Coventry East,14,9,43,7,9,0,17,0
+E14001181,Coventry North West,21,9,44,9,1,0,17,0
+E14001182,Coventry South,20,5,55,8,0,0,12,0
+E14001183,Cramlington and Killingworth,17,7,51,8,1,0,17,0
+E14001184,Crawley,26,7,38,6,3,0,21,0
+E14001185,Crewe and Nantwich,21,6,43,5,1,0,24,0
+E14001186,Croydon East,19,9,43,12,0,0,17,0
+E14001187,Croydon South,37,5,38,11,0,0,9,0
+E14001188,Croydon West,9,9,64,8,1,0,10,0
+E14001189,Dagenham and Rainham,14,7,38,6,3,0,31,0
+E14001190,Darlington,30,7,44,6,0,0,13,0
+E14001191,Dartford,30,6,35,7,0,0,22,0
+E14001192,Daventry,37,4,29,14,0,0,17,0
+E14001193,Derby North,24,7,50,4,0,0,14,0
+E14001194,Derby South,15,8,41,8,6,0,22,0
+E14001195,Derbyshire Dales,32,4,42,7,0,0,15,0
+E14001196,Dewsbury and Batley,16,9,43,7,10,0,16,0
+E14001197,Didcot and Wantage,26,4,15,43,0,0,12,0
+E14001198,Doncaster Central,15,5,50,5,1,0,23,0
+E14001199,Doncaster East and the Isle of Axholme,26,3,43,3,1,0,24,0
+E14001200,Doncaster North,14,3,59,6,18,0,0,0
+E14001201,Dorking and Horley,28,5,11,44,0,0,13,0
+E14001202,Dover and Deal,24,5,44,5,1,0,20,0
+E14001203,Droitwich and Evesham,38,5,31,8,0,0,18,0
+E14001204,Dudley,32,6,40,4,0,0,18,0
+E14001205,Dulwich and West Norwood,5,17,65,6,1,0,5,0
+E14001206,Dunstable and Leighton Buzzard,26,5,34,13,1,0,21,0
+E14001207,Ealing Central and Acton,12,9,55,17,1,0,6,0
+E14001208,Ealing North,15,9,50,11,3,0,12,0
+E14001209,Ealing Southall,14,13,57,7,0,0,8,0
+E14001210,Earley and Woodley,34,5,51,10,0,0,0,0
+E14001211,Easington,9,5,51,5,2,0,28,0
+E14001212,East Grinstead and Uckfield,37,5,19,29,10,0,0,0
+E14001213,East Ham,10,10,61,4,7,0,7,0
+E14001214,East Hampshire,33,5,13,30,1,0,18,0
+E14001215,East Surrey,34,4,18,28,1,0,15,0
+E14001216,East Thanet,22,9,43,3,1,0,22,0
+E14001217,East Wiltshire,39,4,32,10,0,0,15,0
+E14001218,East Worthing and Shoreham,25,5,49,7,0,0,14,0
+E14001219,Eastbourne,18,3,6,57,2,0,15,0
+E14001220,Eastleigh,27,5,13,37,1,0,16,0
+E14001221,Edmonton and Winchmore Hill,15,9,51,8,6,0,11,0
+E14001222,Ellesmere Port and Bromborough,8,6,63,7,1,0,15,0
+E14001223,Eltham and Chislehurst,21,6,50,4,0,0,19,0
+E14001224,Ely and East Cambridgeshire,29,3,12,40,0,0,15,0
+E14001225,Enfield North,17,8,49,9,5,0,13,0
+E14001226,Epping Forest,40,6,35,11,8,0,0,0
+E14001227,Epsom and Ewell,29,4,17,34,0,0,15,0
+E14001228,Erewash,26,5,43,5,1,0,20,0
+E14001229,Erith and Thamesmead,12,10,57,7,1,0,12,0
+E14001230,Esher and Walton,27,3,6,56,0,0,9,0
+E14001231,Exeter,12,14,58,6,1,0,9,0
+E14001232,Exmouth and Exeter East,26,6,26,21,4,0,17,0
+E14001233,Fareham and Waterlooville,35,4,23,21,0,0,16,0
+E14001234,Farnham and Bordon,37,3,12,37,1,0,10,0
+E14001235,Faversham and Mid Kent,35,6,28,12,1,0,18,0
+E14001236,Feltham and Heston,16,10,44,8,3,0,18,0
+E14001237,Filton and Bradley Stoke,28,6,50,5,0,0,12,0
+E14001238,Finchley and Golders Green,34,4,33,20,1,0,8,0
+E14001239,Folkestone and Hythe,23,6,32,7,0,0,31,0
+E14001240,Forest of Dean,32,10,38,4,0,0,16,0
+E14001241,Frome and East Somerset,22,9,19,35,1,0,14,0
+E14001242,Fylde,32,4,35,6,2,0,20,0
+E14001243,Gainsborough,37,4,29,8,0,0,22,0
+E14001244,Gateshead Central and Whickham,11,10,39,15,2,0,23,0
+E14001245,Gedling,22,4,56,4,1,0,14,0
+E14001246,Gillingham and Rainham,28,4,37,5,0,0,25,0
+E14001247,Glastonbury and Somerton,28,3,9,48,0,0,12,0
+E14001248,Gloucester,27,6,43,7,0,0,17,0
+E14001249,Godalming and Ash,28,3,6,51,1,0,12,0
+E14001250,Goole and Pocklington,42,6,30,7,1,0,13,0
+E14001251,Gorton and Denton,9,13,49,9,4,0,16,0
+E14001252,Gosport,38,4,30,10,0,0,18,0
+E14001253,Grantham and Bourne,34,6,31,6,2,0,22,0
+E14001254,Gravesham,30,5,47,3,0,0,14,0
+E14001255,Great Grimsby and Cleethorpes,23,4,46,4,1,0,22,0
+E14001256,Great Yarmouth,23,5,29,5,2,0,36,0
+E14001257,Greenwich and Woolwich,10,12,57,12,0,0,8,0
+E14001258,Guildford,26,4,11,46,1,0,12,0
+E14001259,Hackney North and Stoke Newington,6,16,65,7,1,0,5,0
+E14001260,Hackney South and Shoreditch,4,13,74,5,0,0,4,0
+E14001261,Halesowen,29,5,38,5,0,0,23,0
+E14001262,Halifax,18,8,43,7,5,0,19,0
+E14001263,Hamble Valley,39,4,18,25,0,0,13,0
+E14001264,Hammersmith and Chiswick,15,11,54,8,1,0,10,0
+E14001265,Hampstead and Highgate,13,10,57,14,1,0,6,0
+E14001266,"Harborough, Oadby and Wigston",37,5,33,13,1,0,11,0
+E14001267,Harlow,29,4,35,6,1,0,27,0
+E14001268,Harpenden and Berkhamsted,27,3,13,42,0,0,16,0
+E14001269,Harrogate and Knaresborough,29,3,9,47,1,0,11,0
+E14001270,Harrow East,42,5,40,6,0,0,7,0
+E14001271,Harrow West,20,6,54,9,1,0,9,0
+E14001272,Hartlepool,14,4,47,5,0,0,30,0
+E14001273,Harwich and North Essex,34,6,34,8,0,0,18,0
+E14001274,Hastings and Rye,25,8,41,7,1,0,18,0
+E14001275,Havant,32,5,30,7,1,0,26,0
+E14001276,Hayes and Harlington,18,9,52,9,0,0,13,0
+E14001277,Hazel Grove,21,2,13,52,0,0,12,0
+E14001278,Hemel Hempstead,26,6,41,9,0,0,18,0
+E14001279,Hendon,26,6,43,6,6,0,12,0
+E14001280,Henley and Thame,30,3,8,48,1,0,10,0
+E14001281,Hereford and South Herefordshire,33,5,30,12,0,0,20,0
+E14001282,Herne Bay and Sandwich,37,5,32,7,0,0,19,0
+E14001283,Hertford and Stortford,31,8,36,7,1,0,18,0
+E14001284,Hertsmere,45,4,32,8,1,0,11,0
+E14001285,Hexham,36,5,53,6,1,0,0,0
+E14001286,Heywood and Middleton North,14,0,40,5,12,0,29,0
+E14001287,High Peak,23,8,52,3,0,0,14,0
+E14001288,Hinckley and Bosworth,37,4,18,26,1,0,14,0
+E14001289,Hitchin,27,5,43,13,1,0,12,0
+E14001290,Holborn and St Pancras,8,10,55,7,13,0,7,0
+E14001291,Honiton and Sidmouth,31,3,10,42,1,0,13,0
+E14001292,Hornchurch and Upminster,35,5,33,6,1,0,20,0
+E14001293,Hornsey and Friern Barnet,7,17,57,15,0,0,3,0
+E14001294,Horsham,28,4,11,42,1,0,14,0
+E14001295,Houghton and Sunderland South,13,9,47,5,0,0,27,0
+E14001296,Hove and Portslade,13,9,63,7,2,0,7,0
+E14001297,Huddersfield,18,15,48,6,0,0,13,0
+E14001298,Huntingdon,34,5,33,11,1,0,16,0
+E14001299,Hyndburn,26,5,52,4,0,0,14,0
+E14001300,Ilford North,18,7,40,6,15,0,13,0
+E14001301,Ilford South,13,9,48,7,15,0,9,0
+E14001302,Ipswich,29,7,46,6,0,0,13,0
+E14001303,Isle of Wight East,26,16,29,6,0,0,23,0
+E14001304,Isle of Wight West,24,9,41,7,1,0,18,0
+E14001305,Islington North,3,8,43,4,38,0,3,0
+E14001306,Islington South and Finsbury,7,12,61,14,0,0,6,0
+E14001307,Jarrow and Gateshead East,8,10,49,9,1,0,24,0
+E14001308,Keighley and Ilkley,32,6,45,3,1,0,12,0
+E14001309,Kenilworth and Southam,42,7,30,10,1,0,10,0
+E14001310,Kensington and Bayswater,23,8,41,18,1,0,9,0
+E14001311,Kettering,31,8,37,5,0,0,20,0
+E14001312,Kingston and Surbiton,14,8,15,51,3,0,11,0
+E14001313,Kingston upon Hull East,12,8,44,9,0,0,28,0
+E14001314,Kingston upon Hull North and Cottingham,14,8,49,10,1,0,18,0
+E14001315,Kingston upon Hull West and Haltemprice,17,3,50,7,0,0,23,0
+E14001316,Kingswinford and South Staffordshire,43,4,28,5,1,0,19,0
+E14001317,Knowsley,3,13,69,3,1,0,12,0
+E14001318,Lancaster and Wyre,21,8,50,5,0,0,16,0
+E14001319,Leeds Central and Headingley,6,13,60,10,1,0,9,0
+E14001320,Leeds East,18,7,52,6,0,0,17,0
+E14001321,Leeds North East,12,12,59,5,2,0,10,0
+E14001322,Leeds North West,22,6,45,16,1,0,11,0
+E14001323,Leeds South,13,20,58,7,2,0,0,0
+E14001324,Leeds South West and Morley,26,6,47,4,0,0,17,0
+E14001325,Leeds West and Pudsey,18,10,49,4,0,0,19,0
+E14001326,Leicester East,23,7,37,9,14,0,10,0
+E14001327,Leicester South,12,11,45,5,20,0,8,0
+E14001328,Leicester West,15,10,47,8,2,0,18,0
+E14001329,Leigh and Atherton,14,5,50,4,1,0,27,0
+E14001330,Lewes,21,2,7,55,0,0,14,0
+E14001331,Lewisham East,9,15,58,10,0,0,7,0
+E14001332,Lewisham North,5,21,63,6,0,0,5,0
+E14001333,Lewisham West and East Dulwich,7,15,62,7,3,0,6,0
+E14001334,Leyton and Wanstead,9,10,65,7,0,0,8,0
+E14001335,Lichfield,33,4,36,5,0,0,21,0
+E14001336,Lincoln,21,5,48,6,0,0,20,0
+E14001337,Liverpool Garston,6,8,57,11,9,0,9,0
+E14001338,Liverpool Riverside,4,19,62,5,2,0,8,0
+E14001339,Liverpool Walton,3,9,76,3,1,0,9,0
+E14001340,Liverpool Wavertree,4,17,64,8,1,0,6,0
+E14001341,Liverpool West Derby,3,10,70,4,0,0,13,0
+E14001342,Loughborough,25,5,51,5,0,0,15,0
+E14001343,Louth and Horncastle,41,3,26,5,1,0,25,0
+E14001344,Lowestoft,28,6,40,4,0,0,22,0
+E14001345,Luton North,16,6,44,9,5,0,19,0
+E14001346,Luton South and South Bedfordshire,17,7,48,8,6,0,15,0
+E14001347,Macclesfield,26,4,52,5,0,0,13,0
+E14001348,Maidenhead,28,4,9,56,3,0,0,0
+E14001349,Maidstone and Malling,36,6,25,19,0,0,15,0
+E14001350,Makerfield,11,6,53,4,0,0,25,0
+E14001351,Maldon,38,3,22,10,0,0,27,0
+E14001352,Manchester Central,8,13,55,8,1,0,15,0
+E14001353,Manchester Rusholme,6,17,59,0,10,0,8,0
+E14001354,Manchester Withington,6,19,57,12,1,0,6,0
+E14001355,Mansfield,32,3,43,4,0,0,18,0
+E14001356,Melksham and Devizes,33,4,10,40,0,0,13,0
+E14001357,Melton and Syston,34,8,30,7,1,0,20,0
+E14001358,Meriden and Solihull East,36,4,28,11,0,0,20,0
+E14001359,Mid Bedfordshire,30,5,36,10,1,0,18,0
+E14001360,Mid Buckinghamshire,40,4,17,23,1,0,15,0
+E14001361,Mid Cheshire,20,7,48,5,1,0,20,0
+E14001362,Mid Derbyshire,33,5,42,6,0,0,14,0
+E14001363,Mid Dorset and North Poole,40,3,10,47,0,0,0,0
+E14001364,Mid Leicestershire,33,4,42,6,0,0,15,0
+E14001365,Mid Norfolk,37,4,33,8,0,0,18,0
+E14001366,Mid Sussex,24,4,17,43,0,0,11,0
+E14001367,Middlesbrough and Thornaby East,8,10,48,8,1,0,25,0
+E14001368,Middlesbrough South and East Cleveland,35,5,55,6,0,0,0,0
+E14001369,Milton Keynes Central,20,6,47,7,0,0,18,0
+E14001370,Milton Keynes North,22,5,39,11,0,0,23,0
+E14001371,Mitcham and Morden,11,10,55,12,1,0,11,0
+E14001372,Morecambe and Lunesdale,32,4,41,9,0,0,14,0
+E14001373,New Forest East,37,4,23,17,0,0,18,0
+E14001374,New Forest West,41,4,23,19,0,0,13,0
+E14001375,Newark,39,4,40,4,0,0,12,0
+E14001376,Newbury,30,4,8,43,1,0,14,0
+E14001377,Newcastle upon Tyne Central and West,9,7,62,5,0,0,16,0
+E14001378,Newcastle upon Tyne East and Wallsend,8,16,48,13,1,0,15,0
+E14001379,Newcastle upon Tyne North,14,9,55,10,0,0,11,0
+E14001380,Newcastle-under-Lyme,25,5,46,5,0,0,20,0
+E14001381,Newton Abbot,30,4,16,34,1,0,15,0
+E14001382,Newton Aycliffe and Spennymoor,17,3,55,3,1,0,21,0
+E14001383,Normanton and Hemsworth,11,5,48,6,0,0,29,0
+E14001384,North Bedfordshire,36,5,29,13,0,0,17,0
+E14001385,North Cornwall,24,2,6,50,1,0,17,0
+E14001386,North Cotswolds,33,6,17,28,0,0,15,0
+E14001387,North Devon,28,4,8,43,0,0,18,0
+E14001388,North Dorset,35,4,10,37,1,0,13,0
+E14001389,North Durham,13,8,37,9,4,0,28,0
+E14001390,North East Cambridgeshire,37,4,27,10,1,0,21,0
+E14001391,North East Derbyshire,31,5,42,6,0,0,17,0
+E14001392,North East Hampshire,33,3,9,39,0,0,17,0
+E14001393,North East Hertfordshire,30,6,39,9,0,0,16,0
+E14001394,North East Somerset and Hanham,33,5,40,8,1,0,13,0
+E14001395,North Herefordshire,34,24,13,9,0,0,21,0
+E14001396,North Norfolk,30,2,6,47,0,0,15,0
+E14001397,North Northumberland,31,4,34,11,3,0,17,0
+E14001398,North Shropshire,22,4,11,45,1,0,16,0
+E14001399,North Somerset,34,6,38,10,0,0,11,0
+E14001400,North Warwickshire and Bedworth,26,3,36,4,0,0,30,0
+E14001401,North West Cambridgeshire,29,6,38,8,0,0,20,0
+E14001402,North West Essex,42,6,23,20,0,0,9,0
+E14001403,North West Hampshire,32,5,24,19,1,0,19,0
+E14001404,North West Leicestershire,30,5,41,7,1,0,15,0
+E14001405,North West Norfolk,38,4,30,12,0,0,16,0
+E14001406,Northampton North,20,5,53,4,0,0,18,0
+E14001407,Northampton South,29,4,43,5,0,0,18,0
+E14001408,Norwich North,21,9,44,6,1,0,18,0
+E14001409,Norwich South,12,14,56,5,1,0,13,0
+E14001410,Nottingham East,9,13,62,5,1,0,9,0
+E14001411,Nottingham North and Kimberley,16,9,48,4,0,0,23,0
+E14001412,Nottingham South,12,12,50,10,1,0,14,0
+E14001413,Nuneaton,29,8,40,3,0,0,20,0
+E14001414,Old Bexley and Sidcup,37,6,26,10,0,0,21,0
+E14001415,Oldham East and Saddleworth,18,7,36,10,7,0,23,0
+E14001416,"Oldham West, Chadderton and Royton",12,5,43,5,19,0,16,0
+E14001417,Orpington,35,4,35,8,0,0,19,0
+E14001418,Ossett and Denby Dale,27,3,45,5,1,0,19,0
+E14001419,Oxford East,10,12,59,12,6,0,0,0
+E14001420,Oxford West and Abingdon,12,4,12,58,4,0,10,0
+E14001421,Peckham,5,17,63,9,1,0,5,0
+E14001422,Pendle and Clitheroe,33,4,39,8,0,0,17,0
+E14001423,Penistone and Stocksbridge,26,3,47,6,0,0,18,0
+E14001424,Penrith and Solway,31,5,43,7,1,0,14,0
+E14001425,Peterborough,27,7,43,7,1,0,16,0
+E14001426,Plymouth Moor View,30,4,42,7,0,0,17,0
+E14001427,Plymouth Sutton and Devonport,13,11,49,6,0,0,21,0
+E14001428,"Pontefract, Castleford and Knottingley",13,5,47,8,0,0,27,0
+E14001429,Poole,33,5,31,11,1,0,19,0
+E14001430,Poplar and Limehouse,10,13,52,12,6,0,7,0
+E14001431,Portsmouth North,32,5,38,4,0,0,22,0
+E14001432,Portsmouth South,13,8,53,8,0,0,18,0
+E14001433,Preston,12,7,54,7,8,0,14,0
+E14001434,Putney,19,7,54,13,0,0,7,0
+E14001435,Queen's Park and Maida Vale,10,11,61,10,0,0,7,0
+E14001436,Rawmarsh and Conisbrough,13,4,48,4,1,0,30,0
+E14001437,Rayleigh and Wickford,45,4,26,7,0,0,19,0
+E14001438,Reading Central,15,9,55,9,1,0,11,0
+E14001439,Reading West and Mid Berkshire,30,5,32,14,1,0,18,0
+E14001440,Redcar,26,5,46,5,1,0,17,0
+E14001441,Redditch,31,7,38,4,1,0,20,0
+E14001442,Reigate,36,10,27,12,0,0,15,0
+E14001443,Ribble Valley,32,3,35,13,1,0,16,0
+E14001444,Richmond and Northallerton,39,5,28,6,0,0,21,0
+E14001445,Richmond Park,18,6,10,55,3,0,7,0
+E14001446,Rochdale,16,5,44,8,14,0,13,0
+E14001447,Rochester and Strood,30,4,41,6,1,0,18,0
+E14001448,Romford,35,6,34,6,1,0,19,0
+E14001449,Romsey and Southampton North,38,3,11,38,1,0,9,0
+E14001450,Rossendale and Darwen,25,4,42,5,1,0,22,0
+E14001451,Rother Valley,25,5,47,4,0,0,19,0
+E14001452,Rotherham,0,6,54,8,0,0,32,0
+E14001453,Rugby,30,6,39,7,0,0,18,0
+E14001454,"Ruislip, Northwood and Pinner",40,4,35,9,0,0,12,0
+E14001455,Runcorn and Helsby,14,8,54,5,1,0,18,0
+E14001456,Runnymede and Weybridge,31,4,20,30,0,0,15,0
+E14001457,Rushcliffe,26,4,50,6,1,0,13,0
+E14001458,Rutland and Stamford,44,4,20,16,1,0,15,0
+E14001459,Salford,7,12,55,6,0,0,19,0
+E14001460,Salisbury,33,5,25,24,0,0,13,0
+E14001461,Scarborough and Whitby,27,6,41,5,0,0,21,0
+E14001462,Scunthorpe,26,4,44,3,1,0,22,0
+E14001463,Sefton Central,14,4,64,5,1,0,11,0
+E14001464,Selby,23,4,48,4,0,0,22,0
+E14001465,Sevenoaks,36,5,13,31,1,0,14,0
+E14001466,Sheffield Brightside and Hillsborough,13,14,63,5,5,0,0,0
+E14001467,Sheffield Central,6,15,57,5,17,0,0,0
+E14001468,Sheffield Hallam,14,7,48,29,2,0,0,0
+E14001469,Sheffield Heeley,12,12,63,9,4,0,0,0
+E14001470,Sheffield South East,20,8,54,9,9,0,0,0
+E14001471,Sherwood Forest,29,7,32,6,0,0,25,0
+E14001472,Shipley,27,7,46,4,1,0,15,0
+E14001473,Shrewsbury,21,4,48,11,1,0,15,0
+E14001474,Sittingbourne and Sheppey,30,4,31,5,4,0,25,0
+E14001475,Skipton and Ripon,33,4,40,7,0,0,15,0
+E14001476,Sleaford and North Hykeham,34,3,31,6,0,0,24,0
+E14001477,Slough,15,10,47,11,3,0,13,0
+E14001478,Smethwick,12,7,46,7,8,0,20,0
+E14001479,Solihull West and Shirley,36,4,26,18,0,0,15,0
+E14001480,South Basildon and East Thurrock,32,3,37,6,1,0,22,0
+E14001481,South Cambridgeshire,24,4,11,49,1,0,10,0
+E14001482,South Cotswolds,32,3,8,46,0,0,10,0
+E14001483,South Derbyshire,31,5,36,4,1,0,23,0
+E14001484,South Devon,27,2,9,49,1,0,11,0
+E14001485,South Dorset,30,5,30,15,1,0,19,0
+E14001486,South East Cornwall,34,4,28,15,0,0,18,0
+E14001487,South Holland and The Deepings,39,3,28,6,0,0,24,0
+E14001488,South Leicestershire,36,4,26,16,0,0,19,0
+E14001489,South Norfolk,28,4,40,9,0,0,18,0
+E14001490,South Northamptonshire,32,7,31,9,1,0,20,0
+E14001491,South Ribble,24,5,51,4,0,0,16,0
+E14001492,South Shields,10,11,41,5,13,0,19,0
+E14001493,South Shropshire,32,3,19,27,0,0,19,0
+E14001494,South Suffolk,34,7,29,10,0,0,20,0
+E14001495,South West Devon,32,6,29,11,0,0,22,0
+E14001496,South West Hertfordshire,31,7,23,23,0,0,16,0
+E14001497,South West Norfolk,32,4,30,6,5,0,23,0
+E14001498,South West Wiltshire,32,6,29,13,1,0,20,0
+E14001499,Southampton Itchen,21,9,43,6,1,0,20,0
+E14001500,Southampton Test,14,14,43,10,1,0,18,0
+E14001501,Southend East and Rochford,32,6,38,8,1,0,14,0
+E14001502,Southend West and Leigh,31,4,36,7,2,0,19,0
+E14001503,Southgate and Wood Green,14,11,57,8,0,0,9,0
+E14001504,Southport,25,4,44,10,1,0,17,0
+E14001505,Spelthorne,30,7,31,15,0,0,18,0
+E14001506,Spen Valley,18,4,46,6,2,0,24,0
+E14001507,St Albans,14,6,9,63,3,0,6,0
+E14001508,St Austell and Newquay,25,5,38,10,0,0,22,0
+E14001509,St Helens North,10,11,53,6,0,0,21,0
+E14001510,St Helens South and Whiston,7,10,56,6,5,0,16,0
+E14001511,St Ives,22,3,7,56,1,0,12,0
+E14001512,St Neots and Mid Cambridgeshire,29,4,17,37,1,0,12,0
+E14001513,Stafford,32,5,43,5,1,0,15,0
+E14001514,Staffordshire Moorlands,29,4,37,4,0,0,26,0
+E14001515,Stalybridge and Hyde,14,6,55,4,1,0,20,0
+E14001516,Stevenage,26,6,44,6,0,0,17,0
+E14001517,Stockport,11,11,53,10,0,0,15,0
+E14001518,Stockton North,13,6,51,4,0,0,26,0
+E14001519,Stockton West,35,5,39,4,0,0,17,0
+E14001520,Stoke-on-Trent Central,18,6,53,3,1,0,19,0
+E14001521,Stoke-on-Trent North,23,5,39,4,1,0,28,0
+E14001522,Stoke-on-Trent South,33,3,38,6,0,0,19,0
+E14001523,"Stone, Great Wyrley and Penkridge",41,5,38,8,8,0,0,0
+E14001524,Stourbridge,32,4,40,5,1,0,18,0
+E14001525,Stratford and Bow,7,14,52,6,15,0,6,0
+E14001526,Stratford-on-Avon,23,2,6,59,0,0,10,0
+E14001527,Streatham and Croydon North,9,11,58,16,1,0,6,0
+E14001528,Stretford and Urmston,12,11,53,6,3,0,15,0
+E14001529,Stroud,21,11,48,5,1,0,14,0
+E14001530,Suffolk Coastal,31,4,38,12,0,0,14,0
+E14001531,Sunderland Central,15,9,45,10,0,0,22,0
+E14001532,Surrey Heath,26,4,8,48,0,0,14,0
+E14001533,Sussex Weald,37,6,15,26,1,0,15,0
+E14001534,Sutton and Cheam,28,4,11,45,0,0,12,0
+E14001535,Sutton Coldfield,41,5,33,7,1,0,14,0
+E14001536,Swindon North,29,5,41,6,1,0,18,0
+E14001537,Swindon South,26,3,50,8,1,0,12,0
+E14001538,Tamworth,34,4,32,5,0,0,25,0
+E14001539,Tatton,33,4,39,10,0,0,14,0
+E14001540,Taunton and Wellington,22,3,5,58,1,0,12,0
+E14001541,Telford,27,4,45,7,0,0,18,0
+E14001542,Tewkesbury,31,4,12,37,0,0,16,0
+E14001543,The Wrekin,36,5,33,6,1,0,20,0
+E14001544,Thirsk and Malton,34,5,26,14,1,0,21,0
+E14001545,Thornbury and Yate,31,2,8,46,0,0,13,0
+E14001546,Thurrock,26,4,46,4,1,0,19,0
+E14001547,Tipton and Wednesbury,25,5,46,4,1,0,20,0
+E14001548,Tiverton and Minehead,25,3,8,46,0,0,19,0
+E14001549,Tonbridge,39,10,28,6,1,0,16,0
+E14001550,Tooting,14,9,63,8,1,0,5,0
+E14001551,Torbay,30,4,10,41,0,0,14,0
+E14001552,Torridge and Tavistock,33,4,20,23,1,0,20,0
+E14001553,Tottenham,6,16,55,6,9,0,7,0
+E14001554,Truro and Falmouth,23,6,42,10,1,0,18,0
+E14001555,Tunbridge Wells,27,3,11,47,1,0,11,0
+E14001556,Twickenham,12,5,9,66,2,0,6,0
+E14001557,Tynemouth,17,7,54,8,1,0,13,0
+E14001558,Uxbridge and South Ruislip,32,5,44,6,0,0,12,0
+E14001559,Vauxhall and Camberwell Green,7,13,59,14,1,0,6,0
+E14001560,Wakefield and Rothwell,18,6,36,12,5,0,23,0
+E14001561,Wallasey,9,11,54,6,1,0,20,0
+E14001562,Walsall and Bloxwich,25,9,36,5,7,0,18,0
+E14001563,Walthamstow,6,14,69,4,3,0,5,0
+E14001564,Warrington North,15,6,49,8,0,0,23,0
+E14001565,Warrington South,21,5,50,8,0,0,16,0
+E14001566,Warwick and Leamington,20,10,51,7,1,0,12,0
+E14001567,Washington and Gateshead South,13,5,51,7,1,0,24,0
+E14001568,Watford,22,5,40,17,1,0,15,0
+E14001569,Waveney Valley,35,27,18,5,0,0,15,0
+E14001570,Weald of Kent,41,5,25,7,0,0,22,0
+E14001571,Wellingborough and Rushden,26,5,37,9,0,0,23,0
+E14001572,Wells and Mendip Hills,26,3,8,50,2,0,12,0
+E14001573,Welwyn Hatfield,26,5,47,7,0,0,15,0
+E14001574,West Bromwich,22,6,45,5,3,0,20,0
+E14001575,West Dorset,34,3,8,53,2,0,0,0
+E14001576,West Ham and Beckton,7,14,62,5,0,0,12,0
+E14001577,West Lancashire,13,6,58,5,0,0,18,0
+E14001578,West Suffolk,33,7,29,11,1,0,20,0
+E14001579,West Worcestershire,39,9,12,26,0,0,14,0
+E14001580,Westmorland and Lonsdale,18,2,4,63,2,0,11,0
+E14001581,Weston-super-Mare,28,5,36,12,0,0,19,0
+E14001582,Wetherby and Easingwold,46,5,32,6,1,0,11,0
+E14001583,Whitehaven and Workington,19,6,51,4,0,0,19,0
+E14001584,Widnes and Halewood,6,7,69,3,0,0,14,0
+E14001585,Wigan,12,8,48,5,0,0,26,0
+E14001586,Wimbledon,22,4,15,46,2,0,10,0
+E14001587,Winchester,31,3,5,52,0,0,8,0
+E14001588,Windsor,33,6,29,19,2,0,10,0
+E14001589,Wirral West,22,5,55,5,0,0,12,0
+E14001590,Witham,36,7,30,8,0,0,19,0
+E14001591,Witney,28,2,12,45,1,0,12,0
+E14001592,Woking,24,4,11,51,0,0,9,0
+E14001593,Wokingham,33,4,12,40,0,0,11,0
+E14001594,Wolverhampton North East,22,6,41,4,0,0,27,0
+E14001595,Wolverhampton South East,13,5,50,5,1,0,26,0
+E14001596,Wolverhampton West,25,5,46,7,2,0,15,0
+E14001597,Worcester,20,6,48,6,1,0,18,0
+E14001598,Worsley and Eccles,14,8,49,7,1,0,20,0
+E14001599,Worthing West,30,5,42,7,1,0,16,0
+E14001600,Wycombe,24,5,48,8,0,0,14,0
+E14001601,Wyre Forest,36,4,32,6,1,0,22,0
+E14001602,Wythenshawe and Sale East,11,8,57,7,1,0,16,0
+E14001603,Yeovil,27,3,6,48,1,0,15,0
+E14001604,York Central,10,10,62,7,1,0,10,0
+E14001605,York Outer,32,3,40,14,0,0,10,0
+S14000006,"Ayr, Carrick and Cumnock",18,4,27,4,3,0,10,34
+S14000008,"Berwickshire, Roxburgh and Selkirk",37,2,13,4,1,0,11,32
+S14000010,Central Ayrshire,15,1,36,4,3,0,10,32
+S14000021,East Renfrewshire,16,3,37,5,3,0,6,31
+S14000027,Na h-Eileanan an Iar,9,0,40,4,7,0,9,31
+S14000040,Kilmarnock and Loudoun,8,3,37,3,3,0,11,36
+S14000045,Midlothian,6,0,53,4,0,0,9,27
+S14000048,North Ayrshire and Arran,11,2,31,3,4,0,10,39
+S14000051,Orkney and Shetland,2,17,9,41,0,0,8,23
+S14000058,West Aberdeenshire and Kincardine,30,1,14,5,1,0,12,37
+S14000060,Aberdeen North,10,2,33,3,4,0,11,38
+S14000061,Aberdeen South,22,3,23,6,3,0,8,36
+S14000062,Aberdeenshire North and Moray East,30,0,12,4,0,0,16,38
+S14000063,Airdrie and Shotts,5,0,52,2,1,0,9,32
+S14000064,Alloa and Grangemouth,7,5,40,2,4,0,11,32
+S14000065,Angus and Perthshire Glens,25,0,13,4,2,0,11,44
+S14000066,Arbroath and Broughty Ferry,14,0,31,5,4,0,9,38
+S14000067,"Argyll, Bute and South Lochaber",21,0,20,10,4,0,9,37
+S14000068,Bathgate and Linlithgow,7,6,38,3,5,0,11,29
+S14000069,"Caithness, Sutherland and Easter Ross",5,9,12,30,3,0,14,28
+S14000070,Coatbridge and Bellshill,2,3,55,1,1,0,10,29
+S14000071,Cowdenbeath and Kirkcaldy,7,4,51,3,1,0,8,25
+S14000072,Cumbernauld and Kirkintilloch,3,4,45,2,0,0,9,37
+S14000073,Dumfries and Galloway,29,3,16,3,0,0,14,35
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",33,2,17,6,0,0,13,28
+S14000075,Dundee Central,3,0,34,2,5,0,12,43
+S14000076,Dunfermline and Dollar,7,5,46,5,1,0,8,28
+S14000077,East Kilbride and Strathaven,5,4,50,2,0,0,8,30
+S14000078,Edinburgh East and Musselburgh,4,11,34,3,3,0,10,35
+S14000079,Edinburgh North and Leith,7,10,35,4,3,0,6,34
+S14000080,Edinburgh South,6,9,55,6,4,0,5,16
+S14000081,Edinburgh South West,10,5,35,4,3,0,9,34
+S14000082,Edinburgh West,5,7,14,34,3,0,8,29
+S14000083,Falkirk,8,2,40,3,4,0,10,34
+S14000084,Glasgow East,3,8,41,2,3,0,10,33
+S14000085,Glasgow North,3,9,49,2,1,0,7,29
+S14000086,Glasgow North East,3,7,37,2,6,0,12,33
+S14000087,Glasgow South,3,5,52,2,1,0,6,30
+S14000088,Glasgow South West,4,7,43,2,2,0,9,34
+S14000089,Glasgow West,5,5,44,2,3,0,7,34
+S14000090,Glenrothes and Mid Fife,4,0,43,3,0,0,12,38
+S14000091,Gordon and Buchan,35,0,16,9,0,0,8,32
+S14000092,Hamilton and Clyde Valley,8,0,52,3,0,0,8,28
+S14000093,Inverclyde and Renfrewshire West,5,3,42,3,3,0,8,36
+S14000094,"Inverness, Skye and West Ross-shire",8,5,20,19,3,0,9,36
+S14000095,Livingston,5,3,41,3,4,0,12,32
+S14000096,Lothian East,11,2,47,5,1,0,7,27
+S14000097,Mid Dunbartonshire,4,6,26,24,3,0,8,28
+S14000098,"Moray West, Nairn and Strathspey",28,2,18,5,1,0,9,37
+S14000099,"Motherwell, Wishaw and Carluke",6,2,43,2,1,0,10,35
+S14000100,North East Fife,3,10,8,46,0,0,9,25
+S14000101,Paisley and Renfrewshire North,5,4,46,3,0,0,9,33
+S14000102,Paisley and Renfrewshire South,6,5,37,2,3,0,9,38
+S14000103,Perth and Kinross-shire,28,0,20,5,1,0,8,38
+S14000104,Rutherglen,4,0,54,3,1,0,8,30
+S14000105,Stirling and Strathallan,18,8,29,3,0,0,7,35
+S14000106,West Dunbartonshire,2,5,47,1,1,0,9,34
+W07000081,Aberafan Maesteg,8,5,45,4,1,18,19,0
+W07000082,Alyn and Deeside,17,4,46,6,1,6,19,0
+W07000083,Bangor Aberconwy,24,3,41,5,1,17,10,0
+W07000084,Blaenau Gwent and Rhymney,9,5,53,4,10,18,0,0
+W07000085,"Brecon, Radnor and Cwm Tawe",26,3,17,37,0,3,12,0
+W07000086,Bridgend,17,4,34,4,10,12,19,0
+W07000087,Caerfyrddin,24,2,23,3,0,33,13,0
+W07000088,Caerphilly,13,3,44,4,0,17,20,0
+W07000089,Cardiff East,10,10,51,12,1,3,14,0
+W07000090,Cardiff North,16,4,53,6,0,10,11,0
+W07000091,Cardiff South and Penarth,14,9,51,7,1,7,10,0
+W07000092,Cardiff West,13,6,47,6,1,16,12,0
+W07000093,Ceredigion Preseli,12,4,12,10,3,46,12,0
+W07000094,Clwyd East,29,4,43,4,1,5,14,0
+W07000095,Clwyd North,23,3,37,6,0,14,17,0
+W07000096,Dwyfor Meirionnydd,16,3,16,4,2,47,13,0
+W07000097,Gower,16,5,37,8,2,17,17,0
+W07000098,Llanelli,13,4,29,3,3,29,20,0
+W07000099,Merthyr Tydfil and Aberdare,8,6,40,7,3,15,21,0
+W07000100,Mid and South Pembrokeshire,27,3,42,3,1,7,17,0
+W07000101,Monmouthshire,31,4,43,4,0,2,15,0
+W07000102,Montgomeryshire and Glyndwr,24,3,28,10,0,18,18,0
+W07000103,Neath and Swansea East,11,5,43,6,0,15,19,0
+W07000104,Newport East,13,7,44,7,2,8,20,0
+W07000105,Newport West and Islwyn,15,5,36,6,5,8,26,0
+W07000106,Pontypridd,12,5,38,6,5,14,20,0
+W07000107,Rhondda and Ogmore,6,5,50,4,0,14,20,0
+W07000108,Swansea West,12,6,40,8,6,14,14,0
+W07000109,Torfaen,14,5,48,7,0,7,19,0
+W07000110,Vale of Glamorgan,25,9,43,4,1,1,17,0
+W07000111,Wrexham,23,5,40,5,0,11,17,0
+W07000112,Ynys Mon,27,2,29,4,1,25,13,0

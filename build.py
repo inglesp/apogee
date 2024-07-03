@@ -88,7 +88,7 @@ model_map = {
     },
     "yougov": {
         "title": "YouGov",
-        "url": "https://yougov.co.uk/politics/articles/49809",
+        "url": "https://yougov.co.uk/politics/articles/49950-final-yougov-mrp-shows-labour-on-course-for-historic-election-victory",
     },
 }
 models = sorted(model_map)

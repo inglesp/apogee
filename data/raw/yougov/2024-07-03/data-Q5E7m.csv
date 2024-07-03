@@ -1,0 +1,632 @@
+﻿const,area,gor_region,ConShare,LabShare,LibDemShare,SNPShare,PlaidShare,GreenShare,ReformShare,OthersShare,Win19 (nominal),WinnerGE2024,SecondGE2024,YouGovCall,constituency_type,Winner margin,2019 v 2024 status
+E14001114,Boston and Skegness,East Midlands,35%,23%,4%,0%,0%,3%,34%,1%,Con,Conservatives,Reform,Tossup,County,0%,Conservative hold
+E14001192,Daventry,East Midlands,37%,29%,14%,0%,0%,4%,17%,0%,Con,Conservatives,Labour,Lean Conservatives,County,8%,Conservative hold
+E14001243,Gainsborough,East Midlands,37%,29%,8%,0%,0%,4%,22%,0%,Con,Conservatives,Labour,Lean Conservatives,County,7%,Conservative hold
+E14001253,Grantham and Bourne,East Midlands,34%,31%,6%,0%,0%,6%,22%,2%,Con,Conservatives,Labour,Tossup,County,3%,Conservative hold
+E14001266,"Harborough, Oadby and Wigston",East Midlands,37%,33%,13%,0%,0%,5%,11%,1%,Con,Conservatives,Labour,Tossup,County,5%,Conservative hold
+E14001288,Hinckley and Bosworth,East Midlands,37%,18%,26%,0%,0%,4%,14%,1%,Con,Conservatives,Lib Dems,Likely Conservatives,County,12%,Conservative hold
+E14001343,Louth and Horncastle,East Midlands,41%,26%,5%,0%,0%,3%,25%,1%,Con,Conservatives,Labour,Likely Conservatives,County,15%,Conservative hold
+E14001357,Melton and Syston,East Midlands,34%,30%,7%,0%,0%,8%,20%,1%,Con,Conservatives,Labour,Tossup,County,5%,Conservative hold
+E14001458,Rutland and Stamford,East Midlands,44%,20%,16%,0%,0%,4%,15%,1%,Con,Conservatives,Labour,Likely Conservatives,County,24%,Conservative hold
+E14001476,Sleaford and North Hykeham,East Midlands,34%,31%,6%,0%,0%,3%,24%,0%,Con,Conservatives,Labour,Tossup,County,3%,Conservative hold
+E14001487,South Holland and The Deepings,East Midlands,39%,28%,6%,0%,0%,3%,24%,0%,Con,Conservatives,Labour,Likely Conservatives,County,12%,Conservative hold
+E14001488,South Leicestershire,East Midlands,36%,26%,16%,0%,0%,4%,19%,0%,Con,Conservatives,Labour,Lean Conservatives,County,9%,Conservative hold
+E14001490,South Northamptonshire,East Midlands,32%,31%,9%,0%,0%,7%,20%,1%,Con,Conservatives,Labour,Tossup,County,1%,Conservative hold
+E14001121,Braintree,East of England,36%,31%,6%,0%,0%,4%,23%,0%,Con,Conservatives,Labour,Lean Conservatives,County,6%,Conservative hold
+E14001125,Brentwood and Ongar,East of England,39%,25%,11%,0%,0%,5%,18%,1%,Con,Conservatives,Labour,Likely Conservatives,County,15%,Conservative hold
+E14001139,Broxbourne,East of England,34%,32%,8%,0%,0%,5%,21%,0%,Con,Conservatives,Labour,Tossup,County,2%,Conservative hold
+E14001146,Bury St Edmunds and Stowmarket,East of England,34%,34%,5%,0%,0%,10%,16%,1%,Con,Conservatives,Labour,Tossup,County,0%,Conservative hold
+E14001154,Castle Point,East of England,41%,24%,5%,0%,0%,3%,28%,0%,Con,Conservatives,Reform,Likely Conservatives,Borough,13%,Conservative hold
+E14001226,Epping Forest,East of England,40%,35%,11%,0%,0%,6%,0%,8%,Con,Conservatives,Labour,Tossup,County,4%,Conservative hold
+E14001284,Hertsmere,East of England,45%,32%,8%,0%,0%,4%,11%,1%,Con,Conservatives,Labour,Likely Conservatives,County,13%,Conservative hold
+E14001298,Huntingdon,East of England,34%,33%,11%,0%,0%,5%,16%,1%,Con,Conservatives,Labour,Tossup,County,0%,Conservative hold
+E14001351,Maldon,East of England,38%,22%,10%,0%,0%,3%,27%,0%,Con,Conservatives,Reform,Likely Conservatives,County,11%,Conservative hold
+E14001365,Mid Norfolk,East of England,37%,33%,8%,0%,0%,4%,18%,0%,Con,Conservatives,Labour,Tossup,County,4%,Conservative hold
+E14001384,North Bedfordshire,East of England,36%,29%,13%,0%,0%,5%,17%,0%,Con,Conservatives,Labour,Lean Conservatives,County,7%,Conservative hold
+E14001390,North East Cambridgeshire,East of England,37%,27%,10%,0%,0%,4%,21%,1%,Con,Conservatives,Labour,Likely Conservatives,County,10%,Conservative hold
+E14001402,North West Essex,East of England,42%,23%,20%,0%,0%,6%,9%,0%,Con,Conservatives,Labour,Likely Conservatives,County,19%,Conservative hold
+E14001405,North West Norfolk,East of England,38%,30%,12%,0%,0%,4%,16%,0%,Con,Conservatives,Labour,Lean Conservatives,County,8%,Conservative hold
+E14001437,Rayleigh and Wickford,East of England,45%,26%,7%,0%,0%,4%,19%,0%,Con,Conservatives,Labour,Likely Conservatives,County,19%,Conservative hold
+E14001494,South Suffolk,East of England,34%,29%,10%,0%,0%,7%,20%,0%,Con,Conservatives,Labour,Tossup,County,5%,Conservative hold
+E14001496,South West Hertfordshire,East of England,31%,23%,23%,0%,0%,7%,16%,0%,Con,Conservatives,Lib Dems,Lean Conservatives,County,8%,Conservative hold
+E14001497,South West Norfolk,East of England,32%,30%,6%,0%,0%,4%,23%,5%,Con,Conservatives,Labour,Tossup,County,1%,Conservative hold
+E14001569,Waveney Valley,East of England,35%,18%,5%,0%,0%,27%,15%,0%,Con,Conservatives,Greens,Lean Conservatives,County,8%,Conservative hold
+E14001578,West Suffolk,East of England,33%,29%,11%,0%,0%,7%,20%,1%,Con,Conservatives,Labour,Tossup,County,4%,Conservative hold
+E14001590,Witham,East of England,36%,30%,8%,0%,0%,7%,19%,0%,Con,Conservatives,Labour,Lean Conservatives,County,6%,Conservative hold
+E14001238,Finchley and Golders Green,London,34%,33%,20%,0%,0%,4%,8%,1%,Con,Conservatives,Labour,Tossup,Borough,1%,Conservative hold
+E14001270,Harrow East,London,42%,40%,6%,0%,0%,5%,7%,0%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001292,Hornchurch and Upminster,London,35%,33%,6%,0%,0%,5%,20%,1%,Con,Conservatives,Labour,Tossup,Borough,3%,Conservative hold
+E14001414,Old Bexley and Sidcup,London,37%,26%,10%,0%,0%,6%,21%,0%,Con,Conservatives,Labour,Likely Conservatives,Borough,11%,Conservative hold
+E14001448,Romford,London,35%,34%,6%,0%,0%,6%,19%,1%,Con,Conservatives,Labour,Tossup,Borough,1%,Conservative hold
+E14001454,"Ruislip, Northwood and Pinner",London,40%,35%,9%,0%,0%,4%,12%,0%,Con,Conservatives,Labour,Tossup,Borough,4%,Conservative hold
+E14001067,Arundel and South Downs,South East,41%,21%,17%,0%,0%,6%,15%,0%,Con,Conservatives,Labour,Likely Conservatives,County,20%,Conservative hold
+E14001082,Beaconsfield,South East,33%,23%,21%,0%,0%,5%,17%,1%,Con,Conservatives,Labour,Likely Conservatives,County,10%,Conservative hold
+E14001088,Bexhill and Battle,South East,32%,30%,8%,0%,0%,6%,17%,6%,Con,Conservatives,Labour,Tossup,County,2%,Conservative hold
+E14001108,Bognor Regis and Littlehampton,South East,32%,31%,10%,0%,0%,5%,21%,0%,Con,Conservatives,Labour,Tossup,Borough,1%,Conservative hold
+E14001212,East Grinstead and Uckfield,South East,37%,19%,29%,0%,0%,5%,0%,10%,Con,Conservatives,Lib Dems,Lean Conservatives,County,8%,Conservative hold
+E14001214,East Hampshire,South East,33%,13%,30%,0%,0%,5%,18%,1%,Con,Conservatives,Lib Dems,Tossup,County,3%,Conservative hold
+E14001215,East Surrey,South East,34%,18%,28%,0%,0%,4%,15%,1%,Con,Conservatives,Lib Dems,Lean Conservatives,County,6%,Conservative hold
+E14001233,Fareham and Waterlooville,South East,35%,23%,21%,0%,0%,4%,16%,0%,Con,Conservatives,Labour,Likely Conservatives,County,12%,Conservative hold
+E14001234,Farnham and Bordon,South East,37%,12%,37%,0%,0%,3%,10%,1%,Con,Conservatives,Lib Dems,Tossup,County,0%,Conservative hold
+E14001235,Faversham and Mid Kent,South East,35%,28%,12%,0%,0%,6%,18%,1%,Con,Conservatives,Labour,Lean Conservatives,County,6%,Conservative hold
+E14001252,Gosport,South East,38%,30%,10%,0%,0%,4%,18%,0%,Con,Conservatives,Labour,Lean Conservatives,Borough,8%,Conservative hold
+E14001263,Hamble Valley,South East,39%,18%,25%,0%,0%,4%,13%,0%,Con,Conservatives,Lib Dems,Likely Conservatives,County,14%,Conservative hold
+E14001275,Havant,South East,32%,30%,7%,0%,0%,5%,26%,1%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001282,Herne Bay and Sandwich,South East,37%,32%,7%,0%,0%,5%,19%,0%,Con,Conservatives,Labour,Lean Conservatives,County,5%,Conservative hold
+E14001349,Maidstone and Malling,South East,36%,25%,19%,0%,0%,6%,15%,0%,Con,Conservatives,Labour,Likely Conservatives,County,11%,Conservative hold
+E14001360,Mid Buckinghamshire,South East,40%,17%,23%,0%,0%,4%,15%,1%,Con,Conservatives,Lib Dems,Likely Conservatives,County,18%,Conservative hold
+E14001373,New Forest East,South East,37%,23%,17%,0%,0%,4%,18%,0%,Con,Conservatives,Labour,Likely Conservatives,County,14%,Conservative hold
+E14001374,New Forest West,South East,41%,23%,19%,0%,0%,4%,13%,0%,Con,Conservatives,Labour,Likely Conservatives,County,18%,Conservative hold
+E14001403,North West Hampshire,South East,32%,24%,19%,0%,0%,5%,19%,1%,Con,Conservatives,Labour,Lean Conservatives,County,8%,Conservative hold
+E14001442,Reigate,South East,36%,27%,12%,0%,0%,10%,15%,0%,Con,Conservatives,Labour,Lean Conservatives,County,10%,Conservative hold
+E14001449,Romsey and Southampton North,South East,38%,11%,38%,0%,0%,3%,9%,1%,Con,Conservatives,Lib Dems,Tossup,County,1%,Conservative hold
+E14001456,Runnymede and Weybridge,South East,31%,20%,30%,0%,0%,4%,15%,0%,Con,Conservatives,Lib Dems,Tossup,County,1%,Conservative hold
+E14001465,Sevenoaks,South East,36%,13%,31%,0%,0%,5%,14%,1%,Con,Conservatives,Lib Dems,Tossup,County,5%,Conservative hold
+E14001533,Sussex Weald,South East,37%,15%,26%,0%,0%,6%,15%,1%,Con,Conservatives,Lib Dems,Likely Conservatives,County,11%,Conservative hold
+E14001549,Tonbridge,South East,39%,28%,6%,0%,0%,10%,16%,1%,Con,Conservatives,Labour,Likely Conservatives,County,11%,Conservative hold
+E14001570,Weald of Kent,South East,41%,25%,7%,0%,0%,5%,22%,0%,Con,Conservatives,Labour,Likely Conservatives,County,15%,Conservative hold
+E14001588,Windsor,South East,33%,29%,19%,0%,0%,6%,10%,2%,Con,Conservatives,Labour,Tossup,County,5%,Conservative hold
+E14001171,Christchurch,South West,36%,16%,19%,0%,0%,4%,25%,1%,Con,Conservatives,Reform,Likely Conservatives,County,11%,Conservative hold
+E14001217,East Wiltshire,South West,39%,32%,10%,0%,0%,4%,15%,0%,Con,Conservatives,Labour,Lean Conservatives,County,7%,Conservative hold
+E14001232,Exmouth and Exeter East,South West,26%,26%,21%,0%,0%,6%,17%,4%,Con,Conservatives,Labour,Tossup,County,0%,Conservative hold
+E14001386,North Cotswolds,South West,33%,17%,28%,0%,0%,6%,15%,0%,Con,Conservatives,Lib Dems,Lean Conservatives,County,5%,Conservative hold
+E14001429,Poole,South West,33%,31%,11%,0%,0%,5%,19%,1%,Con,Conservatives,Labour,Tossup,Borough,1%,Conservative hold
+E14001460,Salisbury,South West,33%,25%,24%,0%,0%,5%,13%,0%,Con,Conservatives,Labour,Lean Conservatives,County,8%,Conservative hold
+E14001486,South East Cornwall,South West,34%,28%,15%,0%,0%,4%,18%,0%,Con,Conservatives,Labour,Lean Conservatives,County,6%,Conservative hold
+E14001495,South West Devon,South West,32%,29%,11%,0%,0%,6%,22%,0%,Con,Conservatives,Labour,Tossup,County,3%,Conservative hold
+E14001498,South West Wiltshire,South West,32%,29%,13%,0%,0%,6%,20%,1%,Con,Conservatives,Labour,Tossup,County,4%,Conservative hold
+E14001552,Torridge and Tavistock,South West,33%,20%,23%,0%,0%,4%,20%,1%,Con,Conservatives,Lib Dems,Lean Conservatives,County,10%,Conservative hold
+E14001064,Aldridge-Brownhills,West Midlands,39%,31%,5%,0%,0%,5%,20%,0%,Con,Conservatives,Labour,Lean Conservatives,Borough,8%,Conservative hold
+E14001138,Bromsgrove,West Midlands,29%,27%,12%,0%,0%,4%,26%,2%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001203,Droitwich and Evesham,West Midlands,38%,31%,8%,0%,0%,5%,18%,0%,Con,Conservatives,Labour,Lean Conservatives,Borough,7%,Conservative hold
+E14001281,Hereford and South Herefordshire,West Midlands,33%,30%,12%,0%,0%,5%,20%,0%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001309,Kenilworth and Southam,West Midlands,42%,30%,10%,0%,0%,7%,10%,1%,Con,Conservatives,Labour,Likely Conservatives,Borough,12%,Conservative hold
+E14001316,Kingswinford and South Staffordshire,West Midlands,43%,28%,5%,0%,0%,4%,19%,1%,Con,Conservatives,Labour,Likely Conservatives,Borough,15%,Conservative hold
+E14001358,Meriden and Solihull East,West Midlands,36%,28%,11%,0%,0%,4%,20%,0%,Con,Conservatives,Labour,Lean Conservatives,Borough,7%,Conservative hold
+E14001395,North Herefordshire,West Midlands,34%,13%,9%,0%,0%,24%,21%,0%,Con,Conservatives,Greens,Likely Conservatives,Borough,10%,Conservative hold
+E14001479,Solihull West and Shirley,West Midlands,36%,26%,18%,0%,0%,4%,15%,0%,Con,Conservatives,Labour,Likely Conservatives,Borough,10%,Conservative hold
+E14001493,South Shropshire,West Midlands,32%,19%,27%,0%,0%,3%,19%,0%,Con,Conservatives,Lib Dems,Lean Conservatives,Borough,5%,Conservative hold
+E14001523,"Stone, Great Wyrley and Penkridge",West Midlands,41%,38%,8%,0%,0%,5%,0%,8%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001535,Sutton Coldfield,West Midlands,41%,33%,7%,0%,0%,5%,14%,1%,Con,Conservatives,Labour,Lean Conservatives,Borough,8%,Conservative hold
+E14001538,Tamworth,West Midlands,34%,32%,5%,0%,0%,4%,25%,0%,Con,Conservatives,Labour,Tossup,Borough,2%,Conservative hold
+E14001543,The Wrekin,West Midlands,36%,33%,6%,0%,0%,5%,20%,1%,Con,Conservatives,Labour,Tossup,Borough,3%,Conservative hold
+E14001579,West Worcestershire,West Midlands,39%,12%,26%,0%,0%,9%,14%,0%,Con,Conservatives,Lib Dems,Likely Conservatives,Borough,12%,Conservative hold
+E14001601,Wyre Forest,West Midlands,36%,32%,6%,0%,0%,4%,22%,1%,Con,Conservatives,Labour,Tossup,Borough,4%,Conservative hold
+E14001127,Bridlington and The Wolds,Yorkshire and The Humber,34%,31%,6%,0%,0%,4%,26%,0%,Con,Conservatives,Labour,Tossup,County,3%,Conservative hold
+E14001128,Brigg and Immingham,Yorkshire and The Humber,40%,30%,5%,0%,0%,4%,20%,0%,Con,Conservatives,Labour,Likely Conservatives,County,10%,Conservative hold
+E14001250,Goole and Pocklington,Yorkshire and The Humber,42%,30%,7%,0%,0%,6%,13%,1%,Con,Conservatives,Labour,Likely Conservatives,County,12%,Conservative hold
+E14001444,Richmond and Northallerton,Yorkshire and The Humber,39%,28%,6%,0%,0%,5%,21%,0%,Con,Conservatives,Labour,Likely Conservatives,County,11%,Conservative hold
+E14001544,Thirsk and Malton,Yorkshire and The Humber,34%,26%,14%,0%,0%,5%,21%,1%,Con,Conservatives,Labour,Lean Conservatives,County,8%,Conservative hold
+E14001582,Wetherby and Easingwold,Yorkshire and The Humber,46%,32%,6%,0%,0%,5%,11%,1%,Con,Conservatives,Labour,Likely Conservatives,County,14%,Conservative hold
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,37%,13%,4%,32%,0%,2%,11%,1%,Con,Conservatives,SNP,Tossup,County,5%,Conservative hold
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,33%,17%,6%,28%,0%,2%,13%,0%,Con,Conservatives,SNP,Tossup,County,4%,Conservative hold
+S14000091,Gordon and Buchan,Scotland,35%,16%,9%,32%,0%,0%,8%,0%,Con,Conservatives,SNP,Tossup,County,2%,Conservative hold
+E14001066,Amber Valley,East Midlands,29%,34%,6%,0%,0%,5%,25%,0%,Con,Labour,Conservatives,Lean Labour,County,5%,Labour gain from Conservatives
+E14001079,Bassetlaw,East Midlands,30%,42%,6%,0%,0%,2%,20%,0%,Con,Labour,Conservatives,Likely Labour,County,13%,Labour gain from Conservatives
+E14001109,Bolsover,East Midlands,20%,43%,4%,0%,0%,5%,28%,0%,Con,Labour,Reform,Likely Labour,County,16%,Labour gain from Conservatives
+E14001140,Broxtowe,East Midlands,20%,43%,7%,0%,0%,8%,22%,0%,Con,Labour,Reform,Likely Labour,County,21%,Labour gain from Conservatives
+E14001179,Corby and East Northamptonshire,East Midlands,26%,46%,5%,0%,0%,4%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001193,Derby North,East Midlands,24%,50%,4%,0%,0%,7%,14%,0%,Con,Labour,Conservatives,Safe Labour,Borough,26%,Labour gain from Conservatives
+E14001195,Derbyshire Dales,East Midlands,32%,42%,7%,0%,0%,4%,15%,0%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001228,Erewash,East Midlands,26%,43%,5%,0%,0%,5%,20%,1%,Con,Labour,Conservatives,Likely Labour,County,16%,Labour gain from Conservatives
+E14001245,Gedling,East Midlands,22%,56%,4%,0%,0%,4%,14%,1%,Con,Labour,Conservatives,Safe Labour,County,34%,Labour gain from Conservatives
+E14001287,High Peak,East Midlands,23%,52%,3%,0%,0%,8%,14%,0%,Con,Labour,Conservatives,Safe Labour,County,29%,Labour gain from Conservatives
+E14001311,Kettering,East Midlands,31%,37%,5%,0%,0%,8%,20%,0%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001336,Lincoln,East Midlands,21%,48%,6%,0%,0%,5%,20%,0%,Con,Labour,Conservatives,Safe Labour,Borough,26%,Labour gain from Conservatives
+E14001342,Loughborough,East Midlands,25%,51%,5%,0%,0%,5%,15%,0%,Con,Labour,Conservatives,Safe Labour,County,26%,Labour gain from Conservatives
+E14001355,Mansfield,East Midlands,32%,43%,4%,0%,0%,3%,18%,0%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001362,Mid Derbyshire,East Midlands,33%,42%,6%,0%,0%,5%,14%,0%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001364,Mid Leicestershire,East Midlands,33%,42%,6%,0%,0%,4%,15%,0%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001375,Newark,East Midlands,39%,40%,4%,0%,0%,4%,12%,0%,Con,Labour,Conservatives,Tossup,County,1%,Labour gain from Conservatives
+E14001391,North East Derbyshire,East Midlands,31%,42%,6%,0%,0%,5%,17%,0%,Con,Labour,Conservatives,Likely Labour,County,10%,Labour gain from Conservatives
+E14001404,North West Leicestershire,East Midlands,30%,41%,7%,0%,0%,5%,15%,1%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001406,Northampton North,East Midlands,20%,53%,4%,0%,0%,5%,18%,0%,Con,Labour,Conservatives,Safe Labour,Borough,33%,Labour gain from Conservatives
+E14001407,Northampton South,East Midlands,29%,43%,5%,0%,0%,4%,18%,0%,Con,Labour,Conservatives,Likely Labour,Borough,14%,Labour gain from Conservatives
+E14001457,Rushcliffe,East Midlands,26%,50%,6%,0%,0%,4%,13%,1%,Con,Labour,Conservatives,Likely Labour,County,25%,Labour gain from Conservatives
+E14001471,Sherwood Forest,East Midlands,29%,32%,6%,0%,0%,7%,25%,0%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001483,South Derbyshire,East Midlands,31%,36%,4%,0%,0%,5%,23%,1%,Con,Labour,Conservatives,Tossup,County,4%,Labour gain from Conservatives
+E14001571,Wellingborough and Rushden,East Midlands,26%,37%,9%,0%,0%,5%,23%,0%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001077,Basildon and Billericay,East of England,25%,33%,5%,0%,0%,6%,29%,1%,Con,Labour,Reform,Tossup,Borough,3%,Labour gain from Conservatives
+E14001136,Broadland and Fakenham,East of England,35%,37%,8%,0%,0%,4%,16%,0%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001156,Central Suffolk and North Ipswich,East of England,32%,33%,8%,0%,0%,6%,21%,0%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001176,Colchester,East of England,22%,50%,9%,0%,0%,4%,14%,1%,Con,Labour,Conservatives,Safe Labour,Borough,27%,Labour gain from Conservatives
+E14001206,Dunstable and Leighton Buzzard,East of England,26%,34%,13%,0%,0%,5%,21%,1%,Con,Labour,Conservatives,Lean Labour,County,8%,Labour gain from Conservatives
+E14001267,Harlow,East of England,29%,35%,6%,0%,0%,4%,27%,1%,Con,Labour,Conservatives,Lean Labour,County,5%,Labour gain from Conservatives
+E14001273,Harwich and North Essex,East of England,34%,34%,8%,0%,0%,6%,18%,0%,Con,Labour,Conservatives,Tossup,County,0%,Labour gain from Conservatives
+E14001278,Hemel Hempstead,East of England,26%,41%,9%,0%,0%,6%,18%,0%,Con,Labour,Conservatives,Likely Labour,County,15%,Labour gain from Conservatives
+E14001283,Hertford and Stortford,East of England,31%,36%,7%,0%,0%,8%,18%,1%,Con,Labour,Conservatives,Tossup,County,5%,Labour gain from Conservatives
+E14001289,Hitchin,East of England,27%,43%,13%,0%,0%,5%,12%,1%,Con,Labour,Conservatives,Likely Labour,County,16%,Labour gain from Conservatives
+E14001302,Ipswich,East of England,29%,46%,6%,0%,0%,7%,13%,0%,Con,Labour,Conservatives,Likely Labour,Borough,17%,Labour gain from Conservatives
+E14001344,Lowestoft,East of England,28%,40%,4%,0%,0%,6%,22%,0%,Con,Labour,Conservatives,Likely Labour,County,12%,Labour gain from Conservatives
+E14001359,Mid Bedfordshire,East of England,30%,36%,10%,0%,0%,5%,18%,1%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001393,North East Hertfordshire,East of England,30%,39%,9%,0%,0%,6%,16%,0%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001401,North West Cambridgeshire,East of England,29%,38%,8%,0%,0%,6%,20%,0%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001408,Norwich North,East of England,21%,44%,6%,0%,0%,9%,18%,1%,Con,Labour,Conservatives,Likely Labour,Borough,22%,Labour gain from Conservatives
+E14001425,Peterborough,East of England,27%,43%,7%,0%,0%,7%,16%,1%,Con,Labour,Conservatives,Likely Labour,County,16%,Labour gain from Conservatives
+E14001480,South Basildon and East Thurrock,East of England,32%,37%,6%,0%,0%,3%,22%,1%,Con,Labour,Conservatives,Tossup,County,5%,Labour gain from Conservatives
+E14001489,South Norfolk,East of England,28%,40%,9%,0%,0%,4%,18%,0%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001501,Southend East and Rochford,East of England,32%,38%,8%,0%,0%,6%,14%,1%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001502,Southend West and Leigh,East of England,31%,36%,7%,0%,0%,4%,19%,2%,Con,Labour,Conservatives,Lean Labour,Borough,5%,Labour gain from Conservatives
+E14001516,Stevenage,East of England,26%,44%,6%,0%,0%,6%,17%,0%,Con,Labour,Conservatives,Likely Labour,County,19%,Labour gain from Conservatives
+E14001530,Suffolk Coastal,East of England,31%,38%,12%,0%,0%,4%,14%,0%,Con,Labour,Conservatives,Lean Labour,County,8%,Labour gain from Conservatives
+E14001546,Thurrock,East of England,26%,46%,4%,0%,0%,4%,19%,1%,Con,Labour,Conservatives,Likely Labour,Borough,20%,Labour gain from Conservatives
+E14001568,Watford,East of England,22%,40%,17%,0%,0%,5%,15%,1%,Con,Labour,Conservatives,Likely Labour,Borough,18%,Labour gain from Conservatives
+E14001573,Welwyn Hatfield,East of England,26%,47%,7%,0%,0%,5%,15%,0%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001089,Bexleyheath and Crayford,London,31%,36%,6%,0%,0%,5%,22%,0%,Con,Labour,Conservatives,Lean Labour,Borough,6%,Labour gain from Conservatives
+E14001137,Bromley and Biggin Hill,London,30%,38%,11%,0%,0%,6%,16%,0%,Con,Labour,Conservatives,Lean Labour,Borough,8%,Labour gain from Conservatives
+E14001160,Chelsea and Fulham,London,31%,44%,11%,0%,0%,5%,8%,0%,Con,Labour,Conservatives,Likely Labour,Borough,13%,Labour gain from Conservatives
+E14001167,Chingford and Woodford Green,London,26%,35%,4%,0%,0%,5%,8%,23%,Con,Labour,Conservatives,Lean Labour,Borough,9%,Labour gain from Conservatives
+E14001169,Chipping Barnet,London,30%,44%,7%,0%,0%,6%,12%,1%,Con,Labour,Conservatives,Likely Labour,Borough,14%,Labour gain from Conservatives
+E14001172,Cities of London and Westminster,London,28%,39%,18%,0%,0%,7%,7%,1%,Con,Labour,Conservatives,Likely Labour,Borough,11%,Labour gain from Conservatives
+E14001187,Croydon South,London,37%,38%,11%,0%,0%,5%,9%,0%,Con,Labour,Conservatives,Tossup,Borough,1%,Labour gain from Conservatives
+E14001223,Eltham and Chislehurst,London,21%,50%,4%,0%,0%,6%,19%,0%,Con,Labour,Conservatives,Safe Labour,Borough,30%,Labour gain from Conservatives
+E14001279,Hendon,London,26%,43%,6%,0%,0%,6%,12%,6%,Con,Labour,Conservatives,Likely Labour,Borough,17%,Labour gain from Conservatives
+E14001417,Orpington,London,35%,35%,8%,0%,0%,4%,19%,0%,Con,Labour,Conservatives,Tossup,Borough,1%,Labour gain from Conservatives
+E14001558,Uxbridge and South Ruislip,London,32%,44%,6%,0%,0%,5%,12%,0%,Con,Labour,Conservatives,Likely Labour,Borough,12%,Labour gain from Conservatives
+E14001101,Bishop Auckland,North East,23%,48%,4%,0%,0%,3%,21%,0%,Con,Labour,Conservatives,Safe Labour,County,25%,Labour gain from Conservatives
+E14001190,Darlington,North East,30%,44%,6%,0%,0%,7%,13%,0%,Con,Labour,Conservatives,Likely Labour,County,14%,Labour gain from Conservatives
+E14001285,Hexham,North East,36%,53%,6%,0%,0%,5%,0%,1%,Con,Labour,Conservatives,Likely Labour,County,18%,Labour gain from Conservatives
+E14001368,Middlesbrough South and East Cleveland,North East,35%,55%,6%,0%,0%,5%,0%,0%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001382,Newton Aycliffe and Spennymoor,North East,17%,55%,3%,0%,0%,3%,21%,1%,Con,Labour,Reform,Safe Labour,County,34%,Labour gain from Conservatives
+E14001397,North Northumberland,North East,31%,34%,11%,0%,0%,4%,17%,3%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001440,Redcar,North East,26%,46%,5%,0%,0%,5%,17%,1%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001519,Stockton West,North East,35%,39%,4%,0%,0%,5%,17%,0%,Con,Labour,Conservatives,Tossup,County,4%,Labour gain from Conservatives
+E14001065,Altrincham and Sale West,North West,27%,43%,9%,0%,0%,9%,11%,1%,Con,Labour,Conservatives,Likely Labour,Borough,16%,Labour gain from Conservatives
+E14001076,Barrow and Furness,North West,29%,44%,4%,0%,0%,7%,15%,1%,Con,Labour,Conservatives,Likely Labour,County,15%,Labour gain from Conservatives
+E14001104,Blackpool North and Fleetwood,North West,26%,40%,5%,0%,0%,3%,25%,0%,Con,Labour,Conservatives,Likely Labour,Borough,14%,Labour gain from Conservatives
+E14001105,Blackpool South,North West,17%,47%,5%,0%,0%,4%,26%,1%,Con,Labour,Reform,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001110,Bolton North East,North West,21%,45%,5%,0%,0%,4%,23%,1%,Con,Labour,Reform,Likely Labour,Borough,22%,Labour gain from Conservatives
+E14001112,Bolton West,North West,32%,41%,4%,0%,0%,4%,17%,1%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001142,Burnley,North West,23%,46%,7%,0%,0%,8%,16%,1%,Con,Labour,Conservatives,Likely Labour,County,23%,Labour gain from Conservatives
+E14001144,Bury North,North West,28%,52%,3%,0%,0%,5%,12%,0%,Con,Labour,Conservatives,Likely Labour,Borough,24%,Labour gain from Conservatives
+E14001145,Bury South,North West,20%,46%,6%,0%,0%,8%,19%,1%,Con,Labour,Conservatives,Safe Labour,Borough,25%,Labour gain from Conservatives
+E14001152,Carlisle,North West,28%,37%,7%,0%,0%,5%,21%,2%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001164,Chester South and Eddisbury,North West,36%,38%,11%,0%,0%,4%,11%,1%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001178,Congleton,North West,36%,42%,4%,0%,0%,4%,13%,0%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001185,Crewe and Nantwich,North West,21%,43%,5%,0%,0%,6%,24%,1%,Con,Labour,Reform,Likely Labour,County,19%,Labour gain from Conservatives
+E14001242,Fylde,North West,32%,35%,6%,0%,0%,4%,20%,2%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001299,Hyndburn,North West,26%,52%,4%,0%,0%,5%,14%,0%,Con,Labour,Conservatives,Safe Labour,County,27%,Labour gain from Conservatives
+E14001318,Lancaster and Wyre,North West,21%,50%,5%,0%,0%,8%,16%,0%,Con,Labour,Conservatives,Safe Labour,County,29%,Labour gain from Conservatives
+E14001329,Leigh and Atherton,North West,14%,50%,4%,0%,0%,5%,27%,1%,Con,Labour,Reform,Likely Labour,Borough,23%,Labour gain from Conservatives
+E14001347,Macclesfield,North West,26%,52%,5%,0%,0%,4%,13%,0%,Con,Labour,Conservatives,Safe Labour,County,27%,Labour gain from Conservatives
+E14001361,Mid Cheshire,North West,20%,48%,5%,0%,0%,7%,20%,1%,Con,Labour,Conservatives,Safe Labour,County,28%,Labour gain from Conservatives
+E14001372,Morecambe and Lunesdale,North West,32%,41%,9%,0%,0%,4%,14%,0%,Con,Labour,Conservatives,Lean Labour,County,10%,Labour gain from Conservatives
+E14001422,Pendle and Clitheroe,North West,33%,39%,8%,0%,0%,4%,17%,0%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001424,Penrith and Solway,North West,31%,43%,7%,0%,0%,5%,14%,1%,Con,Labour,Conservatives,Likely Labour,County,12%,Labour gain from Conservatives
+E14001443,Ribble Valley,North West,32%,35%,13%,0%,0%,3%,16%,1%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001450,Rossendale and Darwen,North West,25%,42%,5%,0%,0%,4%,22%,1%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+E14001491,South Ribble,North West,24%,51%,4%,0%,0%,5%,16%,0%,Con,Labour,Conservatives,Safe Labour,County,27%,Labour gain from Conservatives
+E14001504,Southport,North West,25%,44%,10%,0%,0%,4%,17%,1%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001539,Tatton,North West,33%,39%,10%,0%,0%,4%,14%,0%,Con,Labour,Conservatives,Lean Labour,County,5%,Labour gain from Conservatives
+E14001583,Whitehaven and Workington,North West,19%,51%,4%,0%,0%,6%,19%,0%,Con,Labour,Reform,Safe Labour,County,32%,Labour gain from Conservatives
+E14001063,Aldershot,South East,28%,33%,10%,0%,0%,6%,22%,1%,Con,Labour,Conservatives,Lean Labour,Borough,5%,Labour gain from Conservatives
+E14001069,Ashford,South East,31%,31%,9%,0%,0%,8%,20%,1%,Con,Labour,Conservatives,Tossup,County,0%,Labour gain from Conservatives
+E14001071,Aylesbury,South East,30%,34%,20%,0%,0%,5%,11%,0%,Con,Labour,Conservatives,Tossup,County,5%,Labour gain from Conservatives
+E14001072,Banbury,South East,30%,37%,10%,0%,0%,6%,17%,0%,Con,Labour,Conservatives,Lean Labour,County,7%,Labour gain from Conservatives
+E14001078,Basingstoke,South East,28%,42%,10%,0%,0%,5%,15%,0%,Con,Labour,Conservatives,Likely Labour,Borough,14%,Labour gain from Conservatives
+E14001117,Bracknell,South East,32%,35%,12%,0%,0%,6%,14%,0%,Con,Labour,Conservatives,Tossup,Borough,3%,Labour gain from Conservatives
+E14001141,Buckingham and Bletchley,South East,28%,36%,9%,0%,0%,5%,23%,0%,Con,Labour,Conservatives,Lean Labour,County,9%,Labour gain from Conservatives
+E14001157,Chatham and Aylesford,South East,29%,35%,6%,0%,0%,4%,25%,1%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001184,Crawley,South East,26%,38%,6%,0%,0%,7%,21%,3%,Con,Labour,Conservatives,Likely Labour,Borough,11%,Labour gain from Conservatives
+E14001191,Dartford,South East,30%,35%,7%,0%,0%,6%,22%,0%,Con,Labour,Conservatives,Lean Labour,County,5%,Labour gain from Conservatives
+E14001202,Dover and Deal,South East,24%,44%,5%,0%,0%,5%,20%,1%,Con,Labour,Conservatives,Likely Labour,County,21%,Labour gain from Conservatives
+E14001210,Earley and Woodley,South East,34%,51%,10%,0%,0%,5%,0%,0%,Con,Labour,Conservatives,Likely Labour,Borough,17%,Labour gain from Conservatives
+E14001216,East Thanet,South East,22%,43%,3%,0%,0%,9%,22%,1%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001218,East Worthing and Shoreham,South East,25%,49%,7%,0%,0%,5%,14%,0%,Con,Labour,Conservatives,Likely Labour,County,24%,Labour gain from Conservatives
+E14001239,Folkestone and Hythe,South East,23%,32%,7%,0%,0%,6%,31%,0%,Con,Labour,Reform,Tossup,County,1%,Labour gain from Conservatives
+E14001246,Gillingham and Rainham,South East,28%,37%,5%,0%,0%,4%,25%,0%,Con,Labour,Conservatives,Lean Labour,Borough,9%,Labour gain from Conservatives
+E14001254,Gravesham,South East,30%,47%,3%,0%,0%,5%,14%,0%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+E14001274,Hastings and Rye,South East,25%,41%,7%,0%,0%,8%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,16%,Labour gain from Conservatives
+E14001303,Isle of Wight East,South East,26%,29%,6%,0%,0%,16%,23%,0%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001304,Isle of Wight West,South East,24%,41%,7%,0%,0%,9%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+E14001369,Milton Keynes Central,South East,20%,47%,7%,0%,0%,6%,18%,0%,Con,Labour,Conservatives,Safe Labour,Borough,27%,Labour gain from Conservatives
+E14001370,Milton Keynes North,South East,22%,39%,11%,0%,0%,5%,23%,0%,Con,Labour,Reform,Likely Labour,County,16%,Labour gain from Conservatives
+E14001431,Portsmouth North,South East,32%,38%,4%,0%,0%,5%,22%,0%,Con,Labour,Conservatives,Lean Labour,Borough,6%,Labour gain from Conservatives
+E14001439,Reading West and Mid Berkshire,South East,30%,32%,14%,0%,0%,5%,18%,1%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001447,Rochester and Strood,South East,30%,41%,6%,0%,0%,4%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+E14001474,Sittingbourne and Sheppey,South East,30%,31%,5%,0%,0%,4%,25%,4%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001499,Southampton Itchen,South East,21%,43%,6%,0%,0%,9%,20%,1%,Con,Labour,Conservatives,Likely Labour,Borough,22%,Labour gain from Conservatives
+E14001505,Spelthorne,South East,30%,31%,15%,0%,0%,7%,18%,0%,Con,Labour,Conservatives,Tossup,Borough,1%,Labour gain from Conservatives
+E14001599,Worthing West,South East,30%,42%,7%,0%,0%,5%,16%,1%,Con,Labour,Conservatives,Likely Labour,County,12%,Labour gain from Conservatives
+E14001600,Wycombe,South East,24%,48%,8%,0%,0%,5%,14%,0%,Con,Labour,Conservatives,Likely Labour,County,23%,Labour gain from Conservatives
+E14001115,Bournemouth East,South West,25%,47%,7%,0%,0%,6%,15%,0%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001116,Bournemouth West,South West,25%,42%,7%,0%,0%,7%,18%,1%,Con,Labour,Conservatives,Likely Labour,Borough,17%,Labour gain from Conservatives
+E14001126,Bridgwater,South West,25%,30%,16%,0%,0%,4%,24%,0%,Con,Labour,Conservatives,Lean Labour,County,5%,Labour gain from Conservatives
+E14001148,Camborne and Redruth,South West,25%,45%,8%,0%,0%,5%,18%,0%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001155,Central Devon,South West,33%,37%,13%,0%,0%,5%,12%,1%,Con,Labour,Conservatives,Tossup,County,5%,Labour gain from Conservatives
+E14001237,Filton and Bradley Stoke,South West,28%,50%,5%,0%,0%,6%,12%,0%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001240,Forest of Dean,South West,32%,38%,4%,0%,0%,10%,16%,0%,Con,Labour,Conservatives,Lean Labour,County,6%,Labour gain from Conservatives
+E14001248,Gloucester,South West,27%,43%,7%,0%,0%,6%,17%,0%,Con,Labour,Conservatives,Likely Labour,Borough,16%,Labour gain from Conservatives
+E14001394,North East Somerset and Hanham,South West,33%,40%,8%,0%,0%,5%,13%,1%,Con,Labour,Conservatives,Lean Labour,County,7%,Labour gain from Conservatives
+E14001399,North Somerset,South West,34%,38%,10%,0%,0%,6%,11%,0%,Con,Labour,Conservatives,Tossup,County,3%,Labour gain from Conservatives
+E14001426,Plymouth Moor View,South West,30%,42%,7%,0%,0%,4%,17%,0%,Con,Labour,Conservatives,Likely Labour,Borough,11%,Labour gain from Conservatives
+E14001485,South Dorset,South West,30%,30%,15%,0%,0%,5%,19%,1%,Con,Labour,Conservatives,Tossup,County,1%,Labour gain from Conservatives
+E14001508,St Austell and Newquay,South West,25%,38%,10%,0%,0%,5%,22%,0%,Con,Labour,Conservatives,Likely Labour,County,13%,Labour gain from Conservatives
+E14001529,Stroud,South West,21%,48%,5%,0%,0%,11%,14%,1%,Con,Labour,Conservatives,Safe Labour,County,27%,Labour gain from Conservatives
+E14001536,Swindon North,South West,29%,41%,6%,0%,0%,5%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,12%,Labour gain from Conservatives
+E14001537,Swindon South,South West,26%,50%,8%,0%,0%,3%,12%,1%,Con,Labour,Conservatives,Likely Labour,Borough,24%,Labour gain from Conservatives
+E14001554,Truro and Falmouth,South West,23%,42%,10%,0%,0%,6%,18%,1%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001581,Weston-super-Mare,South West,28%,36%,12%,0%,0%,5%,19%,0%,Con,Labour,Conservatives,Lean Labour,County,7%,Labour gain from Conservatives
+W07000083,Bangor Aberconwy,Wales,24%,41%,5%,0%,17%,3%,10%,1%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+W07000086,Bridgend,Wales,17%,34%,4%,0%,12%,4%,19%,10%,Con,Labour,Reform,Likely Labour,County,16%,Labour gain from Conservatives
+W07000094,Clwyd East,Wales,29%,43%,4%,0%,5%,4%,14%,1%,Con,Labour,Conservatives,Likely Labour,County,14%,Labour gain from Conservatives
+W07000095,Clwyd North,Wales,23%,37%,6%,0%,14%,3%,17%,0%,Con,Labour,Conservatives,Likely Labour,County,14%,Labour gain from Conservatives
+W07000100,Mid and South Pembrokeshire,Wales,27%,42%,3%,0%,7%,3%,17%,1%,Con,Labour,Conservatives,Likely Labour,County,14%,Labour gain from Conservatives
+W07000101,Monmouthshire,Wales,31%,43%,4%,0%,2%,4%,15%,0%,Con,Labour,Conservatives,Likely Labour,County,11%,Labour gain from Conservatives
+W07000102,Montgomeryshire and Glyndwr,Wales,24%,28%,10%,0%,18%,3%,18%,0%,Con,Labour,Conservatives,Tossup,County,4%,Labour gain from Conservatives
+W07000110,Vale of Glamorgan,Wales,25%,43%,4%,0%,1%,9%,17%,1%,Con,Labour,Conservatives,Likely Labour,County,18%,Labour gain from Conservatives
+W07000111,Wrexham,Wales,23%,40%,5%,0%,11%,5%,17%,0%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+W07000112,Ynys Mon,Wales,27%,29%,4%,0%,25%,2%,13%,1%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001097,Birmingham Northfield,West Midlands,24%,52%,4%,0%,0%,7%,14%,0%,Con,Labour,Conservatives,Safe Labour,Borough,28%,Labour gain from Conservatives
+E14001143,Burton and Uttoxeter,West Midlands,31%,31%,7%,0%,0%,6%,24%,1%,Con,Labour,Conservatives,Tossup,Borough,0%,Labour gain from Conservatives
+E14001150,Cannock Chase,West Midlands,27%,37%,3%,0%,0%,6%,27%,0%,Con,Labour,Conservatives,Lean Labour,Borough,10%,Labour gain from Conservatives
+E14001204,Dudley,West Midlands,32%,40%,4%,0%,0%,6%,18%,0%,Con,Labour,Conservatives,Lean Labour,Borough,8%,Labour gain from Conservatives
+E14001261,Halesowen,West Midlands,29%,38%,5%,0%,0%,5%,23%,0%,Con,Labour,Conservatives,Lean Labour,Borough,8%,Labour gain from Conservatives
+E14001335,Lichfield,West Midlands,33%,36%,5%,0%,0%,4%,21%,0%,Con,Labour,Conservatives,Tossup,Borough,3%,Labour gain from Conservatives
+E14001380,Newcastle-under-Lyme,West Midlands,25%,46%,5%,0%,0%,5%,20%,0%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001400,North Warwickshire and Bedworth,West Midlands,26%,36%,4%,0%,0%,3%,30%,0%,Con,Labour,Reform,Lean Labour,Borough,6%,Labour gain from Conservatives
+E14001413,Nuneaton,West Midlands,29%,40%,3%,0%,0%,8%,20%,0%,Con,Labour,Conservatives,Likely Labour,Borough,11%,Labour gain from Conservatives
+E14001441,Redditch,West Midlands,31%,38%,4%,0%,0%,7%,20%,1%,Con,Labour,Conservatives,Lean Labour,Borough,7%,Labour gain from Conservatives
+E14001453,Rugby,West Midlands,30%,39%,7%,0%,0%,6%,18%,0%,Con,Labour,Conservatives,Lean Labour,Borough,9%,Labour gain from Conservatives
+E14001473,Shrewsbury,West Midlands,21%,48%,11%,0%,0%,4%,15%,1%,Con,Labour,Conservatives,Safe Labour,Borough,27%,Labour gain from Conservatives
+E14001513,Stafford,West Midlands,32%,43%,5%,0%,0%,5%,15%,1%,Con,Labour,Conservatives,Likely Labour,Borough,11%,Labour gain from Conservatives
+E14001514,Staffordshire Moorlands,West Midlands,29%,37%,4%,0%,0%,4%,26%,0%,Con,Labour,Conservatives,Lean Labour,Borough,7%,Labour gain from Conservatives
+E14001520,Stoke-on-Trent Central,West Midlands,18%,53%,3%,0%,0%,6%,19%,1%,Con,Labour,Reform,Safe Labour,Borough,34%,Labour gain from Conservatives
+E14001521,Stoke-on-Trent North,West Midlands,23%,39%,4%,0%,0%,5%,28%,1%,Con,Labour,Reform,Likely Labour,Borough,12%,Labour gain from Conservatives
+E14001522,Stoke-on-Trent South,West Midlands,33%,38%,6%,0%,0%,3%,19%,0%,Con,Labour,Conservatives,Lean Labour,Borough,6%,Labour gain from Conservatives
+E14001524,Stourbridge,West Midlands,32%,40%,5%,0%,0%,4%,18%,1%,Con,Labour,Conservatives,Lean Labour,Borough,8%,Labour gain from Conservatives
+E14001541,Telford,West Midlands,27%,45%,7%,0%,0%,4%,18%,0%,Con,Labour,Conservatives,Likely Labour,Borough,18%,Labour gain from Conservatives
+E14001547,Tipton and Wednesbury,West Midlands,25%,46%,4%,0%,0%,5%,20%,1%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001562,Walsall and Bloxwich,West Midlands,25%,36%,5%,0%,0%,9%,18%,7%,Con,Labour,Conservatives,Likely Labour,Borough,12%,Labour gain from Conservatives
+E14001574,West Bromwich,West Midlands,22%,45%,5%,0%,0%,6%,20%,3%,Con,Labour,Conservatives,Likely Labour,Borough,23%,Labour gain from Conservatives
+E14001594,Wolverhampton North East,West Midlands,22%,41%,4%,0%,0%,6%,27%,0%,Con,Labour,Reform,Likely Labour,Borough,14%,Labour gain from Conservatives
+E14001596,Wolverhampton West,West Midlands,25%,46%,7%,0%,0%,5%,15%,2%,Con,Labour,Conservatives,Likely Labour,Borough,20%,Labour gain from Conservatives
+E14001597,Worcester,West Midlands,20%,48%,6%,0%,0%,6%,18%,1%,Con,Labour,Conservatives,Safe Labour,Borough,28%,Labour gain from Conservatives
+E14001087,Beverley and Holderness,Yorkshire and The Humber,33%,35%,8%,0%,0%,3%,20%,1%,Con,Labour,Conservatives,Tossup,County,2%,Labour gain from Conservatives
+E14001147,Calder Valley,Yorkshire and The Humber,24%,45%,4%,0%,0%,7%,19%,1%,Con,Labour,Conservatives,Likely Labour,County,21%,Labour gain from Conservatives
+E14001177,Colne Valley,Yorkshire and The Humber,25%,53%,4%,0%,0%,4%,14%,0%,Con,Labour,Conservatives,Safe Labour,County,28%,Labour gain from Conservatives
+E14001199,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,26%,43%,3%,0%,0%,3%,24%,1%,Con,Labour,Conservatives,Likely Labour,County,17%,Labour gain from Conservatives
+E14001255,Great Grimsby and Cleethorpes,Yorkshire and The Humber,23%,46%,4%,0%,0%,4%,22%,1%,Con,Labour,Conservatives,Likely Labour,Borough,23%,Labour gain from Conservatives
+E14001308,Keighley and Ilkley,Yorkshire and The Humber,32%,45%,3%,0%,0%,6%,12%,1%,Con,Labour,Conservatives,Likely Labour,County,13%,Labour gain from Conservatives
+E14001315,Kingston upon Hull West and Haltemprice,Yorkshire and The Humber,17%,50%,7%,0%,0%,3%,23%,0%,Con,Labour,Reform,Safe Labour,Borough,27%,Labour gain from Conservatives
+E14001322,Leeds North West,Yorkshire and The Humber,22%,45%,16%,0%,0%,6%,11%,1%,Con,Labour,Conservatives,Likely Labour,County,23%,Labour gain from Conservatives
+E14001324,Leeds South West and Morley,Yorkshire and The Humber,26%,47%,4%,0%,0%,6%,17%,0%,Con,Labour,Conservatives,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001418,Ossett and Denby Dale,Yorkshire and The Humber,27%,45%,5%,0%,0%,3%,19%,1%,Con,Labour,Conservatives,Likely Labour,County,19%,Labour gain from Conservatives
+E14001423,Penistone and Stocksbridge,Yorkshire and The Humber,26%,47%,6%,0%,0%,3%,18%,0%,Con,Labour,Conservatives,Likely Labour,County,20%,Labour gain from Conservatives
+E14001451,Rother Valley,Yorkshire and The Humber,25%,47%,4%,0%,0%,5%,19%,0%,Con,Labour,Conservatives,Likely Labour,County,22%,Labour gain from Conservatives
+E14001461,Scarborough and Whitby,Yorkshire and The Humber,27%,41%,5%,0%,0%,6%,21%,0%,Con,Labour,Conservatives,Likely Labour,County,13%,Labour gain from Conservatives
+E14001462,Scunthorpe,Yorkshire and The Humber,26%,44%,3%,0%,0%,4%,22%,1%,Con,Labour,Conservatives,Likely Labour,County,18%,Labour gain from Conservatives
+E14001464,Selby,Yorkshire and The Humber,23%,48%,4%,0%,0%,4%,22%,0%,Con,Labour,Conservatives,Safe Labour,County,25%,Labour gain from Conservatives
+E14001472,Shipley,Yorkshire and The Humber,27%,46%,4%,0%,0%,7%,15%,1%,Con,Labour,Conservatives,Likely Labour,County,19%,Labour gain from Conservatives
+E14001475,Skipton and Ripon,Yorkshire and The Humber,33%,40%,7%,0%,0%,4%,15%,0%,Con,Labour,Conservatives,Lean Labour,County,7%,Labour gain from Conservatives
+E14001506,Spen Valley,Yorkshire and The Humber,18%,46%,6%,0%,0%,4%,24%,2%,Con,Labour,Reform,Likely Labour,Borough,21%,Labour gain from Conservatives
+E14001560,Wakefield and Rothwell,Yorkshire and The Humber,18%,36%,12%,0%,0%,6%,23%,5%,Con,Labour,Reform,Likely Labour,Borough,13%,Labour gain from Conservatives
+E14001605,York Outer,Yorkshire and The Humber,32%,40%,14%,0%,0%,3%,10%,0%,Con,Labour,Conservatives,Lean Labour,County,8%,Labour gain from Conservatives
+E14001159,Chelmsford,East of England,26%,14%,40%,0%,0%,3%,17%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,13%,Lib Dem gain from Conservatives
+E14001224,Ely and East Cambridgeshire,East of England,29%,12%,40%,0%,0%,3%,15%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,11%,Lib Dem gain from Conservatives
+E14001268,Harpenden and Berkhamsted,East of England,27%,13%,42%,0%,0%,3%,16%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,15%,Lib Dem gain from Conservatives
+E14001396,North Norfolk,East of England,30%,6%,47%,0%,0%,2%,15%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,18%,Lib Dem gain from Conservatives
+E14001481,South Cambridgeshire,East of England,24%,11%,49%,0%,0%,4%,10%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,25%,Lib Dem gain from Conservatives
+E14001512,St Neots and Mid Cambridgeshire,East of England,29%,17%,37%,0%,0%,4%,12%,1%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,8%,Lib Dem gain from Conservatives
+E14001153,Carshalton and Wallington,London,23%,12%,45%,0%,0%,4%,15%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,23%,Lib Dem gain from Conservatives
+E14001534,Sutton and Cheam,London,28%,11%,45%,0%,0%,4%,12%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,17%,Lib Dem gain from Conservatives
+E14001586,Wimbledon,London,22%,15%,46%,0%,0%,4%,10%,2%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,24%,Lib Dem gain from Conservatives
+E14001158,Cheadle,North West,29%,11%,49%,0%,0%,3%,8%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,19%,Lib Dem gain from Conservatives
+E14001277,Hazel Grove,North West,21%,13%,52%,0%,0%,2%,12%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,31%,Lib Dem gain from Conservatives
+E14001580,Westmorland and Lonsdale,North West,18%,4%,63%,0%,0%,2%,11%,2%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,45%,Lib Dem gain from Conservatives
+E14001090,Bicester and Woodstock,South East,25%,14%,45%,0%,0%,3%,14%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,20%,Lib Dem gain from Conservatives
+E14001162,Chesham and Amersham,South East,30%,9%,48%,0%,0%,3%,10%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,17%,Lib Dem gain from Conservatives
+E14001166,Chichester,South East,27%,8%,47%,0%,0%,3%,14%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,20%,Lib Dem gain from Conservatives
+E14001197,Didcot and Wantage,South East,26%,15%,43%,0%,0%,4%,12%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,17%,Lib Dem gain from Conservatives
+E14001201,Dorking and Horley,South East,28%,11%,44%,0%,0%,5%,13%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,16%,Lib Dem gain from Conservatives
+E14001219,Eastbourne,South East,18%,6%,57%,0%,0%,3%,15%,2%,Con,Lib Dems,Conservatives,Safe Lib Dems,Borough,39%,Lib Dem gain from Conservatives
+E14001220,Eastleigh,South East,27%,13%,37%,0%,0%,5%,16%,1%,Con,Lib Dems,Conservatives,Lean Lib Dems,Borough,9%,Lib Dem gain from Conservatives
+E14001227,Epsom and Ewell,South East,29%,17%,34%,0%,0%,4%,15%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,Borough,5%,Lib Dem gain from Conservatives
+E14001230,Esher and Walton,South East,27%,6%,56%,0%,0%,3%,9%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,Borough,29%,Lib Dem gain from Conservatives
+E14001249,Godalming and Ash,South East,28%,6%,51%,0%,0%,3%,12%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,23%,Lib Dem gain from Conservatives
+E14001258,Guildford,South East,26%,11%,46%,0%,0%,4%,12%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,21%,Lib Dem gain from Conservatives
+E14001280,Henley and Thame,South East,30%,8%,48%,0%,0%,3%,10%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,17%,Lib Dem gain from Conservatives
+E14001294,Horsham,South East,28%,11%,42%,0%,0%,4%,14%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,15%,Lib Dem gain from Conservatives
+E14001330,Lewes,South East,21%,7%,55%,0%,0%,2%,14%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,34%,Lib Dem gain from Conservatives
+E14001348,Maidenhead,South East,28%,9%,56%,0%,0%,4%,0%,3%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,28%,Lib Dem gain from Conservatives
+E14001366,Mid Sussex,South East,24%,17%,43%,0%,0%,4%,11%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,19%,Lib Dem gain from Conservatives
+E14001376,Newbury,South East,30%,8%,43%,0%,0%,4%,14%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,13%,Lib Dem gain from Conservatives
+E14001392,North East Hampshire,South East,33%,9%,39%,0%,0%,3%,17%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,6%,Lib Dem gain from Conservatives
+E14001532,Surrey Heath,South East,26%,8%,48%,0%,0%,4%,14%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,22%,Lib Dem gain from Conservatives
+E14001555,Tunbridge Wells,South East,27%,11%,47%,0%,0%,3%,11%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,20%,Lib Dem gain from Conservatives
+E14001587,Winchester,South East,31%,5%,52%,0%,0%,3%,8%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,21%,Lib Dem gain from Conservatives
+E14001591,Witney,South East,28%,12%,45%,0%,0%,2%,12%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,17%,Lib Dem gain from Conservatives
+E14001592,Woking,South East,24%,11%,51%,0%,0%,4%,9%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,Borough,27%,Lib Dem gain from Conservatives
+E14001593,Wokingham,South East,33%,12%,40%,0%,0%,4%,11%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,7%,Lib Dem gain from Conservatives
+E14001161,Cheltenham,South West,27%,6%,61%,0%,0%,3%,0%,3%,Con,Lib Dems,Conservatives,Safe Lib Dems,Borough,35%,Lib Dem gain from Conservatives
+E14001168,Chippenham,South West,24%,7%,52%,0%,0%,3%,13%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,28%,Lib Dem gain from Conservatives
+E14001241,Frome and East Somerset,South West,22%,19%,35%,0%,0%,9%,14%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,13%,Lib Dem gain from Conservatives
+E14001247,Glastonbury and Somerton,South West,28%,9%,48%,0%,0%,3%,12%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,20%,Lib Dem gain from Conservatives
+E14001291,Honiton and Sidmouth,South West,31%,10%,42%,0%,0%,3%,13%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,12%,Lib Dem gain from Conservatives
+E14001356,Melksham and Devizes,South West,33%,10%,40%,0%,0%,4%,13%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,7%,Lib Dem gain from Conservatives
+E14001363,Mid Dorset and North Poole,South West,40%,10%,47%,0%,0%,3%,0%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,8%,Lib Dem gain from Conservatives
+E14001381,Newton Abbot,South West,30%,16%,34%,0%,0%,4%,15%,1%,Con,Lib Dems,Conservatives,Tossup,County,4%,Lib Dem gain from Conservatives
+E14001385,North Cornwall,South West,24%,6%,50%,0%,0%,2%,17%,1%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,26%,Lib Dem gain from Conservatives
+E14001387,North Devon,South West,28%,8%,43%,0%,0%,4%,18%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,15%,Lib Dem gain from Conservatives
+E14001388,North Dorset,South West,35%,10%,37%,0%,0%,4%,13%,1%,Con,Lib Dems,Conservatives,Tossup,County,2%,Lib Dem gain from Conservatives
+E14001482,South Cotswolds,South West,32%,8%,46%,0%,0%,3%,10%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,14%,Lib Dem gain from Conservatives
+E14001484,South Devon,South West,27%,9%,49%,0%,0%,2%,11%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,22%,Lib Dem gain from Conservatives
+E14001511,St Ives,South West,22%,7%,56%,0%,0%,3%,12%,1%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,34%,Lib Dem gain from Conservatives
+E14001540,Taunton and Wellington,South West,22%,5%,58%,0%,0%,3%,12%,1%,Con,Lib Dems,Conservatives,Safe Lib Dems,County,36%,Lib Dem gain from Conservatives
+E14001542,Tewkesbury,South West,31%,12%,37%,0%,0%,4%,16%,0%,Con,Lib Dems,Conservatives,Lean Lib Dems,County,6%,Lib Dem gain from Conservatives
+E14001545,Thornbury and Yate,South West,31%,8%,46%,0%,0%,2%,13%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,14%,Lib Dem gain from Conservatives
+E14001548,Tiverton and Minehead,South West,25%,8%,46%,0%,0%,3%,19%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,21%,Lib Dem gain from Conservatives
+E14001551,Torbay,South West,30%,10%,41%,0%,0%,4%,14%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,11%,Lib Dem gain from Conservatives
+E14001572,Wells and Mendip Hills,South West,26%,8%,50%,0%,0%,3%,12%,2%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,24%,Lib Dem gain from Conservatives
+E14001575,West Dorset,South West,34%,8%,53%,0%,0%,3%,0%,2%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,19%,Lib Dem gain from Conservatives
+E14001603,Yeovil,South West,27%,6%,48%,0%,0%,3%,15%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,21%,Lib Dem gain from Conservatives
+W07000085,"Brecon, Radnor and Cwm Tawe",Wales,26%,17%,37%,0%,3%,3%,12%,0%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,10%,Lib Dem gain from Conservatives
+E14001398,North Shropshire,West Midlands,22%,11%,45%,0%,0%,4%,16%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,Borough,23%,Lib Dem gain from Conservatives
+E14001526,Stratford-on-Avon,West Midlands,23%,6%,59%,0%,0%,2%,10%,0%,Con,Lib Dems,Conservatives,Safe Lib Dems,Borough,36%,Lib Dem gain from Conservatives
+E14001269,Harrogate and Knaresborough,Yorkshire and The Humber,29%,9%,47%,0%,0%,3%,11%,1%,Con,Lib Dems,Conservatives,Likely Lib Dems,County,18%,Lib Dem gain from Conservatives
+W07000087,Caerfyrddin,Wales,24%,23%,3%,0%,33%,2%,13%,0%,Con,Plaid,Conservatives,Lean Plaid,County,9%,Plaid gain from Conservatives
+E14001068,Ashfield,East Midlands,11%,31%,4%,0%,0%,5%,33%,16%,Con,Reform,Labour,Tossup,County,3%,Reform UK gain from Conservatives
+E14001174,Clacton,East of England,30%,19%,5%,0%,0%,6%,40%,1%,Con,Reform,Conservatives,Likely Reform,County,11%,Reform UK gain from Conservatives
+E14001256,Great Yarmouth,East of England,23%,29%,5%,0%,0%,5%,36%,2%,Con,Reform,Labour,Lean Reform,County,7%,Reform UK gain from Conservatives
+S14000058,West Aberdeenshire and Kincardine,Scotland,30%,14%,5%,37%,0%,1%,12%,1%,Con,SNP,Conservatives,Lean SNP,County,7%,Green hold
+S14000062,Aberdeenshire North and Moray East,Scotland,30%,12%,4%,38%,0%,0%,16%,0%,Con,SNP,Conservatives,Lean SNP,County,8%,SNP gain from Conservatives
+S14000073,Dumfries and Galloway,Scotland,29%,16%,3%,35%,0%,3%,14%,0%,Con,SNP,Conservatives,Lean SNP,County,6%,SNP gain from Conservatives
+E14001130,Brighton Pavilion,South East,5%,27%,5%,0%,0%,55%,5%,3%,Green,Green,Labour,Safe Green,Borough,27%,Green hold
+E14001131,Bristol Central,South West,5%,34%,3%,0%,0%,52%,2%,4%,Lab,Green,Labour,Likely Green,Borough,19%,Green gain from Labour
+E14001165,Chesterfield,East Midlands,16%,53%,6%,0%,0%,8%,15%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,36%,Labour hold
+E14001194,Derby South,East Midlands,15%,41%,8%,0%,0%,8%,22%,6%,Lab,Labour,Reform,Likely Labour,Borough,19%,Labour hold
+E14001326,Leicester East,East Midlands,23%,37%,9%,0%,0%,7%,10%,14%,Lab,Labour,Conservatives,Likely Labour,Borough,14%,Labour hold
+E14001327,Leicester South,East Midlands,12%,45%,5%,0%,0%,11%,8%,20%,Lab,Labour,Other,Safe Labour,Borough,25%,Labour hold
+E14001328,Leicester West,East Midlands,15%,47%,8%,0%,0%,10%,18%,2%,Lab,Labour,Reform,Safe Labour,Borough,30%,Labour hold
+E14001410,Nottingham East,East Midlands,9%,62%,5%,0%,0%,13%,9%,1%,Lab,Labour,Greens,Safe Labour,Borough,49%,Labour hold
+E14001411,Nottingham North and Kimberley,East Midlands,16%,48%,4%,0%,0%,9%,23%,0%,Lab,Labour,Reform,Likely Labour,Borough,25%,Labour hold
+E14001412,Nottingham South,East Midlands,12%,50%,10%,0%,0%,12%,14%,1%,Lab,Labour,Reform,Safe Labour,Borough,36%,Labour hold
+E14001084,Bedford,East of England,20%,49%,9%,0%,0%,9%,13%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,29%,Labour hold
+E14001149,Cambridge,East of England,8%,48%,29%,0%,0%,14%,0%,1%,Lab,Labour,Lib Dems,Likely Labour,Borough,18%,Labour hold
+E14001345,Luton North,East of England,16%,44%,9%,0%,0%,6%,19%,5%,Lab,Labour,Reform,Likely Labour,Borough,24%,Labour hold
+E14001346,Luton South and South Bedfordshire,East of England,17%,48%,8%,0%,0%,7%,15%,6%,Lab,Labour,Conservatives,Safe Labour,County,31%,Labour hold
+E14001409,Norwich South,East of England,12%,56%,5%,0%,0%,14%,13%,1%,Lab,Labour,Greens,Safe Labour,Borough,42%,Labour hold
+E14001073,Barking,London,11%,51%,5%,0%,0%,9%,17%,6%,Lab,Labour,Reform,Safe Labour,Borough,34%,Labour hold
+E14001081,Battersea,London,17%,59%,9%,0%,0%,7%,8%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,42%,Labour hold
+E14001083,Beckenham and Penge,London,19%,47%,15%,0%,0%,7%,12%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,28%,Labour hold
+E14001085,Bermondsey and Old Southwark,London,7%,47%,26%,0%,0%,8%,9%,3%,Lab,Labour,Lib Dems,Likely Labour,Borough,21%,Labour hold
+E14001086,Bethnal Green and Stepney,London,6%,51%,10%,0%,0%,14%,6%,13%,Lab,Labour,Greens,Safe Labour,Borough,36%,Labour hold
+E14001122,Brent East,London,11%,66%,7%,0%,0%,8%,8%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,55%,Labour hold
+E14001123,Brent West,London,20%,43%,15%,0%,0%,9%,11%,2%,Lab,Labour,Conservatives,Likely Labour,Borough,22%,Labour hold
+E14001124,Brentford and Isleworth,London,15%,45%,16%,0%,0%,10%,12%,3%,Lab,Labour,Lib Dems,Safe Labour,Borough,29%,Labour hold
+E14001175,Clapham and Brixton Hill,London,9%,57%,17%,0%,0%,12%,6%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,40%,Labour hold
+E14001186,Croydon East,London,19%,43%,12%,0%,0%,9%,17%,0%,Lab,Labour,Conservatives,Likely Labour,Borough,24%,Labour hold
+E14001188,Croydon West,London,9%,64%,8%,0%,0%,9%,10%,1%,Lab,Labour,Reform,Safe Labour,Borough,54%,Labour hold
+E14001189,Dagenham and Rainham,London,14%,38%,6%,0%,0%,7%,31%,3%,Lab,Labour,Reform,Lean Labour,Borough,7%,Labour hold
+E14001205,Dulwich and West Norwood,London,5%,65%,6%,0%,0%,17%,5%,1%,Lab,Labour,Greens,Safe Labour,Borough,48%,Labour hold
+E14001207,Ealing Central and Acton,London,12%,55%,17%,0%,0%,9%,6%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,38%,Labour hold
+E14001208,Ealing North,London,15%,50%,11%,0%,0%,9%,12%,3%,Lab,Labour,Conservatives,Safe Labour,Borough,35%,Labour hold
+E14001209,Ealing Southall,London,14%,57%,7%,0%,0%,13%,8%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,43%,Labour hold
+E14001213,East Ham,London,10%,61%,4%,0%,0%,10%,7%,7%,Lab,Labour,Conservatives,Safe Labour,Borough,51%,Labour hold
+E14001221,Edmonton and Winchmore Hill,London,15%,51%,8%,0%,0%,9%,11%,6%,Lab,Labour,Conservatives,Safe Labour,Borough,36%,Labour hold
+E14001225,Enfield North,London,17%,49%,9%,0%,0%,8%,13%,5%,Lab,Labour,Conservatives,Safe Labour,Borough,32%,Labour hold
+E14001229,Erith and Thamesmead,London,12%,57%,7%,0%,0%,10%,12%,1%,Lab,Labour,Reform,Safe Labour,Borough,44%,Labour hold
+E14001236,Feltham and Heston,London,16%,44%,8%,0%,0%,10%,18%,3%,Lab,Labour,Reform,Safe Labour,Borough,25%,Labour hold
+E14001257,Greenwich and Woolwich,London,10%,57%,12%,0%,0%,12%,8%,0%,Lab,Labour,Greens,Safe Labour,Borough,45%,Labour hold
+E14001259,Hackney North and Stoke Newington,London,6%,65%,7%,0%,0%,16%,5%,1%,Lab,Labour,Greens,Safe Labour,Borough,49%,Labour hold
+E14001260,Hackney South and Shoreditch,London,4%,74%,5%,0%,0%,13%,4%,0%,Lab,Labour,Greens,Safe Labour,Borough,61%,Labour hold
+E14001264,Hammersmith and Chiswick,London,15%,54%,8%,0%,0%,11%,10%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,39%,Labour hold
+E14001265,Hampstead and Highgate,London,13%,57%,14%,0%,0%,10%,6%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,43%,Labour hold
+E14001271,Harrow West,London,20%,54%,9%,0%,0%,6%,9%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,34%,Labour hold
+E14001276,Hayes and Harlington,London,18%,52%,9%,0%,0%,9%,13%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,34%,Labour hold
+E14001290,Holborn and St Pancras,London,8%,55%,7%,0%,0%,10%,7%,13%,Lab,Labour,Other,Safe Labour,Borough,42%,Labour hold
+E14001293,Hornsey and Friern Barnet,London,7%,57%,15%,0%,0%,17%,3%,0%,Lab,Labour,Greens,Safe Labour,Borough,40%,Labour hold
+E14001300,Ilford North,London,18%,40%,6%,0%,0%,7%,13%,15%,Lab,Labour,Conservatives,Likely Labour,Borough,22%,Labour hold
+E14001301,Ilford South,London,13%,48%,7%,0%,0%,9%,9%,15%,Lab,Labour,Other,Safe Labour,Borough,33%,Labour hold
+E14001305,Islington North,London,3%,43%,4%,0%,0%,8%,3%,38%,Lab,Labour,Other,Tossup,Borough,5%,Labour hold
+E14001306,Islington South and Finsbury,London,7%,61%,14%,0%,0%,12%,6%,0%,Lab,Labour,Lib Dems,Safe Labour,Borough,47%,Labour hold
+E14001310,Kensington and Bayswater,London,23%,41%,18%,0%,0%,8%,9%,1%,Lab,Labour,Conservatives,Likely Labour,Borough,18%,Labour hold
+E14001331,Lewisham East,London,9%,58%,10%,0%,0%,15%,7%,0%,Lab,Labour,Greens,Safe Labour,Borough,43%,Labour hold
+E14001332,Lewisham North,London,5%,63%,6%,0%,0%,21%,5%,0%,Lab,Labour,Greens,Safe Labour,Borough,42%,Labour hold
+E14001333,Lewisham West and East Dulwich,London,7%,62%,7%,0%,0%,15%,6%,3%,Lab,Labour,Greens,Safe Labour,Borough,48%,Labour hold
+E14001334,Leyton and Wanstead,London,9%,65%,7%,0%,0%,10%,8%,0%,Lab,Labour,Greens,Safe Labour,Borough,54%,Labour hold
+E14001371,Mitcham and Morden,London,11%,55%,12%,0%,0%,10%,11%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,42%,Labour hold
+E14001421,Peckham,London,5%,63%,9%,0%,0%,17%,5%,1%,Lab,Labour,Greens,Safe Labour,Borough,46%,Labour hold
+E14001430,Poplar and Limehouse,London,10%,52%,12%,0%,0%,13%,7%,6%,Lab,Labour,Greens,Safe Labour,Borough,39%,Labour hold
+E14001434,Putney,London,19%,54%,13%,0%,0%,7%,7%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,36%,Labour hold
+E14001435,Queen's Park and Maida Vale,London,10%,61%,10%,0%,0%,11%,7%,0%,Lab,Labour,Greens,Safe Labour,Borough,50%,Labour hold
+E14001503,Southgate and Wood Green,London,14%,57%,8%,0%,0%,11%,9%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,43%,Labour hold
+E14001525,Stratford and Bow,London,7%,52%,6%,0%,0%,14%,6%,15%,Lab,Labour,Other,Safe Labour,Borough,37%,Labour hold
+E14001527,Streatham and Croydon North,London,9%,58%,16%,0%,0%,11%,6%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,42%,Labour hold
+E14001550,Tooting,London,14%,63%,8%,0%,0%,9%,5%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,49%,Labour hold
+E14001553,Tottenham,London,6%,55%,6%,0%,0%,16%,7%,9%,Lab,Labour,Greens,Safe Labour,Borough,39%,Labour hold
+E14001559,Vauxhall and Camberwell Green,London,7%,59%,14%,0%,0%,13%,6%,1%,Lab,Labour,Lib Dems,Safe Labour,Borough,45%,Labour hold
+E14001563,Walthamstow,London,6%,69%,4%,0%,0%,14%,5%,3%,Lab,Labour,Greens,Safe Labour,Borough,55%,Labour hold
+E14001576,West Ham and Beckton,London,7%,62%,5%,0%,0%,14%,12%,0%,Lab,Labour,Greens,Safe Labour,Borough,48%,Labour hold
+E14001106,Blaydon and Consett,North East,15%,50%,9%,0%,0%,8%,18%,0%,Lab,Labour,Reform,Safe Labour,County,32%,Labour hold
+E14001107,Blyth and Ashington,North East,10%,59%,4%,0%,0%,5%,22%,0%,Lab,Labour,Reform,Safe Labour,County,37%,Labour hold
+E14001173,City of Durham,North East,14%,56%,13%,0%,0%,6%,11%,0%,Lab,Labour,Conservatives,Safe Labour,County,42%,Labour hold
+E14001183,Cramlington and Killingworth,North East,17%,51%,8%,0%,0%,7%,17%,1%,Lab,Labour,Conservatives,Safe Labour,County,34%,Labour hold
+E14001211,Easington,North East,9%,51%,5%,0%,0%,5%,28%,2%,Lab,Labour,Reform,Likely Labour,County,23%,Labour hold
+E14001244,Gateshead Central and Whickham,North East,11%,39%,15%,0%,0%,10%,23%,2%,Lab,Labour,Reform,Likely Labour,Borough,15%,Labour hold
+E14001272,Hartlepool,North East,14%,47%,5%,0%,0%,4%,30%,0%,Lab,Labour,Reform,Likely Labour,County,18%,Labour hold
+E14001295,Houghton and Sunderland South,North East,13%,47%,5%,0%,0%,9%,27%,0%,Lab,Labour,Reform,Likely Labour,County,21%,Labour hold
+E14001307,Jarrow and Gateshead East,North East,8%,49%,9%,0%,0%,10%,24%,1%,Lab,Labour,Reform,Safe Labour,Borough,25%,Labour hold
+E14001367,Middlesbrough and Thornaby East,North East,8%,48%,8%,0%,0%,10%,25%,1%,Lab,Labour,Reform,Likely Labour,Borough,23%,Labour hold
+E14001377,Newcastle upon Tyne Central and West,North East,9%,62%,5%,0%,0%,7%,16%,0%,Lab,Labour,Reform,Safe Labour,Borough,45%,Labour hold
+E14001378,Newcastle upon Tyne East and Wallsend,North East,8%,48%,13%,0%,0%,16%,15%,1%,Lab,Labour,Greens,Safe Labour,Borough,33%,Labour hold
+E14001379,Newcastle upon Tyne North,North East,14%,55%,10%,0%,0%,9%,11%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,41%,Labour hold
+E14001389,North Durham,North East,13%,37%,9%,0%,0%,8%,28%,4%,Lab,Labour,Reform,Lean Labour,County,9%,Labour hold
+E14001492,South Shields,North East,10%,41%,5%,0%,0%,11%,19%,13%,Lab,Labour,Reform,Likely Labour,Borough,22%,Labour hold
+E14001518,Stockton North,North East,13%,51%,4%,0%,0%,6%,26%,0%,Lab,Labour,Reform,Likely Labour,County,25%,Labour hold
+E14001531,Sunderland Central,North East,15%,45%,10%,0%,0%,9%,22%,0%,Lab,Labour,Reform,Likely Labour,Borough,23%,Labour hold
+E14001557,Tynemouth,North East,17%,54%,8%,0%,0%,7%,13%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,37%,Labour hold
+E14001567,Washington and Gateshead South,North East,13%,51%,7%,0%,0%,5%,24%,1%,Lab,Labour,Reform,Safe Labour,Borough,27%,Labour hold
+E14001070,Ashton-under-Lyne,North West,14%,52%,6%,0%,0%,8%,18%,1%,Lab,Labour,Reform,Safe Labour,Borough,34%,Labour hold
+E14001091,Birkenhead,North West,6%,54%,9%,0%,0%,16%,15%,1%,Lab,Labour,Greens,Safe Labour,Borough,38%,Labour hold
+E14001102,Blackburn,North West,13%,45%,5%,0%,0%,7%,14%,16%,Lab,Labour,Other,Safe Labour,Borough,29%,Labour hold
+E14001103,Blackley and Middleton South,North West,10%,61%,5%,0%,0%,6%,17%,0%,Lab,Labour,Reform,Safe Labour,Borough,44%,Labour hold
+E14001111,Bolton South and Walkden,North West,14%,53%,5%,0%,0%,9%,19%,0%,Lab,Labour,Reform,Safe Labour,Borough,34%,Labour hold
+E14001113,Bootle,North West,3%,63%,5%,0%,0%,15%,13%,0%,Lab,Labour,Greens,Safe Labour,Borough,48%,Labour hold
+E14001163,Chester North and Neston,North West,16%,53%,6%,0%,0%,7%,18%,0%,Lab,Labour,Reform,Safe Labour,County,36%,Labour hold
+E14001222,Ellesmere Port and Bromborough,North West,8%,63%,7%,0%,0%,6%,15%,1%,Lab,Labour,Reform,Safe Labour,Borough,47%,Labour hold
+E14001251,Gorton and Denton,North West,9%,49%,9%,0%,0%,13%,16%,4%,Lab,Labour,Reform,Safe Labour,Borough,34%,Labour hold
+E14001286,Heywood and Middleton North,North West,14%,40%,5%,0%,0%,0%,29%,12%,Lab,Labour,Reform,Likely Labour,County,11%,Labour hold
+E14001317,Knowsley,North West,3%,69%,3%,0%,0%,13%,12%,1%,Lab,Labour,Greens,Safe Labour,Borough,56%,Labour hold
+E14001337,Liverpool Garston,North West,6%,57%,11%,0%,0%,8%,9%,9%,Lab,Labour,Lib Dems,Safe Labour,Borough,46%,Labour hold
+E14001338,Liverpool Riverside,North West,4%,62%,5%,0%,0%,19%,8%,2%,Lab,Labour,Greens,Safe Labour,Borough,43%,Labour hold
+E14001339,Liverpool Walton,North West,3%,76%,3%,0%,0%,9%,9%,1%,Lab,Labour,Reform,Safe Labour,Borough,67%,Labour hold
+E14001340,Liverpool Wavertree,North West,4%,64%,8%,0%,0%,17%,6%,1%,Lab,Labour,Greens,Safe Labour,Borough,48%,Labour hold
+E14001341,Liverpool West Derby,North West,3%,70%,4%,0%,0%,10%,13%,0%,Lab,Labour,Reform,Safe Labour,Borough,57%,Labour hold
+E14001350,Makerfield,North West,11%,53%,4%,0%,0%,6%,25%,0%,Lab,Labour,Reform,Safe Labour,Borough,28%,Labour hold
+E14001352,Manchester Central,North West,8%,55%,8%,0%,0%,13%,15%,1%,Lab,Labour,Reform,Safe Labour,Borough,41%,Labour hold
+E14001353,Manchester Rusholme,North West,6%,59%,0%,0%,0%,17%,8%,10%,Lab,Labour,Greens,Safe Labour,Borough,42%,Labour hold
+E14001354,Manchester Withington,North West,6%,57%,12%,0%,0%,19%,6%,1%,Lab,Labour,Greens,Safe Labour,Borough,38%,Labour hold
+E14001415,Oldham East and Saddleworth,North West,18%,36%,10%,0%,0%,7%,23%,7%,Lab,Labour,Reform,Likely Labour,County,14%,Labour hold
+E14001416,"Oldham West, Chadderton and Royton",North West,12%,43%,5%,0%,0%,5%,16%,19%,Lab,Labour,Other,Likely Labour,Borough,24%,Labour hold
+E14001433,Preston,North West,12%,54%,7%,0%,0%,7%,14%,8%,Lab,Labour,Reform,Safe Labour,Borough,40%,Labour hold
+E14001446,Rochdale,North West,16%,44%,8%,0%,0%,5%,13%,14%,Lab,Labour,Conservatives,Safe Labour,County,29%,Labour hold
+E14001455,Runcorn and Helsby,North West,14%,54%,5%,0%,0%,8%,18%,1%,Lab,Labour,Reform,Safe Labour,County,36%,Labour hold
+E14001459,Salford,North West,7%,55%,6%,0%,0%,12%,19%,0%,Lab,Labour,Reform,Safe Labour,Borough,36%,Labour hold
+E14001463,Sefton Central,North West,14%,64%,5%,0%,0%,4%,11%,1%,Lab,Labour,Conservatives,Safe Labour,County,50%,Labour hold
+E14001509,St Helens North,North West,10%,53%,6%,0%,0%,11%,21%,0%,Lab,Labour,Reform,Safe Labour,County,32%,Labour hold
+E14001510,St Helens South and Whiston,North West,7%,56%,6%,0%,0%,10%,16%,5%,Lab,Labour,Reform,Safe Labour,Borough,39%,Labour hold
+E14001515,Stalybridge and Hyde,North West,14%,55%,4%,0%,0%,6%,20%,1%,Lab,Labour,Reform,Safe Labour,County,34%,Labour hold
+E14001517,Stockport,North West,11%,53%,10%,0%,0%,11%,15%,0%,Lab,Labour,Reform,Safe Labour,Borough,37%,Labour hold
+E14001528,Stretford and Urmston,North West,12%,53%,6%,0%,0%,11%,15%,3%,Lab,Labour,Reform,Safe Labour,Borough,38%,Labour hold
+E14001561,Wallasey,North West,9%,54%,6%,0%,0%,11%,20%,1%,Lab,Labour,Reform,Safe Labour,Borough,34%,Labour hold
+E14001564,Warrington North,North West,15%,49%,8%,0%,0%,6%,23%,0%,Lab,Labour,Reform,Safe Labour,County,26%,Labour hold
+E14001565,Warrington South,North West,21%,50%,8%,0%,0%,5%,16%,0%,Lab,Labour,Conservatives,Safe Labour,County,29%,Labour hold
+E14001577,West Lancashire,North West,13%,58%,5%,0%,0%,6%,18%,0%,Lab,Labour,Reform,Safe Labour,County,40%,Labour hold
+E14001584,Widnes and Halewood,North West,6%,69%,3%,0%,0%,7%,14%,0%,Lab,Labour,Reform,Safe Labour,County,55%,Labour hold
+E14001585,Wigan,North West,12%,48%,5%,0%,0%,8%,26%,0%,Lab,Labour,Reform,Likely Labour,County,22%,Labour hold
+E14001589,Wirral West,North West,22%,55%,5%,0%,0%,5%,12%,0%,Lab,Labour,Conservatives,Safe Labour,County,33%,Labour hold
+E14001598,Worsley and Eccles,North West,14%,49%,7%,0%,0%,8%,20%,1%,Lab,Labour,Reform,Safe Labour,County,29%,Labour hold
+E14001602,Wythenshawe and Sale East,North West,11%,57%,7%,0%,0%,8%,16%,1%,Lab,Labour,Reform,Safe Labour,Borough,41%,Labour hold
+E14001129,Brighton Kemptown and Peacehaven,South East,17%,58%,7%,0%,0%,14%,0%,3%,Lab,Labour,Conservatives,Safe Labour,Borough,41%,Labour hold
+E14001151,Canterbury,South East,21%,53%,7%,0%,0%,8%,11%,0%,Lab,Labour,Conservatives,Safe Labour,County,33%,Labour hold
+E14001296,Hove and Portslade,South East,13%,63%,7%,0%,0%,9%,7%,2%,Lab,Labour,Conservatives,Safe Labour,Borough,50%,Labour hold
+E14001419,Oxford East,South East,10%,59%,12%,0%,0%,12%,0%,6%,Lab,Labour,Greens,Safe Labour,Borough,47%,Labour hold
+E14001432,Portsmouth South,South East,13%,53%,8%,0%,0%,8%,18%,0%,Lab,Labour,Reform,Safe Labour,Borough,35%,Labour hold
+E14001438,Reading Central,South East,15%,55%,9%,0%,0%,9%,11%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,40%,Labour hold
+E14001477,Slough,South East,15%,47%,11%,0%,0%,10%,13%,3%,Lab,Labour,Conservatives,Safe Labour,Borough,32%,Labour hold
+E14001500,Southampton Test,South East,14%,43%,10%,0%,0%,14%,18%,1%,Lab,Labour,Reform,Safe Labour,Borough,25%,Labour hold
+E14001132,Bristol East,South West,10%,52%,6%,0%,0%,27%,0%,5%,Lab,Labour,Greens,Likely Labour,Borough,24%,Labour hold
+E14001133,Bristol North East,South West,16%,45%,4%,0%,0%,13%,17%,4%,Lab,Labour,Reform,Safe Labour,Borough,27%,Labour hold
+E14001134,Bristol North West,South West,16%,51%,7%,0%,0%,16%,11%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,35%,Labour hold
+E14001135,Bristol South,South West,13%,49%,6%,0%,0%,19%,14%,0%,Lab,Labour,Greens,Safe Labour,Borough,30%,Labour hold
+E14001231,Exeter,South West,12%,58%,6%,0%,0%,14%,9%,1%,Lab,Labour,Greens,Safe Labour,Borough,45%,Labour hold
+E14001427,Plymouth Sutton and Devonport,South West,13%,49%,6%,0%,0%,11%,21%,0%,Lab,Labour,Reform,Safe Labour,Borough,28%,Labour hold
+W07000081,Aberafan Maesteg,Wales,8%,45%,4%,0%,18%,5%,19%,1%,Lab,Labour,Reform,Safe Labour,County,25%,Labour hold
+W07000082,Alyn and Deeside,Wales,17%,46%,6%,0%,6%,4%,19%,1%,Lab,Labour,Reform,Safe Labour,County,27%,Labour hold
+W07000084,Blaenau Gwent and Rhymney,Wales,9%,53%,4%,0%,18%,5%,0%,10%,Lab,Labour,Plaid,Safe Labour,County,35%,Labour hold
+W07000088,Caerphilly,Wales,13%,44%,4%,0%,17%,3%,20%,0%,Lab,Labour,Reform,Likely Labour,County,24%,Labour hold
+W07000089,Cardiff East,Wales,10%,51%,12%,0%,3%,10%,14%,1%,Lab,Labour,Reform,Safe Labour,Borough,37%,Labour hold
+W07000090,Cardiff North,Wales,16%,53%,6%,0%,10%,4%,11%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,37%,Labour hold
+W07000091,Cardiff South and Penarth,Wales,14%,51%,7%,0%,7%,9%,10%,1%,Lab,Labour,Conservatives,Safe Labour,County,38%,Labour hold
+W07000092,Cardiff West,Wales,13%,47%,6%,0%,16%,6%,12%,1%,Lab,Labour,Plaid,Safe Labour,Borough,31%,Labour hold
+W07000097,Gower,Wales,16%,37%,8%,0%,17%,5%,17%,2%,Lab,Labour,Plaid,Likely Labour,County,20%,Labour hold
+W07000098,Llanelli,Wales,13%,29%,3%,0%,29%,4%,20%,3%,Lab,Labour,Plaid,Tossup,County,0%,Labour hold
+W07000099,Merthyr Tydfil and Aberdare,Wales,8%,40%,7%,0%,15%,6%,21%,3%,Lab,Labour,Reform,Likely Labour,County,19%,Labour hold
+W07000103,Neath and Swansea East,Wales,11%,43%,6%,0%,15%,5%,19%,0%,Lab,Labour,Reform,Likely Labour,County,24%,Labour hold
+W07000104,Newport East,Wales,13%,44%,7%,0%,8%,7%,20%,2%,Lab,Labour,Reform,Likely Labour,Borough,24%,Labour hold
+W07000105,Newport West and Islwyn,Wales,15%,36%,6%,0%,8%,5%,26%,5%,Lab,Labour,Reform,Likely Labour,County,10%,Labour hold
+W07000106,Pontypridd,Wales,12%,38%,6%,0%,14%,5%,20%,5%,Lab,Labour,Reform,Likely Labour,County,17%,Labour hold
+W07000107,Rhondda and Ogmore,Wales,6%,50%,4%,0%,14%,5%,20%,0%,Lab,Labour,Reform,Safe Labour,County,30%,Labour hold
+W07000108,Swansea West,Wales,12%,40%,8%,0%,14%,6%,14%,6%,Lab,Labour,Reform,Safe Labour,County,25%,Labour hold
+W07000109,Torfaen,Wales,14%,48%,7%,0%,7%,5%,19%,0%,Lab,Labour,Reform,Safe Labour,County,29%,Labour hold
+E14001092,Birmingham Edgbaston,West Midlands,16%,47%,7%,0%,0%,9%,14%,6%,Lab,Labour,Conservatives,Safe Labour,Borough,31%,Labour hold
+E14001093,Birmingham Erdington,West Midlands,18%,51%,5%,0%,0%,7%,18%,2%,Lab,Labour,Conservatives,Safe Labour,Borough,33%,Labour hold
+E14001094,Birmingham Hall Green and Moseley,West Midlands,12%,54%,12%,0%,0%,8%,7%,8%,Lab,Labour,Conservatives,Safe Labour,Borough,42%,Labour hold
+E14001095,Birmingham Hodge Hill and Solihull North,West Midlands,14%,48%,6%,0%,0%,11%,14%,8%,Lab,Labour,Conservatives,Safe Labour,Borough,34%,Labour hold
+E14001096,Birmingham Ladywood,West Midlands,7%,59%,4%,0%,0%,13%,6%,11%,Lab,Labour,Greens,Safe Labour,Borough,46%,Labour hold
+E14001098,Birmingham Perry Barr,West Midlands,12%,51%,6%,0%,0%,9%,8%,15%,Lab,Labour,Other,Safe Labour,Borough,36%,Labour hold
+E14001099,Birmingham Selly Oak,West Midlands,13%,57%,5%,0%,0%,10%,15%,0%,Lab,Labour,Reform,Safe Labour,Borough,41%,Labour hold
+E14001100,Birmingham Yardley,West Midlands,15%,46%,11%,0%,0%,7%,15%,6%,Lab,Labour,Reform,Safe Labour,Borough,32%,Labour hold
+E14001180,Coventry East,West Midlands,14%,43%,7%,0%,0%,9%,17%,9%,Lab,Labour,Reform,Safe Labour,Borough,26%,Labour hold
+E14001181,Coventry North West,West Midlands,21%,44%,9%,0%,0%,9%,17%,1%,Lab,Labour,Conservatives,Likely Labour,Borough,23%,Labour hold
+E14001182,Coventry South,West Midlands,20%,55%,8%,0%,0%,5%,12%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,35%,Labour hold
+E14001478,Smethwick,West Midlands,12%,46%,7%,0%,0%,7%,20%,8%,Lab,Labour,Reform,Safe Labour,Borough,27%,Labour hold
+E14001566,Warwick and Leamington,West Midlands,20%,51%,7%,0%,0%,10%,12%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,32%,Labour hold
+E14001595,Wolverhampton South East,West Midlands,13%,50%,5%,0%,0%,5%,26%,1%,Lab,Labour,Reform,Likely Labour,Borough,24%,Labour hold
+E14001074,Barnsley North,Yorkshire and The Humber,9%,42%,5%,0%,0%,6%,36%,2%,Lab,Labour,Reform,Lean Labour,County,6%,Labour hold
+E14001075,Barnsley South,Yorkshire and The Humber,7%,52%,4%,0%,0%,4%,32%,1%,Lab,Labour,Reform,Likely Labour,County,19%,Labour hold
+E14001118,Bradford East,Yorkshire and The Humber,12%,46%,7%,0%,0%,8%,15%,11%,Lab,Labour,Reform,Safe Labour,Borough,31%,Labour hold
+E14001119,Bradford South,Yorkshire and The Humber,20%,39%,6%,0%,0%,11%,20%,4%,Lab,Labour,Conservatives,Likely Labour,Borough,19%,Labour hold
+E14001120,Bradford West,Yorkshire and The Humber,11%,44%,9%,0%,0%,10%,7%,19%,Lab,Labour,Other,Safe Labour,Borough,26%,Labour hold
+E14001196,Dewsbury and Batley,Yorkshire and The Humber,16%,43%,7%,0%,0%,9%,16%,10%,Lab,Labour,Conservatives,Safe Labour,Borough,27%,Labour hold
+E14001198,Doncaster Central,Yorkshire and The Humber,15%,50%,5%,0%,0%,5%,23%,1%,Lab,Labour,Reform,Safe Labour,County,27%,Labour hold
+E14001200,Doncaster North,Yorkshire and The Humber,14%,59%,6%,0%,0%,3%,0%,18%,Lab,Labour,Other,Safe Labour,County,42%,Labour hold
+E14001262,Halifax,Yorkshire and The Humber,18%,43%,7%,0%,0%,8%,19%,5%,Lab,Labour,Reform,Likely Labour,Borough,24%,Labour hold
+E14001297,Huddersfield,Yorkshire and The Humber,18%,48%,6%,0%,0%,15%,13%,0%,Lab,Labour,Conservatives,Safe Labour,Borough,31%,Labour hold
+E14001313,Kingston upon Hull East,Yorkshire and The Humber,12%,44%,9%,0%,0%,8%,28%,0%,Lab,Labour,Reform,Likely Labour,Borough,17%,Labour hold
+E14001314,Kingston upon Hull North and Cottingham,Yorkshire and The Humber,14%,49%,10%,0%,0%,8%,18%,1%,Lab,Labour,Reform,Safe Labour,Borough,31%,Labour hold
+E14001319,Leeds Central and Headingley,Yorkshire and The Humber,6%,60%,10%,0%,0%,13%,9%,1%,Lab,Labour,Greens,Safe Labour,Borough,46%,Labour hold
+E14001320,Leeds East,Yorkshire and The Humber,18%,52%,6%,0%,0%,7%,17%,0%,Lab,Labour,Conservatives,Safe Labour,County,34%,Labour hold
+E14001321,Leeds North East,Yorkshire and The Humber,12%,59%,5%,0%,0%,12%,10%,2%,Lab,Labour,Conservatives,Safe Labour,Borough,48%,Labour hold
+E14001323,Leeds South,Yorkshire and The Humber,13%,58%,7%,0%,0%,20%,0%,2%,Lab,Labour,Greens,Safe Labour,Borough,39%,Labour hold
+E14001325,Leeds West and Pudsey,Yorkshire and The Humber,18%,49%,4%,0%,0%,10%,19%,0%,Lab,Labour,Reform,Safe Labour,Borough,30%,Labour hold
+E14001383,Normanton and Hemsworth,Yorkshire and The Humber,11%,48%,6%,0%,0%,5%,29%,0%,Lab,Labour,Reform,Likely Labour,County,19%,Labour hold
+E14001428,"Pontefract, Castleford and Knottingley",Yorkshire and The Humber,13%,47%,8%,0%,0%,5%,27%,0%,Lab,Labour,Reform,Likely Labour,County,19%,Labour hold
+E14001436,Rawmarsh and Conisbrough,Yorkshire and The Humber,13%,48%,4%,0%,0%,4%,30%,1%,Lab,Labour,Reform,Likely Labour,County,18%,Labour hold
+E14001452,Rotherham,Yorkshire and The Humber,0%,54%,8%,0%,0%,6%,32%,0%,Lab,Labour,Reform,Likely Labour,Borough,23%,Labour hold
+E14001466,Sheffield Brightside and Hillsborough,Yorkshire and The Humber,13%,63%,5%,0%,0%,14%,0%,5%,Lab,Labour,Greens,Safe Labour,Borough,49%,Labour hold
+E14001467,Sheffield Central,Yorkshire and The Humber,6%,57%,5%,0%,0%,15%,0%,17%,Lab,Labour,Other,Safe Labour,Borough,40%,Labour hold
+E14001468,Sheffield Hallam,Yorkshire and The Humber,14%,48%,29%,0%,0%,7%,0%,2%,Lab,Labour,Lib Dems,Likely Labour,County,18%,Labour hold
+E14001469,Sheffield Heeley,Yorkshire and The Humber,12%,63%,9%,0%,0%,12%,0%,4%,Lab,Labour,Conservatives,Safe Labour,Borough,51%,Labour hold
+E14001470,Sheffield South East,Yorkshire and The Humber,20%,54%,9%,0%,0%,8%,0%,9%,Lab,Labour,Conservatives,Safe Labour,Borough,34%,Labour hold
+E14001604,York Central,Yorkshire and The Humber,10%,62%,7%,0%,0%,10%,10%,1%,Lab,Labour,Conservatives,Safe Labour,Borough,52%,Labour hold
+S14000080,Edinburgh South,Scotland,6%,55%,6%,16%,0%,9%,5%,4%,Lab,Labour,SNP,Safe Labour,Borough,38%,Labour hold
+S14000051,Orkney and Shetland,Scotland,2%,9%,41%,23%,0%,17%,8%,0%,Lib Dem,Lib Dems,SNP,Likely Lib Dems,County,17%,Lib Dem hold
+S14000082,Edinburgh West,Scotland,5%,14%,34%,29%,0%,7%,8%,3%,Lib Dem,Lib Dems,SNP,Lean Lib Dems,Borough,6%,Lib Dem hold
+E14001507,St Albans,East of England,14%,9%,63%,0%,0%,6%,6%,3%,Lib Dem,Lib Dems,Conservatives,Safe Lib Dems,County,49%,Lib Dem hold
+E14001312,Kingston and Surbiton,London,14%,15%,51%,0%,0%,8%,11%,3%,Lib Dem,Lib Dems,Labour,Safe Lib Dems,Borough,36%,Lib Dem hold
+E14001445,Richmond Park,London,18%,10%,55%,0%,0%,6%,7%,3%,Lib Dem,Lib Dems,Conservatives,Safe Lib Dems,Borough,37%,Lib Dem hold
+E14001556,Twickenham,London,12%,9%,66%,0%,0%,5%,6%,2%,Lib Dem,Lib Dems,Conservatives,Safe Lib Dems,Borough,53%,Lib Dem hold
+E14001420,Oxford West and Abingdon,South East,12%,12%,58%,0%,0%,4%,10%,4%,Lib Dem,Lib Dems,Conservatives,Safe Lib Dems,County,46%,Lib Dem hold
+E14001080,Bath,South West,12%,11%,58%,0%,0%,7%,9%,4%,Lib Dem,Lib Dems,Conservatives,Safe Lib Dems,County,46%,Lib Dem hold
+W07000093,Ceredigion Preseli,Wales,12%,12%,10%,0%,46%,4%,12%,3%,PC,Plaid,Labour,Safe Plaid,County,34%,Plaid hold
+W07000096,Dwyfor Meirionnydd,Wales,16%,16%,4%,0%,47%,3%,13%,2%,PC,Plaid,Conservatives,Safe Plaid,County,31%,Plaid hold
+S14000010,Central Ayrshire,Scotland,15%,36%,4%,32%,0%,1%,10%,3%,SNP,Labour,SNP,Tossup,County,4%,Labour gain from SNP
+S14000021,East Renfrewshire,Scotland,16%,37%,5%,31%,0%,3%,6%,3%,SNP,Labour,SNP,Lean Labour,County,6%,Labour gain from SNP
+S14000027,Na h-Eileanan an Iar,Scotland,9%,40%,4%,31%,0%,0%,9%,7%,SNP,Labour,SNP,Lean Labour,County,9%,Labour gain from SNP
+S14000040,Kilmarnock and Loudoun,Scotland,8%,37%,3%,36%,0%,3%,11%,3%,SNP,Labour,SNP,Tossup,County,1%,Labour gain from SNP
+S14000045,Midlothian,Scotland,6%,53%,4%,27%,0%,0%,9%,0%,SNP,Labour,SNP,Safe Labour,County,26%,Labour gain from SNP
+S14000063,Airdrie and Shotts,Scotland,5%,52%,2%,32%,0%,0%,9%,1%,SNP,Labour,SNP,Likely Labour,County,20%,Labour gain from SNP
+S14000064,Alloa and Grangemouth,Scotland,7%,40%,2%,32%,0%,5%,11%,4%,SNP,Labour,SNP,Lean Labour,County,8%,Labour gain from SNP
+S14000068,Bathgate and Linlithgow,Scotland,7%,38%,3%,29%,0%,6%,11%,5%,SNP,Labour,SNP,Lean Labour,County,9%,Labour gain from SNP
+S14000070,Coatbridge and Bellshill,Scotland,2%,55%,1%,29%,0%,3%,10%,1%,SNP,Labour,SNP,Safe Labour,Borough,27%,Labour gain from SNP
+S14000071,Cowdenbeath and Kirkcaldy,Scotland,7%,51%,3%,25%,0%,4%,8%,1%,SNP,Labour,SNP,Safe Labour,County,26%,Labour gain from SNP
+S14000072,Cumbernauld and Kirkintilloch,Scotland,3%,45%,2%,37%,0%,4%,9%,0%,SNP,Labour,SNP,Lean Labour,County,9%,Labour gain from SNP
+S14000076,Dunfermline and Dollar,Scotland,7%,46%,5%,28%,0%,5%,8%,1%,SNP,Labour,SNP,Likely Labour,County,18%,Labour gain from SNP
+S14000077,East Kilbride and Strathaven,Scotland,5%,50%,2%,30%,0%,4%,8%,0%,SNP,Labour,SNP,Likely Labour,County,20%,Labour gain from SNP
+S14000079,Edinburgh North and Leith,Scotland,7%,35%,4%,34%,0%,10%,6%,3%,SNP,Labour,SNP,Tossup,Borough,1%,Labour gain from SNP
+S14000081,Edinburgh South West,Scotland,10%,35%,4%,34%,0%,5%,9%,3%,SNP,Labour,SNP,Tossup,Borough,1%,Labour gain from SNP
+S14000083,Falkirk,Scotland,8%,40%,3%,34%,0%,2%,10%,4%,SNP,Labour,SNP,Lean Labour,County,6%,Labour gain from SNP
+S14000084,Glasgow East,Scotland,3%,41%,2%,33%,0%,8%,10%,3%,SNP,Labour,SNP,Lean Labour,Borough,8%,Labour gain from SNP
+S14000085,Glasgow North,Scotland,3%,49%,2%,29%,0%,9%,7%,1%,SNP,Labour,SNP,Likely Labour,Borough,20%,Labour gain from SNP
+S14000086,Glasgow North East,Scotland,3%,37%,2%,33%,0%,7%,12%,6%,SNP,Labour,SNP,Tossup,Borough,4%,Labour gain from SNP
+S14000087,Glasgow South,Scotland,3%,52%,2%,30%,0%,5%,6%,1%,SNP,Labour,SNP,Likely Labour,Borough,22%,Labour gain from SNP
+S14000088,Glasgow South West,Scotland,4%,43%,2%,34%,0%,7%,9%,2%,SNP,Labour,SNP,Lean Labour,Borough,9%,Labour gain from SNP
+S14000089,Glasgow West,Scotland,5%,44%,2%,34%,0%,5%,7%,3%,SNP,Labour,SNP,Lean Labour,Borough,10%,Labour gain from SNP
+S14000090,Glenrothes and Mid Fife,Scotland,4%,43%,3%,38%,0%,0%,12%,0%,SNP,Labour,SNP,Tossup,County,5%,Labour gain from SNP
+S14000092,Hamilton and Clyde Valley,Scotland,8%,52%,3%,28%,0%,0%,8%,0%,SNP,Labour,SNP,Likely Labour,County,24%,Labour gain from SNP
+S14000093,Inverclyde and Renfrewshire West,Scotland,5%,42%,3%,36%,0%,3%,8%,3%,SNP,Labour,SNP,Lean Labour,County,6%,Labour gain from SNP
+S14000095,Livingston,Scotland,5%,41%,3%,32%,0%,3%,12%,4%,SNP,Labour,SNP,Lean Labour,County,9%,Labour gain from SNP
+S14000096,Lothian East,Scotland,11%,47%,5%,27%,0%,2%,7%,1%,SNP,Labour,SNP,Likely Labour,County,19%,Labour gain from SNP
+S14000099,"Motherwell, Wishaw and Carluke",Scotland,6%,43%,2%,35%,0%,2%,10%,1%,SNP,Labour,SNP,Lean Labour,County,8%,Labour gain from SNP
+S14000101,Paisley and Renfrewshire North,Scotland,5%,46%,3%,33%,0%,4%,9%,0%,SNP,Labour,SNP,Likely Labour,Borough,12%,Labour gain from SNP
+S14000104,Rutherglen,Scotland,4%,54%,3%,30%,0%,0%,8%,1%,SNP,Labour,SNP,Likely Labour,Borough,25%,Labour gain from SNP
+S14000106,West Dunbartonshire,Scotland,2%,47%,1%,34%,0%,5%,9%,1%,SNP,Labour,SNP,Likely Labour,County,13%,Labour gain from SNP
+S14000069,"Caithness, Sutherland and Easter Ross",Scotland,5%,12%,30%,28%,0%,9%,14%,3%,SNP,Lib Dems,SNP,Tossup,County,2%,Lib Dem gain from SNP
+S14000100,North East Fife,Scotland,3%,8%,46%,25%,0%,10%,9%,0%,SNP,Lib Dems,SNP,Likely Lib Dems,County,21%,Lib Dem gain from SNP
+S14000006,"Ayr, Carrick and Cumnock",Scotland,18%,27%,4%,34%,0%,4%,10%,3%,SNP,SNP,Labour,Lean SNP,County,7%,SNP hold
+S14000048,North Ayrshire and Arran,Scotland,11%,31%,3%,39%,0%,2%,10%,4%,SNP,SNP,Labour,Lean SNP,County,9%,SNP hold
+S14000060,Aberdeen North,Scotland,10%,33%,3%,38%,0%,2%,11%,4%,SNP,SNP,Labour,Lean SNP,Borough,5%,SNP hold
+S14000061,Aberdeen South,Scotland,22%,23%,6%,36%,0%,3%,8%,3%,SNP,SNP,Labour,Likely SNP,Borough,13%,SNP hold
+S14000065,Angus and Perthshire Glens,Scotland,25%,13%,4%,44%,0%,0%,11%,2%,SNP,SNP,Conservatives,Likely SNP,County,19%,SNP hold
+S14000066,Arbroath and Broughty Ferry,Scotland,14%,31%,5%,38%,0%,0%,9%,4%,SNP,SNP,Labour,Lean SNP,County,7%,SNP hold
+S14000067,"Argyll, Bute and South Lochaber",Scotland,21%,20%,10%,37%,0%,0%,9%,4%,SNP,SNP,Conservatives,Likely SNP,County,16%,SNP hold
+S14000075,Dundee Central,Scotland,3%,34%,2%,43%,0%,0%,12%,5%,SNP,SNP,Labour,Lean SNP,Borough,9%,SNP hold
+S14000078,Edinburgh East and Musselburgh,Scotland,4%,34%,3%,35%,0%,11%,10%,3%,SNP,SNP,Labour,Tossup,Borough,1%,SNP hold
+S14000094,"Inverness, Skye and West Ross-shire",Scotland,8%,20%,19%,36%,0%,5%,9%,3%,SNP,SNP,Labour,Likely SNP,County,17%,SNP hold
+S14000097,Mid Dunbartonshire,Scotland,4%,26%,24%,28%,0%,6%,8%,3%,SNP,SNP,Labour,Tossup,County,2%,SNP hold
+S14000098,"Moray West, Nairn and Strathspey",Scotland,28%,18%,5%,37%,0%,2%,9%,1%,SNP,SNP,Conservatives,Lean SNP,County,8%,SNP hold
+S14000102,Paisley and Renfrewshire South,Scotland,6%,37%,2%,38%,0%,5%,9%,3%,SNP,SNP,Labour,Tossup,County,0%,SNP hold
+S14000103,Perth and Kinross-shire,Scotland,28%,20%,5%,38%,0%,0%,8%,1%,SNP,SNP,Conservatives,Likely SNP,County,10%,SNP hold
+S14000105,Stirling and Strathallan,Scotland,18%,29%,3%,35%,0%,8%,7%,0%,SNP,SNP,Labour,Lean SNP,County,6%,SNP hold
