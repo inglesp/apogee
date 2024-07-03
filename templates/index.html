@@ -24,8 +24,6 @@ table#constituencies th:nth-child(n+2) {
 {% block content %}
 <h1 class="my-3">Aggregating Predictions for the General Election</h1>
 
-<div class="alert alert-primary mt-3" role="alert">New: <a href="tactical-voting/">compare tactical voting recommendations</a>!</div>
-
 <p>This site aggregates constituency-level predictions for the 2024 British general election.</p>
 
 <p>
@@ -38,34 +36,33 @@ table#constituencies th:nth-child(n+2) {
         download the data <a href="https://raw.githubusercontent.com/inglesp/apogee/main/outputs/data/predictions-all.csv">here</a>.
 </p>
 
-<p>Data is taken from:<p>
-<ul>
-    {% for m in models %}
-    <li>
-        <a href="{{ model_map[m]['url'] }}" target="_blank">{{ model_map[m]['full_title'] or model_map[m]['title'] }}</a>
-        {% if m == '2019' %}
-        (Data from Colin Rallings and Michael Thrasher)
-        {% else %}
-        ({{ model_map[m]['date'].strftime('%d %B') }})
-        {% endif %}
-    </li>
-    {% endfor %}
-</ul>
+<p>
+        Notional 2019 results are from <a href="">Colin Rallings and Michael Thrasher</a>;
+        click links in summary table headings for more about each model's data.
+</p>
 
-<h2 class="mt-5">Summary</h2>
+<p>
+        Scroll down for seat-by-seat predictions;
+        compare tactical voting recommendations <a href="tactical-voting">here</a>.
+</p>
 
-<p>This summary shows, for each model and each party, the number of seats where that party is predicted to get the most votes.</p>
-
-<p>Note that these totals are indicative of how the parties' level of support from each model's prediction, but won't match the number of seats predicted by each model.</p>
-
-<p>To understand why, imagine two parties and ten constituencies, where a model predicts that party X will get more votes than party Y, and assigns party X a 90% chance of winning.  In this case, the model may predict that X will win nine seats and Y one.  However, in this summary, we will instead show X with ten and Y with none.</p>
+<h2>Summary</h2>
 
 <table id="summary" class="table table-sm">
     <thead>
         <tr>
             <th></th>
-            {% for header in summary[0][1:] %}
-            <th class="text-center">{{ header }}</th>
+            {% for m in models %}
+            <th class="text-center">{{ model_map[m]['title'] }}</th>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th></th>
+            <th class="text-center fw-normal"><a href="{{ model_map['2019']['url'] }}" target="_blank">data</a></th>
+            {% for m in models[1:] %}
+            <th class="text-center fw-normal">
+                    <a href="{{ model_map[m]['url'] }}" target="_blank">{{ model_map[m]['date'].strftime('%d %B') }}</a>
+            </th>
             {% endfor %}
         </tr>
     </thead>
@@ -79,6 +76,12 @@ table#constituencies th:nth-child(n+2) {
         {% endfor %}
     </tbody>
 </table>
+
+<p>This summary shows, for each model and each party, the number of seats where that party is predicted to get the most votes.</p>
+
+<p>Note that these totals are indicative of how the parties' level of support from each model's prediction, but won't match the number of seats predicted by each model.</p>
+
+<p>To understand why, imagine two parties and ten constituencies, where a model predicts that party X will get more votes than party Y, and assigns party X a 90% chance of winning.  In this case, the model may predict that X will win nine seats and Y one.  However, in this summary, we will instead show X with ten and Y with none.</p>
 
 <h2 class="mt-5">Constituencies</h2>
 
