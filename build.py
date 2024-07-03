@@ -68,7 +68,7 @@ model_map = {
     },
     "jlp": {
         "title": "JLP",
-        "url": "https://jlpartners.co.uk/first-jl-partners-srp-model-shows-labour-on-course-for-a-landslide",
+        "url": "https://jlpartners.co.uk/final-jl-partners-srp-model-project-labour-winning-442-seats",
     },
     "moreincommon": {
         "title": "More in Common",
