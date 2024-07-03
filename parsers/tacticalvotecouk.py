@@ -19,6 +19,8 @@ def parse(path):
                 "Plaid Cymru": "pc",
                 "SNP": "snp",
                 "Labour or Plaid Cymru": "?",
+                "SNP or Labour": "?",
+                "Lib Dem or SNP": "?",
                 "TBC": "?",
                 "Not sure": "?",
                 "Not Sure": "?",
