@@ -101,10 +101,12 @@ table#constituencies th:nth-child(n+2) {
         </div>
 
         <div id="show-parties" class="btn-group d-none" role="group">
-        {% for party in parties %}
-        <input type="radio" class="btn-check" name="show-party" id="show-{{ party }}" value="{{ party }}"{% if party == 'con' %} checked {% endif %}>
+            <input type="radio" class="btn-check" name="show-party" id="show-winner2" value="winner" checked>
+            <label class="btn btn-outline-secondary" for="show-winner2">winner</label>
+            {% for party in parties %}
+            <input type="radio" class="btn-check" name="show-party" id="show-{{ party }}" value="{{ party }}">
             <label class="btn btn-outline-secondary" for="show-{{ party }}">{{ party }}</label>
-        {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </div>

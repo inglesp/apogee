@@ -216,6 +216,27 @@ def build_predictions():
                         continue
                     predictions[key][model][code] = "?"
 
+    predictions["vote-share-winner"] = {model: {} for model in models}
+    predictions["majority-winner"] = {model: {} for model in models}
+    for model in models:
+        for code in codes:
+            winner = predictions["winner"][model][code]
+            if winner == "tie":
+                predictions["majority-winner"][model][code] = 0
+                predictions["vote-share-winner"][model][code] = max(
+                    predictions[f"vote-share-{p}"][model][code] for p in parties
+                )
+            elif winner == "?":
+                predictions["majority-winner"][model][code] = "?"
+                predictions["vote-share-winner"][model][code] = "?"
+            else:
+                predictions["majority-winner"][model][code] = predictions[f"majority-{winner}"][
+                    model
+                ][code]
+                predictions["vote-share-winner"][model][code] = predictions[f"vote-share-{winner}"][
+                    model
+                ][code]
+
     summary = (
         pd.DataFrame(
             {model: Counter(predictions["winner"][model].values()) for model in models}
