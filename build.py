@@ -135,8 +135,14 @@ def main():
     build_recommendations()
 
 
+def calculate_rmse(df1, df2):
+    return (((df1.unstack() - df2.unstack()) ** 2).mean()) ** 0.5
+
+
 def build_predictions():
     data = None
+    results = None
+    scores = {}
 
     for model in models:
         path = sorted(Path(f"data/processed/{model}").glob("*/data.csv"))[-1]
@@ -147,9 +153,20 @@ def build_predictions():
             data = model_data
         else:
             data = pd.concat([data, model_data])
+        if model == "2019":
+            continue
+        if model == "2024":
+            results = model_data.set_index("code")
+            results = results[results[parties].sum(axis=1) > 0]
+            continue
+
+        assert results is not None
+        predictions = model_data.set_index("code").loc[results.index][parties]
+        scores[model] = calculate_rmse(results, predictions)
 
     data = data.drop("name", axis=1)
     data = data[["code", "model", *parties]]
+
     winner = data[parties].idxmax(axis=1)
     winner[data[parties].eq(data[parties].max(axis=1), axis=0).sum(axis=1) > 1] = "tie"
     winner[data[parties].sum(axis=1) == 0] = "?"
@@ -314,6 +331,16 @@ def build_predictions():
     with open("outputs/breakdown/index.html", "w") as f:
         f.write(tpl.render(ctx))
 
+    tpl = env.get_template("templates/leaderboard.html")
+    rows = [
+        {"model": model_map[m]["title"], "score": scores[m]}
+        for m in models
+        if m not in ["2019", "2024"]
+    ]
+    rows.sort(key=lambda r: r["score"])
+    ctx = {"rows": rows}
+    with open("outputs/leaderboard/index.html", "w") as f:
+        f.write(tpl.render(ctx))
 
     shutil.copyfile("templates/index.js", "outputs/index.js")
 

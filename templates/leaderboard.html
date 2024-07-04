@@ -1,0 +1,40 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Predictions for the General Election{% endblock %}
+
+{% block content %}
+<h1 class="my-3">2024 Leaderboard</h1>
+
+<p><a href="..">Back to homepage</a></p>
+
+<div class="alert alert-danger" role="alert">
+    I do not hold a licence to practice statistics without supervision, so please do not take this page too seriously!
+</div>
+
+<p>This page attempts to evaluate each model's forecast, by calculating the <a href="https://en.wikipedia.org/wiki/Root_mean_square_deviation">root mean square error</a> between each forecast's prediction of each party's share of the vote in each seat, and the results, as they come in.</p>
+
+<p>I think this is a better measure of accuracy than simply counting the number of seats that were called correctly, because it should reward the models that best represent reality.<p>
+
+<p>Health warning: this may not be the best way of evaluating a forecast!  Please <a href="mailto:peter.inglesby@gmail.com">let me know </a> if you think I've made a mistake.</p>
+
+<div class="row justify-content-center">
+    <div class="col-12 col-lg-4">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th class="text-center">Model</th>
+                    <th class="text-center">Score (lower is better)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in rows %}
+                <tr>
+                    <td class="text-center">{{ row['model'] }}</td>
+                    <td class="text-center">{{ row['score']|round(2) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
