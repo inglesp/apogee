@@ -64,8 +64,12 @@ model_map = {
         "url": "https://electionmaps.uk/nowcast",
     },
     "electoralcalculus": {
-        "title": "Electoral Calculus",
+        "title": "Electoral Calc. STM",
         "url": "https://www.electoralcalculus.co.uk/dynamicmap.html",
+    },
+    "electoralcalculusmrp": {
+        "title": "Electoral Calc. MRP",
+        "url": "https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20240626.html",
     },
     "focaldata": {
         "title": "Focaldata",
