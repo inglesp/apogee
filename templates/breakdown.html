@@ -46,7 +46,7 @@ table#summary td:nth-child(n+1) {
         <tr>
             <td class="text-centre party-{{ row['party'] }} margin-{{ row['margin'] }}">{{ row['party'] }}</td>
             {% for m in models %}
-            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ row['party'] }} margin-{{ row['margin'] }}">{{ row['predictions'][m] }}</td>
+            <td class="text-center {% if loop.index0 < 2 %}border-end {% endif %}party-{{ row['party'] }} margin-{{ row['margin'] }}">{{ row['predictions'][m] }}</td>
             {% endfor %}
         </tr>
         {% endfor %}

@@ -49,6 +49,10 @@ model_map = {
         "title": "2019 (notional)",
         "url": "https://downloads.bbc.co.uk/news/nol/shared/spl/xls_spreadsheets/results_spreadsheet.ods",
     },
+    "2024": {
+        "title": "2024",
+        "url": "TODO",
+    },
     "britainpredicts": {
         "title": "Britain Predicts",
         "full_title": "Britain Predicts (New Statesman)",

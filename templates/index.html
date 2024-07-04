@@ -75,7 +75,7 @@ table#constituencies th:nth-child(n+2) {
         <tr>
             <td class="text-centre party-{{ row['party'] }}">{{ row['party'] }}</td>
             {% for m in models %}
-            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ row['party'] }}">{{ row['predictions'][m] }}</td>
+            <td class="text-center {% if loop.index0 < 2 %}border-end {% endif %}party-{{ row['party'] }}">{{ row['predictions'][m] }}</td>
             {% endfor %}
         </tr>
         {% endfor %}
@@ -119,7 +119,7 @@ table#constituencies th:nth-child(n+2) {
 </div>
 
 <div class="row mb-3">
-    <div class="col-12 col-lg-6">
+    <div class="col">
         <div>Filter by 2019</div>
 
         <div class="btn-group" role="group">
@@ -129,8 +129,34 @@ table#constituencies th:nth-child(n+2) {
         {% endfor %}
         </div>
     </div>
+</div>
 
-    <div class="col-12 col-lg-6 d-flex justify-content-lg-end">
+<div class="row mb-3">
+    <div class="col">
+        <div>Filter by 2024 results</div>
+
+        <div class="btn-group" role="group">
+            {% for party in parties %}
+            <input type="checkbox" class="btn-check filter-2024-result" id="filter-2024-result-{{ party }}">
+            <label class="btn btn-outline-secondary" for="filter-2024-result-{{ party }}">{{ party }}</label>
+            {% endfor %}
+        </div>
+
+        <div class="btn-group" role="group">
+            <input type="radio" class="btn-check" name="2024-result-declared" id="filter-2024-result-declared-all" value="all" checked>
+            <label class="btn btn-outline-secondary" for="filter-2024-result-declared-all">All</label>
+
+            <input type="radio" class="btn-check" name="2024-result-declared" id="filter-2024-result-declared-declared" value="declared">
+            <label class="btn btn-outline-secondary" for="filter-2024-result-declared-declared">Declared</label>
+
+            <input type="radio" class="btn-check" name="2024-result-declared" id="filter-2024-result-declared-undeclared" value="undeclared">
+            <label class="btn btn-outline-secondary" for="filter-2024-result-declared-undeclared">Undeclared</label>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col">
         <div>
             <div>Filter by 2024 prediction</div>
 
@@ -174,7 +200,7 @@ table#constituencies th:nth-child(n+2) {
     </div>
 </div>
 
-<p id="rubric" class="mb-2">Showing <span id="show">predicted winner</span> for <span id="count">all constituencies</span></p>
+<p id="rubric" class="mb-2">Showing predicted/actual <span id="show">winner</span> for <span id="count">all constituencies</span></p>
 
 <table id="constituencies" class="table table-sm">
     <thead>
@@ -193,7 +219,7 @@ table#constituencies th:nth-child(n+2) {
             <td>{{ code }}</td>
             <td><a href="constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
             {% for m in models %}
-            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }} margin-{{ predictions["margin"][m][code] }}">{{ predictions['winner'][m][code] }}</td>
+            <td class="text-center {% if loop.index0 < 2 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }} margin-{{ predictions["margin"][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             {% endfor %}
             <td class="text-center">{{ corr_coeff[code].round(2) }}</td>
         </tr>

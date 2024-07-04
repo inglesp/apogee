@@ -1,10 +1,12 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-	const predictiveModels = models.slice(1);  // excluding 2019
+	const predictiveModels = models.slice(2);  // excluding 2019 + 2024
 
         const rubric = document.getElementById('rubric');
         const radiosShow = document.querySelectorAll('input[name="show"]');
         const radiosShowParty = document.querySelectorAll('input[name="show-party"]');
         const checkboxes2019 = document.querySelectorAll('.filter-2019');
+        const checkboxes2024Result = document.querySelectorAll('.filter-2024-result');
+        const radios2024ResultDeclared = document.querySelectorAll('input[name="2024-result-declared"]');
         const checkboxes2024 = document.querySelectorAll('.filter-2024');
         const radiosPredictionType = document.querySelectorAll('input[name="prediction-type"]');
         const inputSearch = document.getElementById('filter-search');
@@ -45,6 +47,18 @@ document.addEventListener('DOMContentLoaded', (event) => {
                                 }
                         }
                 }
+                if (url.searchParams.get('2024-result')) {
+                        const params2024Result = url.searchParams.get('2024-result').split(',');
+                        for (let i = 0; i < parties.length; i++) {
+                                if (params2024Result.includes(parties[i])) {
+                                        checkboxes2024Result[i].checked = true;
+                                }
+                        }
+                }
+                if (url.searchParams.get('2024-result-declared')) {
+                        const params2024ResultDeclared = url.searchParams.get('2024-result-declared');
+			document.querySelector(`input[name="2024-result-declared"][value="${params2024ResultDeclared}"]`).checked = true;
+                }
                 if (url.searchParams.get('2024')) {
                         const params2024 = url.searchParams.get('2024').split(',');
                         for (let i = 0; i < parties.length; i++) {
@@ -75,17 +89,16 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 if (show == 'winner') {
                         key = 'winner'
                         document.getElementById('show-parties').classList.add('d-none');
-                        rubric.querySelector('#show').textContent = 'predicted winner';
+                        rubric.querySelector('#show').textContent = 'winner';
                 } else {
                         const party = document.querySelector('input[name="show-party"]:checked').value;
                         key = `${show}-${party}`
                         document.getElementById('show-parties').classList.remove('d-none');
                         if (show == 'vote-share') {
-                               rubric.querySelector('#show').textContent = `predicted ${party} vote share for`;
+                               rubric.querySelector('#show').textContent = `${party} vote share for`;
                         } else {
-                                rubric.querySelector('#show').textContent = `predicted ${party} majority for`;
+                                rubric.querySelector('#show').textContent = `${party} majority for`;
                         }
-
                 }
 
                 tableRows.forEach(tr => {
@@ -121,12 +134,17 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 let state = {
                         'search': inputSearch.value.toLowerCase(),
                         '2019': [],
+                        '2024-result': [],
+                        '2024-result-declared': document.querySelector('input[name="2024-result-declared"]:checked').value,
                         '2024': [],
-                        'predictionType': document.querySelector('input[name="prediction-type"]:checked').value,
+                        'prediction-type': document.querySelector('input[name="prediction-type"]:checked').value,
                 };
                 for (let i = 0; i < parties.length; i++) {
                         if (checkboxes2019[i].checked) {
                                 state['2019'].push(parties[i]);
+                        }
+                        if (checkboxes2024Result[i].checked) {
+                                state['2024-result'].push(parties[i]);
                         }
                         if (checkboxes2024[i].checked) {
                                 state['2024'].push(parties[i]);
@@ -172,15 +190,25 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 } else {
                         newUrl.searchParams.delete('2019');
                 }
+                if (state['2024-result'].length > 0) {
+                        newUrl.searchParams.set('2024-result', state['2024-result'].join(','));
+                } else {
+                        newUrl.searchParams.delete('2024-result');
+                }
+                if (state['2024-result-declared'] == 'all') {
+                        newUrl.searchParams.delete('2024-result-declared');
+                } else {
+                        newUrl.searchParams.set('2024-result-declared', state['2024-result-declared']);
+                }
                 if (state['2024'].length > 0) {
                         newUrl.searchParams.set('2024', state['2024'].join(','));
                 } else {
                         newUrl.searchParams.delete('2024');
                 }
-                if (state['predictionType'] == 'all') {
+                if (state['prediction-type'] == 'all') {
                         newUrl.searchParams.delete('prediction-type');
                 } else {
-                        newUrl.searchParams.set('prediction-type', state['predictionType']);
+                        newUrl.searchParams.set('prediction-type', state['prediction-type']);
                 }
                 if (newUrl.toString() != window.location) {
                         window.history.pushState({}, '', newUrl);
@@ -189,6 +217,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
         function showRow(ix, code, state) {
                 const filter2019 = new Set(state['2019']);
+                const filter2024Result = new Set(state['2024-result']);
                 const filter2024 = new Set(state['2024']);
 
                 if (state['search'] != '') {
@@ -203,25 +232,41 @@ document.addEventListener('DOMContentLoaded', (event) => {
 			}
                 }
 
+                if (filter2024Result.size > 0) {
+                        if (!filter2024Result.has(predictions['winner']['2024'][code])) {
+				return false;
+			}
+                }
+
+		if (state['2024-result-declared'] == 'declared') {
+			if (predictions['winner']['2024'][code] == '?') {
+				return false;
+			}
+		} else if (state['2024-result-declared'] == 'undeclared') {
+			if (predictions['winner']['2024'][code] != '?') {
+				return false;
+			}
+		}
+
                 if (filter2024.size > 0) {
-                        if (state['predictionType'] == 'all') {
+                        if (state['prediction-type'] == 'all') {
                                 const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (!setEq(filter2024, predictions2024)) {
                                         return false;
                                 }
-                        } else if (state['predictionType'] == 'any') {
+                        } else if (state['prediction-type'] == 'any') {
                                 const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (!isSubset(filter2024, predictions2024)) {
                                         return false;
                                 }
-                        } else if (state['predictionType'] == 'none') {
+                        } else if (state['prediction-type'] == 'none') {
                                 const predictions2024 = new Set(predictiveModels.map(m => predictions['winner'][m][code]));
                                 if (setInt(filter2024, predictions2024).size > 0) {
                                         return false;
                                 }
                         } else {
                                 const predictions2024 = predictiveModels.map(m => predictions['winner'][m][code]);
-                                const minCount = parseInt(state['predictionType'], 10);
+                                const minCount = parseInt(state['prediction-type'], 10);
                                 for (p of filter2024) {
                                         let c = 0;
                                         for (p1 of predictions2024) {
@@ -328,6 +373,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
         });
         checkboxes2019.forEach(cb => {
                 cb.addEventListener('change', filter);
+        });
+        checkboxes2024Result.forEach(cb => {
+                cb.addEventListener('change', filter);
+        });
+        radios2024ResultDeclared.forEach(r => {
+                r.addEventListener('change', filter);
         });
         checkboxes2024.forEach(cb => {
                 cb.addEventListener('change', filter);
