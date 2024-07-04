@@ -9,17 +9,20 @@ def parse(path):
 
 
 def parse_one(r):
+    for k in list(r):
+        r[k.strip()] = r[k]
+
     return {
         "code": get_code(r["PCON24CD"]),
         "name": r["Seat"],
-        "con": r["mean_Con"],
-        "grn": r["mean_Green"],
-        "lab": r["mean_Lab"],
-        "lib": r["mean_LDem"],
-        "oth": r["mean_Other"],
-        "pc": r["mean_Plaid"],
-        "ref": r["mean_Reform"],
-        "snp": r["mean_SNP"],
+        "con": r["mean_Con"].strip().replace("-", ""),
+        "grn": r["mean_Green"].strip().replace("-", ""),
+        "lab": r["mean_Lab"].strip().replace("-", ""),
+        "lib": r["mean_LDem"].strip().replace("-", ""),
+        "oth": r["mean_Other"].strip().replace("-", ""),
+        "pc": r["mean_Plaid"].strip().replace("-", ""),
+        "ref": r["mean_Reform"].strip().replace("-", ""),
+        "snp": r["mean_SNP"].strip().replace("-", ""),
     }
 
 
