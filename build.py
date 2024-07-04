@@ -39,10 +39,10 @@ with open("data/constituencies.csv") as f:
         c for c in csv.DictReader(f) if c["code"] != "E14001170"
     ]  # Chorley
 
-codes = {c["code"] for c in constituencies}
 code_to_name = {c["code"]: c["name"] for c in constituencies}
 code_to_2019 = {c["code"]: c["2019"] for c in constituencies}
 code_to_demo_club_code = {c["code"]: c["demo_club_code"] for c in constituencies}
+codes = sorted({c["code"] for c in constituencies}, key=lambda c: code_to_name[c])
 
 model_map = {
     "2019": {
@@ -309,7 +309,7 @@ def build_predictions():
         "model_map": model_map,
         "parties": parties,
         "code_to_name": code_to_name,
-        "codes": sorted(codes, key=lambda c: code_to_name[c]),
+        "codes": codes,
         "predictions": predictions,
         "corr_coeff": corr_coeff,
         "summary": summary_rows_1,
