@@ -1,0 +1,55 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Predictions for the General Election{% endblock %}
+
+{% block extracss %}
+<style>
+.btn {
+  padding: 0.25rem 0.5rem;
+}
+table#summary th:nth-child(n+1),
+table#summary td:nth-child(n+1) {
+    width: 5%;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<h1 class="my-3">Aggregating Predictions for the General Election</h1>
+
+<p><a href="../..">Back to homepage</a></p>
+
+<p>This summary shows, for each model and each party, the number of seats where that party is predicted to get the most votes.</p>
+
+<p>Seats are broken into three categories: those with margins greater than 10% (the darkest colours), those with margins between 5% and 10%, and those with margins less than 5% (the lightest colours).</p>
+
+<table id="summary" class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            {% for m in models %}
+            <th class="text-center">{{ model_map[m]['title'] }}</th>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th></th>
+            <th class="text-center fw-normal"><a href="{{ model_map['2019']['url'] }}" target="_blank">data</a></th>
+            {% for m in models[1:] %}
+            <th class="text-center fw-normal">
+                    <a href="{{ model_map[m]['url'] }}" target="_blank">{{ model_map[m]['date'].strftime('%d %B') }}</a>
+            </th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in summary %}
+        <tr>
+            <td class="text-centre party-{{ row['party'] }} margin-{{ row['margin'] }}">{{ row['party'] }}</td>
+            {% for m in models %}
+            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ row['party'] }} margin-{{ row['margin'] }}">{{ row['predictions'][m] }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

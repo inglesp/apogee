@@ -1,0 +1,1009 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <script defer data-domain="inglesp.github.io" src="https://plausible.io/js/script.js"></script>
+
+    <title>Aggregating Predictions for the General Election</title>
+    <style>
+      #constituencies {
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+
+      #constituencies thead {
+        background-color: white;
+        border-bottom: 2px solid black;
+        border-collapse: separate;
+        position: sticky;
+        top: 0;
+	z-index: 1;
+      }
+
+      #constituencies th {
+        line-height: 1.2;
+      }
+
+      td.margin-close {
+	      opacity: 0.75;
+      }
+
+      td.margin-very-close {
+	      opacity: 0.5;
+      }
+
+      td.party-con,
+      td.party-con a {
+        --bs-table-bg: #0087dc;
+        color: white;
+      }
+
+      td.party-grn,
+      td.party-grn a {
+        --bs-table-bg: #02a95b;
+        color: white;
+      }
+
+      td.party-lab,
+      td.party-lab a {
+        --bs-table-bg: #e4003b;
+        color: white;
+      }
+
+      td.party-lib,
+      td.party-lib a {
+        --bs-table-bg: #faa61a;
+        color: black;
+      }
+
+      td.party-pc,
+      td.party-pc a {
+        --bs-table-bg: #005b54;
+        color: white;
+      }
+
+      td.party-ref,
+      td.party-ref a {
+        --bs-table-bg: #12b6cf;
+        color: black;
+      }
+
+      td.party-snp,
+      td.party-snp a {
+        --bs-table-bg: #fdf38e;
+        color: black;
+      }
+
+      td.party-oth,
+      td.party-oth a {
+        --bs-table-bg: #ddd;
+      }
+
+      td.party-none,
+      td.party-none a {
+        --bs-table-bg: white;
+        color: black;
+      }
+    </style>
+
+    
+<style>
+.btn {
+  padding: 0.25rem 0.5rem;
+}
+table#summary th:nth-child(n+1),
+table#summary td:nth-child(n+1) {
+    width: 5%;
+}
+</style>
+
+  </head>
+  <body>
+      <div class="container-fluid px-5">
+          
+<h1 class="my-3">Aggregating Predictions for the General Election</h1>
+
+<p><a href="../..">Back to homepage</a></p>
+
+<p>This summary shows, for each model and each party, the number of seats where that party is predicted to get the most votes.</p>
+
+<p>Seats are broken into three categories: those with margins greater than 10% (the darkest colours), those with margins between 5% and 10%, and those with margins less than 5% (the lightest colours).</p>
+
+<table id="summary" class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            
+            <th class="text-center">2019 (notional)</th>
+            
+            <th class="text-center">Britain Predicts</th>
+            
+            <th class="text-center">Economist</th>
+            
+            <th class="text-center">electionmaps</th>
+            
+            <th class="text-center">Electoral Calculus</th>
+            
+            <th class="text-center">Focaldata</th>
+            
+            <th class="text-center">FT</th>
+            
+            <th class="text-center">Ipsos</th>
+            
+            <th class="text-center">JLP</th>
+            
+            <th class="text-center">More in Common</th>
+            
+            <th class="text-center">Savanta</th>
+            
+            <th class="text-center">Survation</th>
+            
+            <th class="text-center">WeThink</th>
+            
+            <th class="text-center">YouGov</th>
+            
+        </tr>
+        <tr>
+            <th></th>
+            <th class="text-center fw-normal"><a href="https://downloads.bbc.co.uk/news/nol/shared/spl/xls_spreadsheets/results_spreadsheet.ods" target="_blank">data</a></th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://sotn.newstatesman.com/2024/05/britainpredicts" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.economist.com/interactive/uk-general-election/forecast" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://electionmaps.uk/nowcast" target="_blank">04 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.electoralcalculus.co.uk/dynamicmap.html" target="_blank">01 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.focaldata.com/blog/focaldata-prolific-uk-general-election-mrp-final-call" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://ig.ft.com/uk-general-election/2024/projection/" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.ipsos.com/en-uk/uk-opinion-polls/ipsos-election-mrp" target="_blank">18 June</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://jlpartners.co.uk/final-jl-partners-srp-model-project-labour-winning-442-seats" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.moreincommon.org.uk/general-election-2024/mrp-3-july/" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://savanta.com/knowledge-centre/press-and-polls/mrp-model-daily-telegraph-19-june-2024/" target="_blank">19 June</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://www.survation.com/survation-mrp-labour-99-certain-to-win-more-seats-than-in-1997/" target="_blank">03 July</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://wethink.report/news-hub/news/we-think-mrp-historical-low-for-the-conservatives/" target="_blank">26 June</a>
+            </th>
+            
+            <th class="text-center fw-normal">
+                    <a href="https://yougov.co.uk/politics/articles/49950-final-yougov-mrp-shows-labour-on-course-for-historic-election-victory" target="_blank">03 July</a>
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td class="text-centre party-lab margin-comfortable">lab</td>
+            
+            <td class="text-center border-end party-lab margin-comfortable">151</td>
+            
+            <td class="text-center party-lab margin-comfortable">297</td>
+            
+            <td class="text-center party-lab margin-comfortable">330</td>
+            
+            <td class="text-center party-lab margin-comfortable">344</td>
+            
+            <td class="text-center party-lab margin-comfortable">388</td>
+            
+            <td class="text-center party-lab margin-comfortable">354</td>
+            
+            <td class="text-center party-lab margin-comfortable">359</td>
+            
+            <td class="text-center party-lab margin-comfortable">365</td>
+            
+            <td class="text-center party-lab margin-comfortable">308</td>
+            
+            <td class="text-center party-lab margin-comfortable">340</td>
+            
+            <td class="text-center party-lab margin-comfortable">393</td>
+            
+            <td class="text-center party-lab margin-comfortable">376</td>
+            
+            <td class="text-center party-lab margin-comfortable">368</td>
+            
+            <td class="text-center party-lab margin-comfortable">331</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-lab margin-close">lab</td>
+            
+            <td class="text-center border-end party-lab margin-close">27</td>
+            
+            <td class="text-center party-lab margin-close">46</td>
+            
+            <td class="text-center party-lab margin-close">50</td>
+            
+            <td class="text-center party-lab margin-close">49</td>
+            
+            <td class="text-center party-lab margin-close">44</td>
+            
+            <td class="text-center party-lab margin-close">44</td>
+            
+            <td class="text-center party-lab margin-close">33</td>
+            
+            <td class="text-center party-lab margin-close">40</td>
+            
+            <td class="text-center party-lab margin-close">61</td>
+            
+            <td class="text-center party-lab margin-close">46</td>
+            
+            <td class="text-center party-lab margin-close">70</td>
+            
+            <td class="text-center party-lab margin-close">63</td>
+            
+            <td class="text-center party-lab margin-close">44</td>
+            
+            <td class="text-center party-lab margin-close">53</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-lab margin-very-close">lab</td>
+            
+            <td class="text-center border-end party-lab margin-very-close">22</td>
+            
+            <td class="text-center party-lab margin-very-close">75</td>
+            
+            <td class="text-center party-lab margin-very-close">53</td>
+            
+            <td class="text-center party-lab margin-very-close">38</td>
+            
+            <td class="text-center party-lab margin-very-close">37</td>
+            
+            <td class="text-center party-lab margin-very-close">48</td>
+            
+            <td class="text-center party-lab margin-very-close">54</td>
+            
+            <td class="text-center party-lab margin-very-close">48</td>
+            
+            <td class="text-center party-lab margin-very-close">73</td>
+            
+            <td class="text-center party-lab margin-very-close">43</td>
+            
+            <td class="text-center party-lab margin-very-close">53</td>
+            
+            <td class="text-center party-lab margin-very-close">52</td>
+            
+            <td class="text-center party-lab margin-very-close">53</td>
+            
+            <td class="text-center party-lab margin-very-close">41</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-con margin-comfortable">con</td>
+            
+            <td class="text-center border-end party-con margin-comfortable">307</td>
+            
+            <td class="text-center party-con margin-comfortable">2</td>
+            
+            <td class="text-center party-con margin-comfortable">16</td>
+            
+            <td class="text-center party-con margin-comfortable">25</td>
+            
+            <td class="text-center party-con margin-comfortable">6</td>
+            
+            <td class="text-center party-con margin-comfortable">26</td>
+            
+            <td class="text-center party-con margin-comfortable">14</td>
+            
+            <td class="text-center party-con margin-comfortable">25</td>
+            
+            <td class="text-center party-con margin-comfortable">9</td>
+            
+            <td class="text-center party-con margin-comfortable">26</td>
+            
+            <td class="text-center party-con margin-comfortable">1</td>
+            
+            <td class="text-center party-con margin-comfortable">6</td>
+            
+            <td class="text-center party-con margin-comfortable">15</td>
+            
+            <td class="text-center party-con margin-comfortable">28</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-con margin-close">con</td>
+            
+            <td class="text-center border-end party-con margin-close">37</td>
+            
+            <td class="text-center party-con margin-close">27</td>
+            
+            <td class="text-center party-con margin-close">36</td>
+            
+            <td class="text-center party-con margin-close">30</td>
+            
+            <td class="text-center party-con margin-close">16</td>
+            
+            <td class="text-center party-con margin-close">39</td>
+            
+            <td class="text-center party-con margin-close">32</td>
+            
+            <td class="text-center party-con margin-close">32</td>
+            
+            <td class="text-center party-con margin-close">36</td>
+            
+            <td class="text-center party-con margin-close">51</td>
+            
+            <td class="text-center party-con margin-close">8</td>
+            
+            <td class="text-center party-con margin-close">11</td>
+            
+            <td class="text-center party-con margin-close">23</td>
+            
+            <td class="text-center party-con margin-close">28</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-con margin-very-close">con</td>
+            
+            <td class="text-center border-end party-con margin-very-close">28</td>
+            
+            <td class="text-center party-con margin-very-close">83</td>
+            
+            <td class="text-center party-con margin-very-close">66</td>
+            
+            <td class="text-center party-con margin-very-close">45</td>
+            
+            <td class="text-center party-con margin-very-close">39</td>
+            
+            <td class="text-center party-con margin-very-close">40</td>
+            
+            <td class="text-center party-con margin-very-close">50</td>
+            
+            <td class="text-center party-con margin-very-close">58</td>
+            
+            <td class="text-center party-con margin-very-close">66</td>
+            
+            <td class="text-center party-con margin-very-close">48</td>
+            
+            <td class="text-center party-con margin-very-close">44</td>
+            
+            <td class="text-center party-con margin-very-close">35</td>
+            
+            <td class="text-center party-con margin-very-close">38</td>
+            
+            <td class="text-center party-con margin-very-close">42</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-lib margin-comfortable">lib</td>
+            
+            <td class="text-center border-end party-lib margin-comfortable">7</td>
+            
+            <td class="text-center party-lib margin-comfortable">24</td>
+            
+            <td class="text-center party-lib margin-comfortable">26</td>
+            
+            <td class="text-center party-lib margin-comfortable">38</td>
+            
+            <td class="text-center party-lib margin-comfortable">60</td>
+            
+            <td class="text-center party-lib margin-comfortable">33</td>
+            
+            <td class="text-center party-lib margin-comfortable">30</td>
+            
+            <td class="text-center party-lib margin-comfortable">24</td>
+            
+            <td class="text-center party-lib margin-comfortable">20</td>
+            
+            <td class="text-center party-lib margin-comfortable">36</td>
+            
+            <td class="text-center party-lib margin-comfortable">22</td>
+            
+            <td class="text-center party-lib margin-comfortable">36</td>
+            
+            <td class="text-center party-lib margin-comfortable">33</td>
+            
+            <td class="text-center party-lib margin-comfortable">60</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-lib margin-close">lib</td>
+            
+            <td class="text-center border-end party-lib margin-close">1</td>
+            
+            <td class="text-center party-lib margin-close">16</td>
+            
+            <td class="text-center party-lib margin-close">11</td>
+            
+            <td class="text-center party-lib margin-close">17</td>
+            
+            <td class="text-center party-lib margin-close">7</td>
+            
+            <td class="text-center party-lib margin-close">11</td>
+            
+            <td class="text-center party-lib margin-close">16</td>
+            
+            <td class="text-center party-lib margin-close">7</td>
+            
+            <td class="text-center party-lib margin-close">18</td>
+            
+            <td class="text-center party-lib margin-close">5</td>
+            
+            <td class="text-center party-lib margin-close">9</td>
+            
+            <td class="text-center party-lib margin-close">15</td>
+            
+            <td class="text-center party-lib margin-close">10</td>
+            
+            <td class="text-center party-lib margin-close">7</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-lib margin-very-close">lib</td>
+            
+            <td class="text-center border-end party-lib margin-very-close">0</td>
+            
+            <td class="text-center party-lib margin-very-close">23</td>
+            
+            <td class="text-center party-lib margin-very-close">17</td>
+            
+            <td class="text-center party-lib margin-very-close">13</td>
+            
+            <td class="text-center party-lib margin-very-close">4</td>
+            
+            <td class="text-center party-lib margin-very-close">14</td>
+            
+            <td class="text-center party-lib margin-very-close">16</td>
+            
+            <td class="text-center party-lib margin-very-close">7</td>
+            
+            <td class="text-center party-lib margin-very-close">20</td>
+            
+            <td class="text-center party-lib margin-very-close">10</td>
+            
+            <td class="text-center party-lib margin-very-close">19</td>
+            
+            <td class="text-center party-lib margin-very-close">12</td>
+            
+            <td class="text-center party-lib margin-very-close">9</td>
+            
+            <td class="text-center party-lib margin-very-close">5</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-snp margin-comfortable">snp</td>
+            
+            <td class="text-center border-end party-snp margin-comfortable">38</td>
+            
+            <td class="text-center party-snp margin-comfortable">14</td>
+            
+            <td class="text-center party-snp margin-comfortable">6</td>
+            
+            <td class="text-center party-snp margin-comfortable">8</td>
+            
+            <td class="text-center party-snp margin-comfortable">5</td>
+            
+            <td class="text-center party-snp margin-comfortable">4</td>
+            
+            <td class="text-center party-snp margin-comfortable">2</td>
+            
+            <td class="text-center party-snp margin-comfortable">6</td>
+            
+            <td class="text-center party-snp margin-comfortable">2</td>
+            
+            <td class="text-center party-snp margin-comfortable">1</td>
+            
+            <td class="text-center party-snp margin-comfortable">0</td>
+            
+            <td class="text-center party-snp margin-comfortable">4</td>
+            
+            <td class="text-center party-snp margin-comfortable">11</td>
+            
+            <td class="text-center party-snp margin-comfortable">4</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-snp margin-close">snp</td>
+            
+            <td class="text-center border-end party-snp margin-close">5</td>
+            
+            <td class="text-center party-snp margin-close">6</td>
+            
+            <td class="text-center party-snp margin-close">5</td>
+            
+            <td class="text-center party-snp margin-close">3</td>
+            
+            <td class="text-center party-snp margin-close">8</td>
+            
+            <td class="text-center party-snp margin-close">7</td>
+            
+            <td class="text-center party-snp margin-close">6</td>
+            
+            <td class="text-center party-snp margin-close">3</td>
+            
+            <td class="text-center party-snp margin-close">3</td>
+            
+            <td class="text-center party-snp margin-close">6</td>
+            
+            <td class="text-center party-snp margin-close">1</td>
+            
+            <td class="text-center party-snp margin-close">3</td>
+            
+            <td class="text-center party-snp margin-close">5</td>
+            
+            <td class="text-center party-snp margin-close">10</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-snp margin-very-close">snp</td>
+            
+            <td class="text-center border-end party-snp margin-very-close">5</td>
+            
+            <td class="text-center party-snp margin-very-close">3</td>
+            
+            <td class="text-center party-snp margin-very-close">10</td>
+            
+            <td class="text-center party-snp margin-very-close">8</td>
+            
+            <td class="text-center party-snp margin-very-close">2</td>
+            
+            <td class="text-center party-snp margin-very-close">5</td>
+            
+            <td class="text-center party-snp margin-very-close">11</td>
+            
+            <td class="text-center party-snp margin-very-close">6</td>
+            
+            <td class="text-center party-snp margin-very-close">10</td>
+            
+            <td class="text-center party-snp margin-very-close">9</td>
+            
+            <td class="text-center party-snp margin-very-close">7</td>
+            
+            <td class="text-center party-snp margin-very-close">5</td>
+            
+            <td class="text-center party-snp margin-very-close">13</td>
+            
+            <td class="text-center party-snp margin-very-close">4</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-pc margin-comfortable">pc</td>
+            
+            <td class="text-center border-end party-pc margin-comfortable">1</td>
+            
+            <td class="text-center party-pc margin-comfortable">3</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">3</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">3</td>
+            
+            <td class="text-center party-pc margin-comfortable">3</td>
+            
+            <td class="text-center party-pc margin-comfortable">1</td>
+            
+            <td class="text-center party-pc margin-comfortable">3</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+            <td class="text-center party-pc margin-comfortable">2</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-pc margin-close">pc</td>
+            
+            <td class="text-center border-end party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">2</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">1</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">1</td>
+            
+            <td class="text-center party-pc margin-close">0</td>
+            
+            <td class="text-center party-pc margin-close">1</td>
+            
+            <td class="text-center party-pc margin-close">1</td>
+            
+            <td class="text-center party-pc margin-close">1</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-pc margin-very-close">pc</td>
+            
+            <td class="text-center border-end party-pc margin-very-close">1</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">1</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">1</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+            <td class="text-center party-pc margin-very-close">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-ref margin-comfortable">ref</td>
+            
+            <td class="text-center border-end party-ref margin-comfortable">0</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">0</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">3</td>
+            
+            <td class="text-center party-ref margin-comfortable">0</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">2</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">0</td>
+            
+            <td class="text-center party-ref margin-comfortable">0</td>
+            
+            <td class="text-center party-ref margin-comfortable">1</td>
+            
+            <td class="text-center party-ref margin-comfortable">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-ref margin-close">ref</td>
+            
+            <td class="text-center border-end party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">1</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">2</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">1</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">1</td>
+            
+            <td class="text-center party-ref margin-close">0</td>
+            
+            <td class="text-center party-ref margin-close">2</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-ref margin-very-close">ref</td>
+            
+            <td class="text-center border-end party-ref margin-very-close">0</td>
+            
+            <td class="text-center party-ref margin-very-close">4</td>
+            
+            <td class="text-center party-ref margin-very-close">1</td>
+            
+            <td class="text-center party-ref margin-very-close">2</td>
+            
+            <td class="text-center party-ref margin-very-close">2</td>
+            
+            <td class="text-center party-ref margin-very-close">2</td>
+            
+            <td class="text-center party-ref margin-very-close">0</td>
+            
+            <td class="text-center party-ref margin-very-close">0</td>
+            
+            <td class="text-center party-ref margin-very-close">0</td>
+            
+            <td class="text-center party-ref margin-very-close">1</td>
+            
+            <td class="text-center party-ref margin-very-close">0</td>
+            
+            <td class="text-center party-ref margin-very-close">4</td>
+            
+            <td class="text-center party-ref margin-very-close">2</td>
+            
+            <td class="text-center party-ref margin-very-close">1</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-grn margin-comfortable">grn</td>
+            
+            <td class="text-center border-end party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">3</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">0</td>
+            
+            <td class="text-center party-grn margin-comfortable">0</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">0</td>
+            
+            <td class="text-center party-grn margin-comfortable">0</td>
+            
+            <td class="text-center party-grn margin-comfortable">1</td>
+            
+            <td class="text-center party-grn margin-comfortable">2</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-grn margin-close">grn</td>
+            
+            <td class="text-center border-end party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">2</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">1</td>
+            
+            <td class="text-center party-grn margin-close">2</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+            <td class="text-center party-grn margin-close">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-grn margin-very-close">grn</td>
+            
+            <td class="text-center border-end party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">3</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">1</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">1</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+            <td class="text-center party-grn margin-very-close">3</td>
+            
+            <td class="text-center party-grn margin-very-close">2</td>
+            
+            <td class="text-center party-grn margin-very-close">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-oth margin-comfortable">oth</td>
+            
+            <td class="text-center border-end party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+            <td class="text-center party-oth margin-comfortable">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-oth margin-close">oth</td>
+            
+            <td class="text-center border-end party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">1</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+            <td class="text-center party-oth margin-close">0</td>
+            
+        </tr>
+        
+        <tr>
+            <td class="text-centre party-oth margin-very-close">oth</td>
+            
+            <td class="text-center border-end party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">2</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">1</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+            <td class="text-center party-oth margin-very-close">0</td>
+            
+        </tr>
+        
+    </tbody>
+</table>
+
+      </div>
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+      
+  </body>
+</html>

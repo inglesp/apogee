@@ -48,6 +48,10 @@ table#constituencies th:nth-child(n+2) {
 
 <h2>Summary</h2>
 
+<div class="alert alert-primary" role="alert">
+  New: <a href="./breakdown">View a breakdown by margin</a>!
+</div>
+
 <table id="summary" class="table table-sm">
     <thead>
         <tr>
@@ -67,10 +71,11 @@ table#constituencies th:nth-child(n+2) {
         </tr>
     </thead>
     <tbody>
-        {% for row in summary[1:] %}
+        {% for row in summary %}
         <tr>
-            {% for item in row %}
-            <td class="text-center {% if loop.index0 == 1 %}border-end {% endif %}party-{{ row[0] }}">{{ item }}</td>
+            <td class="text-centre party-{{ row['party'] }}">{{ row['party'] }}</td>
+            {% for m in models %}
+            <td class="text-center {% if loop.index0 == 0 %}border-end {% endif %}party-{{ row['party'] }}">{{ row['predictions'][m] }}</td>
             {% endfor %}
         </tr>
         {% endfor %}

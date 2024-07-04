@@ -20,6 +20,20 @@ parties = [
     "ref",
 ]
 
+# This matches the predicted order and was originally computed, but hardcoding for convenience
+ordered_parties = [
+    "lab",
+    "con",
+    "lib",
+    "snp",
+    "pc",
+    "ref",
+    "grn",
+    "oth",
+    "tie",
+    "?",
+]
+
 with open("data/constituencies.csv") as f:
     constituencies = [
         c for c in csv.DictReader(f) if c["code"] != "E14001170"
@@ -114,17 +128,6 @@ def main():
 
 
 def build_predictions():
-    def df_to_list_of_lists(df):
-        df = df.rename(
-            {"code": "", "name": "Constituency", "2019": "2019 (nominal)"}
-            | {k: v["title"] for k, v in model_map.items()},
-            axis=1,
-        )
-        rv = [[""] + list(df.columns)]
-        for ix, row in df.iterrows():
-            rv.append([ix] + list(row))
-        return rv
-
     data = None
 
     for model in models:
@@ -230,23 +233,46 @@ def build_predictions():
                 predictions["majority-winner"][model][code] = "?"
                 predictions["vote-share-winner"][model][code] = "?"
             else:
-                predictions["majority-winner"][model][code] = predictions[f"majority-{winner}"][
-                    model
-                ][code]
-                predictions["vote-share-winner"][model][code] = predictions[f"vote-share-{winner}"][
-                    model
-                ][code]
+                predictions["majority-winner"][model][code] = predictions[
+                    f"majority-{winner}"
+                ][model][code]
+                predictions["vote-share-winner"][model][code] = predictions[
+                    f"vote-share-{winner}"
+                ][model][code]
 
-    summary = (
-        pd.DataFrame(
-            {model: Counter(predictions["winner"][model].values()) for model in models}
+    summary_cols_1 = {
+        model: Counter(f"{predictions['winner'][model][code]}" for code in codes)
+        for model in models
+    }
+
+    summary_cols_2 = {
+        model: Counter(
+            f"{predictions['winner'][model][code]}-{predictions['margin'][model][code]}"
+            for code in codes
         )
-        .fillna(0)
-        .astype(int)
-    )
-    summary["total"] = summary[models].sum(axis=1)
-    summary = summary.sort_values("total", ascending=False)
-    summary = summary[[*models]]
+        for model in models
+    }
+
+    summary_rows_1 = [
+        {
+            "party": party,
+            "predictions": {model: summary_cols_1[model][party] for model in models},
+        }
+        for party in ordered_parties
+    ]
+
+    summary_rows_2 = [
+        {
+            "party": party,
+            "margin": margin,
+            "predictions": {
+                model: summary_cols_2[model][f"{party}-{margin}"] for model in models
+            },
+        }
+        for party in ordered_parties
+        for margin in ["comfortable", "close", "very-close"]
+        if party in parties
+    ]
 
     env = Environment(loader=FileSystemLoader("."))
 
@@ -259,7 +285,7 @@ def build_predictions():
         "codes": sorted(codes, key=lambda c: code_to_name[c]),
         "predictions": predictions,
         "corr_coeff": corr_coeff,
-        "summary": df_to_list_of_lists(summary),
+        "summary": summary_rows_1,
         "json_data": {
             "parties": json.dumps(parties),
             "models": json.dumps(models),
@@ -270,6 +296,16 @@ def build_predictions():
     }
     with open("outputs/index.html", "w") as f:
         f.write(tpl.render(ctx))
+
+    tpl = env.get_template("templates/breakdown.html")
+    ctx = {
+        "models": models,
+        "model_map": model_map,
+        "summary": summary_rows_2,
+    }
+    with open("outputs/breakdown/index.html", "w") as f:
+        f.write(tpl.render(ctx))
+
 
     shutil.copyfile("templates/index.js", "outputs/index.js")
 
