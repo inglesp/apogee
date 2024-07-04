@@ -2,7 +2,7 @@ import csv
 import json
 import shutil
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -299,10 +299,12 @@ def build_predictions():
         if party in parties
     ]
 
+    now = datetime.now(timezone(timedelta(hours=1))).strftime("%Y-%m-%d %H:%M:%S")
     env = Environment(loader=FileSystemLoader("."))
 
     tpl = env.get_template("templates/index.html")
     ctx = {
+        "now": now,
         "models": models,
         "model_map": model_map,
         "parties": parties,
@@ -324,6 +326,7 @@ def build_predictions():
 
     tpl = env.get_template("templates/breakdown.html")
     ctx = {
+        "now": now,
         "models": models,
         "model_map": model_map,
         "summary": summary_rows_2,
@@ -338,7 +341,8 @@ def build_predictions():
         if m not in ["2019", "2024"]
     ]
     rows.sort(key=lambda r: r["score"])
-    ctx = {"rows": rows}
+    ctx = {"now": now, "rows": rows}
+
     with open("outputs/leaderboard/index.html", "w") as f:
         f.write(tpl.render(ctx))
 
@@ -370,6 +374,7 @@ def build_predictions():
         rows.sort(key=lambda r: r[0]["share"], reverse=True)
 
         ctx = {
+            "now": now,
             "name": code_to_name[code],
             "demo_club_code": code_to_demo_club_code[code],
             "models": models,
