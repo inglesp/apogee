@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                         }
                 });
 		sortState['key'] = new URL(window.location).searchParams.get('show') || 'winner';
-		if (sortState['model'] == th.dataset['model']) {
+		if (sortState['heading'] == th.dataset['heading']) {
 			sortState['ascending'] = !sortState['ascending'];
 		}
 		sortState['heading'] = th.dataset['heading'];

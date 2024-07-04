@@ -79,7 +79,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 } else {
                         const party = document.querySelector('input[name="show-party"]:checked').value;
                         key = `${show}-${party}`
-			console.log(key);
                         document.getElementById('show-parties').classList.remove('d-none');
                         if (show == 'vote-share') {
                                rubric.querySelector('#show').textContent = `predicted ${party} vote share for`;
@@ -310,7 +309,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                         }
                 });
 		sortState['key'] = new URL(window.location).searchParams.get('show') || 'winner';
-		if (sortState['model'] == th.dataset['model']) {
+		if (sortState['heading'] == th.dataset['heading']) {
 			sortState['ascending'] = !sortState['ascending'];
 		}
 		sortState['heading'] = th.dataset['heading'];
