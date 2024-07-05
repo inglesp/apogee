@@ -11,7 +11,7 @@ E14001071,Aylesbury,0,0,0,0,0,0,0,0
 E14001072,Banbury,0,0,0,0,0,0,0,0
 E14001073,Barking,0,0,0,0,0,0,0,0
 E14001074,Barnsley North,0.0,0.0,0.0,0.0,0,0,0,0
-E14001075,Barnsley South,0,0,0,0,0,0,0,0
+E14001075,Barnsley South,9.3,4.3,46.7,3.3,3.2,0,0,33.2
 E14001076,Barrow and Furness,0,0,0,0,0,0,0,0
 E14001077,Basildon and Billericay,0,0,0,0,0,0,0,0
 E14001078,Basingstoke,0,0,0,0,0,0,0,0
@@ -155,7 +155,7 @@ E14001216,East Thanet,0,0,0,0,0,0,0,0
 E14001217,East Wiltshire,0,0,0,0,0,0,0,0
 E14001218,East Worthing and Shoreham,0,0,0,0,0,0,0,0
 E14001219,Eastbourne,0,0,0,0,0,0,0,0
-E14001220,Eastleigh,0,0,0,0,0,0,0,0
+E14001220,Eastleigh,31.1,5.2,15.1,34.4,0.9,0,0,13.3
 E14001221,Edmonton and Winchmore Hill,0,0,0,0,0,0,0,0
 E14001222,Ellesmere Port and Bromborough,0,0,0,0,0,0,0,0
 E14001223,Eltham and Chislehurst,0,0,0,0,0,0,0,0
@@ -471,7 +471,7 @@ E14001532,Surrey Heath,0,0,0,0,0,0,0,0
 E14001533,Sussex Weald,0,0,0,0,0,0,0,0
 E14001534,Sutton and Cheam,0,0,0,0,0,0,0,0
 E14001535,Sutton Coldfield,0,0,0,0,0,0,0,0
-E14001536,Swindon North,0,0,0,0,0,0,0,0
+E14001536,Swindon North,31.3,5.4,40.6,4.7,0.9,0,0,17.1
 E14001537,Swindon South,26.9,5.7,48.4,4.1,1.1,0,0,13.8
 E14001538,Tamworth,0,0,0,0,0,0,0,0
 E14001539,Tatton,0,0,0,0,0,0,0,0
@@ -603,7 +603,7 @@ W07000082,Alyn and Deeside,0,0,0,0,0,0,0,0
 W07000083,Bangor Aberconwy,0,0,0,0,0,0,0,0
 W07000084,Blaenau Gwent and Rhymney,0,0,0,0,0,0,0,0
 W07000085,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0,0,0,0
-W07000086,Bridgend,0,0,0,0,0,0,0,0
+W07000086,Bridgend,16.3,4.3,39.9,3.5,8.1,8.8,0,19.1
 W07000087,Caerfyrddin,0,0,0,0,0,0,0,0
 W07000088,Caerphilly,0,0,0,0,0,0,0,0
 W07000089,Cardiff East,0,0,0,0,0,0,0,0
