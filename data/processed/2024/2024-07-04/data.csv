@@ -300,7 +300,7 @@ E14001361,Mid Cheshire,0,0,0,0,0,0,0,0
 E14001362,Mid Derbyshire,0,0,0,0,0,0,0,0
 E14001363,Mid Dorset and North Poole,0,0,0,0,0,0,0,0
 E14001364,Mid Leicestershire,0,0,0,0,0,0,0,0
-E14001365,Mid Norfolk,0,0,0,0,0,0,0,0
+E14001365,Mid Norfolk,36.5,6.2,29.9,6.8,0.1,0,0,20.5
 E14001366,Mid Sussex,0,0,0,0,0,0,0,0
 E14001367,Middlesbrough and Thornaby East,17.9,4.4,47.2,3.0,7.0,0,0,20.5
 E14001368,Middlesbrough South and East Cleveland,0,0,0,0,0,0,0,0
@@ -426,7 +426,7 @@ E14001487,South Holland and the Deepings,0,0,0,0,0,0,0,0
 E14001488,South Leicestershire,0,0,0,0,0,0,0,0
 E14001489,South Norfolk,0,0,0,0,0,0,0,0
 E14001490,South Northamptonshire,0,0,0,0,0,0,0,0
-E14001491,South Ribble,0,0,0,0,0,0,0,0
+E14001491,South Ribble,28.6,3.4,42.5,6.4,-0.2,0,0,19.3
 E14001492,South Shields,11.2,14.8,41.1,3.8,6.1,0,0,23.0
 E14001493,South Shropshire,0,0,0,0,0,0,0,0
 E14001494,South Suffolk,0,0,0,0,0,0,0,0
@@ -600,7 +600,7 @@ S14000105,Stirling and Strathallan,0,0,0,0,0,0,0,0
 S14000106,West Dunbartonshire,3.7,3.8,48.8,2.1,1.0,0,33.6,7.0
 W07000081,Aberafan Maesteg,0,0,0,0,0,0,0,0
 W07000082,Alyn and Deeside,0,0,0,0,0,0,0,0
-W07000083,Bangor Aberconwy,0,0,0,0,0,0,0,0
+W07000083,Bangor Aberconwy,21.7,3.3,33.6,3.7,1.2,21.9,0,14.6
 W07000084,Blaenau Gwent and Rhymney,0,0,0,0,0,0,0,0
 W07000085,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0,0,0,0
 W07000086,Bridgend,16.3,4.3,39.9,3.5,8.1,8.8,0,19.1
