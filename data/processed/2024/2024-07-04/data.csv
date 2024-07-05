@@ -310,7 +310,7 @@ E14001371,Mitcham and Morden,14.0,10.2,55.4,8.0,3.3,0,0,9.1
 E14001372,Morecambe and Lunesdale,0,0,0,0,0,0,0,0
 E14001373,New Forest East,38.5,6.9,19.7,15.9,2.1,0,0,16.9
 E14001374,New Forest West,0,0,0,0,0,0,0,0
-E14001375,Newark,0,0,0,0,0,0,0,0
+E14001375,Newark,39.2,4.4,32.5,5.7,2.7,0,0,15.5
 E14001376,Newbury,0,0,0,0,0,0,0,0
 E14001377,Newcastle upon Tyne Central and West,10.2,7.8,45.6,4.7,12.8,0,0,18.9
 E14001378,Newcastle upon Tyne East and Wallsend,8.3,12.4,50.1,7.0,2.4,0,0,19.8
@@ -343,7 +343,7 @@ E14001404,North West Leicestershire,32.7,5.8,34.7,3.4,3.5,0,0,19.9
 E14001405,North West Norfolk,0,0,0,0,0,0,0,0
 E14001406,Northampton North,0,0,0,0,0,0,0,0
 E14001407,Northampton South,0,0,0,0,0,0,0,0
-E14001408,Norwich North,0,0,0,0,0,0,0,0
+E14001408,Norwich North,21.7,9.6,45.4,4.5,0.8,0,0,18.0
 E14001409,Norwich South,12.9,18.3,47.6,7.9,1.7,0,0,11.6
 E14001410,Nottingham East,10.8,11.9,53.6,4.8,9.1,0,0,9.8
 E14001411,Nottingham North and Kimberley,19.4,9.6,47.1,3.8,0.0,0,0,20.1
@@ -418,7 +418,7 @@ E14001479,Solihull West and Shirley,0,0,0,0,0,0,0,0
 E14001480,South Basildon and East Thurrock,0,0,0,0,0,0,0,0
 E14001481,South Cambridgeshire,27.4,4.8,11.1,46.8,1.0,0,0,8.9
 E14001482,South Cotswolds,0,0,0,0,0,0,0,0
-E14001483,South Derbyshire,0,0,0,0,0,0,0,0
+E14001483,South Derbyshire,29.7,4.2,38.8,4.7,3.0,0,0,19.6
 E14001484,South Devon,0,0,0,0,0,0,0,0
 E14001485,South Dorset,0,0,0,0,0,0,0,0
 E14001486,South East Cornwall,0,0,0,0,0,0,0,0
@@ -577,7 +577,7 @@ S14000082,Edinburgh West,0,0,0,0,0,0,0,0
 S14000083,Falkirk,8.4,4.0,43.0,2.6,2.8,0,31.3,7.9
 S14000084,Glasgow East,0,0,0,0,0,0,0,0
 S14000085,Glasgow North,0,0,0,0,0,0,0,0
-S14000086,Glasgow North East,0,0,0,0,0,0,0,0
+S14000086,Glasgow North East,3.5,7.2,45.9,1.7,2.7,0,32.3,6.7
 S14000087,Glasgow South,0,0,0,0,0,0,0,0
 S14000088,Glasgow South West,0,0,0,0,0,0,0,0
 S14000089,Glasgow West,0,0,0,0,0,0,0,0
