@@ -10,7 +10,7 @@ E14001070,Ashton-under-Lyne,0,0,0,0,0,0,0,0
 E14001071,Aylesbury,0,0,0,0,0,0,0,0
 E14001072,Banbury,0,0,0,0,0,0,0,0
 E14001073,Barking,0,0,0,0,0,0,0,0
-E14001074,Barnsley North,0.0,0.0,0.0,0.0,100.0,0,0,0.0
+E14001074,Barnsley North,0.0,0.0,0.0,0.0,0,0,0,0.0
 E14001075,Barnsley South,0,0,0,0,0,0,0,0
 E14001076,Barrow and Furness,0,0,0,0,0,0,0,0
 E14001077,Basildon and Billericay,0,0,0,0,0,0,0,0
@@ -155,7 +155,7 @@ E14001216,East Thanet,0,0,0,0,0,0,0,0
 E14001217,East Wiltshire,0,0,0,0,0,0,0,0
 E14001218,East Worthing and Shoreham,0,0,0,0,0,0,0,0
 E14001219,Eastbourne,0,0,0,0,0,0,0,0
-E14001220,Eastleigh,0,0,0,0,0,0,0,0
+E14001220,Eastleigh,0.0,0.0,0.0,0.0,100.0,0,0,0.0
 E14001221,Edmonton and Winchmore Hill,0,0,0,0,0,0,0,0
 E14001222,Ellesmere Port and Bromborough,0,0,0,0,0,0,0,0
 E14001223,Eltham and Chislehurst,0,0,0,0,0,0,0,0
@@ -476,7 +476,7 @@ E14001537,Swindon South,26.9,5.7,48.4,4.1,1.1,0,0,13.8
 E14001538,Tamworth,0,0,0,0,0,0,0,0
 E14001539,Tatton,0,0,0,0,0,0,0,0
 E14001540,Taunton and Wellington,0,0,0,0,0,0,0,0
-E14001541,Telford,0,0,0,0,0,0,0,0
+E14001541,Telford,21.4,5.2,44.7,3.8,0.1,0,0,24.8
 E14001542,Tewkesbury,0,0,0,0,0,0,0,0
 E14001543,The Wrekin,0,0,0,0,0,0,0,0
 E14001544,Thirsk and Malton,0,0,0,0,0,0,0,0
