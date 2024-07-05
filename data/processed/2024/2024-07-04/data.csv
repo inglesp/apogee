@@ -64,7 +64,7 @@ E14001124,Brentford and Isleworth,22.5,8.9,44.2,8.5,7.2,0,0,8.7
 E14001125,Brentwood and Ongar,36.7,3.7,22.9,12.0,0.4,0,0,24.3
 E14001126,Bridgwater,30.6,4.3,27.2,14.4,1.3,0,0,22.2
 E14001127,Bridlington and the Wolds,34.6,3.7,27.3,7.2,3.1,0,0,24.1
-E14001128,Brigg and Immingham,0,0,0,0,0,0,0,0
+E14001128,Brigg and Immingham,37.4,4.5,29.8,3.4,0.0,0,0,24.9
 E14001129,Brighton Kemptown and Peacehaven,0,0,0,0,0,0,0,0
 E14001130,Brighton Pavilion,0,0,0,0,0,0,0,0
 E14001131,Bristol Central,4.6,56.6,32.6,2.7,0.4,0,0,3.1
@@ -534,7 +534,7 @@ E14001595,Wolverhampton South East,16.9,4.9,50.3,2.3,2.8,0,0,22.8
 E14001596,Wolverhampton West,26.3,5.8,44.3,3.2,6.5,0,0,13.9
 E14001597,Worcester,25.0,10.4,40.5,8.7,0.8,0,0,14.6
 E14001598,Worsley and Eccles,16.0,7.7,47.7,4.4,2.6,0,0,21.6
-E14001599,Worthing West,0,0,0,0,0,0,0,0
+E14001599,Worthing West,32.5,6.4,40.2,5.3,0.8,0,0,14.8
 E14001600,Wycombe,0,0,0,0,0,0,0,0
 E14001601,Wyre Forest,32.1,5.4,30.3,6.2,4.6,0,0,21.4
 E14001602,Wythenshawe and Sale East,0,0,0,0,0,0,0,0
@@ -579,7 +579,7 @@ S14000084,Glasgow East,4.8,7.7,43.9,2.5,1.2,0,33.2,6.7
 S14000085,Glasgow North,0,0,0,0,0,0,0,0
 S14000086,Glasgow North East,3.5,7.2,45.9,1.7,2.7,0,32.3,6.7
 S14000087,Glasgow South,3.8,13.1,41.8,3.1,2.1,0,32.0,4.1
-S14000088,Glasgow South West,0,0,0,0,0,0,0,0
+S14000088,Glasgow South West,3.9,7.6,43.6,2.7,1.5,0,34.4,6.3
 S14000089,Glasgow West,4.3,9.2,46.7,3.3,0.7,0,30.5,5.3
 S14000090,Glenrothes and Mid Fife,0,0,0,0,0,0,0,0
 S14000091,Gordon and Buchan,0,0,0,0,0,0,0,0
