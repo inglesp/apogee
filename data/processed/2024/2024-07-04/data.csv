@@ -15,7 +15,7 @@ E14001075,Barnsley South,9.3,4.3,46.7,3.3,3.2,0,0,33.2
 E14001076,Barrow and Furness,31.3,3.5,43.9,4.0,0.6,0,0,16.7
 E14001077,Basildon and Billericay,0,0,0,0,0,0,0,0
 E14001078,Basingstoke,0,0,0,0,0,0,0,0
-E14001079,Bassetlaw,0,0,0,0,0,0,0,0
+E14001079,Bassetlaw,28.3,4.3,41.2,4.4,0.1,0,0,21.7
 E14001080,Bath,0,0,0,0,0,0,0,0
 E14001081,Battersea,23.2,9.0,48.8,10.3,2.7,0,0,6.0
 E14001082,Beaconsfield,0,0,0,0,0,0,0,0
@@ -62,7 +62,7 @@ E14001122,Brent East,16.7,9.9,51.2,7.0,9.8,0,0,5.4
 E14001123,Brent West,32.5,6.8,41.7,7.3,6.7,0,0,5.0
 E14001124,Brentford and Isleworth,0,0,0,0,0,0,0,0
 E14001125,Brentwood and Ongar,36.7,3.7,22.9,12.0,0.4,0,0,24.3
-E14001126,Bridgwater,0,0,0,0,0,0,0,0
+E14001126,Bridgwater,30.6,4.3,27.2,14.4,1.3,0,0,22.2
 E14001127,Bridlington and the Wolds,0,0,0,0,0,0,0,0
 E14001128,Brigg and Immingham,0,0,0,0,0,0,0,0
 E14001129,Brighton Kemptown and Peacehaven,0,0,0,0,0,0,0,0
@@ -210,7 +210,7 @@ E14001271,Harrow West,0,0,0,0,0,0,0,0
 E14001272,Hartlepool,21.9,2.3,46.2,1.6,3.5,0,0,24.5
 E14001273,Harwich and North Essex,0,0,0,0,0,0,0,0
 E14001274,Hastings and Rye,0,0,0,0,0,0,0,0
-E14001275,Havant,0,0,0,0,0,0,0,0
+E14001275,Havant,30.8,6.8,30.6,7.8,0.4,0,0,23.6
 E14001276,Hayes and Harlington,0,0,0,0,0,0,0,0
 E14001277,Hazel Grove,19.6,3.8,23.5,37.7,0.3,0,0,15.1
 E14001278,Hemel Hempstead,0,0,0,0,0,0,0,0
@@ -305,7 +305,7 @@ E14001366,Mid Sussex,0,0,0,0,0,0,0,0
 E14001367,Middlesbrough and Thornaby East,17.9,4.4,47.2,3.0,7.0,0,0,20.5
 E14001368,Middlesbrough South and East Cleveland,0,0,0,0,0,0,0,0
 E14001369,Milton Keynes Central,0,0,0,0,0,0,0,0
-E14001370,Milton Keynes North,0,0,0,0,0,0,0,0
+E14001370,Milton Keynes North,30.2,7.1,42.0,7.3,0.0,0,0,13.4
 E14001371,Mitcham and Morden,14.0,10.2,55.4,8.0,3.3,0,0,9.1
 E14001372,Morecambe and Lunesdale,0,0,0,0,0,0,0,0
 E14001373,New Forest East,38.5,6.9,19.7,15.9,2.1,0,0,16.9
@@ -387,7 +387,7 @@ E14001448,Romford,0,0,0,0,0,0,0,0
 E14001449,Romsey and Southampton North,39.8,3.8,9.3,35.4,0.3,0,0,11.4
 E14001450,Rossendale and Darwen,0,0,0,0,0,0,0,0
 E14001451,Rother Valley,36.1,4.1,38.5,2.8,0.0,0,0,18.5
-E14001452,Rotherham,0,0,0,0,0,0,0,0
+E14001452,Rotherham,0,7.1,45.1,7.6,9.9,0,0,30.3
 E14001453,Rugby,30.8,5.2,39.9,6.6,0.7,0,0,16.8
 E14001454,"Ruislip, Northwood and Pinner",0,0,0,0,0,0,0,0
 E14001455,Runcorn and Helsby,16.0,6.4,52.9,5.1,1.5,0,0,18.1
@@ -437,7 +437,7 @@ E14001498,South West Wiltshire,0,0,0,0,0,0,0,0
 E14001499,Southampton Itchen,0,0,0,0,0,0,0,0
 E14001500,Southampton Test,0,0,0,0,0,0,0,0
 E14001501,Southend East and Rochford,28.6,6.9,38.9,5.7,1.7,0,0,18.2
-E14001502,Southend West and Leigh,0,0,0,0,0,0,0,0
+E14001502,Southend West and Leigh,31.5,6.9,35.6,6.8,1.6,0,0,17.6
 E14001503,Southgate and Wood Green,0,0,0,0,0,0,0,0
 E14001504,Southport,25.4,4.8,38.3,13.0,2.1,0,0,16.4
 E14001505,Spelthorne,0,0,0,0,0,0,0,0
