@@ -322,7 +322,7 @@ E14001383,Normanton and Hemsworth,0,0,0,0,0,0,0,0
 E14001384,North Bedfordshire,0,0,0,0,0,0,0,0
 E14001385,North Cornwall,0,0,0,0,0,0,0,0
 E14001386,North Cotswolds,0,0,0,0,0,0,0,0
-E14001387,North Devon,0,0,0,0,0,0,0,0
+E14001387,North Devon,29.3,4.6,6.3,42.4,1.6,0,0,15.8
 E14001388,North Dorset,0,0,0,0,0,0,0,0
 E14001389,North Durham,15.6,5.7,39.8,10.1,3.1,0,0,25.7
 E14001390,North East Cambridgeshire,41.5,5.1,20.4,6.9,3.0,0,0,23.1
@@ -594,7 +594,7 @@ S14000099,"Motherwell, Wishaw and Carluke",0,0,0,0,0,0,0,0
 S14000100,North East Fife,0,0,0,0,0,0,0,0
 S14000101,Paisley and Renfrewshire North,6.4,3.5,47.1,3.3,0.0,0,31.9,7.8
 S14000102,Paisley and Renfrewshire South,5.4,4.2,47.4,3.2,1.0,0,31.6,7.2
-S14000103,Perth and Kinross-shire,0,0,0,0,0,0,0,0
+S14000103,Perth and Kinross-shire,29.6,0,18.0,7.4,1.3,0,37.8,5.9
 S14000104,Rutherglen,5.7,0,50.5,4.0,3.6,0,29.9,6.3
 S14000105,Stirling and Strathallan,0,0,0,0,0,0,0,0
 S14000106,West Dunbartonshire,3.7,3.8,48.8,2.1,1.0,0,33.6,7.0
