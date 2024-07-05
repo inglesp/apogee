@@ -78,7 +78,7 @@ E14001138,Bromsgrove,0,0,0,0,0,0,0,0
 E14001139,Broxbourne,36.8,5.7,30.2,6.3,0.6,0,0,20.4
 E14001140,Broxtowe,23.3,7.3,40.9,8.0,2.9,0,0,17.6
 E14001141,Buckingham and Bletchley,31.9,5.4,36.9,9.0,1.1,0,0,15.7
-E14001142,Burnley,0,0,0,0,0,0,0,0
+E14001142,Burnley,20.3,3.8,31.7,23.1,1.6,0,0,19.5
 E14001143,Burton and Uttoxeter,30.6,4.6,35.6,3.6,4.5,0,0,21.1
 E14001144,Bury North,0,0,0,0,0,0,0,0
 E14001145,Bury South,0,0,0,0,0,0,0,0
@@ -267,10 +267,10 @@ E14001328,Leicester West,19.8,11.6,44.6,6.2,1.8,0,0,16.0
 E14001329,Leigh and Atherton,15.7,4.0,48.5,3.9,1.0,0,0,26.9
 E14001330,Lewes,0,0,0,0,0,0,0,0
 E14001331,Lewisham East,10.8,13.7,58.2,6.1,2.7,0,0,8.5
-E14001332,Lewisham North,0,0,0,0,0,0,0,0
+E14001332,Lewisham North,6.1,21.9,57.7,7.4,2.4,0,0,4.5
 E14001333,Lewisham West and East Dulwich,0,0,0,0,0,0,0,0
 E14001334,Leyton and Wanstead,11.1,15.5,47.5,6.4,13.8,0,0,5.7
-E14001335,Lichfield,0,0,0,0,0,0,0,0
+E14001335,Lichfield,33.4,3.5,35.1,7.3,0.9,0,0,19.8
 E14001336,Lincoln,0,0,0,0,0,0,0,0
 E14001337,Liverpool Garston,0,0,0,0,0,0,0,0
 E14001338,Liverpool Riverside,3.6,16.2,61.9,4.8,3.4,0,0,10.1
@@ -293,7 +293,7 @@ E14001354,Manchester Withington,0,0,0,0,0,0,0,0
 E14001355,Mansfield,0,0,0,0,0,0,0,0
 E14001356,Melksham and Devizes,0,0,0,0,0,0,0,0
 E14001357,Melton and Syston,0,0,0,0,0,0,0,0
-E14001358,Meriden and Solihull East,0,0,0,0,0,0,0,0
+E14001358,Meriden and Solihull East,38.1,6.7,27.7,7.6,0.0,0,0,19.9
 E14001359,Mid Bedfordshire,33.5,5.1,30.9,8.1,5.4,0,0,17.0
 E14001360,Mid Buckinghamshire,0,0,0,0,0,0,0,0
 E14001361,Mid Cheshire,0,0,0,0,0,0,0,0
@@ -528,7 +528,7 @@ E14001589,Wirral West,0,0,0,0,0,0,0,0
 E14001590,Witham,0,0,0,0,0,0,0,0
 E14001591,Witney,0,0,0,0,0,0,0,0
 E14001592,Woking,0,0,0,0,0,0,0,0
-E14001593,Wokingham,0,0,0,0,0,0,0,0
+E14001593,Wokingham,32.2,3.6,6.7,47.7,0.0,0,0,9.8
 E14001594,Wolverhampton North East,0,0,0,0,0,0,0,0
 E14001595,Wolverhampton South East,0,0,0,0,0,0,0,0
 E14001596,Wolverhampton West,0,0,0,0,0,0,0,0
@@ -604,7 +604,7 @@ W07000083,Bangor Aberconwy,21.7,3.3,33.6,3.7,1.2,21.9,0,14.6
 W07000084,Blaenau Gwent and Rhymney,0,0,0,0,0,0,0,0
 W07000085,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0,0,0,0
 W07000086,Bridgend,16.3,4.3,39.9,3.5,8.1,8.8,0,19.1
-W07000087,Caerfyrddin,0,0,0,0,0,0,0,0
+W07000087,Caerfyrddin,19.4,3.0,24.1,3.2,1.1,34.0,0,15.2
 W07000088,Caerphilly,11.5,4.3,38.0,4.7,0.0,21.2,0,20.3
 W07000089,Cardiff East,0,0,0,0,0,0,0,0
 W07000090,Cardiff North,0,0,0,0,0,0,0,0
@@ -620,7 +620,7 @@ W07000099,Merthyr Tydfil and Aberdare,0,0,0,0,0,0,0,0
 W07000100,Mid and South Pembrokeshire,0,0,0,0,0,0,0,0
 W07000101,Monmouthshire,0,0,0,0,0,0,0,0
 W07000102,Montgomeryshire and Glyndwr,0,0,0,0,0,0,0,0
-W07000103,Neath and Swansea East,0,0,0,0,0,0,0,0
+W07000103,Neath and Swansea East,9.4,4.3,41.8,5.8,0.1,13.3,0,25.3
 W07000104,Newport East,16.8,5.4,42.5,5.3,5.1,5.8,0,19.1
 W07000105,Newport West and Islwyn,16.0,5.0,41.5,5.0,3.7,8.4,0,20.4
 W07000106,Pontypridd,9.6,4.7,41.2,4.1,7.1,13.4,0,19.9
