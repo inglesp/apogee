@@ -371,7 +371,10 @@ def build_predictions():
                     item["class"] = f"party-{item['party']}"
         rows = list(zip(*cols))
         rows = [r for r in rows if not set(i["share"] for i in r) <= {0, "?"}]
-        rows.sort(key=lambda r: r[0]["share"], reverse=True)
+        if rows[0][1]["share"] == "?":
+            rows.sort(key=lambda r: r[0]["share"], reverse=True)
+        else:
+            rows.sort(key=lambda r: r[1]["share"], reverse=True)
 
         ctx = {
             "now": now,
