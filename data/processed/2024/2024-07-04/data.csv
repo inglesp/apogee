@@ -94,7 +94,7 @@ E14001154,Castle Point,0,0,0,0,0,0,0,0
 E14001155,Central Devon,0,0,0,0,0,0,0,0
 E14001156,Central Suffolk and North Ipswich,0,0,0,0,0,0,0,0
 E14001157,Chatham and Aylesford,0,0,0,0,0,0,0,0
-E14001158,Cheadle,0,0,0,0,0,0,0,0
+E14001158,Cheadle,22.6,3.2,15.6,46.7,1.8,0,0,10.1
 E14001159,Chelmsford,30.5,3.1,12.0,39.9,1.2,0,0,13.3
 E14001160,Chelsea and Fulham,0,0,0,0,0,0,0,0
 E14001161,Cheltenham,36.1,6.4,5.4,50.6,1.5,0,0,0
@@ -151,7 +151,7 @@ E14001212,East Grinstead and Uckfield,0,0,0,0,0,0,0,0
 E14001213,East Ham,0,0,0,0,0,0,0,0
 E14001214,East Hampshire,0,0,0,0,0,0,0,0
 E14001215,East Surrey,0,0,0,0,0,0,0,0
-E14001216,East Thanet,0,0,0,0,0,0,0,0
+E14001216,East Thanet,23.6,10.7,39.9,3.2,2.5,0,0,20.1
 E14001217,East Wiltshire,0,0,0,0,0,0,0,0
 E14001218,East Worthing and Shoreham,0,0,0,0,0,0,0,0
 E14001219,Eastbourne,25.3,3.1,5.9,52.1,0.3,0,0,13.3
@@ -499,7 +499,7 @@ E14001560,Wakefield and Rothwell,0,0,0,0,0,0,0,0
 E14001561,Wallasey,0,0,0,0,0,0,0,0
 E14001562,Walsall and Bloxwich,0,0,0,0,0,0,0,0
 E14001563,Walthamstow,5.1,20.0,59.3,3.8,7.8,0,0,4.0
-E14001564,Warrington North,0,0,0,0,0,0,0,0
+E14001564,Warrington North,16.2,4.7,46.8,6.8,1.7,0,0,23.8
 E14001565,Warrington South,0,0,0,0,0,0,0,0
 E14001566,Warwick and Leamington,0,0,0,0,0,0,0,0
 E14001567,Washington and Gateshead South,12.6,4.6,47.8,4.3,1.6,0,0,29.1
