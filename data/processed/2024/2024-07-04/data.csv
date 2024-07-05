@@ -16,7 +16,7 @@ E14001076,Barrow and Furness,31.3,3.5,43.9,4.0,0.6,0,0,16.7
 E14001077,Basildon and Billericay,30.6,5.0,30.6,5.4,1.4,0,0,27.0
 E14001078,Basingstoke,0,0,0,0,0,0,0,0
 E14001079,Bassetlaw,28.3,4.3,41.2,4.4,0.1,0,0,21.7
-E14001080,Bath,0,0,0,0,0,0,0,0
+E14001080,Bath,15.9,12.4,18.0,41.3,4.5,0,0,7.9
 E14001081,Battersea,23.2,9.0,48.8,10.3,2.7,0,0,6.0
 E14001082,Beaconsfield,0,0,0,0,0,0,0,0
 E14001083,Beckenham and Penge,24.6,7.3,49.3,8.5,0.0,0,0,10.3
@@ -563,7 +563,7 @@ S14000068,Bathgate and Linlithgow,0,0,0,0,0,0,0,0
 S14000069,"Caithness, Sutherland and Easter Ross",0,0,0,0,0,0,0,0
 S14000070,Coatbridge and Bellshill,3.6,3.2,49.8,1.7,1.6,0,33.4,6.7
 S14000071,Cowdenbeath and Kirkcaldy,0,0,0,0,0,0,0,0
-S14000072,Cumbernauld and Kirkintilloch,0,0,0,0,0,0,0,0
+S14000072,Cumbernauld and Kirkintilloch,4.7,4.1,45.2,3.2,0.0,0,35.1,7.7
 S14000073,Dumfries and Galloway,0,0,0,0,0,0,0,0
 S14000074,"Dumfriesshire, Clydesdale and Tweeddale",0,0,0,0,0,0,0,0
 S14000075,Dundee Central,4.0,0,38.3,6.2,5.4,0,40.0,6.1
@@ -578,7 +578,7 @@ S14000083,Falkirk,8.4,4.0,43.0,2.6,2.8,0,31.3,7.9
 S14000084,Glasgow East,4.8,7.7,43.9,2.5,1.2,0,33.2,6.7
 S14000085,Glasgow North,0,0,0,0,0,0,0,0
 S14000086,Glasgow North East,3.5,7.2,45.9,1.7,2.7,0,32.3,6.7
-S14000087,Glasgow South,0,0,0,0,0,0,0,0
+S14000087,Glasgow South,3.8,13.1,41.8,3.1,2.1,0,32.0,4.1
 S14000088,Glasgow South West,0,0,0,0,0,0,0,0
 S14000089,Glasgow West,0,0,0,0,0,0,0,0
 S14000090,Glenrothes and Mid Fife,0,0,0,0,0,0,0,0
@@ -616,7 +616,7 @@ W07000095,Clwyd North,32.7,3.3,35.5,4.0,0.1,7.6,0,16.8
 W07000096,Dwyfor Meirionnydd,0,0,0,0,0,0,0,0
 W07000097,Gower,18.9,5.3,43.4,5.5,0.5,8.3,0,18.1
 W07000098,Llanelli,10.5,2.7,31.3,3.1,1.5,23.3,0,27.6
-W07000099,Merthyr Tydfil and Aberdare,0,0,0,0,0,0,0,0
+W07000099,Merthyr Tydfil and Aberdare,7.6,3.5,44.8,3.6,3.3,13.5,0,23.7
 W07000100,Mid and South Pembrokeshire,31.4,3.5,35.4,5.1,1.4,6.4,0,16.8
 W07000101,Monmouthshire,0,0,0,0,0,0,0,0
 W07000102,Montgomeryshire and Glyndwr,0,0,0,0,0,0,0,0
