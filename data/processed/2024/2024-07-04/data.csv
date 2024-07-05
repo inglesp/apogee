@@ -200,7 +200,7 @@ E14001261,Halesowen,0,0,0,0,0,0,0,0
 E14001262,Halifax,0,0,0,0,0,0,0,0
 E14001263,Hamble Valley,0,0,0,0,0,0,0,0
 E14001264,Hammersmith and Chiswick,0,0,0,0,0,0,0,0
-E14001265,Hampstead and Highgate,0,0,0,0,0,0,0,0
+E14001265,Hampstead and Highgate,17.4,13.7,48.3,12.7,1.8,0,0,6.1
 E14001266,"Harborough, Oadby and Wigston",0,0,0,0,0,0,0,0
 E14001267,Harlow,31.8,5.2,37.6,3.1,0.5,0,0,21.8
 E14001268,Harpenden and Berkhamsted,0,0,0,0,0,0,0,0
@@ -412,7 +412,7 @@ E14001473,Shrewsbury,0,0,0,0,0,0,0,0
 E14001474,Sittingbourne and Sheppey,0,0,0,0,0,0,0,0
 E14001475,Skipton and Ripon,0,0,0,0,0,0,0,0
 E14001476,Sleaford and North Hykeham,0,0,0,0,0,0,0,0
-E14001477,Slough,0,0,0,0,0,0,0,0
+E14001477,Slough,17.2,4.3,33.9,4.8,32.1,0,0,7.7
 E14001478,Smethwick,12.9,7.8,48.0,2.9,12.3,0,0,16.1
 E14001479,Solihull West and Shirley,0,0,0,0,0,0,0,0
 E14001480,South Basildon and East Thurrock,0,0,0,0,0,0,0,0
@@ -436,7 +436,7 @@ E14001497,South West Norfolk,0,0,0,0,0,0,0,0
 E14001498,South West Wiltshire,0,0,0,0,0,0,0,0
 E14001499,Southampton Itchen,0,0,0,0,0,0,0,0
 E14001500,Southampton Test,0,0,0,0,0,0,0,0
-E14001501,Southend East and Rochford,0,0,0,0,0,0,0,0
+E14001501,Southend East and Rochford,28.6,6.9,38.9,5.7,1.7,0,0,18.2
 E14001502,Southend West and Leigh,0,0,0,0,0,0,0,0
 E14001503,Southgate and Wood Green,0,0,0,0,0,0,0,0
 E14001504,Southport,25.4,4.8,38.3,13.0,2.1,0,0,16.4
@@ -552,7 +552,7 @@ S14000048,North Ayrshire and Arran,0,0,0,0,0,0,0,0
 S14000051,Orkney and Shetland,0,0,0,0,0,0,0,0
 S14000058,West Aberdeenshire and Kincardine,0,0,0,0,0,0,0,0
 S14000060,Aberdeen North,14.0,3.0,30.3,6.1,3.1,0,34.5,9.0
-S14000061,Aberdeen South,0,0,0,0,0,0,0,0
+S14000061,Aberdeen South,24.4,3.5,24.7,6.3,1.4,0,32.8,6.9
 S14000062,Aberdeenshire North and Moray East,0,0,0,0,0,0,0,0
 S14000063,Airdrie and Shotts,0,0,0,0,0,0,0,0
 S14000064,Alloa and Grangemouth,0,0,0,0,0,0,0,0
