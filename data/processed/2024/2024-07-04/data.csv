@@ -89,7 +89,7 @@ E14001149,Cambridge,0,0,0,0,0,0,0,0
 E14001150,Cannock Chase,28.4,5.0,36.9,2.4,0.0,0,0,27.3
 E14001151,Canterbury,0,0,0,0,0,0,0,0
 E14001152,Carlisle,0,0,0,0,0,0,0,0
-E14001153,Carshalton and Wallington,0,0,0,0,0,0,0,0
+E14001153,Carshalton and Wallington,26.2,3.3,13.1,43.1,1.6,0,0,12.7
 E14001154,Castle Point,0,0,0,0,0,0,0,0
 E14001155,Central Devon,0,0,0,0,0,0,0,0
 E14001156,Central Suffolk and North Ipswich,0,0,0,0,0,0,0,0
@@ -266,7 +266,7 @@ E14001327,Leicester South,0,0,0,0,0,0,0,0
 E14001328,Leicester West,19.8,11.6,44.6,6.2,1.8,0,0,16.0
 E14001329,Leigh and Atherton,15.7,4.0,48.5,3.9,1.0,0,0,26.9
 E14001330,Lewes,0,0,0,0,0,0,0,0
-E14001331,Lewisham East,0,0,0,0,0,0,0,0
+E14001331,Lewisham East,10.8,13.7,58.2,6.1,2.7,0,0,8.5
 E14001332,Lewisham North,0,0,0,0,0,0,0,0
 E14001333,Lewisham West and East Dulwich,0,0,0,0,0,0,0,0
 E14001334,Leyton and Wanstead,11.1,15.5,47.5,6.4,13.8,0,0,5.7
@@ -413,7 +413,7 @@ E14001474,Sittingbourne and Sheppey,0,0,0,0,0,0,0,0
 E14001475,Skipton and Ripon,0,0,0,0,0,0,0,0
 E14001476,Sleaford and North Hykeham,0,0,0,0,0,0,0,0
 E14001477,Slough,0,0,0,0,0,0,0,0
-E14001478,Smethwick,0,0,0,0,0,0,0,0
+E14001478,Smethwick,12.9,7.8,48.0,2.9,12.3,0,0,16.1
 E14001479,Solihull West and Shirley,0,0,0,0,0,0,0,0
 E14001480,South Basildon and East Thurrock,0,0,0,0,0,0,0,0
 E14001481,South Cambridgeshire,0,0,0,0,0,0,0,0
@@ -605,7 +605,7 @@ W07000084,Blaenau Gwent and Rhymney,0,0,0,0,0,0,0,0
 W07000085,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0,0,0,0
 W07000086,Bridgend,16.3,4.3,39.9,3.5,8.1,8.8,0,19.1
 W07000087,Caerfyrddin,0,0,0,0,0,0,0,0
-W07000088,Caerphilly,0,0,0,0,0,0,0,0
+W07000088,Caerphilly,11.5,4.3,38.0,4.7,0.0,21.2,0,20.3
 W07000089,Cardiff East,0,0,0,0,0,0,0,0
 W07000090,Cardiff North,0,0,0,0,0,0,0,0
 W07000091,Cardiff South and Penarth,0,0,0,0,0,0,0,0
