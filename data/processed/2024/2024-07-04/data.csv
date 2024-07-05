@@ -327,7 +327,7 @@ E14001388,North Dorset,0,0,0,0,0,0,0,0
 E14001389,North Durham,15.6,5.7,39.8,10.1,3.1,0,0,25.7
 E14001390,North East Cambridgeshire,41.5,5.1,20.4,6.9,3.0,0,0,23.1
 E14001391,North East Derbyshire,0,0,0,0,0,0,0,0
-E14001392,North East Hampshire,0,0,0,0,0,0,0,0
+E14001392,North East Hampshire,37.0,2.6,9.1,38.1,1.2,0,0,12.0
 E14001393,North East Hertfordshire,0,0,0,0,0,0,0,0
 E14001394,North East Somerset and Hanham,0,0,0,0,0,0,0,0
 E14001395,North Herefordshire,0,0,0,0,0,0,0,0
@@ -456,7 +456,7 @@ E14001517,Stockport,11.4,11.1,49.9,8.5,4.2,0,0,14.9
 E14001518,Stockton North,21.5,5.1,45.8,3.0,0.0,0,0,24.6
 E14001519,Stockton West,0,0,0,0,0,0,0,0
 E14001520,Stoke-on-Trent Central,0,0,0,0,0,0,0,0
-E14001521,Stoke-on-Trent North,0,0,0,0,0,0,0,0
+E14001521,Stoke-on-Trent North,26.3,3.4,40.3,2.5,3.1,0,0,24.4
 E14001522,Stoke-on-Trent South,0,0,0,0,0,0,0,0
 E14001523,"Stone, Great Wyrley and Penkridge",0,0,0,0,0,0,0,0
 E14001524,Stourbridge,0,0,0,0,0,0,0,0
@@ -548,7 +548,7 @@ S14000021,East Renfrewshire,16.9,3.0,43.7,2.3,2.5,0,26.9,4.7
 S14000027,Na h-Eileanan an Iar,0,0,0,0,0,0,0,0
 S14000040,Kilmarnock and Loudoun,8.3,2.9,44.9,2.0,0.9,0,32.8,8.2
 S14000045,Midlothian,7.4,0,48.6,5.9,0.6,0,30.1,7.4
-S14000048,North Ayrshire and Arran,0,0,0,0,0,0,0,0
+S14000048,North Ayrshire and Arran,14.1,3.1,39.8,2.4,1.1,0,31.4,8.1
 S14000051,Orkney and Shetland,0,0,0,0,0,0,0,0
 S14000058,West Aberdeenshire and Kincardine,0,0,0,0,0,0,0,0
 S14000060,Aberdeen North,14.0,3.0,30.3,6.1,3.1,0,34.5,9.0
