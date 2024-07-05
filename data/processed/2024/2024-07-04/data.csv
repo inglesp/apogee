@@ -51,7 +51,7 @@ E14001111,Bolton South and Walkden,11.3,7.7,40.9,3.7,13.8,0,0,22.6
 E14001112,Bolton West,27.8,9.3,38.9,4.4,0.5,0,0,19.1
 E14001113,Bootle,4.3,10.0,68.7,3.3,1.5,0,0,12.2
 E14001114,Boston and Skegness,33.4,3.7,18.9,3.4,2.2,0,0,38.4
-E14001115,Bournemouth East,0,0,0,0,0,0,0,0
+E14001115,Bournemouth East,28.6,6.2,40.8,6.9,3.5,0,0,14.0
 E14001116,Bournemouth West,0,0,0,0,0,0,0,0
 E14001117,Bracknell,31.9,4.9,33.7,10.9,1.6,0,0,17.0
 E14001118,Bradford East,0,0,0,0,0,0,0,0
@@ -198,7 +198,7 @@ E14001259,Hackney North and Stoke Newington,8.4,22.6,59.5,3.8,2.6,0,0,3.1
 E14001260,Hackney South and Shoreditch,5.0,23.9,59.3,4.8,3.2,0,0,3.8
 E14001261,Halesowen,0,0,0,0,0,0,0,0
 E14001262,Halifax,0,0,0,0,0,0,0,0
-E14001263,Hamble Valley,0,0,0,0,0,0,0,0
+E14001263,Hamble Valley,36.4,4.3,16.2,27.5,0.4,0,0,15.2
 E14001264,Hammersmith and Chiswick,0,0,0,0,0,0,0,0
 E14001265,Hampstead and Highgate,17.4,13.7,48.3,12.7,1.8,0,0,6.1
 E14001266,"Harborough, Oadby and Wigston",36.9,8.5,32.2,9.4,0.4,0,0,12.6
@@ -291,11 +291,11 @@ E14001352,Manchester Central,7.1,16.1,50.8,7.7,6.3,0,0,12.0
 E14001353,Manchester Rusholme,0,0,0,0,0,0,0,0
 E14001354,Manchester Withington,5.5,19.4,52.9,13.0,4.5,0,0,4.7
 E14001355,Mansfield,30.6,3.2,39.1,1.9,2.4,0,0,22.8
-E14001356,Melksham and Devizes,0,0,0,0,0,0,0,0
+E14001356,Melksham and Devizes,33.9,4.3,8.8,40.0,0.1,0,0,12.9
 E14001357,Melton and Syston,0,0,0,0,0,0,0,0
 E14001358,Meriden and Solihull East,38.1,6.7,27.7,7.6,0.0,0,0,19.9
 E14001359,Mid Bedfordshire,33.5,5.1,30.9,8.1,5.4,0,0,17.0
-E14001360,Mid Buckinghamshire,0,0,0,0,0,0,0,0
+E14001360,Mid Buckinghamshire,37.3,5.5,17.0,26.5,0.9,0,0,12.8
 E14001361,Mid Cheshire,23.0,4.7,44.5,5.9,2.7,0,0,19.2
 E14001362,Mid Derbyshire,0,0,0,0,0,0,0,0
 E14001363,Mid Dorset and North Poole,0,0,0,0,0,0,0,0
@@ -419,7 +419,7 @@ E14001480,South Basildon and East Thurrock,0,0,0,0,0,0,0,0
 E14001481,South Cambridgeshire,27.4,4.8,11.1,46.8,1.0,0,0,8.9
 E14001482,South Cotswolds,0,0,0,0,0,0,0,0
 E14001483,South Derbyshire,29.7,4.2,38.8,4.7,3.0,0,0,19.6
-E14001484,South Devon,0,0,0,0,0,0,0,0
+E14001484,South Devon,31.5,3.1,6.3,46.0,0.1,0,0,13.0
 E14001485,South Dorset,29.8,4.4,31.9,16.3,0.9,0,0,16.7
 E14001486,South East Cornwall,0,0,0,0,0,0,0,0
 E14001487,South Holland and the Deepings,38.0,3.9,19.8,4.2,11.0,0,0,23.1
