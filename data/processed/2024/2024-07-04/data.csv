@@ -12,7 +12,7 @@ E14001072,Banbury,0,0,0,0,0,0,0,0
 E14001073,Barking,0,0,0,0,0,0,0,0
 E14001074,Barnsley North,0.0,0.0,0.0,0.0,0,0,0,0
 E14001075,Barnsley South,9.3,4.3,46.7,3.3,3.2,0,0,33.2
-E14001076,Barrow and Furness,0,0,0,0,0,0,0,0
+E14001076,Barrow and Furness,31.3,3.5,43.9,4.0,0.6,0,0,16.7
 E14001077,Basildon and Billericay,0,0,0,0,0,0,0,0
 E14001078,Basingstoke,0,0,0,0,0,0,0,0
 E14001079,Bassetlaw,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ E14001097,Birmingham Northfield,0,0,0,0,0,0,0,0
 E14001098,Birmingham Perry Barr,0,0,0,0,0,0,0,0
 E14001099,Birmingham Selly Oak,0,0,0,0,0,0,0,0
 E14001100,Birmingham Yardley,0,0,0,0,0,0,0,0
-E14001101,Bishop Auckland,0,0,0,0,0,0,0,0
+E14001101,Bishop Auckland,25.6,4.6,42.1,3.4,0.9,0,0,23.4
 E14001102,Blackburn,0,0,0,0,0,0,0,0
 E14001103,Blackley and Middleton South,0,0,0,0,0,0,0,0
 E14001104,Blackpool North and Fleetwood,0,0,0,0,0,0,0,0
@@ -146,7 +146,7 @@ E14001207,Ealing Central and Acton,17.5,11.4,46.8,12.7,5.1,0,0,6.5
 E14001208,Ealing North,0,0,0,0,0,0,0,0
 E14001209,Ealing Southall,0,0,0,0,0,0,0,0
 E14001210,Earley and Woodley,0,0,0,0,0,0,0,0
-E14001211,Easington,0,0,0,0,0,0,0,0
+E14001211,Easington,10.9,3.4,48.9,2.4,4.6,0,0,29.8
 E14001212,East Grinstead and Uckfield,0,0,0,0,0,0,0,0
 E14001213,East Ham,0,0,0,0,0,0,0,0
 E14001214,East Hampshire,0,0,0,0,0,0,0,0
@@ -451,7 +451,7 @@ E14001512,St Neots and Mid Cambridgeshire,0,0,0,0,0,0,0,0
 E14001513,Stafford,0,0,0,0,0,0,0,0
 E14001514,Staffordshire Moorlands,0,0,0,0,0,0,0,0
 E14001515,Stalybridge and Hyde,0,0,0,0,0,0,0,0
-E14001516,Stevenage,0,0,0,0,0,0,0,0
+E14001516,Stevenage,25.9,6.2,41.4,8.1,0.5,0,0,17.9
 E14001517,Stockport,0,0,0,0,0,0,0,0
 E14001518,Stockton North,0,0,0,0,0,0,0,0
 E14001519,Stockton West,0,0,0,0,0,0,0,0
