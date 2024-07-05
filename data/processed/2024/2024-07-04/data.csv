@@ -49,7 +49,7 @@ E14001109,Bolsover,0,0,0,0,0,0,0,0
 E14001110,Bolton North East,0,0,0,0,0,0,0,0
 E14001111,Bolton South and Walkden,0,0,0,0,0,0,0,0
 E14001112,Bolton West,0,0,0,0,0,0,0,0
-E14001113,Bootle,0,0,0,0,0,0,0,0
+E14001113,Bootle,4.3,10.0,68.7,3.3,1.5,0,0,12.2
 E14001114,Boston and Skegness,0,0,0,0,0,0,0,0
 E14001115,Bournemouth East,0,0,0,0,0,0,0,0
 E14001116,Bournemouth West,0,0,0,0,0,0,0,0
@@ -163,7 +163,7 @@ E14001224,Ely and East Cambridgeshire,0,0,0,0,0,0,0,0
 E14001225,Enfield North,0,0,0,0,0,0,0,0
 E14001226,Epping Forest,0,0,0,0,0,0,0,0
 E14001227,Epsom and Ewell,0,0,0,0,0,0,0,0
-E14001228,Erewash,0,0,0,0,0,0,0,0
+E14001228,Erewash,26.4,5.8,40.1,5.6,0.8,0,0,21.3
 E14001229,Erith and Thamesmead,0,0,0,0,0,0,0,0
 E14001230,Esher and Walton,0,0,0,0,0,0,0,0
 E14001231,Exeter,0,0,0,0,0,0,0,0
@@ -381,7 +381,7 @@ E14001442,Reigate,0,0,0,0,0,0,0,0
 E14001443,Ribble Valley,0,0,0,0,0,0,0,0
 E14001444,Richmond and Northallerton,0,0,0,0,0,0,0,0
 E14001445,Richmond Park,0,0,0,0,0,0,0,0
-E14001446,Rochdale,0,0,0,0,0,0,0,0
+E14001446,Rochdale,10.8,3.1,32.8,7.1,29.1,0,0,17.1
 E14001447,Rochester and Strood,0,0,0,0,0,0,0,0
 E14001448,Romford,0,0,0,0,0,0,0,0
 E14001449,Romsey and Southampton North,0,0,0,0,0,0,0,0
@@ -482,7 +482,7 @@ E14001543,The Wrekin,0,0,0,0,0,0,0,0
 E14001544,Thirsk and Malton,0,0,0,0,0,0,0,0
 E14001545,Thornbury and Yate,0,0,0,0,0,0,0,0
 E14001546,Thurrock,0,0,0,0,0,0,0,0
-E14001547,Tipton and Wednesbury,0,0,0,0,0,0,0,0
+E14001547,Tipton and Wednesbury,26.3,4.7,36.9,1.9,5.0,0,0,25.2
 E14001548,Tiverton and Minehead,0,0,0,0,0,0,0,0
 E14001549,Tonbridge,0,0,0,0,0,0,0,0
 E14001550,Tooting,0,0,0,0,0,0,0,0
@@ -518,7 +518,7 @@ E14001579,West Worcestershire,0,0,0,0,0,0,0,0
 E14001580,Westmorland and Lonsdale,0,0,0,0,0,0,0,0
 E14001581,Weston-super-Mare,0,0,0,0,0,0,0,0
 E14001582,Wetherby and Easingwold,0,0,0,0,0,0,0,0
-E14001583,Whitehaven and Workington,0,0,0,0,0,0,0,0
+E14001583,Whitehaven and Workington,20.2,2.9,53.0,2.7,0.0,0,0,21.2
 E14001584,Widnes and Halewood,9.2,5.4,61.6,4.2,1.1,0,0,18.5
 E14001585,Wigan,0,0,0,0,0,0,0,0
 E14001586,Wimbledon,0,0,0,0,0,0,0,0
@@ -628,5 +628,5 @@ W07000107,Rhondda and Ogmore,0,0,0,0,0,0,0,0
 W07000108,Swansea West,9.9,6.5,41.4,12.2,1.0,11.5,0,17.5
 W07000109,Torfaen,0,0,0,0,0,0,0,0
 W07000110,Vale of Glamorgan,29.5,4.1,38.7,3.5,1.9,7.1,0,15.2
-W07000111,Wrexham,0,0,0,0,0,0,0,0
+W07000111,Wrexham,24.5,3.3,39.2,4.4,1.3,10.2,0,17.1
 W07000112,Ynys Môn,0,0,0,0,0,0,0,0
