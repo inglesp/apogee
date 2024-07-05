@@ -247,7 +247,7 @@ E14001308,Keighley and Ilkley,0,0,0,0,0,0,0,0
 E14001309,Kenilworth and Southam,0,0,0,0,0,0,0,0
 E14001310,Kensington and Bayswater,0,0,0,0,0,0,0,0
 E14001311,Kettering,0,0,0,0,0,0,0,0
-E14001312,Kingston and Surbiton,0,0,0,0,0,0,0,0
+E14001312,Kingston and Surbiton,17.0,5.9,13.0,51.1,3.6,0,0,9.4
 E14001313,Kingston upon Hull East,0,0,0,0,0,0,0,0
 E14001314,Kingston upon Hull North and Cottingham,0,0,0,0,0,0,0,0
 E14001315,Kingston upon Hull West and Haltemprice,0,0,0,0,0,0,0,0
@@ -546,7 +546,7 @@ S14000008,"Berwickshire, Roxburgh and Selkirk",0,0,0,0,0,0,0,0
 S14000010,Central Ayrshire,0,0,0,0,0,0,0,0
 S14000021,East Renfrewshire,0,0,0,0,0,0,0,0
 S14000027,Na h-Eileanan an Iar,0,0,0,0,0,0,0,0
-S14000040,Kilmarnock and Loudoun,0,0,0,0,0,0,0,0
+S14000040,Kilmarnock and Loudoun,8.3,2.9,44.9,2.0,0.9,0,32.8,8.2
 S14000045,Midlothian,0,0,0,0,0,0,0,0
 S14000048,North Ayrshire and Arran,0,0,0,0,0,0,0,0
 S14000051,Orkney and Shetland,0,0,0,0,0,0,0,0
