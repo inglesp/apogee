@@ -189,7 +189,7 @@ E14001250,Goole and Pocklington,0,0,0,0,0,0,0,0
 E14001251,Gorton and Denton,0,0,0,0,0,0,0,0
 E14001252,Gosport,40.3,4.4,26.6,9.1,1.6,0,0,18.0
 E14001253,Grantham and Bourne,36.4,5.6,26.6,4.4,6.6,0,0,20.4
-E14001254,Gravesham,0,0,0,0,0,0,0,0
+E14001254,Gravesham,32.2,5.2,38.5,3.5,0.0,0,0,20.6
 E14001255,Great Grimsby and Cleethorpes,0,0,0,0,0,0,0,0
 E14001256,Great Yarmouth,0,0,0,0,0,0,0,0
 E14001257,Greenwich and Woolwich,0,0,0,0,0,0,0,0
@@ -386,9 +386,9 @@ E14001447,Rochester and Strood,0,0,0,0,0,0,0,0
 E14001448,Romford,0,0,0,0,0,0,0,0
 E14001449,Romsey and Southampton North,0,0,0,0,0,0,0,0
 E14001450,Rossendale and Darwen,0,0,0,0,0,0,0,0
-E14001451,Rother Valley,0,0,0,0,0,0,0,0
+E14001451,Rother Valley,36.1,4.1,38.5,2.8,0.0,0,0,18.5
 E14001452,Rotherham,0,0,0,0,0,0,0,0
-E14001453,Rugby,0,0,0,0,0,0,0,0
+E14001453,Rugby,30.8,5.2,39.9,6.6,0.7,0,0,16.8
 E14001454,"Ruislip, Northwood and Pinner",0,0,0,0,0,0,0,0
 E14001455,Runcorn and Helsby,16.0,6.4,52.9,5.1,1.5,0,0,18.1
 E14001456,Runnymede and Weybridge,0,0,0,0,0,0,0,0
@@ -452,7 +452,7 @@ E14001513,Stafford,0,0,0,0,0,0,0,0
 E14001514,Staffordshire Moorlands,0,0,0,0,0,0,0,0
 E14001515,Stalybridge and Hyde,18.5,7.4,43.8,2.9,6.5,0,0,20.9
 E14001516,Stevenage,25.9,6.2,41.4,8.1,0.5,0,0,17.9
-E14001517,Stockport,0,0,0,0,0,0,0,0
+E14001517,Stockport,11.4,11.1,49.9,8.5,4.2,0,0,14.9
 E14001518,Stockton North,0,0,0,0,0,0,0,0
 E14001519,Stockton West,0,0,0,0,0,0,0,0
 E14001520,Stoke-on-Trent Central,0,0,0,0,0,0,0,0
@@ -547,7 +547,7 @@ S14000010,Central Ayrshire,0,0,0,0,0,0,0,0
 S14000021,East Renfrewshire,16.9,3.0,43.7,2.3,2.5,0,26.9,4.7
 S14000027,Na h-Eileanan an Iar,0,0,0,0,0,0,0,0
 S14000040,Kilmarnock and Loudoun,8.3,2.9,44.9,2.0,0.9,0,32.8,8.2
-S14000045,Midlothian,0,0,0,0,0,0,0,0
+S14000045,Midlothian,7.4,0,48.6,5.9,0.6,0,30.1,7.4
 S14000048,North Ayrshire and Arran,0,0,0,0,0,0,0,0
 S14000051,Orkney and Shetland,0,0,0,0,0,0,0,0
 S14000058,West Aberdeenshire and Kincardine,0,0,0,0,0,0,0,0
