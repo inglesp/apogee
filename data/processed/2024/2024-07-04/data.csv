@@ -174,7 +174,7 @@ E14001235,Faversham and Mid Kent,0,0,0,0,0,0,0,0
 E14001236,Feltham and Heston,0,0,0,0,0,0,0,0
 E14001237,Filton and Bradley Stoke,0,0,0,0,0,0,0,0
 E14001238,Finchley and Golders Green,0,0,0,0,0,0,0,0
-E14001239,Folkestone and Hythe,0,0,0,0,0,0,0,0
+E14001239,Folkestone and Hythe,26.1,9.1,34.7,4.0,1.4,0,0,24.7
 E14001240,Forest of Dean,0,0,0,0,0,0,0,0
 E14001241,Frome and East Somerset,0,0,0,0,0,0,0,0
 E14001242,Fylde,0,0,0,0,0,0,0,0
@@ -624,7 +624,7 @@ W07000103,Neath and Swansea East,0,0,0,0,0,0,0,0
 W07000104,Newport East,0,0,0,0,0,0,0,0
 W07000105,Newport West and Islwyn,0,0,0,0,0,0,0,0
 W07000106,Pontypridd,9.6,4.7,41.2,4.1,7.1,13.4,0,19.9
-W07000107,Rhondda and Ogmore,0,0,0,0,0,0,0,0
+W07000107,Rhondda and Ogmore,5.7,3.3,47.8,2.6,0.0,14.5,0,26.1
 W07000108,Swansea West,9.9,6.5,41.4,12.2,1.0,11.5,0,17.5
 W07000109,Torfaen,16.1,4.8,42.5,4.6,2.8,7.2,0,22.0
 W07000110,Vale of Glamorgan,29.5,4.1,38.7,3.5,1.9,7.1,0,15.2
