@@ -47,7 +47,7 @@ E14001107,Blyth and Ashington,15.2,4.9,49.6,3.5,0,0,0,26.9
 E14001108,Bognor Regis and Littlehampton,0,0,0,0,0,0,0,0
 E14001109,Bolsover,25.6,8.8,40.5,3.5,0.1,0,0,21.5
 E14001110,Bolton North East,0,0,0,0,0,0,0,0
-E14001111,Bolton South and Walkden,0,0,0,0,0,0,0,0
+E14001111,Bolton South and Walkden,11.3,7.7,40.9,3.7,13.8,0,0,22.6
 E14001112,Bolton West,0,0,0,0,0,0,0,0
 E14001113,Bootle,4.3,10.0,68.7,3.3,1.5,0,0,12.2
 E14001114,Boston and Skegness,0,0,0,0,0,0,0,0
@@ -79,7 +79,7 @@ E14001139,Broxbourne,36.8,5.7,30.2,6.3,0.6,0,0,20.4
 E14001140,Broxtowe,23.3,7.3,40.9,8.0,2.9,0,0,17.6
 E14001141,Buckingham and Bletchley,0,0,0,0,0,0,0,0
 E14001142,Burnley,0,0,0,0,0,0,0,0
-E14001143,Burton and Uttoxeter,0,0,0,0,0,0,0,0
+E14001143,Burton and Uttoxeter,30.6,4.6,35.6,3.6,4.5,0,0,21.1
 E14001144,Bury North,0,0,0,0,0,0,0,0
 E14001145,Bury South,0,0,0,0,0,0,0,0
 E14001146,Bury St Edmunds and Stowmarket,0,0,0,0,0,0,0,0
@@ -144,7 +144,7 @@ E14001205,Dulwich and West Norwood,0,0,0,0,0,0,0,0
 E14001206,Dunstable and Leighton Buzzard,0,0,0,0,0,0,0,0
 E14001207,Ealing Central and Acton,17.5,11.4,46.8,12.7,5.1,0,0,6.5
 E14001208,Ealing North,18.8,9.4,47.8,5.9,9.0,0,0,9.1
-E14001209,Ealing Southall,0,0,0,0,0,0,0,0
+E14001209,Ealing Southall,15.4,9.3,49.1,6.0,14.7,0,0,5.5
 E14001210,Earley and Woodley,0,0,0,0,0,0,0,0
 E14001211,Easington,10.9,3.4,48.9,2.4,4.6,0,0,29.8
 E14001212,East Grinstead and Uckfield,0,0,0,0,0,0,0,0
@@ -273,7 +273,7 @@ E14001334,Leyton and Wanstead,11.1,15.5,47.5,6.4,13.8,0,0,5.7
 E14001335,Lichfield,0,0,0,0,0,0,0,0
 E14001336,Lincoln,0,0,0,0,0,0,0,0
 E14001337,Liverpool Garston,0,0,0,0,0,0,0,0
-E14001338,Liverpool Riverside,0,0,0,0,0,0,0,0
+E14001338,Liverpool Riverside,3.6,16.2,61.9,4.8,3.4,0,0,10.1
 E14001339,Liverpool Walton,3.5,6.5,70.6,2.6,1.1,0,0,15.7
 E14001340,Liverpool Wavertree,0,0,0,0,0,0,0,0
 E14001341,Liverpool West Derby,0,0,0,0,0,0,0,0
@@ -380,7 +380,7 @@ E14001441,Redditch,0,0,0,0,0,0,0,0
 E14001442,Reigate,0,0,0,0,0,0,0,0
 E14001443,Ribble Valley,0,0,0,0,0,0,0,0
 E14001444,Richmond and Northallerton,0,0,0,0,0,0,0,0
-E14001445,Richmond Park,0,0,0,0,0,0,0,0
+E14001445,Richmond Park,22.1,5.3,9.8,55.4,1.1,0,0,6.3
 E14001446,Rochdale,10.8,3.1,32.8,7.1,29.1,0,0,17.1
 E14001447,Rochester and Strood,0,0,0,0,0,0,0,0
 E14001448,Romford,0,0,0,0,0,0,0,0
