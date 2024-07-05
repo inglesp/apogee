@@ -370,7 +370,7 @@ E14001431,Portsmouth North,33.0,4.5,34.8,7.3,0.0,0,0,20.4
 E14001432,Portsmouth South,14.5,8.0,48.4,12.6,1.9,0,0,14.6
 E14001433,Preston,13.0,4.4,35.0,8.0,25.3,0,0,14.3
 E14001434,Putney,23.4,7.4,49.0,12.1,1.8,0,0,6.3
-E14001435,Queen's Park and Maida Vale,0,0,0,0,0,0,0,0
+E14001435,Queen's Park and Maida Vale,13.3,13.6,52.5,8.9,6.2,0,0,5.5
 E14001436,Rawmarsh and Conisbrough,13.3,5.0,49.0,3.4,0.7,0,0,28.6
 E14001437,Rayleigh and Wickford,37.0,4.6,24.6,8.5,0.0,0,0,25.3
 E14001438,Reading Central,19.8,14.2,47.7,8.8,0.9,0,0,8.6
@@ -407,7 +407,7 @@ E14001468,Sheffield Hallam,12.0,8.7,46.3,30.4,2.6,0,0,0
 E14001469,Sheffield Heeley,13.6,15.4,55.2,10.0,5.8,0,0,0
 E14001470,Sheffield South East,17.5,8.8,52.3,9.6,11.8,0,0,0
 E14001471,Sherwood Forest,27.5,4.6,38.7,3.8,2.1,0,0,23.3
-E14001472,Shipley,0,0,0,0,0,0,0,0
+E14001472,Shipley,27.2,7.5,45.0,2.8,2.5,0,0,15.0
 E14001473,Shrewsbury,22.5,4.6,44.5,13.0,0.8,0,0,14.6
 E14001474,Sittingbourne and Sheppey,0,0,0,0,0,0,0,0
 E14001475,Skipton and Ripon,0,0,0,0,0,0,0,0
@@ -560,7 +560,7 @@ S14000065,Angus and Perthshire Glens,0,0,0,0,0,0,0,0
 S14000066,Arbroath and Broughty Ferry,15.5,0,33.4,5.1,2.1,0,35.3,8.6
 S14000067,"Argyll, Bute and South Lochaber",0,0,0,0,0,0,0,0
 S14000068,Bathgate and Linlithgow,7.5,3.3,47.0,5.2,1.4,0,27.2,8.4
-S14000069,"Caithness, Sutherland and Easter Ross",0,0,0,0,0,0,0,0
+S14000069,"Caithness, Sutherland and Easter Ross",4.0,3.6,7.4,49.4,1.7,0,26.6,7.3
 S14000070,Coatbridge and Bellshill,3.6,3.2,49.8,1.7,1.6,0,33.4,6.7
 S14000071,Cowdenbeath and Kirkcaldy,7.8,3.8,45.7,3.9,3.1,0,28.0,7.7
 S14000072,Cumbernauld and Kirkintilloch,4.7,4.1,45.2,3.2,0.0,0,35.1,7.7
