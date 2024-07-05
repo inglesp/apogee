@@ -31,7 +31,7 @@ E14001091,Birkenhead,7.5,20.1,52.1,5.3,0.8,0,0,14.2
 E14001092,Birmingham Edgbaston,0,0,0,0,0,0,0,0
 E14001093,Birmingham Erdington,0,0,0,0,0,0,0,0
 E14001094,Birmingham Hall Green and Moseley,0,0,0,0,0,0,0,0
-E14001095,Birmingham Hodge Hill and Solihull North,0,0,0,0,0,0,0,0
+E14001095,Birmingham Hodge Hill and Solihull North,13.6,6.9,31.2,2.8,26.6,0,0,18.9
 E14001096,Birmingham Ladywood,0,0,0,0,0,0,0,0
 E14001097,Birmingham Northfield,0,0,0,0,0,0,0,0
 E14001098,Birmingham Perry Barr,0,0,0,0,0,0,0,0
@@ -84,7 +84,7 @@ E14001144,Bury North,27.9,3.8,43.1,2.9,6.1,0,0,16.2
 E14001145,Bury South,23.4,6.4,45.6,4.3,4.0,0,0,16.3
 E14001146,Bury St Edmunds and Stowmarket,0,0,0,0,0,0,0,0
 E14001147,Calder Valley,0,0,0,0,0,0,0,0
-E14001148,Camborne and Redruth,0,0,0,0,0,0,0,0
+E14001148,Camborne and Redruth,24.2,5.9,40.5,8.6,2.1,0,0,18.7
 E14001149,Cambridge,12.0,16.3,46.6,20.3,4.8,0,0,0
 E14001150,Cannock Chase,28.4,5.0,36.9,2.4,0.0,0,0,27.3
 E14001151,Canterbury,23.0,12.5,41.4,8.1,0.6,0,0,14.4
@@ -286,7 +286,7 @@ E14001347,Macclesfield,0,0,0,0,0,0,0,0
 E14001348,Maidenhead,0,0,0,0,0,0,0,0
 E14001349,Maidstone and Malling,0,0,0,0,0,0,0,0
 E14001350,Makerfield,10.9,4.4,45.2,6.8,0.9,0,0,31.8
-E14001351,Maldon,0,0,0,0,0,0,0,0
+E14001351,Maldon,38.9,4.6,19.7,11.8,0.0,0,0,25.0
 E14001352,Manchester Central,7.1,16.1,50.8,7.7,6.3,0,0,12.0
 E14001353,Manchester Rusholme,0,0,0,0,0,0,0,0
 E14001354,Manchester Withington,5.5,19.4,52.9,13.0,4.5,0,0,4.7
@@ -433,7 +433,7 @@ E14001494,South Suffolk,0,0,0,0,0,0,0,0
 E14001495,South West Devon,0,0,0,0,0,0,0,0
 E14001496,South West Hertfordshire,0,0,0,0,0,0,0,0
 E14001497,South West Norfolk,0,0,0,0,0,0,0,0
-E14001498,South West Wiltshire,0,0,0,0,0,0,0,0
+E14001498,South West Wiltshire,33.8,4.9,26.8,15.6,1.9,0,0,17.0
 E14001499,Southampton Itchen,25.4,7.3,41.5,7.1,0.7,0,0,18.0
 E14001500,Southampton Test,18.5,10.0,44.5,9.1,3.2,0,0,14.7
 E14001501,Southend East and Rochford,28.6,6.9,38.9,5.7,1.7,0,0,18.2
