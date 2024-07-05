@@ -439,7 +439,7 @@ E14001500,Southampton Test,0,0,0,0,0,0,0,0
 E14001501,Southend East and Rochford,0,0,0,0,0,0,0,0
 E14001502,Southend West and Leigh,0,0,0,0,0,0,0,0
 E14001503,Southgate and Wood Green,0,0,0,0,0,0,0,0
-E14001504,Southport,0,0,0,0,0,0,0,0
+E14001504,Southport,25.4,4.8,38.3,13.0,2.1,0,0,16.4
 E14001505,Spelthorne,0,0,0,0,0,0,0,0
 E14001506,Spen Valley,0,0,0,0,0,0,0,0
 E14001507,St Albans,0,0,0,0,0,0,0,0
@@ -597,7 +597,7 @@ S14000102,Paisley and Renfrewshire South,0,0,0,0,0,0,0,0
 S14000103,Perth and Kinross-shire,0,0,0,0,0,0,0,0
 S14000104,Rutherglen,0,0,0,0,0,0,0,0
 S14000105,Stirling and Strathallan,0,0,0,0,0,0,0,0
-S14000106,West Dunbartonshire,0,0,0,0,0,0,0,0
+S14000106,West Dunbartonshire,3.7,3.8,48.8,2.1,1.0,0,33.6,7.0
 W07000081,Aberafan Maesteg,0,0,0,0,0,0,0,0
 W07000082,Alyn and Deeside,0,0,0,0,0,0,0,0
 W07000083,Bangor Aberconwy,0,0,0,0,0,0,0,0
