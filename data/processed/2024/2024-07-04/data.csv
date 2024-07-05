@@ -71,7 +71,7 @@ E14001131,Bristol Central,0,0,0,0,0,0,0,0
 E14001132,Bristol East,0,0,0,0,0,0,0,0
 E14001133,Bristol North East,0,0,0,0,0,0,0,0
 E14001134,Bristol North West,0,0,0,0,0,0,0,0
-E14001135,Bristol South,0,0,0,0,0,0,0,0
+E14001135,Bristol South,11.4,25.0,42.7,6.3,0.3,0,0,14.3
 E14001136,Broadland and Fakenham,0,0,0,0,0,0,0,0
 E14001137,Bromley and Biggin Hill,0,0,0,0,0,0,0,0
 E14001138,Bromsgrove,0,0,0,0,0,0,0,0
@@ -88,7 +88,7 @@ E14001148,Camborne and Redruth,0,0,0,0,0,0,0,0
 E14001149,Cambridge,12.0,16.3,46.6,20.3,4.8,0,0,0
 E14001150,Cannock Chase,28.4,5.0,36.9,2.4,0.0,0,0,27.3
 E14001151,Canterbury,0,0,0,0,0,0,0,0
-E14001152,Carlisle,0,0,0,0,0,0,0,0
+E14001152,Carlisle,28.1,4.2,39.4,6.5,1.6,0,0,20.2
 E14001153,Carshalton and Wallington,26.2,3.3,13.1,43.1,1.6,0,0,12.7
 E14001154,Castle Point,0,0,0,0,0,0,0,0
 E14001155,Central Devon,0,0,0,0,0,0,0,0
@@ -191,7 +191,7 @@ E14001252,Gosport,40.3,4.4,26.6,9.1,1.6,0,0,18.0
 E14001253,Grantham and Bourne,36.4,5.6,26.6,4.4,6.6,0,0,20.4
 E14001254,Gravesham,32.2,5.2,38.5,3.5,0.0,0,0,20.6
 E14001255,Great Grimsby and Cleethorpes,0,0,0,0,0,0,0,0
-E14001256,Great Yarmouth,0,0,0,0,0,0,0,0
+E14001256,Great Yarmouth,24.6,4.3,31.8,2.7,1.3,0,0,35.3
 E14001257,Greenwich and Woolwich,0,0,0,0,0,0,0,0
 E14001258,Guildford,0,0,0,0,0,0,0,0
 E14001259,Hackney North and Stoke Newington,0,0,0,0,0,0,0,0
@@ -219,10 +219,10 @@ E14001280,Henley and Thame,0,0,0,0,0,0,0,0
 E14001281,Hereford and South Herefordshire,0,0,0,0,0,0,0,0
 E14001282,Herne Bay and Sandwich,0,0,0,0,0,0,0,0
 E14001283,Hertford and Stortford,0,0,0,0,0,0,0,0
-E14001284,Hertsmere,0,0,0,0,0,0,0,0
+E14001284,Hertsmere,44.7,4.7,28.0,7.7,1.2,0,0,13.7
 E14001285,Hexham,39.1,4.8,46.3,4.6,5.2,0,0,0
 E14001286,Heywood and Middleton North,17.3,0,40.6,6.2,11.7,0,0,24.2
-E14001287,High Peak,0,0,0,0,0,0,0,0
+E14001287,High Peak,29.7,6.9,45.8,3.5,0.0,0,0,14.1
 E14001288,Hinckley and Bosworth,35.6,3.2,18.0,24.3,0.5,0,0,18.4
 E14001289,Hitchin,0,0,0,0,0,0,0,0
 E14001290,Holborn and St Pancras,7.2,10.4,48.9,5.8,21.6,0,0,6.1
@@ -234,7 +234,7 @@ E14001295,Houghton and Sunderland South,13.8,4.3,47.1,5.7,0,0,0,29.1
 E14001296,Hove and Portslade,0,0,0,0,0,0,0,0
 E14001297,Huddersfield,0,0,0,0,0,0,0,0
 E14001298,Huntingdon,35.1,5.8,32.2,9.3,2.2,0,0,15.4
-E14001299,Hyndburn,0,0,0,0,0,0,0,0
+E14001299,Hyndburn,28.9,13.6,33.5,3.3,0.0,0,0,20.7
 E14001300,Ilford North,0,0,0,0,0,0,0,0
 E14001301,Ilford South,0,0,0,0,0,0,0,0
 E14001302,Ipswich,26.5,8.3,43.3,5.1,0.9,0,0,15.9
