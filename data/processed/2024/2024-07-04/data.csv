@@ -9,7 +9,7 @@ E14001069,Ashford,0,0,0,0,0,0,0,0
 E14001070,Ashton-under-Lyne,12.3,7.0,43.9,4.0,8.0,0,0,24.8
 E14001071,Aylesbury,0,0,0,0,0,0,0,0
 E14001072,Banbury,0,0,0,0,0,0,0,0
-E14001073,Barking,0,0,0,0,0,0,0,0
+E14001073,Barking,11.8,13.7,44.5,2.8,13.0,0,0,14.2
 E14001074,Barnsley North,0.0,0.0,0.0,0.0,0,0,0,0
 E14001075,Barnsley South,9.3,4.3,46.7,3.3,3.2,0,0,33.2
 E14001076,Barrow and Furness,31.3,3.5,43.9,4.0,0.6,0,0,16.7
@@ -254,7 +254,7 @@ E14001315,Kingston upon Hull West and Haltemprice,0,0,0,0,0,0,0,0
 E14001316,Kingswinford and South Staffordshire,0,0,0,0,0,0,0,0
 E14001317,Knowsley,4.2,7.7,67.3,3.4,1.0,0,0,16.4
 E14001318,Lancaster and Wyre,0,0,0,0,0,0,0,0
-E14001319,Leeds Central and Headingley,0,0,0,0,0,0,0,0
+E14001319,Leeds Central and Headingley,7.1,23.5,50.2,8.3,3.3,0,0,7.6
 E14001320,Leeds East,0,0,0,0,0,0,0,0
 E14001321,Leeds North East,0,0,0,0,0,0,0,0
 E14001322,Leeds North West,0,0,0,0,0,0,0,0
@@ -290,7 +290,7 @@ E14001351,Maldon,0,0,0,0,0,0,0,0
 E14001352,Manchester Central,7.1,16.1,50.8,7.7,6.3,0,0,12.0
 E14001353,Manchester Rusholme,0,0,0,0,0,0,0,0
 E14001354,Manchester Withington,0,0,0,0,0,0,0,0
-E14001355,Mansfield,0,0,0,0,0,0,0,0
+E14001355,Mansfield,30.6,3.2,39.1,1.9,2.4,0,0,22.8
 E14001356,Melksham and Devizes,0,0,0,0,0,0,0,0
 E14001357,Melton and Syston,0,0,0,0,0,0,0,0
 E14001358,Meriden and Solihull East,38.1,6.7,27.7,7.6,0.0,0,0,19.9
@@ -507,7 +507,7 @@ E14001568,Watford,24.7,5.5,35.3,17.0,6.4,0,0,11.1
 E14001569,Waveney Valley,0,0,0,0,0,0,0,0
 E14001570,Weald of Kent,0,0,0,0,0,0,0,0
 E14001571,Wellingborough and Rushden,0,0,0,0,0,0,0,0
-E14001572,Wells and Mendip Hills,0,0,0,0,0,0,0,0
+E14001572,Wells and Mendip Hills,24.8,4.1,7.0,46.9,4.1,0,0,13.1
 E14001573,Welwyn Hatfield,33.2,6.2,41.0,6.4,0.0,0,0,13.2
 E14001574,West Bromwich,20.1,5.6,46.2,3.6,5.0,0,0,19.5
 E14001575,West Dorset,0,0,0,0,0,0,0,0
