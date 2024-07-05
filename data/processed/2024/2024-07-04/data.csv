@@ -72,7 +72,7 @@ E14001132,Bristol East,14.0,30.7,45.0,5.9,4.4,0,0,0
 E14001133,Bristol North East,14.8,18.7,45.3,4.7,3.6,0,0,12.9
 E14001134,Bristol North West,14.0,17.2,49.7,8.6,0.5,0,0,10.0
 E14001135,Bristol South,11.4,25.0,42.7,6.3,0.3,0,0,14.3
-E14001136,Broadland and Fakenham,0,0,0,0,0,0,0,0
+E14001136,Broadland and Fakenham,33.0,6.5,31.5,11.2,-0.1,0,0,17.9
 E14001137,Bromley and Biggin Hill,0,0,0,0,0,0,0,0
 E14001138,Bromsgrove,32.8,3.3,26.8,14.7,3.4,0,0,19.0
 E14001139,Broxbourne,36.8,5.7,30.2,6.3,0.6,0,0,20.4
@@ -367,7 +367,7 @@ E14001428,"Pontefract, Castleford and Knottingley",15.0,4.6,47.5,3.4,0.4,0,0,29.
 E14001429,Poole,0,0,0,0,0,0,0,0
 E14001430,Poplar and Limehouse,11.0,13.9,43.1,9.7,14.4,0,0,7.9
 E14001431,Portsmouth North,33.0,4.5,34.8,7.3,0.0,0,0,20.4
-E14001432,Portsmouth South,0,0,0,0,0,0,0,0
+E14001432,Portsmouth South,14.5,8.0,48.4,12.6,1.9,0,0,14.6
 E14001433,Preston,0,0,0,0,0,0,0,0
 E14001434,Putney,23.4,7.4,49.0,12.1,1.8,0,0,6.3
 E14001435,Queen's Park and Maida Vale,0,0,0,0,0,0,0,0
@@ -454,7 +454,7 @@ E14001515,Stalybridge and Hyde,18.5,7.4,43.8,2.9,6.5,0,0,20.9
 E14001516,Stevenage,25.9,6.2,41.4,8.1,0.5,0,0,17.9
 E14001517,Stockport,11.4,11.1,49.9,8.5,4.2,0,0,14.9
 E14001518,Stockton North,21.5,5.1,45.8,3.0,0.0,0,0,24.6
-E14001519,Stockton West,0,0,0,0,0,0,0,0
+E14001519,Stockton West,41.9,3.0,37.5,2.5,1.1,0,0,14.0
 E14001520,Stoke-on-Trent Central,0,0,0,0,0,0,0,0
 E14001521,Stoke-on-Trent North,26.3,3.4,40.3,2.5,3.1,0,0,24.4
 E14001522,Stoke-on-Trent South,0,0,0,0,0,0,0,0
@@ -501,7 +501,7 @@ E14001562,Walsall and Bloxwich,18.0,6.2,33.6,2.2,20.4,0,0,19.6
 E14001563,Walthamstow,5.1,20.0,59.3,3.8,7.8,0,0,4.0
 E14001564,Warrington North,16.2,4.7,46.8,6.8,1.7,0,0,23.8
 E14001565,Warrington South,23.9,4.7,46.7,7.7,1.1,0,0,15.9
-E14001566,Warwick and Leamington,0,0,0,0,0,0,0,0
+E14001566,Warwick and Leamington,23.5,9.1,48.7,7.9,0.3,0,0,10.5
 E14001567,Washington and Gateshead South,12.6,4.6,47.8,4.3,1.6,0,0,29.1
 E14001568,Watford,24.7,5.5,35.3,17.0,6.4,0,0,11.1
 E14001569,Waveney Valley,0,0,0,0,0,0,0,0
@@ -559,7 +559,7 @@ S14000064,Alloa and Grangemouth,7.6,3.4,43.8,2.8,4.3,0,28.9,9.2
 S14000065,Angus and Perthshire Glens,0,0,0,0,0,0,0,0
 S14000066,Arbroath and Broughty Ferry,0,0,0,0,0,0,0,0
 S14000067,"Argyll, Bute and South Lochaber",0,0,0,0,0,0,0,0
-S14000068,Bathgate and Linlithgow,0,0,0,0,0,0,0,0
+S14000068,Bathgate and Linlithgow,7.5,3.3,47.0,5.2,1.4,0,27.2,8.4
 S14000069,"Caithness, Sutherland and Easter Ross",0,0,0,0,0,0,0,0
 S14000070,Coatbridge and Bellshill,3.6,3.2,49.8,1.7,1.6,0,33.4,6.7
 S14000071,Cowdenbeath and Kirkcaldy,0,0,0,0,0,0,0,0
