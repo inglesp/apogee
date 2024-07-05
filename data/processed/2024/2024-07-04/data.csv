@@ -402,7 +402,7 @@ E14001463,Sefton Central,17.9,6.9,56.4,5.5,1.1,0,0,12.2
 E14001464,Selby,0,0,0,0,0,0,0,0
 E14001465,Sevenoaks,0,0,0,0,0,0,0,0
 E14001466,Sheffield Brightside and Hillsborough,0,0,0,0,0,0,0,0
-E14001467,Sheffield Central,0,0,0,0,0,0,0,0
+E14001467,Sheffield Central,7.4,26.0,52.1,6.8,7.7,0,0,0
 E14001468,Sheffield Hallam,0,0,0,0,0,0,0,0
 E14001469,Sheffield Heeley,0,0,0,0,0,0,0,0
 E14001470,Sheffield South East,0,0,0,0,0,0,0,0
@@ -573,7 +573,7 @@ S14000078,Edinburgh East and Musselburgh,0,0,0,0,0,0,0,0
 S14000079,Edinburgh North and Leith,0,0,0,0,0,0,0,0
 S14000080,Edinburgh South,0,0,0,0,0,0,0,0
 S14000081,Edinburgh South West,0,0,0,0,0,0,0,0
-S14000082,Edinburgh West,0,0,0,0,0,0,0,0
+S14000082,Edinburgh West,5.5,4.0,15.0,50.8,1.1,0,19.4,4.2
 S14000083,Falkirk,8.4,4.0,43.0,2.6,2.8,0,31.3,7.9
 S14000084,Glasgow East,0,0,0,0,0,0,0,0
 S14000085,Glasgow North,0,0,0,0,0,0,0,0
@@ -596,7 +596,7 @@ S14000101,Paisley and Renfrewshire North,6.4,3.5,47.1,3.3,0.0,0,31.9,7.8
 S14000102,Paisley and Renfrewshire South,5.4,4.2,47.4,3.2,1.0,0,31.6,7.2
 S14000103,Perth and Kinross-shire,29.6,0,18.0,7.4,1.3,0,37.8,5.9
 S14000104,Rutherglen,5.7,0,50.5,4.0,3.6,0,29.9,6.3
-S14000105,Stirling and Strathallan,0,0,0,0,0,0,0,0
+S14000105,Stirling and Strathallan,19.0,4.7,33.9,5.1,-0.1,0,31.1,6.3
 S14000106,West Dunbartonshire,3.7,3.8,48.8,2.1,1.0,0,33.6,7.0
 W07000081,Aberafan Maesteg,8.1,3.1,49.9,2.6,2.2,13.2,0,20.9
 W07000082,Alyn and Deeside,18.2,4.4,42.4,4.8,3.6,4.5,0,22.1
