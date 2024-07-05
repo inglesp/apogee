@@ -309,7 +309,7 @@ E14001370,Milton Keynes North,30.2,7.1,42.0,7.3,0.0,0,0,13.4
 E14001371,Mitcham and Morden,14.0,10.2,55.4,8.0,3.3,0,0,9.1
 E14001372,Morecambe and Lunesdale,0,0,0,0,0,0,0,0
 E14001373,New Forest East,38.5,6.9,19.7,15.9,2.1,0,0,16.9
-E14001374,New Forest West,0,0,0,0,0,0,0,0
+E14001374,New Forest West,35.4,6.0,23.3,17.7,1.2,0,0,16.4
 E14001375,Newark,39.2,4.4,32.5,5.7,2.7,0,0,15.5
 E14001376,Newbury,0,0,0,0,0,0,0,0
 E14001377,Newcastle upon Tyne Central and West,10.2,7.8,45.6,4.7,12.8,0,0,18.9
@@ -601,7 +601,7 @@ S14000106,West Dunbartonshire,3.7,3.8,48.8,2.1,1.0,0,33.6,7.0
 W07000081,Aberafan Maesteg,8.1,3.1,49.9,2.6,2.2,13.2,0,20.9
 W07000082,Alyn and Deeside,18.2,4.4,42.4,4.8,3.6,4.5,0,22.1
 W07000083,Bangor Aberconwy,21.7,3.3,33.6,3.7,1.2,21.9,0,14.6
-W07000084,Blaenau Gwent and Rhymney,0,0,0,0,0,0,0,0
+W07000084,Blaenau Gwent and Rhymney,12.6,5.7,53.6,4.2,11.1,12.8,0,0
 W07000085,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0,0,0,0
 W07000086,Bridgend,16.3,4.3,39.9,3.5,8.1,8.8,0,19.1
 W07000087,Caerfyrddin,19.4,3.0,24.1,3.2,1.1,34.0,0,15.2
