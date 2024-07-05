@@ -59,7 +59,7 @@ E14001119,Bradford South,0,0,0,0,0,0,0,0
 E14001120,Bradford West,0,0,0,0,0,0,0,0
 E14001121,Braintree,0,0,0,0,0,0,0,0
 E14001122,Brent East,16.7,9.9,51.2,7.0,9.8,0,0,5.4
-E14001123,Brent West,0,0,0,0,0,0,0,0
+E14001123,Brent West,32.5,6.8,41.7,7.3,6.7,0,0,5.0
 E14001124,Brentford and Isleworth,0,0,0,0,0,0,0,0
 E14001125,Brentwood and Ongar,36.7,3.7,22.9,12.0,0.4,0,0,24.3
 E14001126,Bridgwater,0,0,0,0,0,0,0,0
@@ -160,7 +160,7 @@ E14001221,Edmonton and Winchmore Hill,0,0,0,0,0,0,0,0
 E14001222,Ellesmere Port and Bromborough,0,0,0,0,0,0,0,0
 E14001223,Eltham and Chislehurst,0,0,0,0,0,0,0,0
 E14001224,Ely and East Cambridgeshire,0,0,0,0,0,0,0,0
-E14001225,Enfield North,0,0,0,0,0,0,0,0
+E14001225,Enfield North,19.8,8.5,49.1,5.8,5.0,0,0,11.8
 E14001226,Epping Forest,43.2,6.0,29.6,12.6,8.6,0,0,0
 E14001227,Epsom and Ewell,0,0,0,0,0,0,0,0
 E14001228,Erewash,26.4,5.8,40.1,5.6,0.8,0,0,21.3
@@ -450,7 +450,7 @@ E14001511,St Ives,0,0,0,0,0,0,0,0
 E14001512,St Neots and Mid Cambridgeshire,0,0,0,0,0,0,0,0
 E14001513,Stafford,0,0,0,0,0,0,0,0
 E14001514,Staffordshire Moorlands,0,0,0,0,0,0,0,0
-E14001515,Stalybridge and Hyde,0,0,0,0,0,0,0,0
+E14001515,Stalybridge and Hyde,18.5,7.4,43.8,2.9,6.5,0,0,20.9
 E14001516,Stevenage,25.9,6.2,41.4,8.1,0.5,0,0,17.9
 E14001517,Stockport,0,0,0,0,0,0,0,0
 E14001518,Stockton North,0,0,0,0,0,0,0,0
@@ -544,7 +544,7 @@ E14001605,York Outer,0,0,0,0,0,0,0,0
 S14000006,"Ayr, Carrick and Cumnock",0,0,0,0,0,0,0,0
 S14000008,"Berwickshire, Roxburgh and Selkirk",0,0,0,0,0,0,0,0
 S14000010,Central Ayrshire,0,0,0,0,0,0,0,0
-S14000021,East Renfrewshire,0,0,0,0,0,0,0,0
+S14000021,East Renfrewshire,16.9,3.0,43.7,2.3,2.5,0,26.9,4.7
 S14000027,Na h-Eileanan an Iar,0,0,0,0,0,0,0,0
 S14000040,Kilmarnock and Loudoun,8.3,2.9,44.9,2.0,0.9,0,32.8,8.2
 S14000045,Midlothian,0,0,0,0,0,0,0,0
