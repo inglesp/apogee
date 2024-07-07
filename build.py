@@ -20,16 +20,16 @@ parties = [
     "ref",
 ]
 
-# This matches the predicted order and was originally computed, but hardcoding for convenience
+# I should be calculating this but I'm doing it by hand
 ordered_parties = [
     "lab",
     "con",
     "lib",
     "snp",
-    "pc",
-    "ref",
-    "grn",
     "oth",
+    "ref",
+    "pc",
+    "grn",
     "tie",
     "?",
 ]
