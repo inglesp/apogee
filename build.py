@@ -53,6 +53,10 @@ model_map = {
         "title": "2024",
         "url": "TODO",
     },
+    "exitpoll": {
+        "title": "Exit Poll",
+        "url": "https://www.bbc.co.uk/news/articles/c4nglegege1o"
+    },
     "britainpredicts": {
         "title": "Britain Predicts",
         "full_title": "Britain Predicts (New Statesman)",
