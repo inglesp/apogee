@@ -23,6 +23,7 @@
             <thead>
                 <tr>
                     <th class="text-center">Model</th>
+                    <th class="text-center">MRP?</th>
                     <th class="text-center">Score (lower is better)</th>
                 </tr>
             </thead>
@@ -30,6 +31,7 @@
                 {% for row in rows %}
                 <tr>
                     <td class="text-center">{{ row['model'] }}</td>
+		    <td class="text-center">{% if row['is_mrp'] %}yes{% else %}no{% endif %}</td>
                     <td class="text-center">{{ row['score']|round(2) }}</td>
                 </tr>
                 {% endfor %}
@@ -38,5 +40,4 @@
     </div>
 </div>
 
-<p>Last updated {{ now }}.</p>
 {% endblock %}

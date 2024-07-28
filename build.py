@@ -115,6 +115,8 @@ model_map = {
 }
 models = sorted(model_map)
 
+prediction_models = [m for m in models if m not in ["2019", "2024"]]
+
 
 class TruncateFloatEncoder(json.JSONEncoder):
     def encode(self, obj):
@@ -131,18 +133,19 @@ class TruncateFloatEncoder(json.JSONEncoder):
 
 def main():
     build_predictions()
-    build_predictions_all()
-    build_recommendations()
+    # build_predictions_all()
+    # build_recommendations()
 
 
-def calculate_rmse(df1, df2):
-    return (((df1.unstack() - df2.unstack()) ** 2).mean()) ** 0.5
+def calculate_rmse(s1, s2):
+    s1["oth"] = 100 - s1.sum() + s1["oth"]
+    s2["oth"] = 100 - s2.sum() + s2["oth"]
+    return (((s1 - s2) ** 2).mean()) ** 0.5
 
 
 def build_predictions():
     data = None
     results = None
-    scores = {}
 
     for model in models:
         path = sorted(Path(f"data/processed/{model}").glob("*/data.csv"))[-1]
@@ -162,7 +165,6 @@ def build_predictions():
 
         assert results is not None
         predictions = model_data.set_index("code").loc[results.index][parties]
-        scores[model] = calculate_rmse(results, predictions)
 
     data = data.drop("name", axis=1)
     data = data[["code", "model", *parties]]
@@ -207,21 +209,26 @@ def build_predictions():
 
     data["margin"] = data.apply(get_margin, axis=1)
 
-    corr_coeff = {}
+    def get_error(data, row):
+        results = data[
+            (data["model"] == "2024") & (data["code"] == row["code"])
+        ].stack()
+        results.index = results.index.droplevel(0)
+        return calculate_rmse(row[parties], results[parties])
+
+    data["error"] = data.apply(lambda row: get_error(data, row), axis=1)
+
+    avg_error = {}
     for c in codes:
-        df = data[(data["code"] == c) & (data["model"] != "2019")]
-        corr_coeff[c] = (
-            (
-                df[["model", *parties]]
-                .set_index("model")
-                .transpose()
-                .corr()
-                .sum()
-                .sum()
-                - (len(models) - 1)
-            )
-            / (len(models) - 1)
-            / (len(models) - 2)
+        df = data[(data["code"] == c) & ~data["model"].isin(["2019", "2024"])]
+        avg_error[c] = df["error"].mean()
+
+    num_correct = {}
+    for c in codes:
+        df = data[data["code"] == c].set_index("model")
+        winner = df.loc["2024"]["winner"]
+        num_correct[c] = len(
+            [m for m in prediction_models if df.loc[m]["winner"] == winner]
         )
 
     data = data.pivot(index="code", columns="model")
@@ -311,14 +318,16 @@ def build_predictions():
         "code_to_name": code_to_name,
         "codes": codes,
         "predictions": predictions,
-        "corr_coeff": corr_coeff,
+        "avg_error": avg_error,
+        "num_correct": num_correct,
         "summary": summary_rows_1,
         "json_data": {
             "parties": json.dumps(parties),
             "models": json.dumps(models),
             "code_to_name": json.dumps(code_to_name),
             "predictions": json.dumps(predictions, cls=TruncateFloatEncoder),
-            "corr_coeff": json.dumps(corr_coeff),
+            "avg_error": json.dumps(avg_error),
+            "num_correct": json.dumps(num_correct),
         },
     }
     with open("outputs/index.html", "w") as f:
@@ -332,18 +341,6 @@ def build_predictions():
         "summary": summary_rows_2,
     }
     with open("outputs/breakdown/index.html", "w") as f:
-        f.write(tpl.render(ctx))
-
-    tpl = env.get_template("templates/leaderboard.html")
-    rows = [
-        {"model": model_map[m]["title"], "score": scores[m]}
-        for m in models
-        if m not in ["2019", "2024"]
-    ]
-    rows.sort(key=lambda r: r["score"])
-    ctx = {"now": now, "rows": rows}
-
-    with open("outputs/leaderboard/index.html", "w") as f:
         f.write(tpl.render(ctx))
 
     shutil.copyfile("templates/index.js", "outputs/index.js")
@@ -387,6 +384,37 @@ def build_predictions():
         dirpath = Path(f"outputs/constituencies/{code}")
         dirpath.mkdir(parents=True, exist_ok=True)
         (dirpath / "index.html").write_text(tpl.render(ctx))
+
+    tpl = env.get_template("templates/forecast.html")
+    for m in models:
+        matrix = Counter(data["winner"][[m, "2024"]].itertuples(index=False))
+        num_correct = sum(matrix[p, p] for p in parties)
+        model_predictions = Counter(data["winner"][m])
+        results = Counter(data["winner"]["2024"])
+        for p in parties:
+            matrix[(p, "total")] = model_predictions[p]
+            matrix[("total", p)] = results[p]
+        ctx = {
+            "m": m,
+            "model": model_map[m],
+            "parties": parties,
+            "num_correct": num_correct,
+            "matrix": matrix,
+            "code_to_name": code_to_name,
+            "codes": codes,
+            "predictions": predictions,
+            "json_data": {
+                "parties": json.dumps(parties),
+                "code_to_name": json.dumps(code_to_name),
+                "predictions": json.dumps(predictions, cls=TruncateFloatEncoder),
+                "error": json.dumps(predictions, cls=TruncateFloatEncoder),
+            },
+        }
+        dirpath = Path("outputs/forecasts") / m
+        dirpath.mkdir(parents=True, exist_ok=True)
+        (dirpath / "index.html").write_text(tpl.render(ctx))
+
+    # shutil.copyfile("templates/forecast.js", "outputs/forecast.js")
 
 
 def build_predictions_all():

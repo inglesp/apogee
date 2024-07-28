@@ -298,9 +298,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
 			if (heading == 'constituency') {
 				v1 = codeToName[code1];
 				v2 = codeToName[code2];
-			} else if (heading == 'corr-coeff') {
-				v1 = corrCoeff[code1];
-				v2 = corrCoeff[code2];
+			} else if (heading == 'avg-error') {
+				v1 = avgError[code1];
+				v2 = avgError[code2];
+			} else if (heading == 'num-correct') {
+				v1 = numCorrect[code1];
+				v2 = numCorrect[code2];
 			} else {
 				v1 = predictions[key][heading][code1];
 				v2 = predictions[key][heading][code2];

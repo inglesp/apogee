@@ -1,0 +1,173 @@
+{% extends "templates/base.html" %}
+
+{% block title %}Aggregating Predictions for the General Election{% endblock %}
+
+{% block extracss %}
+<style>
+.btn {
+  padding: 0.25rem 0.5rem;
+}
+#matrix th {
+  text-align: center;
+  vertical-align: middle;
+}
+#matrix td {
+  text-align: center;
+  cursor: pointer;
+}
+table#constituencies th:nth-child(n+3),
+table#constituencies td:nth-child(n+3) {
+    width: 4rem;
+}
+table th[data-sort-key] {
+    cursor: pointer;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<h1 class="my-3">Evaluating Predictions for the General Election: {{ model['full_title'] }}</h1>
+
+<p class="lead">{{ model['full_title'] }} correctly predicted the winner in {{ num_correct }} out of 631 seats.</p>
+
+<p>This table shows the number of seats that were predicted to be won by one party that were actually won by another party.</p>
+<p>For instance, {{ matrix[('lab', 'con')] }} were predicted to be won by Labour but were actually won by the Conservatives, and {{ matrix[('con', 'lab')] }} were predicted to be won by the Conservatives but were actually won by Labour.</p>
+
+<div id="matrix" class="justify-content-center">
+    <div class="col-4">
+        <table class="table table-bordered">
+            <tr>
+                <th></th>
+                <th colspan="10">actual</th>
+            </tr>
+            <tr>
+                <th rowspan="10">predicted</th>
+                <th></th>
+                {% for p1 in parties %}
+                <th class="party-{{ p1 }}">{{ p1 }}</th>
+                {% endfor %}
+                <th>total</th>
+            </tr>
+            {% for p2 in parties %}
+            <tr>
+                <th class="party-{{ p2 }}">{{ p2 }}</th>
+                {% for p1 in parties %}
+		<td data-predicted="{{ p2 }}" data-result="{{ p1 }}">{{ matrix[(p2, p1)] }}</td>
+                {% endfor %}
+                <td data-predicted="{{ p2 }}">{{ matrix[(p2, 'total')] }}</td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <th>total</th>
+                {% for p1 in parties %}
+                <td data-result="{{ p1 }}">{{ matrix[('total', p1)] }}</td>
+                {% endfor %}
+                <td></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<p>Click on a cell in the table to filter the constituencies below.</p>
+
+<h2 class="mt-5">Constituencies</h2>
+
+<div class="row mb-3">
+    <div class="col-12 col-lg-4">
+        <div>Filter by prediction</div>
+
+        <div class="btn-group" role="group">
+        {% for party in parties %}
+            <input type="checkbox" class="btn-check filter-prediction" id="filter-prediction-{{ party }}">
+            <label class="btn btn-outline-secondary" for="filter-prediction-{{ party }}">{{ party }}</label>
+        {% endfor %}
+        </div>
+    </div>
+
+    <div class="col-12 col-lg-4">
+        <div>Filter by result</div>
+
+        <div class="btn-group" role="group">
+        {% for party in parties %}
+            <input type="checkbox" class="btn-check filter-result" id="filter-result-{{ party }}">
+            <label class="btn btn-outline-secondary" for="filter-result-{{ party }}">{{ party }}</label>
+        {% endfor %}
+        </div>
+    </div>
+
+    <div class="col-12 col-lg-4">
+        <div>Show</div>
+
+        <div class="btn-group" role="group">
+            <input type="radio" class="btn-check" name="show" id="show-all" value="all" checked>
+            <label class="btn btn-outline-secondary" for="show-all">all</label>
+
+            <input type="radio" class="btn-check" name="show" id="show-hits" value="hits">
+            <label class="btn btn-outline-secondary" for="show-hits">hits</label>
+
+            <input type="radio" class="btn-check" name="show" id="show-misses" value="misses">
+            <label class="btn btn-outline-secondary" for="show-misses">misses</label>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col">
+        <input class="form-control" id="filter-search" placeholder="Search">
+    </div>
+</div>
+
+<p id="rubric" class="mb-2">Showing <span id="count">all constituencies</span></p>
+
+<table id="constituencies" class="table table-sm">
+    <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th rowspan="2" data-sort-key="name" class="text-center">Constituency</th>
+            <th colspan="2" class="text-center">Winner</th>
+            {% for p in parties %}
+            <th colspan="2" class="text-center party-{{ p }}">{{ p }}</th>
+            {% endfor %}
+	    <th rowspan="2" data-sort-key="error" data-sort-model="{{ m }}" class="text-center">error</th>
+        </tr>
+        <tr>
+            <th data-sort-key="winner" data-sort-model="{{ m }}" class="text-center">pred.</th>
+            <th data-sort-key="winner" data-sort-model="2024" class="text-center">actual</th>
+            {% for p in parties %}
+	    <th data-sort-key="vote-share-{{ p }}" data-sort-model="{{ m }}" class="text-center party-{{ p }}">pred.</th>
+            <th data-sort-key="vote-share-{{ p }}" data-sort-model="2024" class="text-center party-{{ p }}">actual</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for code in codes %}
+        <tr data-constituency="{{ code }}">
+            <td>{{ code }}</td>
+            <td><a href="../../constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
+            <td class="text-center party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
+            <td class="text-center party-{{ predictions['winner']['2024'][code] }}">{{ predictions['winner']['2024'][code] }}</td>
+            {% for p in parties %}
+            {% if (p == 'pc' and code[0] != 'W') or (p == 'snp' and code[0] != 'S') %}
+            <td></td>
+            <td></td>
+            {% else %}
+            <td class="text-center">{% if predictions['vote-share-' + p][m][code] == '?' %}?{% else %}{{ predictions['vote-share-' + p][m][code]|round(1) }}%{% endif %}</td>
+            <td class="text-center">{{ predictions['vote-share-' + p]['2024'][code]|round(1) }}%</td>
+            {% endif %}
+            {% endfor %}
+            <td class="text-center">{% if predictions['error'][m][code] == '?' %}?{% else %}{{ predictions['error'][m][code]|round(2) }}{% endif %}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+
+{% block extrajs %}
+<script>
+const model = '{{ m }}';
+const parties = {{ json_data["parties"] }};
+const codeToName = {{ json_data["code_to_name"] }};
+const predictions = {{ json_data["predictions"] }};
+</script>
+<script src="../../forecast.js"></script>
+{% endblock %}

@@ -46,10 +46,6 @@ table#constituencies th:nth-child(n+2) {
         compare tactical voting recommendations <a href="tactical-voting">here</a>.
 </p>
 
-<p>
-        Last updated {{ now }}.
-</p>
-
 <h2>Summary</h2>
 
 <table id="summary" class="table table-sm">
@@ -213,7 +209,8 @@ table#constituencies th:nth-child(n+2) {
             {% for m in models %}
             <th class="text-center" data-heading="{{ m }}">{{ model_map[m]['title'] }}</th>
             {% endfor %}
-            <th class="text-center" data-heading="corr-coeff">Agreement</th>
+            <th class="text-center" data-heading="avg-error">Average error</th>
+            <th class="text-center" data-heading="num-correct">Predictions correct</th>
         </tr>
     </thead>
     <tbody>
@@ -224,7 +221,8 @@ table#constituencies th:nth-child(n+2) {
             {% for m in models %}
             <td class="text-center {% if loop.index0 < 2 %}border-end {% endif %}party-{{ predictions['winner'][m][code] }} margin-{{ predictions["margin"][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             {% endfor %}
-            <td class="text-center">{{ corr_coeff[code].round(2) }}</td>
+            <td class="text-center">{{ avg_error[code].round(2) }}</td>
+            <td class="text-center">{{ num_correct[code] }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -237,7 +235,8 @@ const models = {{ json_data["models"] }};
 const parties = {{ json_data["parties"] }};
 const codeToName = {{ json_data["code_to_name"] }};
 const predictions = {{ json_data["predictions"] }};
-const corrCoeff = {{ json_data["corr_coeff"] }};
+const avgError = {{ json_data["avg_error"] }};
+const numCorrect = {{ json_data["num_correct"] }};
 </script>
 <script src="index.js"></script>
 {% endblock %}
