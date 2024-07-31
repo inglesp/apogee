@@ -36,12 +36,6 @@ party_map = {
     "SNP": "snp",
 }
 
-probability_map = {
-    "Lean": 60,
-    "Likely": 80,
-    "Safe": 100,
-}
-
 
 def parse(path):
     with open(path) as f:
@@ -55,19 +49,20 @@ def parse(path):
     rows.sort(key=lambda r: r["code"])
 
     with open("data/processed/samfr/2024-07-04/data.csv", "w") as f:
-        writer = csv.DictWriter(f, ["code", "name", "party", "probability"])
+        writer = csv.DictWriter(f, ["code", "name", "party"])
         writer.writeheader()
         writer.writerows(rows)
 
 
 def parse_one(r):
     name = r["Constituency"]
+    code = normalised_name_to_code.get(normalise(name), special_cases.get(name))
+    assert code is not None
     probability, party = r["Prediction"].split(" ", 1)
     return {
         "name": name,
-        "code": normalised_name_to_code.get(normalise(name), special_cases.get(name)),
+        "code": code,
         "party": party_map[party],
-        "probability": probability_map[probability],
     }
 
 

@@ -1,38 +1,91 @@
 {% extends "templates/base.html" %}
 
-{% block title %}Aggregating Predictions for the General Election{% endblock %}
+{% block title %}Evaluating Predictions for the General Election{% endblock %}
 
 {% block content %}
-<h1 class="my-3">2024 Leaderboard</h1>
+<h1 class="my-3">Evaluating Predictions for the General Election: 2024 Leaderboard</h1>
 
 <p><a href="..">Back to homepage</a></p>
 
-<div class="alert alert-danger" role="alert">
-    I do not hold a licence to practice statistics without supervision, so please do not take this page too seriously!
-</div>
+<p>Using the data we've got, there are several ways we can evaluate the performance of a forecast:</p>
 
-<p>This page attempts to evaluate each model's forecast, by calculating the <a href="https://en.wikipedia.org/wiki/Root_mean_square_deviation">root mean square error</a> between each forecast's prediction of each party's share of the vote in each seat, and the results, as they come in.</p>
+<ul>
+    <li>How closely did it predict the overall result?</li>
+    <li>How many seats did it predict correctly?</li>
+    <li>How accurately did it predict vote shares across all parties across all seats?</li>
+</ul>
 
-<p>I think this is a better measure of accuracy than simply counting the number of seats that were called correctly, because it should reward the models that best represent reality.<p>
+<p>Why does this matter?  Forecasting sets narratives; and people made decisions based on these forecasts.</p>
 
-<p>Health warning: this may not be the best way of evaluating a forecast!  Please <a href="mailto:peter.inglesby@gmail.com">let me know </a> if you think I've made a mistake.</p>
+<p>Find all the code for this analysis in <a href="https://github.com/inglesp/apogee/blob/main/build_leaderboard.py">build_leaderboard.py</a>.</p>
 
-<div class="row justify-content-center">
-    <div class="col-12 col-lg-4">
+<div class="row">
+    <div class="col-12 col-lg-4 mt-3">
+        <h2>Seat totals</h2>
+        <div style="height: 8rem">
+            <p>How closely did each forecast predict the overall distribution of seats?</p>
+            <p>The score is the root mean squared error of the number of seats predicted for each party.</p>
+        </div>
         <table class="table">
             <thead>
                 <tr>
-                    <th class="text-center">Model</th>
-                    <th class="text-center">MRP?</th>
-                    <th class="text-center">Score (lower is better)</th>
+                    <th>Model</th>
+                    <th class="text-center">Score</th>
                 </tr>
             </thead>
             <tbody>
-                {% for row in rows %}
+                {% for row in by_seat_totals %}
                 <tr>
-                    <td class="text-center">{{ row['model'] }}</td>
-		    <td class="text-center">{% if row['is_mrp'] %}yes{% else %}no{% endif %}</td>
-                    <td class="text-center">{{ row['score']|round(2) }}</td>
+                    <td><a href="../forecasts/{{ row['model'] }}/">{{ row['title'] }}</a></td>
+                    <td class="text-center">{{ row['score']|round(1) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-12 col-lg-4 mt-3">
+        <h2>Correct seat calls</h2>
+        <div style="height: 8rem">
+            <p>How many seats did each forecast predict correctly?</p>
+            <p>The score is the percentage of seats that were called correctly.</p>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th class="text-center">Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in by_correct_seat_calls %}
+                <tr>
+                    <td><a href="../forecasts/{{ row['model'] }}/">{{ row['title'] }}</a></td>
+		    <td class="text-center">{{ row['score'] }} ({{ (100 * row['score'] / 631)|round(1) }}%)</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-12 col-lg-4 mt-3">
+        <h2>Vote share error</h2>
+        <div style="height: 8rem">
+            <p>How accurately did each forecast predict vote shares across all parties across all seats?</p>
+            <p>The score is root mean squared error of the vote shares across all parties across all seats.</p>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th class="text-center">Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in by_vote_share_error %}
+                <tr>
+                    <td><a href="../forecasts/{{ row['model'] }}/">{{ row['title'] }}</a></td>
+                    <td class="text-center">{{ row['score']|round(1) }}</td>
                 </tr>
                 {% endfor %}
             </tbody>

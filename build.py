@@ -112,10 +112,24 @@ model_map = {
         "title": "YouGov",
         "url": "https://yougov.co.uk/politics/articles/49950-final-yougov-mrp-shows-labour-on-course-for-historic-election-victory",
     },
+    "samfr": {
+        "title": "@samfr",
+        "url": "https://samf.substack.com/p/all-650-seat-previews-in-one-place",
+    },
+    "exitpoll": {
+        "title": "Exit Poll",
+        "url": "https://static.files.bbci.co.uk/elections/data/news/election/2024/uk/exitPollProbabilities",
+    },
+    "manifold": {
+        "title": "Manifold",
+        "url": "https://manifold-uk-election-2024.netlify.app/",
+    },
 }
 models = sorted(model_map)
 
-prediction_models = [m for m in models if m not in ["2019", "2024"]]
+extra_forecasts = ["samfr", "exitpoll", "manifold"]
+prediction_models = [m for m in models if m not in ["2019", "2024", *extra_forecasts]]
+homepage_models = [m for m in models if m not in extra_forecasts]
 
 
 class TruncateFloatEncoder(json.JSONEncoder):
@@ -133,8 +147,8 @@ class TruncateFloatEncoder(json.JSONEncoder):
 
 def main():
     build_predictions()
-    # build_predictions_all()
-    # build_recommendations()
+    build_predictions_all()
+    build_recommendations()
 
 
 def calculate_rmse(s1, s2):
@@ -147,7 +161,7 @@ def build_predictions():
     data = None
     results = None
 
-    for model in models:
+    for model in homepage_models:
         path = sorted(Path(f"data/processed/{model}").glob("*/data.csv"))[-1]
         model_map[model]["date"] = datetime.strptime(path.parts[-2], "%Y-%m-%d")
         model_data = pd.read_csv(path)
@@ -164,7 +178,6 @@ def build_predictions():
             continue
 
         assert results is not None
-        predictions = model_data.set_index("code").loc[results.index][parties]
 
     data = data.drop("name", axis=1)
     data = data[["code", "model", *parties]]
@@ -220,7 +233,7 @@ def build_predictions():
 
     avg_error = {}
     for c in codes:
-        df = data[(data["code"] == c) & ~data["model"].isin(["2019", "2024"])]
+        df = data[(data["code"] == c) & data["model"].isin(prediction_models)]
         avg_error[c] = df["error"].mean()
 
     num_correct = {}
@@ -235,7 +248,8 @@ def build_predictions():
 
     predictions = {
         key: {
-            model: {code: data[key][model][code] for code in codes} for model in models
+            model: {code: data[key][model][code] for code in codes}
+            for model in homepage_models
         }
         for key in data.columns.levels[0]
     }
@@ -251,9 +265,26 @@ def build_predictions():
                         continue
                     predictions[key][model][code] = "?"
 
-    predictions["vote-share-winner"] = {model: {} for model in models}
-    predictions["majority-winner"] = {model: {} for model in models}
-    for model in models:
+    df = pd.read_csv("data/processed/samfr/2024-07-04/data.csv").set_index("code")
+    data[("winner", "samfr")] = df["party"]
+    predictions["winner"]["samfr"] = dict(data["winner"]["samfr"])
+
+    df = pd.read_csv("data/processed/exitpoll/2024-07-04/data.csv").set_index("code")
+    winner = df[parties].idxmax(axis=1)
+    winner[df[parties].eq(df[parties].max(axis=1), axis=0).sum(axis=1) > 1] = "tie"
+    data[("winner", "exitpoll")] = winner
+    predictions["winner"]["exitpoll"] = dict(data["winner"]["exitpoll"])
+
+    df = pd.read_csv("data/processed/manifold/2024-07-04/data.csv").set_index("code")
+    winner = df[parties].idxmax(axis=1)
+    winner[df[parties].eq(df[parties].max(axis=1), axis=0).sum(axis=1) > 1] = "tie"
+    predictions["winner"]["manifold"] = winner
+    data[("winner", "manifold")] = winner
+    predictions["winner"]["manifold"] = dict(data["winner"]["manifold"])
+
+    predictions["vote-share-winner"] = {model: {} for model in homepage_models}
+    predictions["majority-winner"] = {model: {} for model in homepage_models}
+    for model in homepage_models:
         for code in codes:
             winner = predictions["winner"][model][code]
             if winner == "tie":
@@ -274,7 +305,7 @@ def build_predictions():
 
     summary_cols_1 = {
         model: Counter(f"{predictions['winner'][model][code]}" for code in codes)
-        for model in models
+        for model in homepage_models
     }
 
     summary_cols_2 = {
@@ -282,13 +313,15 @@ def build_predictions():
             f"{predictions['winner'][model][code]}-{predictions['margin'][model][code]}"
             for code in codes
         )
-        for model in models
+        for model in homepage_models
     }
 
     summary_rows_1 = [
         {
             "party": party,
-            "predictions": {model: summary_cols_1[model][party] for model in models},
+            "predictions": {
+                model: summary_cols_1[model][party] for model in homepage_models
+            },
         }
         for party in ordered_parties
     ]
@@ -298,7 +331,8 @@ def build_predictions():
             "party": party,
             "margin": margin,
             "predictions": {
-                model: summary_cols_2[model][f"{party}-{margin}"] for model in models
+                model: summary_cols_2[model][f"{party}-{margin}"]
+                for model in homepage_models
             },
         }
         for party in ordered_parties
@@ -312,7 +346,7 @@ def build_predictions():
     tpl = env.get_template("templates/index.html")
     ctx = {
         "now": now,
-        "models": models,
+        "models": homepage_models,
         "model_map": model_map,
         "parties": parties,
         "code_to_name": code_to_name,
@@ -323,7 +357,7 @@ def build_predictions():
         "summary": summary_rows_1,
         "json_data": {
             "parties": json.dumps(parties),
-            "models": json.dumps(models),
+            "models": json.dumps(homepage_models),
             "code_to_name": json.dumps(code_to_name),
             "predictions": json.dumps(predictions, cls=TruncateFloatEncoder),
             "avg_error": json.dumps(avg_error),
@@ -336,7 +370,7 @@ def build_predictions():
     tpl = env.get_template("templates/breakdown.html")
     ctx = {
         "now": now,
-        "models": models,
+        "models": homepage_models,
         "model_map": model_map,
         "summary": summary_rows_2,
     }
@@ -355,7 +389,7 @@ def build_predictions():
                 }
                 for party in parties
             ]
-            for model in models
+            for model in homepage_models
         ]
         for col in cols:
             shares = [item["share"] for item in col]
@@ -377,7 +411,7 @@ def build_predictions():
             "now": now,
             "name": code_to_name[code],
             "demo_club_code": code_to_demo_club_code[code],
-            "models": models,
+            "models": homepage_models,
             "model_map": model_map,
             "rows": rows,
         }
@@ -391,15 +425,23 @@ def build_predictions():
         num_correct = sum(matrix[p, p] for p in parties)
         model_predictions = Counter(data["winner"][m])
         results = Counter(data["winner"]["2024"])
+        deltas = {}
+        misses = {}
         for p in parties:
             matrix[(p, "total")] = model_predictions[p]
             matrix[("total", p)] = results[p]
+            deltas[p] = matrix[(p, "total")] - matrix[("total"), p]
+            misses[p] = sum(matrix[(p0, p)] for p0 in parties if p != p0)
+
         ctx = {
             "m": m,
             "model": model_map[m],
+            "all_columns": m not in extra_forecasts,
             "parties": parties,
             "num_correct": num_correct,
             "matrix": matrix,
+            "deltas": deltas,
+            "misses": misses,
             "code_to_name": code_to_name,
             "codes": codes,
             "predictions": predictions,
@@ -414,7 +456,7 @@ def build_predictions():
         dirpath.mkdir(parents=True, exist_ok=True)
         (dirpath / "index.html").write_text(tpl.render(ctx))
 
-    # shutil.copyfile("templates/forecast.js", "outputs/forecast.js")
+    shutil.copyfile("templates/forecast.js", "outputs/forecast.js")
 
 
 def build_predictions_all():

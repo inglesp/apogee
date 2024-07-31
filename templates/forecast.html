@@ -1,6 +1,6 @@
 {% extends "templates/base.html" %}
 
-{% block title %}Aggregating Predictions for the General Election{% endblock %}
+{% block title %}Evaluating Predictions for the General Election{% endblock %}
 
 {% block extracss %}
 <style>
@@ -26,12 +26,23 @@ table th[data-sort-key] {
 {% endblock %}
 
 {% block content %}
-<h1 class="my-3">Evaluating Predictions for the General Election: {{ model['full_title'] }}</h1>
+<h1 class="my-3">Evaluating Predictions for the General Election: {{ model['full_title'] or model['title'] }}</h1>
 
-<p class="lead">{{ model['full_title'] }} correctly predicted the winner in {{ num_correct }} out of 631 seats.</p>
+<p>
+<a href="../..">Back to homepage</a>
+|
+<a href="../../leaderboard/">Compare all forecasts</a>
+|
+<a href="{{ model['url'] }}" target="_blank">Read more about the forecast</a>
+</p>
+
+<p class="lead">{{ model['full_title'] or model['title'] }} correctly predicted the winner in {{ num_correct }} out of 631 seats.</p>
 
 <p>This table shows the number of seats that were predicted to be won by one party that were actually won by another party.</p>
+
 <p>For instance, {{ matrix[('lab', 'con')] }} were predicted to be won by Labour but were actually won by the Conservatives, and {{ matrix[('con', 'lab')] }} were predicted to be won by the Conservatives but were actually won by Labour.</p>
+
+<p><i>deltas</i> shows the difference between the predicted and actual number of seats for a party; <i>misses</i> shows the number of seats that a party won that were missed by the prediction.</p>
 
 <div id="matrix" class="justify-content-center">
     <div class="col-4">
@@ -61,6 +72,20 @@ table th[data-sort-key] {
                 <th>total</th>
                 {% for p1 in parties %}
                 <td data-result="{{ p1 }}">{{ matrix[('total', p1)] }}</td>
+                {% endfor %}
+                <td></td>
+            </tr>
+            <tr>
+                <th colspan="2">deltas</th>
+                {% for p1 in parties %}
+                <td>{{ deltas[p1] }}</td>
+                {% endfor %}
+                <td></td>
+            </tr>
+            <tr>
+                <th colspan="2">misses</th>
+                {% for p1 in parties %}
+                <td>{{ misses[p1] }}</td>
                 {% endfor %}
                 <td></td>
             </tr>
@@ -117,6 +142,7 @@ table th[data-sort-key] {
     </div>
 </div>
 
+<div{% if not all_columns %} class="col-4"{% endif %}>
 <p id="rubric" class="mb-2">Showing <span id="count">all constituencies</span></p>
 
 <table id="constituencies" class="table table-sm">
@@ -125,18 +151,22 @@ table th[data-sort-key] {
             <th rowspan="2"></th>
             <th rowspan="2" data-sort-key="name" class="text-center">Constituency</th>
             <th colspan="2" class="text-center">Winner</th>
+	    {% if all_columns %}
             {% for p in parties %}
             <th colspan="2" class="text-center party-{{ p }}">{{ p }}</th>
             {% endfor %}
 	    <th rowspan="2" data-sort-key="error" data-sort-model="{{ m }}" class="text-center">error</th>
+	    {% endif %}
         </tr>
         <tr>
             <th data-sort-key="winner" data-sort-model="{{ m }}" class="text-center">pred.</th>
             <th data-sort-key="winner" data-sort-model="2024" class="text-center">actual</th>
+	    {% if all_columns %}
             {% for p in parties %}
 	    <th data-sort-key="vote-share-{{ p }}" data-sort-model="{{ m }}" class="text-center party-{{ p }}">pred.</th>
             <th data-sort-key="vote-share-{{ p }}" data-sort-model="2024" class="text-center party-{{ p }}">actual</th>
             {% endfor %}
+	    {% endif %}
         </tr>
     </thead>
     <tbody>
@@ -146,6 +176,7 @@ table th[data-sort-key] {
             <td><a href="../../constituencies/{{ code }}">{{ code_to_name[code] }}</a></td>
             <td class="text-center party-{{ predictions['winner'][m][code] }}">{{ predictions['winner'][m][code] }}</td>
             <td class="text-center party-{{ predictions['winner']['2024'][code] }}">{{ predictions['winner']['2024'][code] }}</td>
+	    {% if all_columns %}
             {% for p in parties %}
             {% if (p == 'pc' and code[0] != 'W') or (p == 'snp' and code[0] != 'S') %}
             <td></td>
@@ -156,10 +187,12 @@ table th[data-sort-key] {
             {% endif %}
             {% endfor %}
             <td class="text-center">{% if predictions['error'][m][code] == '?' %}?{% else %}{{ predictions['error'][m][code]|round(2) }}{% endif %}</td>
+	    {% endif %}
         </tr>
         {% endfor %}
     </tbody>
 </table>
+</div>
 {% endblock %}
 
 {% block extrajs %}
