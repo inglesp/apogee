@@ -113,7 +113,7 @@ model_map = {
         "url": "https://yougov.co.uk/politics/articles/49950-final-yougov-mrp-shows-labour-on-course-for-historic-election-victory",
     },
     "samfr": {
-        "title": "@samfr",
+        "title": "Sam Freedman",
         "url": "https://samf.substack.com/p/all-650-seat-previews-in-one-place",
     },
     "exitpoll": {
