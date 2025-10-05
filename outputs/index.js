@@ -95,9 +95,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
                         key = `${show}-${party}`
                         document.getElementById('show-parties').classList.remove('d-none');
                         if (show == 'vote-share') {
-                               rubric.querySelector('#show').textContent = `${party} vote share`;
+                               rubric.querySelector('#show').textContent = `${party} vote share for`;
                         } else {
-                                rubric.querySelector('#show').textContent = `${party} majority`;
+                                rubric.querySelector('#show').textContent = `${party} majority for`;
                         }
                 }
 
